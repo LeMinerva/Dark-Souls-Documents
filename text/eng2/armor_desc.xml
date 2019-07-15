@@ -1,0 +1,3320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text id="21010100">Although it appears to be a common helmet,
+it has in fact been meticulously customized.
+Belonged to mild-mannered Pate.
+
+This has been considerably altered.
+Perhaps it was pillaged.</text>
+<text id="21010101">Although it appears to be common armor,
+it has in fact been meticulously customized.
+Belonged to mild-mannered Pate.
+
+This has been considerably altered.
+Perhaps it was pillaged.</text>
+<text id="21010102">Although they appear to be common gloves,
+they have in fact been meticulously customized.
+Belonged to mild-mannered Pate.
+
+They have been considerably altered.
+Perhaps they were pillaged.</text>
+<text id="21010103">Although they appear to be common trousers,
+they have in fact been meticulously customized.
+Belonged to mild-mannered Pate.
+
+They have been considerably altered.
+Perhaps they were pillaged.</text>
+<text id="21020100">A full face mask.
+
+Called a thief mask since most people
+wearing them are up to no good.
+Not terribly effective as armor.</text>
+<text id="21020101">Armor dyed black.
+
+Allows the wearer to blend in with the dark.
+Often used by those with ill-intent.
+Meticulously crafted, and provides fair defense.</text>
+<text id="21020102">Leather gloves dyed black.
+
+Allows the wearer to blend in with the dark.
+Often used by those with ill-intent.
+Meticulously crafted, and provide fair defense.</text>
+<text id="21020103">Leather boots dyed black.
+
+Allows the wearer to blend in with the dark.
+Often used by those with ill-intent.
+Meticulously crafted, and provide fair defense.</text>
+<text id="21030100">A hood for the roving type.
+Light, sturdy leather made for long journeys.</text>
+<text id="21030101">A coat for the roving type.
+Light, sturdy leather made for long journeys.</text>
+<text id="21030102">Manchettes for the roving type.
+Light, sturdy leather made for long journeys.</text>
+<text id="21030103">Boots for the roving type.
+Light, sturdy leather made for long journeys.</text>
+<text id="21040100">A leather hat with a large brim.
+Traditionally used by bow hunters.
+
+The hunting goddess Evlana was no goddess
+at all, but rather a brave and highly skilled
+bow huntress. Long after her demise,
+the passing of lore transformed her into a deity.</text>
+<text id="21040101">Armor made from soft leather.
+A commonplace piece of equipment.
+
+Few embellishments.
+Lightweight and easy to use.</text>
+<text id="21040102">Gloves made from soft leather.
+A commonplace piece of equipment.
+
+Few embellishments.
+Lightweight and easy to use.</text>
+<text id="21040103">Boots made from soft leather.
+A commonplace piece of equipment.
+
+Few embellishments.
+Lightweight and easy to use.</text>
+<text id="21041100">A commonplace leather hat with a feather.
+Traditionally used by bow hunters.
+
+The wildfowl Coco was ever-loyal to
+the goddess Evlana, and hunters place its
+feathers in their caps in hopes of receiving
+the divine protection of the famed bird.</text>
+<text id="21050100">Metal helmet worn by knights.
+Standard issue for new Drangleic knights.
+
+Knights have long trusted this helmet
+for its excellent functionality.</text>
+<text id="21050101">Metal armor worn by knights.
+Standard issue for new Drangleic knights.
+
+Knights have long trusted this armor
+for its excellent functionality.</text>
+<text id="21050102">Metal gauntlets worn by knights.
+Standard issue for new Drangleic knights.
+
+Knights have long trusted these gauntlets
+for their excellent functionality.</text>
+<text id="21050103">Metal leggings worn by knights.
+Standard issue for new Drangleic knights.
+
+Knights have long trusted these leggings
+for their excellent functionality.</text>
+<text id="21060100">Helmet made of bradden steel.
+Provides sturdy defense, making it an
+old-time favorite of elite knights.
+
+Bradden steel is used widely in Drangleic.
+This fine alloy is made from ores mined
+in the southern kingdom.</text>
+<text id="21060101">Armor made of bradden steel.
+Provides sturdy defense, making it an
+old-time favorite of elite knights.
+
+Bradden steel is used widely in Drangleic.
+This fine alloy is made from ores mined
+in the southern kingdom.</text>
+<text id="21060102">Gloves reinforced with bradden steel.
+They provide sturdy defense, making them
+an old-time favorite of elite knights.
+
+Bradden steel is used widely in Drangleic.
+This fine alloy is made from ores mined
+in the southern kingdom.</text>
+<text id="21060103">Leggings made of bradden steel.
+They provide sturdy defense, making them
+an old-time favorite of elite knights.
+
+Bradden steel is used widely in Drangleic.
+This fine alloy is made from ores mined
+in the southern kingdom.</text>
+<text id="21070100">Hood favored by pyromancers.
+It appears tattered but in fact its fabric
+is reinforced with pyromancy.
+
+Magic is no show. It is an art
+that allows mere mortals to glimpse
+into the very fabric of what is and may be.</text>
+<text id="21070101">Robe favored by pyromancers.
+It appears tattered but in fact its fabric
+is reinforced with pyromancy.
+
+Magic is no show. It is an art
+that allows mere mortals to glimpse
+into the very fabric of what is and may be.</text>
+<text id="21070102">Gloves favored by pyromancers.
+They appear tattered but in fact the fabric
+is reinforced with pyromancy.
+
+Magic is no show. It is an art
+that allows mere mortals to glimpse
+into the very fabric of what is and may be.</text>
+<text id="21070103">Boots favored by pyromancers.
+They appear tattered but in fact the fabric
+is reinforced with pyromancy.
+
+Magic is no show. It is an art
+that allows mere mortals to glimpse
+into the very fabric of what is and may be.</text>
+<text id="21080100">Hood worn by looting brigands.
+
+Mountains surround Drangleic on three sides.
+Most travelers who try to cross them end up
+hapless prey to the countless brigands
+lurking there.</text>
+<text id="21080101">Armor donned by looting brigands.
+
+This armor may appear shoddy,
+but is in fact a very functional piece of work,
+its materials meticulously crafted together.</text>
+<text id="21080102">Gauntlets donned by looting brigands.
+
+These gauntlets may appear shoddy,
+but are in fact a very functional piece of work,
+the materials meticulously crafted together.</text>
+<text id="21080103">Trousers donned by looting brigands.
+
+These trousers may appear shoddy,
+but are in fact a very functional piece of work,
+the materials meticulously crafted together.</text>
+<text id="21100100">Hemp hood that fully covers the face.
+Provides protection from the elements,
+and little more.
+
+The cursed souls who wander the lands
+have a strange way of ending up here,
+as if drawn from afar by some force.</text>
+<text id="21100101">Traveler's tunic.
+Won't provide much in the way of protection.
+
+The cursed souls who wander the lands
+have a strange way of ending up here,
+as if drawn from afar by some force.</text>
+<text id="21100102">Traveler's manchettes.
+Won't provide much in the way of protection.
+
+The cursed souls who wander the lands
+have a strange way of ending up here,
+as if drawn from afar by some force.</text>
+<text id="21100103">Traveler's trousers.
+Won't provide much in the way of protection.
+
+The cursed souls who wander the lands
+have a strange way of ending up here,
+as if drawn from afar by some force.</text>
+<text id="21140100">Hat worn by merchants from Lanafir,
+where blue represents knowledge.
+Wearing this increases item discovery.
+
+Lanafir is the farthest land to the south
+and follows a strict edict of isolationism. The
+rare visitor from Lanafir is always a little odd.
+
+Effect: Raises item discovery</text>
+<text id="21140101">Coat worn by merchants from Lanafir.
+The eagle is normally a symbol of strength,
+but in Lanafir it symbolizes wealth.
+
+Lanafir is the farthest land to the south
+and follows a strict edict of isolationism. The
+rare visitor from Lanafir is always a little odd.</text>
+<text id="21140102">Gloves worn by merchants from Lanafir.
+
+Lanafir is the farthest land to the south
+and follows a strict edict of isolationism. The
+rare visitor from Lanafir is always a little odd.</text>
+<text id="21140103">Boots worn by merchants from Lanafir.
+
+Lanafir is the farthest land to the south
+and follows a strict edict of isolationism. The
+rare visitor from Lanafir is always a little odd.</text>
+<text id="21160100">A helm as if hewn from a giant boulder.
+Offers stupendous defense, but weighs a ton.
+
+The origin of the name Havel is not clear.
+Some say it was the warrior who wore the armor,
+but others say that it was the name of a great
+kingdom ruined in a barbaric war.</text>
+<text id="21160101">Armor as if hewn from a giant boulder.
+Offers stupendous defense, but weighs a ton.
+
+The origin of the name Havel is not clear.
+Some say it was the warrior who wore the armor,
+but others say that it was the name of a great
+kingdom ruined in a barbaric war.</text>
+<text id="21160102">Gauntlets as if hewn from a giant boulder.
+They offer stupendous defense, but weigh a ton.
+
+The origin of the name Havel is not clear.
+Some say it was the warrior who wore the armor,
+but others say that it was the name of a great
+kingdom ruined in a barbaric war.</text>
+<text id="21160103">Leggings as if hewn from a giant boulder.
+They offer stupendous defense, but weigh a ton.
+
+The origin of the name Havel is not clear.
+Some say it was the warrior who wore the armor,
+but others say that it was the name of a great
+kingdom ruined in a barbaric war.</text>
+<text id="21210100">A boldly-colored jester's cap.
+A nice bit of fun to try on.
+
+Jesters are more than festival fixtures; 
+some have a second face, hidden from
+public view.
+
+Effect: Raises item discovery</text>
+<text id="21210101">A boldly-colored jester's robe.
+A nice bit of fun to try on.
+
+Jesters are more than festival fixtures; 
+some have a second face, hidden from
+public view.
+
+Effect: Nullifies foes' critical hits</text>
+<text id="21210102">Boldly-colored jester's gloves.
+A nice bit of fun to try on.
+
+Jesters are more than festival fixtures; 
+some have a second face, hidden from
+public view.
+
+Effect: Increases number of Souls acquired</text>
+<text id="21210103">Boldly-colored jester's tights.
+A nice bit of fun to try on.
+
+Jesters are more than festival fixtures; 
+some have a second face, hidden from
+public view.
+
+Effect: Reduces falling damage</text>
+<text id="21230100">Hat worn by astrologists in Melfia.
+Astrologists believe that magical powers
+can be obtained at moments of special
+heavenly alignment.
+
+Even the collective wisdom of the
+Melfian Magic Academy cannot pull magic
+out of the sky, but the ideas of the
+astrologists led to the creation of
+new and very useful magic devices.</text>
+<text id="21230101">Robe worn by astrologists in Melfia.
+Astrologists believe that magical powers
+can be obtained at moments of special
+heavenly alignment.
+
+Even the collective wisdom of the
+Melfian Magic Academy cannot pull magic
+out of the sky, but the ideas of the
+astrologists led to the creation of
+new and very useful magic devices.</text>
+<text id="21230102">Gauntlets worn by astrologists in Melfia.
+Astrologists believe that magical powers
+can be obtained at moments of special
+heavenly alignment.
+
+Even the collective wisdom of the
+Melfian Magic Academy cannot pull magic
+out of the sky, but the ideas of the
+astrologists led to the creation of
+new and very useful magic devices.</text>
+<text id="21230103">Robe bottoms worn by astrologists in Melfia.
+Astrologists believe that magical powers
+can be obtained at moments of special
+heavenly alignment.
+
+Even the collective wisdom of the
+Melfian Magic Academy cannot pull magic
+out of the sky, but the ideas of the
+astrologists led to the creation of
+new and very useful magic devices.</text>
+<text id="21320100">Helmet worn by the Forossa Lion Knights.
+
+The mighty Lion Knights, worshippers of
+the war god Faraam, wore heavy armor and
+were feared for their nimble two-handed
+swordplay.
+
+But their legacy was cut short with the fall
+of Forossa.</text>
+<text id="21320101">Armor worn by the Forossa Lion Knights.
+
+The mighty Lion Knights, worshippers of
+the war god Faraam, wore heavy armor and
+were feared for their nimble two-handed
+swordplay.
+
+But their legacy was cut short with the fall
+of Forossa.</text>
+<text id="21320102">Gauntlets worn by the Forossa Lion Knights.
+
+The mighty Lion Knights, worshippers of
+the war god Faraam, wore heavy armor and
+were feared for their nimble two-handed
+swordplay.
+
+But their legacy was cut short with the fall
+of Forossa.</text>
+<text id="21320103">Boots worn by the Forossa Lion Knights.
+
+The mighty Lion Knights, worshippers of
+the war god Faraam, wore heavy armor and
+were feared for their nimble two-handed
+swordplay.
+
+But their legacy was cut short with the fall
+of Forossa.</text>
+<text id="21330100">An eerily-shaped helmet spoken of in legend,
+crafted with scales of the Black Dragon.
+
+The Black Dragon was long considered a
+mere legend, but this helm proves its existence.</text>
+<text id="21330101">Eerily-shaped armor spoken of in legend,
+crafted with scales of the Black Dragon.
+
+The Black Dragon was long considered a
+mere legend, but this proves its existence.</text>
+<text id="21330102">Eerily-shaped gauntlets spoken of in legend,
+crafted with scales of the Black Dragon.
+
+The Black Dragon was long considered a
+mere legend, but these prove its existence.</text>
+<text id="21330103">Eerily-shaped Leggings spoken of in legend,
+crafted with scales of the Black Dragon.
+
+The Black Dragon was long considered a
+mere legend, but these prove its existence.</text>
+<text id="21340100">This blindingly-bright yellow costume is said
+to have been worn by the Xanthous King.
+
+Perhaps the heinously towering head cloth
+crown served some purpose, or perhaps it
+was some strange display of power.</text>
+<text id="21340101">This blindingly-bright yellow costume is said
+to have been worn by the Xanthous King.
+
+Despite the costume's being in near tatters,
+its yellow hues are mysteriously unfaded.</text>
+<text id="21340102">This blindingly-bright yellow costume is said
+to have been worn by the Xanthous King.
+
+Despite the costume's being in near tatters,
+its yellow hues are mysteriously unfaded.</text>
+<text id="21340103">This blindingly-bright yellow costume is said
+to have been worn by the Xanthous King.
+
+Despite the costume's being in near tatters,
+its yellow hues are mysteriously unfaded.</text>
+<text id="21350100">A mask honoring an ancient goddess.
+Sin was said to be her domain, but the
+name of this goddess is long forgotten.
+
+Little is known about what purpose the
+mask served, only that it was worn by
+a person of great authority.</text>
+<text id="21350101">Robe honoring an ancient goddess.
+Sin was said to be her domain, but the
+name of this goddess is long forgotten.
+
+Little is known about what purpose the
+robe served, only that it was worn by
+a person of great authority.</text>
+<text id="21350102">Manchettes honoring an ancient goddess.
+Sin was said to be her domain, but the
+name of this goddess is long forgotten.
+
+Little is known about what purpose the
+manchettes served, only that they were worn
+by a person of great authority.</text>
+<text id="21350103">Tights honoring an ancient goddess.
+Sin was said to be her domain, but the
+name of this goddess is long forgotten.
+
+Little is known about what purpose the
+tights served, only that they were worn by
+a person of great authority.</text>
+<text id="21360100">Helm of kings of the desert land of Jugo.
+First worn by Aurous, the land's heroic founder.
+
+According to legend, the armor of Aurous
+is composed of a mysterious substance that
+cannot be seen by cowards.
+What do your eyes tell you?
+
+Effect: Raises equipment load</text>
+<text id="21360101">Armor of kings of the desert land of Jugo.
+First worn by Aurous, the land's heroic founder.
+
+According to legend, the armor of Aurous
+is composed of a mysterious substance that
+cannot be seen by cowards.
+What do your eyes tell you?
+
+Effect: Raises equipment load</text>
+<text id="21360102">Gauntlets of kings of the desert land of Jugo.
+First worn by Aurous, the land's heroic founder.
+
+According to legend, the armor of Aurous
+is composed of a mysterious substance that
+cannot be seen by cowards.
+What do your eyes tell you?
+
+Effect: Raises equipment load</text>
+<text id="21360103">Leggings of kings of the desert land of Jugo.
+First worn by Aurous, the land's heroic founder.
+
+According to legend, the armor of Aurous
+is composed of a mysterious substance that
+cannot be seen by cowards.
+What do your eyes tell you?
+
+Effect: Raises equipment load</text>
+<text id="21361100">Helm of kings of the desert land of Jugo.
+First worn by Aurous, the land's heroic founder.
+
+According to legend, the armor of Aurous
+is composed of a mysterious substance that
+cannot be seen by cowards.
+What do your eyes tell you?</text>
+<text id="21361101">Armor of kings of the desert land of Jugo.
+First worn by Aurous, the land's heroic founder.
+
+According to legend, the armor of Aurous
+is composed of a mysterious substance that
+cannot be seen by cowards.
+What do your eyes tell you?</text>
+<text id="21361102">Gauntlets of kings of the desert land of Jugo.
+First worn by Aurous, the land's heroic founder.
+
+According to legend, the armor of Aurous
+is composed of a mysterious substance that
+cannot be seen by cowards.
+What do your eyes tell you?</text>
+<text id="21361103">Leggings of kings of the desert land of Jugo.
+First worn by Aurous, the land's heroic founder.
+
+According to legend, the armor of Aurous
+is composed of a mysterious substance that
+cannot be seen by cowards.
+What do your eyes tell you?</text>
+<text id="21370100">A traditional sacred headcloth crafted at
+the Lindelt Monastery.
+Made of a lightweight, flowing white fabric.
+
+The ceremonial design suggests that they
+revered whatever it was they watched over.
+
+The purity of the garment, however,
+neatly symbolizes the fraudulence found
+at the very heart of the monastery.</text>
+<text id="21370101">A traditional sacred longshirt crafted at
+the Lindelt Monastery.
+Made of a lightweight, flowing white fabric.
+
+The ceremonial design suggests that they
+revered whatever it was they watched over.
+
+The purity of the garment, however,
+neatly symbolizes the fraudulence found
+at the very heart of the monastery.</text>
+<text id="21370102">Traditional sacred gloves crafted at
+the Lindelt Monastery.
+Made of a lightweight, flowing white fabric.
+
+The ceremonial design suggests that they
+revered whatever it was they watched over.
+
+The purity of the garment, however,
+neatly symbolizes the fraudulence found
+at the very heart of the monastery.</text>
+<text id="21370103">A traditional sacred skirt crafted at
+the Lindelt Monastery.
+Made of a lightweight, flowing white fabric.
+
+The ceremonial design suggests that they
+revered whatever it was they watched over.
+
+The purity of the garment, however,
+neatly symbolizes the fraudulence found
+at the very heart of the monastery.</text>
+<text id="21390100">An unassuming dingy hood.
+
+Although by now gray with soot and
+nearly unraveled, its fabric was originally
+a pure white.</text>
+<text id="21390101">An unassuming dingy robe.
+
+Although by now gray with soot and
+nearly unraveled, its fabric was originally
+a pure white.</text>
+<text id="21390102">Unassuming dingy cuffs.
+
+Although by now gray with soot and
+nearly unraveled, their fabric was originally
+a pure white.</text>
+<text id="21390103">An unassuming dingy skirt.
+Originally pure white.
+
+A close inspection reveals old dried blood.
+What tragedy could have befallen
+its original owner?</text>
+<text id="21430100">Monocled hat favored by Blue-eyed Durgo.
+Extends arrow range.
+
+The hero Durgo, an expert bowman,
+and his brother-in-law defended their
+homeland from aggressors.
+In spite of Lanafir's policy of isolationism,
+Durgo was well known even beyond its domain.
+
+Effect: Boosts range of bows</text>
+<text id="21440102">Stone gauntlets engraved with odd writing.
+Said to bring good fortune to their wearer.
+
+The wealthy merchant Fiorenza searched for
+these rare and precious gauntlets his entire life,
+but was not the one who found them.
+
+Effect: Rare chance normal attacks become
+critical hits</text>
+<text id="21450101">A large barrel.
+One can wear this barrel, but it conceals
+the arms, making movement very difficult.
+
+The barrel is oddly comforting, however,
+and gradually restores HP, perhaps an
+effect of the strange crest painted upon it.</text>
+<text id="21460103">Boots crafted with brown fur.
+Absorb shock and reduce fall damage.
+
+These boots, used in a celebrative festival,
+are light, rugged, and retain warmth.
+
+Effect: Reduces falling damage</text>
+<text id="21470100">Hat made from wings of the rare moon butterfly.
+Poisons those who approach its wearer.
+
+Little is known about the moon butterfly,
+which only appears on full-moon nights in winter.
+Some say the butterfly is a magical being,
+and its larvae have never once been spotted.
+
+Effect: Poisons nearby foes</text>
+<text id="21470101">Pinions made from wings of the rare moon butterfly.
+Poisons those who approach its wearer.
+Also extends jump distance.
+
+Little is known about the moon butterfly,
+which only appears on full-moon nights in winter.
+Some say the butterfly is a magical being,
+and its larvae have never once been spotted.
+
+Effects:
+Poisons nearby foes
+Increases length of jump</text>
+<text id="21470102">Cuffs made from wings of the rare moon butterfly.
+Poisons those who approach its wearer.
+
+Little is known about the moon butterfly,
+which only appears on full-moon nights in winter.
+Some say the butterfly is a magical being,
+and its larvae have never once been spotted.
+
+Effect: Poisons nearby foes</text>
+<text id="21470103">Skirt made from wings of the rare moon butterfly.
+Poisons those who approach its wearer.
+Also extends jump distance.
+
+Little is known about the moon butterfly,
+which only appears on full-moon nights in winter.
+Some say the butterfly is a magical being,
+and its larvae have never once been spotted.
+
+Effects:
+Poisons nearby foes
+Increases length of jump</text>
+<text id="21480100">An odd helmet shaped like an onion.
+
+This helmet appears rather absurd,
+but its multi-faced construction is in fact
+quite practical as it effectively deflects
+physical attacks.
+
+The old tales speak of brave Catarina
+knights wearing this helmet as they
+rushed courageously into battle.</text>
+<text id="21480101">Odd armor shaped like an onion.
+
+This armor appears rather absurd,
+but its multi-faced construction is in fact
+quite practical as it effectively deflects
+physical attacks.
+
+The old tales speak of brave Catarina
+knights wearing this armor as they
+rushed courageously into battle.</text>
+<text id="21480102">Odd gauntlets shaped like an onion.
+
+These gauntlets appear rather absurd,
+but their multi-faced construction is in fact
+quite practical as they effectively deflect
+physical attacks.
+
+The old tales speak of brave Catarina
+knights wearing these gauntlets as they
+rushed courageously into battle.</text>
+<text id="21480103">Odd leggings shaped like an onion.
+
+These leggings appear rather absurd,
+but their multi-faced construction is in fact
+quite practical as they effectively deflect
+physical attacks.
+
+The old tales speak of brave Catarina
+knights wearing these leggings as they
+rushed courageously into battle.</text>
+<text id="21490100">Helm worn by Alva the Wayfarer.
+Light but offers very high defense.
+
+Alva crossed many a land in search
+of a cure for Saint Serreta's sickness,
+but failed and relinquished his knighthood.
+
+Alva was once wracked with guilt and remorse,
+but rediscovered his purpose in life with the
+aid of the witch who once
+plotted against him.</text>
+<text id="21490101">Armor worn by Alva the Wayfarer.
+Light but offers very high defense.
+
+Alva crossed many a land in search
+of a cure for Saint Serreta's sickness,
+but failed and relinquished his knighthood.
+
+Alva was once wracked with guilt and remorse,
+but rediscovered his purpose in life with the
+aid of the witch who once
+plotted against him.</text>
+<text id="21490102">Gauntlets worn by Alva the Wayfarer.
+Light but offer very high defense.
+
+Alva crossed many a land in search
+of a cure for Saint Serreta's sickness,
+but failed and relinquished his knighthood.
+
+Alva was once wracked with guilt and remorse,
+but rediscovered his purpose in life with the
+aid of the witch who once
+plotted against him.</text>
+<text id="21490103">Leggings worn by Alva the Wayfarer.
+Light but offer very high defense.
+
+Alva crossed many a land in search
+of a cure for Saint Serreta's sickness,
+but failed and relinquished his knighthood.
+
+Alva was once wracked with guilt and remorse,
+but rediscovered his purpose in life with the
+aid of the witch who once
+plotted against him.</text>
+<text id="21500100">Veil worn by Zullie the Witch,
+seducer of Alva the Wayfarer.
+Boasts excellent magic defense.
+
+When Zullie the Witch learned of Alva's dedication
+to Saint Serreta, she used all manner of tricks and
+deceit to ruin him, but in the end she would
+spend her life with him, supporting his endeavors.
+
+The witch, as unloving as she was unloved, finally
+found illumination through her blighted existence.</text>
+<text id="21500101">Robe worn by Zullie the Witch,
+seducer of Alva the Wayfarer.
+Boasts excellent magic defense.
+
+When Zullie the Witch learned of Alva's dedication
+to Saint Serreta, she used all manner of tricks and
+deceit to ruin him, but in the end she would
+spend her life with him, supporting his endeavors.
+
+The witch, as unloving as she was unloved, finally
+found illumination through her blighted existence.</text>
+<text id="21500102">Gloves worn by Zullie the Witch,
+seducer of Alva the Wayfarer.
+Boasts excellent magic defense.
+
+When Zullie the Witch learned of Alva's dedication
+to Saint Serreta, she used all manner of tricks and
+deceit to ruin him, but in the end she would
+spend her life with him, supporting his endeavors.
+
+The witch, as unloving as she was unloved, finally
+found illumination through her blighted existence.</text>
+<text id="21500103">Trousers worn by Zullie the Witch,
+seducer of Alva the Wayfarer.
+Boasts excellent magic defense.
+
+When Zullie the Witch learned of Alva's dedication
+to Saint Serreta, she used all manner of tricks and
+deceit to ruin him, but in the end she would
+spend her life with him, supporting his endeavors.
+
+The witch, as unloving as she was unloved, finally
+found illumination through her blighted existence.</text>
+<text id="21501100">Hat worn by Zullie the Witch,
+seducer of Alva the Wayfarer.
+Allows the attunement of an extra spell.
+
+When Zullie the Witch learned of Alva's dedication
+to Saint Serreta, she used all manner of tricks and
+deceit to ruin him, but in the end she would
+spend her life with him, supporting his endeavors.
+
+The witch, as unloving as she was unloved, finally
+found illumination through her blighted existence.</text>
+<text id="21502100">Domino mask worn by Zullie the Witch,
+seducer of Alva the Wayfarer.
+Strengthens magic attacks but reduces max HP.
+
+When Zullie the Witch learned of Alva's dedication
+to Saint Serreta, she used all manner of tricks and
+deceit to ruin him, but in the end she would
+spend her life with him, supporting his endeavors.
+
+The witch, as unloving as she was unloved, finally
+found illumination through her blighted existence.
+
+Effects:
+Raises magic ATK
+Lowers max HP</text>
+<text id="21600100">Black helm of the Drakeblood Knights, 
+who came from a land long forgotten.
+
+The Drakeblood Knights, who worshipped the
+blood of dragons, were led by Sir Yorgh
+in a siege of the Eternal Sanctum, but sunk
+into the Sanctum when the slumbering
+dragon awoke.
+
+The red cloth wrapped around their black
+armor represents the sacred blood of dragons.</text>
+<text id="21600101">Black armor of the Drakeblood Knights, 
+who came from a land long forgotten.
+
+The Drakeblood Knights, who worshipped the
+blood of dragons, were led by Sir Yorgh
+in a siege of the Eternal Sanctum, but sunk
+into the Sanctum when the slumbering
+dragon awoke.
+
+The red cloth wrapped around their black
+armor represents the sacred blood of dragons.</text>
+<text id="21600102">Black gauntlets of the Drakeblood Knights, 
+who came from a land long forgotten.
+
+The Drakeblood Knights, who worshipped the
+blood of dragons, were led by Sir Yorgh
+in a siege of the Eternal Sanctum, but sunk
+into the Sanctum when the slumbering
+dragon awoke.
+
+The red cloth wrapped around their black
+armor represents the sacred blood of dragons.</text>
+<text id="21600103">Black leggings of the Drakeblood Knights, 
+who came from a land long forgotten.
+
+The Drakeblood Knights, who worshipped the
+blood of dragons, were led by Sir Yorgh
+in a siege of the Eternal Sanctum, but sunk
+into the Sanctum when the slumbering
+dragon awoke.
+
+The red cloth wrapped around their black
+armor represents the sacred blood of dragons.</text>
+<text id="21610100">Hood of a Forossan sage.
+
+Forossans venerated the god of war,
+and sages who led warriors into battle were
+called Northwarders.
+
+Northwarders earned their title only after
+completing a great journey of great hardship,
+after which they would be worshipped
+as oracles of the war gods.
+
+Effect: extends duration of spell effects</text>
+<text id="21610101">Robe of a Forossan sage.
+
+In Forossa, the gods of war were venerated,
+and sages who led warriors into battle were
+called Northwarders.
+
+Northwarders earned their title only after
+completing a great journey of great hardship,
+after which they would be worshipped
+as oracles of the war gods.
+
+Effect: extends duration of spell effects</text>
+<text id="21610102">Manchettes of a Forossan sage.
+
+In Forossa, the gods of war were venerated,
+and sages who led warriors into battle were
+called Northwarders.
+
+Northwarders earned their title only after
+completing a great journey of great hardship,
+after which they would be worshipped
+as oracles of the war gods.
+
+Effect: extends duration of spell effects</text>
+<text id="21610103">Trousers of a Forossan sage.
+
+In Forossa, the gods of war were venerated,
+and sages who led warriors into battle were
+called Northwarders.
+
+Northwarders earned their title only after
+completing a great journey of great hardship,
+after which they would be worshipped
+as oracles of the war gods.
+
+Effect: extends duration of spell effects</text>
+<text id="21630100">Crown of the Old Iron King
+who once ruled this land.
+
+The King sunk below the scorching iron,
+met the one whose name must never
+be repeated, and became Ichorous Earth.
+
+But these were events of long ago,
+and today, no one even remembers
+the King's name.</text>
+<text id="21640100">Crown of the Ivory King
+who once ruled this land.
+
+Far to the north, a King built a
+great cathedral to appease the raging flame.
+But when he sensed the degradation of
+his soul, he left without a word, leaving
+everything to Alsanna, who had,
+unbeknownst, found a place at his side.
+
+But these were events of long ago,
+and today, no one even remembers
+the King's name.</text>
+<text id="21650100">Crown of the Sunken King
+who once ruled this land.
+
+The King erected the Eternal Sanctum below
+the earth to worship the great dragon,
+but the towering bulwark crumbled with the
+city shortly after the dragon's awakening.
+
+But these were events of long ago,
+and today, no one even remembers
+the King's name.</text>
+<text id="21660100">Helm forged from an ancient bell.
+
+Appears to be a mere curiosity,
+but is in fact quite practical.
+The top of the helm provides
+significant defense.</text>
+<text id="21670100">A hood imitating the head of a Hollow.
+Provides curse resistance, and makes
+it easier to detect messages from other worlds.
+
+Finely crafted to perfectly imitate the head
+of a Hollow, only without the abhorrent stench.
+Whoever created this was surely deeply
+respectful of those lost to Hollowing.</text>
+<text id="21680100">A mask depicting Pharros' contraption.
+Tears flow from the eyes of this mask,
+drenching its wearer.
+
+The majority of Pharros' creations
+are perplexing to reasoned men,
+and this mask is no exception.</text>
+<text id="21690103">Skirt of a nameless troubadour.
+High durability, despite its appearance.
+
+While troubadours can get by on their own
+through wily use of their arts for the most part,
+they might still require a generous patron.
+The stunning arrangement of layered flowers
+on this skirt is designed to capture the
+attention of a candidate for the position.</text>
+<text id="21700100">An ornamental helm commissioned by the
+Old Iron King.
+
+An awkwardly repurposed iron ornament,
+and as such, remains a stuffy, heavy thing.
+Wearing it gives one the sensation
+of being smothered in iron.</text>
+<text id="21710100">Headpiece depicting the avaricious creature
+that mimics treasure chests.
+Increases soul absorption and item discovery,
+but steadily drains HP.
+
+There is a curious tale of an incorrigibly covetous
+ancient deity. Clearly it has currency amongst some
+miscreants, or this would have never been crafted.</text>
+<text id="22020100">Helm worn by Hollowed royal soldiers.
+
+Appears to be crafted with quality materials,
+but is highly degraded and close to falling apart.
+Wearing this will be of little use.</text>
+<text id="22020101">Armor worn by Hollowed royal soldiers.
+
+Appears to be crafted with quality materials,
+but is highly degraded and close to falling apart.
+Wearing this will be of little use.</text>
+<text id="22020102">Gauntlets worn by Hollowed royal soldiers.
+
+They appear to be crafted with quality materials,
+but are highly degraded and close to falling apart.
+Wearing these will be of little use.</text>
+<text id="22020103">Leggings worn by Hollowed royal soldiers.
+
+They appear to be crafted with quality materials,
+but are highly degraded and close to falling apart.
+Wearing these will be of little use.</text>
+<text id="22021100">Royal Drangleic soldier helm.
+
+Equipment crafted by the royal blacksmith.
+Finely polished and ready for battle.</text>
+<text id="22021101">Royal Drangleic soldier armor.
+
+Equipment crafted by the royal blacksmith.
+Finely polished and ready for battle.</text>
+<text id="22021102">Royal Drangleic soldier Gauntlets.
+
+Equipment crafted by the royal blacksmith.
+Finely polished and ready for battle.</text>
+<text id="22021103">Royal Drangleic soldier Leggings.
+
+Equipment crafted by the royal blacksmith.
+Finely polished and ready for battle.</text>
+<text id="22030100">Helm worn by Hollowed infantry.
+
+A piece of basic, minimal equipment.
+Worse yet, it's worn and nearly falling apart.
+Not recommended unless your options are spent.</text>
+<text id="22030101">Armor worn by Hollowed infantry.
+
+A piece of basic, minimal equipment.
+Worse yet, it's worn and nearly falling apart.
+Not recommended unless your options are spent.</text>
+<text id="22030102">Gloves worn by Hollowed infantry.
+
+A piece of basic, minimal equipment.
+Worse yet, they're worn and nearly falling apart.
+Not recommended unless your options are spent.</text>
+<text id="22030103">Leggings worn by Hollowed infantry.
+
+A piece of basic, minimal equipment.
+Worse yet, they're worn and nearly falling apart.
+Not recommended unless your options are spent.</text>
+<text id="22031100">Helmet worn by Drangleic infantry.
+
+A piece of basic, minimal equipment.
+At least it's light and easy-to-use.</text>
+<text id="22031101">Armor worn by Drangleic infantry.
+
+A piece of basic, minimal equipment.
+At least it's light and easy-to-use.</text>
+<text id="22031102">Gloves worn by Drangleic infantry.
+
+A piece of basic, minimal equipment.
+At least they're light and easy-to-use.</text>
+<text id="22031103">Leggings worn by Drangleic infantry.
+
+A piece of basic, minimal equipment.
+At least they're light and easy-to-use.</text>
+<text id="22060100">Traditional headpiece for Drangleic clerics.
+
+The clerics of Drangleic were not viewed with
+particular reverence, and their positions were
+only preserved as a nod to tradition.
+
+It is customary for clerics to wear
+different garb depending on their sex,
+but the reason for this practice is unknown.
+This is a men's headpiece.</text>
+<text id="22060101">Traditional Robe worn by Drangleic clerics.
+
+The clerics of Drangleic were not viewed with
+particular reverence, and their positions were
+only preserved as a nod to tradition.
+
+It is customary for clerics to wear
+different garb depending on their sex,
+but the reason for this practice is unknown.
+This is a men's robe.</text>
+<text id="22060102">Traditional Gloves worn by Drangleic clerics.
+
+The clerics of Drangleic were not viewed with
+particular reverence, and their positions were
+only preserved as a nod to tradition.
+
+It is customary for clerics to wear
+different garb depending on their sex,
+but the reason for this practice is unknown.
+These are men's gloves.</text>
+<text id="22060103">Traditional Skirt worn by Drangleic clerics.
+
+The clerics of Drangleic were not viewed with
+particular reverence, and their positions were
+only preserved as a nod to tradition.
+
+It is customary for clerics to wear
+different garb depending on their sex,
+but the reason for this practice is unknown.
+This is a men's skirt.</text>
+<text id="22062100">Traditional headpiece worn by Drangleic clerics.
+
+The clerics of Drangleic have retained their
+nominal status throughout the ages, but were
+always at arms length from the royal family,
+as if their existence was little more than
+a formality.
+
+It is customary for clerics to wear
+different garb depending on their sex,
+but the reason for this practice is unknown.
+This is a women's headpiece.</text>
+<text id="22062101">Robe worn by Drangleic clerics.
+
+The clerics of Drangleic have retained their
+nominal status throughout the ages, but were
+always at arms length from the royal family,
+as if their existence was little more than
+a formality.
+
+It is customary for clerics to wear
+different garb depending on their sex,
+but the reason for this practice is unknown.
+This is a women's robe.</text>
+<text id="22062102">Gloves worn by Drangleic clerics.
+
+The clerics of Drangleic have retained their
+nominal status throughout the ages, but were
+always at arms length from the royal family,
+as if their existence was little more than
+a formality.
+
+It is customary for clerics to wear
+different garb depending on their sex,
+but the reason for this practice is unknown.
+These are women's gloves.</text>
+<text id="22062103">Skirt worn by Drangleic clerics.
+
+The clerics of Drangleic have retained their
+nominal status throughout the ages, but were
+always at arms length from the royal family,
+as if their existence was little more than
+a formality.
+
+It is customary for clerics to wear
+different garb depending on their sex,
+but the reason for this practice is unknown.
+This is a women's skirt.</text>
+<text id="22080100">Hood worn by Hollowed thieves.
+
+The hood is primarily intended to hide the
+face of the wearer, and is of no practical
+value as defensive gear.</text>
+<text id="22080101">Armor donned by Hollowed thieves.
+
+Despite its crude appearance,
+this armor is surprisingly sturdy.</text>
+<text id="22080102">Gauntlets worn by Hollowed thieves.
+
+Despite their crude appearance,
+these gauntlets are surprisingly sturdy.</text>
+<text id="22080103">Leggings worn by Hollowed thieves.
+
+Despite their crude appearance,
+these leggings are surprisingly sturdy.</text>
+<text id="22110100">Helmet of bandits of the Forossan outskirts.
+
+The territory of Forossa became lawless
+after the kingdom fell to war. Citizens
+became bandits, and scattered to other lands.</text>
+<text id="22110101">Armor of bandits of the Forossan outskirts.
+
+The territory of Forossa became lawless
+after the kingdom fell to war. Citizens
+became bandits, and scattered to other lands.</text>
+<text id="22110102">Gauntlets of bandits of the Forossan outskirts.
+
+The territory of Forossa became lawless
+after the kingdom fell to war. Citizens
+became bandits, and scattered to other lands.</text>
+<text id="22110103">Boots of bandits of the Forossan outskirts.
+
+The territory of Forossa became lawless
+after the kingdom fell to war. Citizens
+became bandits, and scattered to other lands.</text>
+<text id="22130100">Helmet worn by Varangians that terrorized
+nearby seas.
+
+The coastline stretches far in northern Drangleic.
+Beyond this northern sea is an unexplored
+continent, said to be the home of things inhuman.</text>
+<text id="22130101">Armor worn by Varangians that terrorized
+nearby seas.
+
+The coastline stretches far in northern Drangleic.
+Beyond this northern sea is an unexplored
+continent, said to be the home of things inhuman.</text>
+<text id="22130102">Cuffs worn by Varangians that terrorized
+nearby seas.
+
+The coastline stretches far in northern Drangleic.
+Beyond this northern sea is an unexplored
+continent, said to be the home of things inhuman.</text>
+<text id="22130103">Leggings worn by Varangians that terrorized
+nearby seas.
+
+The coastline stretches far in northern Drangleic.
+Beyond this northern sea is an unexplored
+continent, said to be the home of things inhuman.</text>
+<text id="22180100">Hood worn by Hollowed Drangleic mages.
+
+Drangleic mages wore different garb
+depending on their sex.
+What function this served, however,
+is unknown, as with many old practices.
+This is a women's hood.</text>
+<text id="22180101">Robe worn by Hollowed Drangleic mages.
+
+Drangleic mages wore different garb
+depending on their sex.
+What function this served, however,
+is unknown, as with many old practices.
+This is a women's robe.</text>
+<text id="22182100">Hood worn by Hollowed Drangleic mages.
+
+Drangleic mages wore different garb
+depending on their sex.
+What function this served, however,
+is unknown, as with many old practices.
+This is a men's hood.</text>
+<text id="22182101">Robe worn by Hollowed Drangleic mages.
+
+Drangleic mages wore different garb
+depending on their sex.
+What function this served, however,
+is unknown, as with many old practices.
+This is a men's robe.</text>
+<text id="22190101">Robe worn by Lion Clan mages.
+
+The Lion Clan are an offshoot race
+that appear in historical records quite abruptly,
+as if one day they climbed up out of the depths
+of the very earth itself.
+
+Effect: Improves casting speed</text>
+<text id="22190102">Cuffs worn by Lion Clan mages.
+
+The Lion Clan are an offshoot race
+that appear in historical records quite abruptly,
+as if one day they climbed up out of the depths
+of the very earth itself.
+
+Effect: Improves casting speed</text>
+<text id="22190103">Skirt worn by Lion Clan mages.
+
+The Lion Clan are an offshoot race
+that appear in historical records quite abruptly,
+as if one day they climbed up out of the depths
+of the very earth itself.
+
+Effect: Improves casting speed</text>
+<text id="22220100">Heavy steel helmet.
+
+A relic of an order of knights said to be
+the mightiest warriors of their time.</text>
+<text id="22220101">Heavy steel armor.
+
+A relic of an order of knights said to be
+the mightiest warriors of their time.</text>
+<text id="22220102">Heavy steel gauntlets.
+
+A relic of an order of knights said to be
+the mightiest warriors of their time.</text>
+<text id="22220103">Heavy steel leggings.
+
+A relic of an order of knights said to be
+the mightiest warriors of their time.</text>
+<text id="22230100">Used to hide in the cover of night.
+Those who are especially adept assassins
+are often hired as bodyguards.
+
+In an attempt to stave off the curse,
+King Vendrick hired shadowmen to
+put down the Hollows, but before long
+they were Hollowed themselves.</text>
+<text id="22230101">Used to hide in the cover of night.
+Those who are especially adept assassins
+are often hired as bodyguards.
+
+In an attempt to stave off the curse,
+King Vendrick hired shadowmen to
+put down the Hollows, but before long
+they were Hollowed themselves.</text>
+<text id="22230102">Used to hide in the cover of night.
+Those who are especially adept assassins
+are often hired as bodyguards.
+
+In an attempt to stave off the curse,
+King Vendrick hired shadowmen to
+put down the Hollows, but before long
+they were Hollowed themselves.</text>
+<text id="22230103">Used to hide in the cover of night.
+Those who are especially adept assassins
+are often hired as bodyguards.
+
+In an attempt to stave off the curse,
+King Vendrick hired shadowmen to
+put down the Hollows, but before long
+they were Hollowed themselves.</text>
+<text id="22240100">Mask of the manikins of Harvest Valley.
+
+A fickle queen gave them life, and tore off
+their faces. How else could she forgive
+those who dared gaze upon her?</text>
+<text id="22240101">Top of the manikins of Harvest Valley.
+
+The peculiar art of puppetry is a vestige
+of the two lost lands.
+A queen breathed life into these dolls with
+the very miasma that afflicted her poison-
+drenched bosom, so that she would have
+slaves to serve her temperamental will.</text>
+<text id="22240102">Gloves of the manikins of Harvest Valley.
+
+The peculiar art of puppetry is a vestige
+of the two lost lands.
+A queen breathed life into these dolls with
+the very miasma that afflicted her poison-
+drenched bosom, so that she would have
+slaves to serve her temperamental will.</text>
+<text id="22240103">Boots of the manikins of Harvest Valley.
+
+The peculiar art of puppetry is a vestige
+of the two lost lands.
+A queen breathed life into these dolls with
+the very miasma that afflicted her poison-
+drenched bosom, so that she would have
+slaves to serve her temperamental will.</text>
+<text id="22270100">Rags worn by imprisoned Hollows.
+This appears to have been worn on the head.
+
+Judging by its looks and apparent virtues,
+this really is no more than a tattered scrap
+of cloth. It still carries the stench of a Hollow.
+
+Effect: Raises item discovery</text>
+<text id="22270101">Rags worn by imprisoned Hollows.
+This appears to have been worn on the body.
+
+Judging by its looks and apparent virtues,
+this really is no more than a tattered scrap
+of cloth. It still carries the stench of a Hollow.
+
+Effect: Raises item discovery</text>
+<text id="22270102">Rags worn by imprisoned Hollows.
+This appears to have been worn on the arms.
+
+Judging by its looks and apparent virtues,
+this really is no more than a tattered scrap
+of cloth. It still carries the stench of a Hollow.</text>
+<text id="22270103">Rags worn by imprisoned Hollows.
+This appears to have been worn on the hip.
+
+Judging by its looks and apparent virtues,
+this really is no more than a tattered scrap
+of cloth. It still carries the stench of a Hollow.</text>
+<text id="22271100">Rags worn by imprisoned Hollows.
+This appears to have been worn on the head.
+
+Judging by its looks and apparent virtues,
+this really is no more than a tattered scrap
+of cloth. It still carries the stench of a Hollow.
+
+Effect: Raises item discovery</text>
+<text id="22271101">Rags worn by imprisoned Hollows.
+This appears to have been worn on the body.
+
+Judging by its looks and apparent virtues,
+this really is no more than a tattered scrap
+of cloth. It still carries the stench of a Hollow.
+
+Effect: Raises item discovery</text>
+<text id="22310100">Helm of the Archdrake sect of Lindelt.
+
+Little is known about the Archdrake sect
+and its ancient rituals, and those who dare to indulge
+their curiosity have been known to simply vanish.
+
+The Archdrake sect are the keepers of Lindelt's
+histories, including the only record of its
+foundation, a tome they have good reason to
+keep hidden away.</text>
+<text id="22310101">Robes of the Archdrake sect of Lindelt.
+
+Little is known about the Archdrake sect
+and its ancient rituals, and those who dare to indulge
+their curiosity have been known to simply vanish.
+
+The Archdrake sect are the keepers of Lindelt's
+histories, including the only record of its
+foundation, a tome they have good reason to
+keep hidden away.</text>
+<text id="22310102">Gloves of the Archdrake sect of Lindelt.
+
+Little is known about the Archdrake sect
+and its ancient rituals, and those who dare to indulge
+their curiosity have been known to simply vanish.
+
+The Archdrake sect are the keepers of Lindelt's
+histories, including the only record of its
+foundation, a tome they have good reason to
+keep hidden away.</text>
+<text id="22310103">Boots of the Archdrake sect of Lindelt.
+
+Little is known about the Archdrake sect
+and its ancient rituals, and those who dare to indulge
+their curiosity have been known to simply vanish.
+
+The Archdrake sect are the keepers of Lindelt's
+histories, including the only record of its
+foundation, a tome they have good reason to
+keep hidden away.</text>
+<text id="22340100">Helm of the nomadic Gyrm.
+
+The stocky Gyrm are kind-natured,
+but humans deemed them impure,
+and drove them underground.</text>
+<text id="22340101">Armor of the nomadic Gyrm.
+
+The stocky Gyrm are kind-natured,
+but humans deemed them impure,
+and drove them underground.</text>
+<text id="22340102">Gloves of the nomadic Gyrm.
+
+The stocky Gyrm are kind-natured,
+but humans deemed them impure,
+and drove them underground.</text>
+<text id="22340103">Boots of the nomadic Gyrm.
+
+The stocky Gyrm are kind-natured,
+but humans deemed them impure,
+and drove them underground.</text>
+<text id="22350100">Warrior helm of the nomadic Gyrm.
+Excellent poise and defense, but very heavy.
+
+Most Gyrm descendants refuse contact
+with outsiders, and live with a sense of deep
+contempt for those who exiled them.</text>
+<text id="22350101">Warrior armor of the nomadic Gyrm.
+Excellent poise and defense, but very heavy.
+
+Most Gyrm descendants refuse contact
+with outsiders, and live with a sense of deep
+contempt for those who exiled them.</text>
+<text id="22350102">Warrior gloves of the nomadic Gyrm.
+Excellent poise and defense, but very heavy.
+
+Most of the Gyrm descendants refused contact
+with any outsiders, and live with a sense of deep
+contempt for those who exiled them.</text>
+<text id="22350103">Warrior boots of the nomadic Gyrm.
+Excellent poise and defense, but very heavy.
+
+Most Gyrm descendants refuse contact
+with outsiders, and live with a sense of deep
+contempt for those who exiled them.</text>
+<text id="22351100">Greathelm worn by the nomadic Gyrm.
+Excellent poise and defense, but very heavy.
+
+Most Gyrm descendants refuse contact
+with outsiders, and live with a sense of deep
+contempt for those who exiled them.</text>
+<text id="22360100">Mask of a knight subsumed by dark.
+
+No one knows the true identity of these men
+who are said to freely manipulate dark.
+Old foreign legends describe them as poor
+souls who chased the lost art of lifedrain.</text>
+<text id="22360101">Armor of a knight subsumed by dark.
+
+No one knows the true identity of these men
+who are said to freely manipulate dark.
+Old foreign legends describe them as poor
+souls who chased the lost art of lifedrain.</text>
+<text id="22360102">Gauntlets of a knight subsumed by dark.
+
+No one knows the true identity of these men
+who are said to freely manipulate dark.
+Old foreign legends describe them as poor
+souls who chased the lost art of lifedrain.</text>
+<text id="22360103">Leggings of a knight subsumed by dark.
+
+No one knows the true identity of these men
+who are said to freely manipulate dark.
+Old foreign legends describe them as poor
+souls who chased the lost art of lifedrain.</text>
+<text id="22370100">Strange mask worn by Aldia warlocks.
+Grants dark defense, and increased soul acquisition.
+
+Warlocks in Aldia gave rise to wicked things,
+and even cast forbidden rituals upon themselves.
+No one knows if they were born mad, or if their
+own misdeeds drove them over the edge.
+
+Effect: Increases number of Souls acquired</text>
+<text id="22460100">Cap worn by settlers of Tseldora.
+Rather fancy but with low defense
+and unfit for battle.
+
+Tseldora flourished with the discovery of
+brightstone, deep under the settlement.
+But with this prosperity came greed in equal
+measure, and the people were ever in search of
+that which they lacked.
+
+Effect: Increases number of Souls acquired</text>
+<text id="22460101">Robe worn by settlers of Tseldora.
+Rather fancy but with low defense
+and unfit for battle.
+
+The brightstone that brought prosperity to
+Tseldora served only to stoke the flames of its
+peoples' desires, eventually leading to its ruin.
+Those bewitching, brilliantly gleaming stones
+are said to be fragments of a being that once
+roamed the entrails of the earth.
+
+Effect: Increases number of Souls acquired</text>
+<text id="22460102">Manchettes worn by settlers of Tseldora.
+Rather fancy but with low defense
+and unfit for battle.
+
+The brightstone that brought prosperity to
+Tseldora served only to stoke the flames of its
+peoples' desires, eventually leading to its ruin.
+Those bewitching, brilliantly gleaming stones
+are said to be fragments of a being that once
+roamed the entrails of the earth.
+
+Effect: Increases number of Souls acquired</text>
+<text id="22460103">Trousers worn by settlers of Tseldora.
+Rather fancy but with low defense
+and unfit for battle.
+
+The brightstone that brought prosperity to
+Tseldora served only to stoke the flames of its
+peoples' desires, eventually leading to its ruin.
+Those bewitching, brilliantly gleaming stones
+are said to be fragments of a being that once
+roamed the entrails of the earth.
+
+Effect: Increases number of Souls acquired</text>
+<text id="22480100">Hat commonly worn by peasants.
+
+Designed to block sunlight,
+more fit for farming than fighting.</text>
+<text id="22480101">Attire commonly worn by peasants.
+
+Normal workwear, more fit for farming
+than fighting.</text>
+<text id="22480102">Long gloves commonly worn by peasants.
+
+Normal workwear, more fit for farming
+than fighting.</text>
+<text id="22480103">Trousers commonly worn by peasants.
+
+Normal workwear, more fit for farming
+than fighting.</text>
+<text id="22510100">Helm worn by Ironclad Soldiers.
+Provides high defense, but is so heavy that
+it requires great strength to move.
+
+The Ironclad Soldiers were minions created
+by the Old Iron King, their life granted by
+an enchantment of souls.
+
+Once, the Old King could have unraveled the
+greater mysteries, with the aid of his great soul,
+but he was led astray by his enormous fortune,
+becoming nothing more than a vulgar hedonist.</text>
+<text id="22510101">Armor worn by Ironclad Soldiers.
+Provides high defense, but is so heavy that
+it requires great strength to move.
+
+The Ironclad Soldiers were minions created
+by the Old Iron King, their life granted by
+an enchantment of souls. By now this is
+again an iron husk, and fit to wear.
+
+Once, the Old King could have unraveled the
+greater mysteries with the aid of his great soul,
+but he was led astray by his enormous fortune,
+becoming nothing more than a vulgar hedonist.
+
+Effect: Nullifies foes' critical hits</text>
+<text id="22510102">Gauntlets worn by Ironclad Soldiers.
+Provides high defense, but are so heavy that
+they require great strength to move.
+
+The Ironclad Soldiers were minions created
+by the Old Iron King, their life granted by
+an enchantment of souls. By now this is
+again an iron husk, and fit to wear.
+
+Once, the Old King could have unraveled the
+greater mysteries with the aid of his great soul,
+but he was led astray by his enormous fortune,
+becoming nothing more than a vulgar hedonist.</text>
+<text id="22510103">Leggings worn by Ironclad Soldiers.
+Provides high defense, but are so heavy that
+they require great strength to move.
+
+The Ironclad Soldiers were minions created
+by the Old Iron King, their life granted by
+an enchantment of souls. By now this is
+again an iron husk, and fit to wear.
+
+Once, the Old King could have unraveled the
+greater mysteries with the aid of his great soul,
+but he was led astray by his enormous fortune,
+becoming nothing more than a vulgar hedonist.</text>
+<text id="22512100">Old helm worn by Ironclad Soldiers.
+Boasts high defense, but extremely heavy.
+
+One day, warriors wearing decrepit armor
+emerged from Drangleic castle, and quietly
+assumed positions amongst the royal army.
+
+Not one of them ever spoke a word,
+or revealed the face under the mask.</text>
+<text id="22512101">Old armor worn by Ironclad Soldiers.
+Provides high defense, but extremely heavy.
+
+One day, warriors wearing decrepit armor
+emerged from Drangleic castle, and quietly
+assumed positions amongst the royal army.
+
+Not one of them ever spoke a word,
+or revealed the face under the mask.
+
+Effect: Nullifies foes' critical hits</text>
+<text id="22512102">Old gauntlets worn by Ironclad Soldiers.
+Provides high defense, but extremely heavy.
+
+One day, warriors wearing decrepit armor
+emerged from Drangleic castle, and quietly
+assumed positions amongst the royal army.
+
+Not one of them ever spoke a word,
+or revealed the face under the mask.</text>
+<text id="22512103">Old leggings worn by Ironclad Soldiers.
+Provides high defense, but extremely heavy.
+
+One day, warriors wearing decrepit armor
+emerged from Drangleic castle, and quietly
+assumed positions amongst the royal army.
+
+Not one of them ever spoke a word,
+or revealed the face under the mask.</text>
+<text id="22520100">Helmet of a royal swordsman.
+Its shape provides defense while allowing
+great mobility. Stripped of ornamentation,
+this particular helm is designed strictly for battle.
+
+King Vendrick supplied his bravest men with the
+best armor available to face the great giants,
+but very few returned alive.</text>
+<text id="22520101">Armor of a royal swordsman.
+Its shape provides defense while allowing
+great mobility. Stripped of ornamentation,
+this armor is designed strictly for battle.
+
+King Vendrick supplied his bravest men with the
+best armor available to face the great giants,
+but very few returned alive.</text>
+<text id="22520102">Gloves of a royal swordsman.
+Their shape provides defense while allowing
+great mobility. Stripped of ornamentation,
+these gloves are designed strictly for battle.
+
+King Vendrick supplied his bravest men with the
+best armor available to face the great giants,
+but very few returned alive.</text>
+<text id="22520103">Leggings of a royal swordsman.
+Their shape provides defense while allowing
+great mobility. Stripped of ornamentation,
+these leggings are designed strictly for battle.
+
+King Vendrick supplied his bravest men with the
+best armor available to face the great giants,
+but very few returned alive.</text>
+<text id="22530100">Replica of the helmet of the loyal knight Syan.
+This solidly-crafted helm offers high defense.
+
+Sir Syan was widely known as the kingdom's
+most leal knight, and when the Giants invaded,
+he volunteered to lead the advance party,
+but was slaughtered most dishonorably.
+
+The King commissioned replicas of Syan's
+accoutrements and bestowed them to
+promising knights, but not long after they
+donned the armor did they go thoroughly mad.</text>
+<text id="22530101">Replica of the armor of the loyal knight Syan.
+This solidly-crafted gear offers high defense.
+
+Sir Syan was widely known as the kingdom's
+most leal knight, and when the Giants invaded,
+he volunteered to lead the advance party,
+but was slaughtered most dishonorably.
+
+The King commissioned replicas of Syan's
+accoutrements and bestowed them to
+promising knights, but not long after they
+donned the armor did they go thoroughly mad.</text>
+<text id="22530102">Replica of the gauntlets of the loyal knight Syan.
+This solidly-crafted gear offers high defense.
+
+Sir Syan was widely known as the kingdom's
+most leal knight, and when the Giants invaded,
+he volunteered to lead the advance party,
+but was slaughtered most dishonorably.
+
+The King commissioned replicas of Syan's
+accoutrements and bestowed them to
+promising knights, but not long after they
+donned the armor did they go thoroughly mad.</text>
+<text id="22530103">Replica of the leggings of the loyal knight Syan.
+This solidly-crafted gear offers high defense.
+
+Sir Syan was widely known as the kingdom's
+most leal knight, and when the Giants invaded,
+he volunteered to lead the advance party,
+but was slaughtered most dishonorably.
+
+The King commissioned replicas of Syan's
+accoutrements and bestowed them to
+promising knights, but not long after they
+donned the armor did they go thoroughly mad.</text>
+<text id="22540100">Skeleton Lord Crown.
+High dark defense.
+
+The Old Iron King led his best men
+on Undead hunts, but their memories
+were purged in rebirth.</text>
+<text id="22540101">Skeleton Lord robe.
+High dark defense.
+
+The very men who were ordered to hunt
+down the Undead were themselves
+hollowed, and founded a kingdom of bone.</text>
+<text id="22540102">Skeleton Lord cuffs.
+High dark defense.
+
+The very men who were ordered to hunt
+down the Undead were themselves
+hollowed, and founded a kingdom of bone.</text>
+<text id="22540103">Skeleton Lord skirt.
+High dark defense.
+
+The very men who were ordered to hunt
+down the Undead were themselves
+hollowed, and founded a kingdom of bone.</text>
+<text id="23010100">Greathelm worn by Heide Knights.
+
+Whether Heide refers to a kingdom or
+was just a name for the land is not clear,
+for no records date back far enough to tell.
+
+All that is known is that the Way of Blue
+has its origins in Heide, and that Heide
+was later subsumed by the sea.</text>
+<text id="23010101">Chainmail worn by Heide Knights.
+
+Whether Heide refers to a kingdom or
+was just a name for the land is not clear,
+for no records date back far enough to tell.
+
+All that is known is that the Way of Blue
+has its origins in Heide, and that Heide
+was later subsumed by the sea.</text>
+<text id="23010102">Gauntlets worn by Heide Knights.
+
+Whether Heide refers to a kingdom or
+was just a name for the land is not clear,
+for no records date back far enough to tell.
+
+All that is known is that the Way of Blue
+has its origins in Heide, and that Heide
+was later subsumed by the sea.</text>
+<text id="23010103">Leggings worn by Heide Knights.
+
+Whether Heide refers to a kingdom or
+was just a name for the land is not clear,
+for no records date back far enough to tell.
+
+All that is known is that the Way of Blue
+has its origins in Heide, and that Heide
+was later subsumed by the sea.</text>
+<text id="23011100">Iron mask worn by Heide Knights.
+
+Whether Heide refers to a kingdom or
+was just a name for the land is not clear,
+for no records date back far enough to tell.
+
+All that is known is that the Way of Blue
+has its origins in Heide, and that Heide
+was later subsumed by the sea.</text>
+<text id="23040101">Dress worn by a far-gone muse.
+Offers almost no physical defense,
+but is blessed with high resistance to magic.
+
+These enchanting singers were given song by the
+Great Dead One, and have little concept of self.
+They live only to sing, and will continue singing
+until they can do so no longer.</text>
+<text id="23050100">Helm of the Smelter Demon,
+a great mass of iron that was given life.
+High fire defense.
+
+The Old Iron King was possessed of a great bounty
+of ore, but was incinerated by a creature that rose
+from the infernal depths of the earth.</text>
+<text id="23050101">Armor of the Smelter Demon,
+a great mass of iron that was given life.
+High fire defense.
+
+The Old Iron King was possessed of a great bounty
+of ore, but was incinerated by a creature that rose
+from the infernal depths of the earth.</text>
+<text id="23050102">Gauntlets of the Smelter Demon,
+a great mass of iron that was given life.
+High fire defense.
+
+The Old Iron King was possessed of a great bounty
+of ore, but was incinerated by a creature that rose
+from the infernal depths of the earth.</text>
+<text id="23050103">Leggings of the Smelter Demon,
+a great mass of iron that was given life.
+High fire defense.
+
+The Old Iron King was possessed of a great bounty
+of ore, but was incinerated by a creature that rose
+from the infernal depths of the earth.</text>
+<text id="23060100">Helmet worn by the captain of the Alonne Knights.
+
+The accoutrements of the Alonne Knights, who
+served the Old Iron King, were created with an
+advanced casting technique. They remain solid, 
+and handsomely crafted.
+
+The design is styled after the armor worn by an
+unusual knight who trained the Iron King's men in
+the sword. He was said to have deserted his liege
+after bearing witness to his descent into depravity.</text>
+<text id="23060101">Armor worn by the captain of the Alonne Knights.
+
+The accoutrements of the Alonne Knights, who
+served the Old Iron King, were created with an
+advanced casting technique. They remain solid,
+ and handsomely crafted.
+
+The design is styled after the armor worn by an
+unusual knight who trained the Iron King's men in
+the sword. He was said to have deserted his liege
+after bearing witness to his descent into depravity.</text>
+<text id="23061100">Helm worn by Alonne Knights.
+
+The bonds of the Alonne Knights, who served the
+Old Iron King, were mightier than the land's iron,
+but in the end the knights were subsumed
+by the flames that brought the castle down.</text>
+<text id="23061101">Armor worn by Alonne Knights.
+
+The bonds of the Alonne Knights, who served the
+Old Iron King, were mightier than the land's iron,
+but in the end the knights were subsumed
+by the flames that brought the castle down.</text>
+<text id="23061102">Gauntlets worn by Alonne Knights.
+
+The bonds of the Alonne Knights, who served the
+Old Iron King, were mightier than the land's iron,
+but in the end the knights were subsumed
+by the flames that brought the castle down.</text>
+<text id="23061103">Leggings worn by Alonne Knights.
+
+The bonds of the Alonne Knights, who served the
+Old Iron King, were mightier than the land's iron,
+but in the end the knights were subsumed
+by the flames that brought the castle down.</text>
+<text id="23070100">Helmet worn by the ferocious Vengarl of Forossa.
+
+As Vengarl's helmet suggests, he was not
+unlike a mad beast on the battlefield.</text>
+<text id="23070101">Armor of the ferocious Vengarl of Forossa.
+
+Vengarl was known as a raging, deadly warrior.
+Even Forossa's Lion Knights, a motley crew of
+rabid fighters, kept him at arm's length.</text>
+<text id="23070102">Gloves of the ferocious Vengarl of Forossa.
+
+Vengarl was known as a raging, deadly warrior.
+Even Forossa's Lion Knights, a motley crew of
+rabid fighters, kept him at arm's length.</text>
+<text id="23070103">Boots of the ferocious Vengarl of Forossa.
+
+Vengarl was known as a raging, deadly warrior.
+Even Forossa's Lion Knights, a motley crew of
+rabid fighters, kept him at arm's length.</text>
+<text id="23080101">Cape worn by Lion Clan warriors.
+
+The Lion Clan are an offshoot race
+that have no ties to humans,
+and would murder anyone with the
+curious notion of approaching them.
+
+The lion clansmen seem to despise their
+own looks, as they hate being seen.
+
+Effect: Reduces falling damage</text>
+<text id="23080102">Cuffs worn by Lion Clan warriors.
+
+The Lion Clan are an offshoot race
+that have no ties to humans,
+and would murder anyone who might have
+the curious notion of approaching them.
+
+The lion clansmen seem to despise their
+own looks, as they hate being seen.
+
+Effect: Reduces falling damage</text>
+<text id="23080103">Skirt worn by Lion Clan warriors.
+
+The Lion Clan are an offshoot race
+that have no ties to humans,
+and would murder anyone with the
+curious notion of approaching them.
+
+The lion clansmen seem to despise their
+own looks, as they hate being seen.
+
+Effect: Reduces falling damage</text>
+<text id="23081100">Helm worn by Lion Clan warriors.
+
+The Lion Clan are an offshoot race
+that have no ties to humans,
+and would murder anyone with the
+curious notion of approaching them.
+
+The lion clansmen seem to despise their
+own looks, as they hate being seen.
+
+Effect: Reduces falling damage</text>
+<text id="23081101">Red cape worn by Lion Clan warriors.
+
+The Lion Clan are an offshoot race
+that have no ties to humans,
+and would murder anyone with the
+curious notion of approaching them.
+
+The lion clansmen seem to despise their
+own looks, as they hate being seen.
+
+Effect: Reduces falling damage</text>
+<text id="23120100">Mask worn by wardens of the crypt.
+No notable effects. Designed only to block light.
+
+The wardens of the crypt watch over the
+slumbering dead, making sure they are not awoken.
+Be they king or peasant, wise or dull, rich or poor,
+the wardens treat them with the same care.</text>
+<text id="23120101">Top worn by wardens of the crypt.
+
+The wardens of the crypt watch over the
+slumbering dead, making sure they are not awoken.
+Be they king or peasant, wise or dull, rich or poor,
+the wardens treat them with the same care.</text>
+<text id="23120102">Cuffs worn by wardens of the crypt.
+
+The wardens of the crypt watch over the
+slumbering dead, making sure they are not awoken.
+Be they king or peasant, wise or dull, rich or poor,
+the wardens treat them with the same care.</text>
+<text id="23120103">Bottoms worn by wardens of the crypt.
+
+The wardens of the crypt watch over the
+slumbering dead, making sure they are not awoken.
+Be they king or peasant, wise or dull, rich or poor,
+the wardens treat them with the same care.</text>
+<text id="23130100">Helm worn by the Volgen Falconers.
+
+Domestic Volgen soldiers are infamously timid,
+so it is no wonder that this fierce band of
+mercenary falconers was hired to compensate.
+
+In practice they serve as bodyguards for the
+affluent elite, and they serve well, such that
+nobody dares scrutinize their backgrounds.</text>
+<text id="23130101">Armor worn by the Volgen Falconers.
+
+Domestic Volgen soldiers are infamously timid,
+so it is no wonder that this fierce band of
+mercenary falconers was hired to compensate.
+
+In practice they serve as bodyguards for the
+affluent elite, and they serve well, such that
+nobody dares scrutinize their backgrounds.</text>
+<text id="23130102">Gloves worn by the Volgen Falconers.
+
+Domestic Volgen soldiers are infamously timid,
+so it is no wonder that this fierce band of
+mercenary falconers was hired to compensate.
+
+In practice they serve as bodyguards for the
+affluent elite, and they serve well, such that
+nobody dares scrutinize their backgrounds.</text>
+<text id="23130103">Boots worn by the Volgen Falconers.
+
+Domestic Volgen soldiers are infamously timid,
+so it is no wonder that this fierce band of
+mercenary falconers was hired to compensate.
+
+In practice they serve as bodyguards for the
+affluent elite, and they serve well, such that
+nobody dares scrutinize their backgrounds.</text>
+<text id="23140100">Helm worn by the Primal Knights
+of Drangleic castle.
+Durability is low due to rusting.
+
+Its weight would normally crush a man,
+but to the brutish Primal Knights
+it may as well be made of papyrus.</text>
+<text id="23140101">Armor worn by the Primal Knights
+of Drangleic castle.
+Durability is low due to rusting.
+
+Its weight would normally crush a man,
+but to the brutish Primal Knights
+it may as well be made of papyrus.</text>
+<text id="23140102">Gauntlets worn by the Primal Knights
+of Drangleic castle.
+Durability is low due to rusting.
+
+Its weight would normally crush a man,
+but to the brutish Primal Knights
+it may as well be made of papyrus.</text>
+<text id="23140103">Leggings worn by the Primal Knights
+of Drangleic castle.
+Durability is low due to rusting.
+
+Its weight would normally crush a man,
+but to the brutish Primal Knights
+it may as well be made of papyrus.</text>
+<text id="23150100">Helm worn by the Primal Knights
+of Drangleic castle.
+
+Its weight would normally crush a man,
+but the Primal Knights wear it as if it were silk,
+so fearsome is their brute strength.
+
+The King restored a forbidden, long-lost art
+to create these inhuman abominations.</text>
+<text id="23150101">Armor worn by the Primal Knights
+of Drangleic castle.
+
+Its weight would normally crush a man,
+but the Primal Knights wear it as if it were silk,
+so fearsome is their brute strength.
+
+The King restored a forbidden, long-lost art
+to create these inhuman abominations.</text>
+<text id="23150102">Gauntlets worn by the Primal Knights
+of Drangleic castle.
+
+Their weight would normally crush a man,
+but the Primal Knights wear them as if they were
+silk, so fearsome is their brute strength.
+
+The King restored a forbidden, long-lost art
+to create these inhuman abominations.</text>
+<text id="23150103">Leggings worn by the Primal Knights
+of Drangleic castle.
+
+Their weight would normally crush a man,
+but the Primal Knights wear them as if they were
+silk, so fearsome is their brute strength.
+
+The King restored a forbidden, long-lost art
+to create these inhuman abominations.</text>
+<text id="23160100">Sorceress hood from the distant land of Jugo.
+Appears to be a plain, thin fabric,
+but is permeated with powerful magic.
+
+Desert Sorceresses have enchanting looks,
+and they use them to catch people off guard.
+
+Oddly enough, even those who are perceptive
+enough to realize the ploy fall prey to their
+seductions with alarming regularity.</text>
+<text id="23160101">Sorceress top from the distant land of Jugo.
+Appears to be a plain, thin fabric,
+but is permeated with powerful magic.
+
+Desert Sorceresses have enchanting looks,
+and they use them to catch people off guard.
+
+Oddly enough, even those who are perceptive
+enough to realize the ploy fall prey to their
+seductions with alarming regularity.</text>
+<text id="23160102">Sorceress gloves from the distant land of Jugo.
+Appears to be a plain, thin fabric,
+but is permeated with powerful magic.
+
+Desert Sorceresses have enchanting looks,
+and they use them to catch people off guard.
+
+Oddly enough, even those who are perceptive
+enough to realize the ploy fall prey to their
+seductions with alarming regularity.</text>
+<text id="23160103">Sorceress skirt from the distant land of Jugo.
+Appears to be a plain, thin fabric,
+but is permeated with powerful magic.
+
+Desert Sorceresses have enchanting looks,
+and they use them to catch people off guard.
+
+Oddly enough, even those who are perceptive
+enough to realize the ploy fall prey to their
+seductions with alarming regularity.</text>
+<text id="23170100">Mask worn by acolytes of Aldia.
+
+Several of the greatest minds converged in Aldia
+to weave strange new rituals, but rumors suggest
+that during the course of their work their thoughts
+were not their own.
+
+The nebulous face of the mask is designed
+to deflect the ire of the ritual sacrifice. </text>
+<text id="23170101">Robe worn by acolytes of Aldia.
+
+Several of the greatest minds converged in Aldia
+to weave strange new rituals, but rumors suggest
+that during the course of their work their thoughts
+were not their own.
+
+This white robe is designed to bear the brunt
+of the ritual sacrifice's gushing blood. </text>
+<text id="23170102">Gloves worn by acolytes of Aldia.
+
+Several of the greatest minds converged in Aldia
+to weave strange new rituals, but rumors suggest
+that during the course of their work their thoughts
+were not their own.
+
+These white gloves are designed to bear the
+brunt of the ritual sacrifice's gushing blood. </text>
+<text id="23170103">Boots worn by acolytes of Aldia.
+
+Several of the greatest minds converged in Aldia
+to weave strange new rituals, but rumors suggest
+that during the course of their work their thoughts
+were not their own.
+
+These practical boots are designed to prevent the
+acolyte from slipping on the blood of the sacrifice.</text>
+<text id="23171100">Hood worn by the Archmaster of Aldia.
+
+Several of the greatest minds converged in Aldia
+to weave strange new rituals, but rumors suggest
+that during the course of their work their thoughts
+were not their own.
+
+The nebulous face of the mask is designed
+to deflect the ire of the ritual sacrifice. </text>
+<text id="23250100">Helmet worn by the jailer's creation,
+the Ruin Sentinel.
+
+The sentinel has no form,
+its soul residing within the armor itself.
+Stare at it for long and its seems ready to
+spring to life, but surely, such is an illusion.</text>
+<text id="23250101">Armor worn by the jailer's creation,
+the Ruin Sentinel.
+
+The sentinel has no form,
+its soul residing within the armor itself.
+Stare at it for long and its seems ready to
+spring to life, but surely, such is an illusion.</text>
+<text id="23250102">Gauntlets worn by the jailer's creation,
+the Ruin Sentinel.
+
+The sentinel has no form,
+its soul residing within the armor itself.
+Stare at it for long and its seems ready to
+spring to life, but surely, such is an illusion.</text>
+<text id="23250103">Leggings worn by the jailer's creation,
+the Ruin Sentinel.
+
+The sentinel has no form,
+its soul residing within the armor itself.
+Stare at it for long and its seems ready to
+spring to life, but surely, such is an illusion.</text>
+<text id="23300100">An old undated helmet.
+
+How old could this nearly-crumbling helmet be?
+Has extremely low durability.
+
+Sometimes, just as a thing falls to pieces,
+it unleashes its last flash of great power...</text>
+<text id="23300101">Old undated Armor.
+
+How old could this nearly-crumbling armor be?
+Has extremely low durability.
+
+Sometimes, just as a thing falls to pieces,
+it unleashes its last flash of great power...</text>
+<text id="23300102">Old undated Gauntlets.
+
+How old could these nearly-crumbling gauntlets be?
+Extremely low durability.
+
+Sometimes, just as a thing falls to pieces,
+it unleashes its last flash of great power...</text>
+<text id="23300103">Old undated Leggings.
+
+How old could these nearly-crumbling leggings be?
+Extremely low durability.
+
+Sometimes, just as a thing falls to pieces,
+it unleashes its last flash of great power...</text>
+<text id="23310100">Giant onyx helmet.
+
+Something dark indeed eats away at the
+drakekeepers, eternal guardians of the shrine.</text>
+<text id="23310101">Giant onyx armor.
+
+Something dark indeed eats away at the
+drakekeepers, eternal guardians of the shrine.</text>
+<text id="23310102">Giant onyx gauntlets.
+
+Something dark indeed eats away at the
+drakekeepers, eternal guardians of the shrine.</text>
+<text id="23310103">Giant onyx leggings.
+
+Something dark indeed eats away at the
+drakekeepers, eternal guardians of the shrine.</text>
+<text id="23320100">Helmet worn by the Throne Defender.
+
+The Defender has stood by the throne for ages.
+Will his wait be worth the while?</text>
+<text id="23320101">Armor worn by the Throne Defender.
+
+The Defender has stood by the throne for ages.
+Will his wait be worth the while?</text>
+<text id="23320102">Gauntlets worn by the Throne Defender.
+
+The Defender has stood by the throne for ages.
+Will his wait be worth the while?</text>
+<text id="23320103">Leggings worn by the Throne Defender.
+
+The Defender has stood by the throne for ages.
+Will his wait be worth the while?</text>
+<text id="23330100">Helm worn by the Royal Aegis.
+Originally imbued with the power of miracles,
+now soaked with dark after extended exposure
+in the Undead Crypt.
+
+A knight from a faraway land was lured to this
+accursed land, but forgot even why he came,
+eventually reduced to a shadow of his former self.</text>
+<text id="23330101">Armor worn by the Royal Aegis.
+Originally imbued with the power of miracles,
+now soaked with dark after extended exposure
+in the Undead Crypt.
+
+A knight from a faraway land was lured to this
+accursed land, but forgot even why he came,
+eventually reduced to a shadow of his former self.</text>
+<text id="23330102">Gauntlets worn by the Royal Aegis.
+Originally imbued with the power of miracles,
+now soaked with dark after extended exposure
+in the Undead Crypt.
+
+A knight from a faraway land was lured to this
+accursed land, but forgot even why he came,
+eventually reduced to a shadow of his former self.</text>
+<text id="23330103">Leggings worn by the Royal Aegis.
+Originally imbued with the power of miracles,
+now soaked with dark after extended exposure
+in the Undead Crypt.
+
+A knight from a faraway land was lured to this
+accursed land, but forgot even why he came,
+eventually reduced to a shadow of his former self.</text>
+<text id="23340100">Helm worn by the Throne Watcher.
+Has high magic defense.
+
+The Watcher waited by the throne for ages.
+Will all his waiting ever be rewarded?</text>
+<text id="23340101">Armor worn by the Throne Watcher.
+Has high magic defense.
+
+The Watcher waited by the throne for ages.
+Will all his waiting ever be rewarded?</text>
+<text id="23340102">Gauntlets worn by the Throne Watcher.
+Has high magic defense.
+
+The Watcher waited by the throne for ages.
+Will all his waiting ever be rewarded?</text>
+<text id="23340103">Leggings worn by the Throne Watcher.
+Has high magic defense.
+
+The Watcher waited by the throne for ages.
+Will all his waiting ever be rewarded?</text>
+<text id="25040100">Mask worn by the Looking Glass Knight.
+Made of metal, but has high lightning defense.
+
+Those who wish to serve the king as loyal
+warriors must take the King's Passage
+and face the Looking Glass Knight.
+
+Those who fail the test are sacrificed
+by the merciless specular monstrosity.</text>
+<text id="25040101">Armor worn by the Looking Glass Knight.
+Made of metal, but has high lightning defense.
+
+Those who wish to serve the king as loyal
+warriors must take the King's Passage
+and face the Looking Glass Knight.
+
+Those who fail the test are sacrificed
+by the merciless specular monstrosity.</text>
+<text id="25040102">Gauntlets worn by the Looking Glass Knight.
+Made of metal, but have high lightning defense.
+
+Those who wish to serve the king as loyal
+warriors must take the King's Passage
+and face the Looking Glass Knight.
+
+Those who fail the test are sacrificed
+by the merciless specular monstrosity.</text>
+<text id="25040103">Leggings worn by the Looking Glass Knight.
+Made of metal, but have high lightning defense.
+
+Those who wish to serve the king as loyal
+warriors must take the King's Passage
+and face the Looking Glass Knight.
+
+Those who fail the test are sacrificed
+by the merciless specular monstrosity.</text>
+<text id="25060101">Robe worn by Agdayne of the Undead Crypt.
+
+Life itself is suffering; or karma,
+as some have called it.
+
+The embrace of death awaits all things.
+But does death mean an end to suffering?</text>
+<text id="25060102">Cuffs worn by Agdayne of the Undead Crypt.
+
+Life itself is suffering; or karma,
+as some have called it.
+
+The embrace of death awaits all things.
+But does death mean an end to suffering?</text>
+<text id="25060103">Kilt worn by Agdayne of the Undead Crypt.
+
+Life itself is suffering; or karma,
+as some have called it.
+
+The embrace of death awaits all things.
+But does death mean an end to suffering?</text>
+<text id="25090100">Hood worn by Leydia witches.
+
+Leydia apostles worship Galib, god of disease.
+They once resided in the Undead Crypt
+beside Fenito.
+
+The Leydia witches grew conceited,
+and began to manipulate both the onset
+and curing of disease, making themselves
+the effective gatekeepers of the crypt.</text>
+<text id="25090101">Robe worn by Leydia witches.
+
+Leydia apostles worship Galib, god of disease.
+They once resided in the Undead Crypt
+beside Fenito.
+
+The Leydia witches grew conceited,
+and began to manipulate both the onset
+and curing of disease, making themselves
+the effective gatekeepers of the crypt.</text>
+<text id="25100100">Helmet worn by once-proud clerics.
+
+Relics of a party who long ago attempted
+to conquer the Undead Crypt.
+
+For this sin their deaths have been postponed,
+so they may serve as crypt sentries.</text>
+<text id="25100101">Armor worn by once-proud clerics.
+
+Relics of a party who long ago attempted
+to conquer the Undead Crypt.
+
+For this sin their deaths have been postponed,
+so they may serve as crypt sentries.</text>
+<text id="25100102">Gloves worn by once-proud clerics.
+
+Relics of a party who long ago attempted
+to conquer the Undead Crypt.
+
+For this sin their deaths have been postponed,
+so they may serve as crypt sentries.</text>
+<text id="25100103">Boots worn by once-proud clerics.
+
+Relics of a party who long ago attempted
+to conquer the Undead Crypt.
+
+For this sin their deaths have been postponed,
+so they may serve as crypt sentries.</text>
+<text id="25110100">Helmet worn by once-proud knights.
+
+Relics of a party who long ago
+attempted to conquer the Undead Crypt.
+
+For this act of conceit they will never rest
+in peace, and instead serve as crypt guardians.</text>
+<text id="25110101">Armor worn by once-proud knights.
+
+Relics of a party who long ago
+attempted to conquer the Undead Crypt.
+
+For this act of conceit they will never rest
+in peace, and instead serve as crypt guardians.</text>
+<text id="25110102">Gloves worn by once-proud knights.
+
+Relics of a party who long ago
+attempted to conquer the Undead Crypt.
+
+For this act of conceit they will never rest
+in peace, and instead serve as crypt guardians.</text>
+<text id="25110103">Leggings worn by once-proud knights.
+
+Relics of a party who long ago
+attempted to conquer the Undead Crypt.
+
+For this act of conceit they will never rest
+in peace, and instead serve as crypt guardians.</text>
+<text id="25120100">Hood of a Leydia pyromancer.
+
+Leydia apostles, in their conceit, occupied
+the Undead Crypt and misused death.
+
+This invoked the ire of Fenito,
+who branded them as transgressors.</text>
+<text id="25120101">Robe of a Leydia pyromancer.
+
+Leydia apostles, in their conceit, occupied
+the Undead Crypt and misused death.
+
+This invoked the ire of Fenito,
+who branded them as transgressors.</text>
+<text id="25120102">Gauntlets of a Leydia pyromancer.
+
+Leydia apostles, in their conceit, occupied
+the Undead Crypt and misused death.
+
+This invoked the ire of Fenito,
+who branded them as transgressors.</text>
+<text id="25130100">Crown of Vendrick, King of Drangleic.
+
+What makes a king?
+Some say that it is birthright,
+while others call it destiny.
+
+Perhaps it is not important, as long as
+the king's name serves to unite his people.</text>
+<text id="25130101">Armor of Vendrick, King of Drangleic.
+
+What makes a king?
+Some say that it is birthright,
+while others call it destiny.
+
+Perhaps it is not important, as long as
+the king's name serves to unite his people.</text>
+<text id="25130102">Gauntlets of Vendrick, King of Drangleic.
+
+What makes a king?
+Some say that it is birthright,
+while others call it destiny.
+
+Perhaps it is not important, as long as
+the king's name serves to unite his people.</text>
+<text id="25130103">Leggings of Vendrick, King of Drangleic.
+
+What makes a king?
+Some say that it is birthright,
+while others call it destiny.
+
+Perhaps it is not important, as long as
+the king's name serves to unite his people.</text>
+<text id="26100100">Helm worn by the Dragonriders,
+King Vendrick's royal guard.
+According to legend, the Dragonriders
+straddled not horses, but wyrms.
+
+Aspiring Dragonriders who had not the mettle
+to handle their training were torn apart by
+their wyrms, and those who survived emerged
+with deific strength.</text>
+<text id="26100101">Armor worn by the Dragonriders,
+King Vendrick's royal guard.
+According to legend, the Dragonriders
+straddled not horses, but wyrms.
+
+Aspiring Dragonriders who had not the mettle
+to handle their training were torn apart by
+their wyrms, and those who survived emerged
+with deific strength.</text>
+<text id="26100102">Gauntlets worn by King Vendrick's loyal
+Dragonriders.
+According to legend, the Dragonriders went into
+battle astride not horses, but wyrms.
+
+Aspiring Dragonriders who had not the mettle
+to handle their training were torn apart by
+their wyrms, and those who survived emerged
+with deific strength.</text>
+<text id="26100103">Leggings worn by King Vendrick's loyal Dragonriders.
+According to legend, the Dragonriders went into
+battle astride not horses, but wyrms.
+
+Aspiring Dragonriders who had not the mettle
+to handle their training were torn apart by
+their wyrms, and those who survived emerged
+with deific strength.</text>
+<text id="26180100">Black helmet worn by the executioner
+of the Undead Purgatory. The spikes
+are designed to evoke fear.
+
+The executioner mercilessly put down countless
+Undead, but how could he know that it was never
+his own will, but that of the chariot horse?</text>
+<text id="26180101">Black Armor worn by the executioner
+of the Undead Purgatory. The spikes
+are designed to evoke fear.
+
+The executioner mercilessly put down countless
+Undead, but how could he know that it was never
+his own will, but that of the chariot horse?</text>
+<text id="26180102">Black gauntlets worn by the executioner
+of the Undead Purgatory. The spikes
+are designed to evoke fear.
+
+The executioner mercilessly put down countless
+Undead, but how could he know that it was never
+his own will, but that of the chariot horse?</text>
+<text id="26180103">Black Leggings worn by the executioner
+of the Undead Purgatory. The spikes
+are designed to evoke fear.
+
+The executioner mercilessly put down countless
+Undead, but how could he know that it was never
+his own will, but that of the chariot horse?</text>
+<text id="26260100">Mask of the Lost Sinner.
+Increases equip load.
+
+The spikes pointing inward suggest that
+this was not only used to bind prisoners,
+but to torture them as well.
+
+Effect: Raises equipment load</text>
+<text id="26260101">Straightjacket of the Lost Sinner.
+
+A tightly cinched belt presses against the waist.
+By now, no one knows who this was used to
+punish, or for what reason.</text>
+<text id="26260102">Hand restraints of the Lost Sinner.
+Increases power of pyromancy.
+
+A device used to restrict use of the hands.
+By now, no one knows who this was used to
+punish, or for what reason.
+
+Effect: Raises power of pyromancies</text>
+<text id="26260103">Skirt worn by the Lost Sinner
+
+A tattered skirt that the guilty wear in shame.
+By now, no one knows who this was used to
+punish, or for what reason.</text>
+<text id="26510100">Mask worn by fume sorcerers.
+
+After the Old Iron King sunk into the lava,
+scores of men were dispatched to this land
+to tap the replete stores of iron.
+
+But they soon lost their nerve when faced with
+the child of Dark, and all but the most steadfast
+of them became servants of the black fog.</text>
+<text id="26510101">Robes worn by fume sorcerers.
+
+After the Old Iron King sunk into the lava,
+scores of men were dispatched to this land
+to tap the replete stores of iron.
+
+But they soon lost their nerve when faced with
+the child of Dark, and all but the most steadfast
+of them became servants of the black fog.</text>
+<text id="26510102">Gloves worn by fume sorcerers.
+
+After the Old Iron King sunk into the lava,
+scores of men were dispatched to this land
+to tap the replete stores of iron.
+
+But they soon lost their nerve when faced with
+the child of Dark, and all but the most steadfast
+of them became servants of the black fog.</text>
+<text id="26510103">Boots worn by fume sorcerers.
+
+After the Old Iron King sunk into the lava,
+scores of men were dispatched to this land
+to tap the replete stores of iron.
+
+But they soon lost their nerve when faced with
+the child of Dark, and all but the most steadfast
+of them became servants of the black fog.</text>
+<text id="26590100">Helm of the rampart golems,
+granted life by the Ivory King.
+
+The golems were charged with the
+containment of the creatures of chaos
+within the boundaries of the wall.
+
+When the doors of Eleum Loyce were
+flung open, the place turned frigid and lifeless,
+but the golems remained dutifully on guard. </text>
+<text id="26590101">Armor of the rampart golems,
+granted life by the Ivory King.
+
+The golems were charged with the
+containment of the creatures of chaos
+within the boundaries of the wall.
+
+When the doors of Eleum Loyce were
+flung open, the place turned frigid and lifeless,
+but the golems remained dutifully on guard. </text>
+<text id="26590102">Gauntlets of the rampart golems,
+granted life by the Ivory King.
+
+The golems were charged with the
+containment of the creatures of chaos
+within the boundaries of the wall.
+
+When the doors of Eleum Loyce were
+flung open, the place turned frigid and lifeless,
+but the golems remained dutifully on guard. </text>
+<text id="26590103">Leggings of the rampart golems,
+granted life by the Ivory King.
+
+The golems were charged with the
+containment of the creatures of chaos
+within the boundaries of the wall.
+
+When the doors of Eleum Loyce were
+flung open, the place turned frigid and lifeless,
+but the golems remained dutifully on guard. </text>
+<text id="26650100">Helm of the sanctum knights.
+
+The sanctum knights renounced their own
+flesh to eternally guard the Sanctum
+from Sir Yorgh and his Drakeblood Knights.</text>
+<text id="26650101">Armor of the sanctum knights.
+
+The sanctum knights renounced their own
+flesh to eternally guard the Sanctum
+from Sir Yorgh and his Drakeblood Knights.</text>
+<text id="26650102">Gauntlets of the sanctum knights.
+
+The sanctum knights renounced their own
+flesh to eternally guard the Sanctum
+from Sir Yorgh and his Drakeblood Knights.</text>
+<text id="26650103">Leggings of the sanctum knights.
+
+The sanctum knights renounced their own
+flesh to eternally guard the Sanctum
+from Sir Yorgh and his Drakeblood Knights.
+
+Effect: Reduces falling damage</text>
+<text id="26660102">Gauntlets of the sanctum soldiers.
+Improves effect of poison weapons.
+
+These gauntlets are corroded by the
+poison of the slumbering dragon, making it
+difficult to discern their original shape.</text>
+<text id="26700100">Tiara of the Eternal Sanctum priestesses.
+Prevents effects that block spells.
+
+This tiara has been warped by poison,
+adding to its already peculiar design.
+It is said that the priestesses sang
+to preserve the dragon's deep slumber,
+but one wonders if a single phrase of
+their song ever reached the dragon's ears.</text>
+<text id="26750100">Helm worn by the fume knight.
+
+The rebel Raime, after his defeat at the
+hands of Velstadt, came to Brume Tower
+in search of greater strength.
+
+When he found it, it came not from
+a regal father figure like before,
+but from a newfound mother,
+who gave him true purpose.</text>
+<text id="26750101">Armor worn by the fume knight.
+
+The rebel Raime, after his defeat at the
+hands of Velstadt, came to Brume Tower
+in search of greater strength.
+
+When he found it, it came not from
+a regal father figure like before,
+but from a newfound mother,
+who gave him true purpose.</text>
+<text id="26750102">Gauntlets worn by the fume knight.
+
+The rebel Raime, after his defeat at the
+hands of Velstadt, came to Brume Tower
+in search of greater strength.
+
+When he found it, it came not from
+a regal father figure like before,
+but from a newfound mother,
+who gave him true purpose.</text>
+<text id="26750103">Leggings worn by the fume knight.
+
+The rebel Raime, after his defeat
+by Velstadt, came to Brume Tower
+in search of greater strength.
+
+When he found it, it came not from
+a regal father figure like before,
+but from a newfound mother,
+who gave him true purpose.</text>
+<text id="26770101">Robe of the retainers in the cathedral city.
+
+Long ago, the retainers attended to
+the priestesses, but with them gone,
+the retainers were left to wander
+frigid Eleum Loyce without purpose.</text>
+<text id="26800100">Helm worn by Sir Alonne,
+who served the Old Iron King.
+
+Sir Alonne came to this land from the east,
+chose to serve a little-known and unestablished
+lord, and helped him become the Old Iron King.
+
+Then, at the very peak of his sire's rule,
+Sir Alonne set out again, in search of
+lands yet unknown.</text>
+<text id="26800101">Armor worn by Sir Alonne,
+who served the Old Iron King.
+
+Sir Alonne came to this land from the east,
+chose to serve a little-known and unestablished
+lord, and helped him become the Old Iron King.
+
+Then, at the very peak of his sire's rule,
+Sir Alonne set out again, in search of
+lands yet unknown.</text>
+<text id="26800102">Gauntlets worn by Sir Alonne,
+who served the Old Iron King.
+
+Sir Alonne came to this land from the east,
+chose to serve a little-known and unestablished
+lord, and helped him become the Old Iron King.
+
+Then, at the very peak of his sire's rule,
+Sir Alonne set out again, in search of
+lands yet unknown.</text>
+<text id="26800103">Leggings worn by Sir Alonne,
+who served the Old Iron King.
+
+Sir Alonne came to this land from the east,
+chose to serve a little-known and unestablished
+lord, and helped him become the Old Iron King.
+
+Then, at the very peak of his sire's rule,
+Sir Alonne set out again, in search of
+lands yet unknown.</text>
+<text id="26880100">Helm of a Knight of Loyce.
+
+The Knights of Loyce were devoted
+guardians of this land that delved
+valiantly into the depths of chaos,
+never to return.
+
+The few that survived remain in
+Eleum Loyce, now frozen over,
+awaiting the call of their master.</text>
+<text id="26880101">Armor of a Knight of Loyce.
+
+The Knights of Loyce were devoted
+guardians of this land that delved
+valiantly into the depths of chaos,
+never to return.
+
+The few that survived remain in
+Eleum Loyce, now frozen over,
+awaiting the call of their master.</text>
+<text id="26880102">Gauntlets of a Knight of Loyce.
+
+The Knights of Loyce were devoted
+guardians of this land that delved
+valiantly into the depths of chaos,
+never to return.
+
+The few that survived remain in
+Eleum Loyce, now frozen over,
+awaiting the call of their master.</text>
+<text id="26880103">Leggings of a Knight of Loyce.
+
+The Knights of Loyce were devoted
+guardians of this land that delved
+valiantly into the depths of chaos,
+never to return.
+
+The few that survived remain in
+Eleum Loyce, now frozen over,
+awaiting the call of their master.</text>
+<text id="26890100">Charred helm of the Knights of Loyce,
+burned black by flame.
+
+These Knights of Loyce plunged into the old Chaos
+with their lord, and lost their sense of self.
+To this day, they still burn in agony,
+alongside their once-proud king.</text>
+<text id="26890101">Charred armor of the Knights of Loyce,
+burned black by flame.
+
+These Knights of Loyce plunged into the old Chaos
+with their lord, and lost their sense of self.
+To this day, they still burn in agony,
+alongside their once-proud king.</text>
+<text id="26890102">Charred gauntlets of the Knights of Loyce,
+burned black by flame.
+
+These Knights of Loyce plunged into the old Chaos
+with their lord, and lost their sense of self.
+To this day, they still burn in agony,
+alongside their once-proud king.</text>
+<text id="26890103">Charred leggings of the Knights of Loyce,
+burned black by flame.
+
+These Knights of Loyce plunged into the old Chaos
+with their lord, and lost their sense of self.
+To this day, they still burn in agony,
+alongside their once-proud king.</text>
+<text id="26900100">Helm of the Ivory King of Eleum Loyce.
+
+The Ivory King kept his countenance from
+his people. The Knights of Loyce dutifully
+followed suit, never unhinging their helmets
+in public view.</text>
+<text id="26900101">Armor of the Ivory King of Eleum Loyce.
+
+The land of Eleum Loyce was a vast rampart
+built to contain the ancient Chaos. The Ivory King
+placed his throne upon the very mouth of Chaos,
+and served as the first line of defense.</text>
+<text id="26900102">Gauntlets of the Ivory King of Eleum Loyce.
+
+The land of Eleum Loyce was a vast rampart
+built to contain the ancient Chaos. The Ivory King
+placed his throne upon the very mouth of Chaos,
+and served as the first line of defense.</text>
+<text id="26900103">Leggings of the Ivory King of Eleum Loyce.
+
+The land of Eleum Loyce was a vast rampart
+built to contain the ancient Chaos. The Ivory King
+placed his throne upon the very mouth of Chaos,
+and served as the first line of defense.</text>
+<text id="26940100">Hood of the Forlorn,
+who wander the land of the Undead.
+
+Born of Aldia's obsession with the
+First Sin, the Forlorn lost both their
+corporeal form and a world to call
+their own. Now they drift into other
+worlds, ever in search of a home.
+
+But without self, one has neither
+beginning nor end, and so
+the Forlorn have only to wander.</text>
+<text id="26940101">Armor of the Forlorn,
+who wander the land of the Undead.
+
+Born of Aldia's obsession with the
+First Sin, the Forlorn lost both their
+corporeal form and a world to call
+their own. Now they drift into other
+worlds, ever in search of a home.
+
+But without self, one has neither
+beginning nor end, and so
+the Forlorn have only to wander.</text>
+<text id="26940102">Gauntlets of the Forlorn,
+who wander the land of the Undead.
+
+Born of Aldia's obsession with the
+First Sin, the Forlorn lost both their
+corporeal form and a world to call
+their own. Now they drift into other
+worlds, ever in search of a home.
+
+But without self, one has neither
+beginning nor end, and so
+the Forlorn have only to wander.</text>
+<text id="26940103">Leggings of the Forlorn,
+who wander the land of the Undead.
+
+Born of Aldia's obsession with the
+First Sin, the Forlorn lost both their
+corporeal form and a world to call
+their own. Now they drift into other
+worlds, ever in search of a home.
+
+But without self, one has neither
+beginning nor end, and so
+the Forlorn have only to wander.</text>
+<text id="27210101">Armor reinforced with rare geisteel.
+Belonged to Chancellor Wellager.
+
+Quality equipment that is both light and strong.
+Crafted by the castle's resident master smith
+Llewellyn, and supplied only to a select few.
+
+His work easily identified by its lack of
+ostentation, Llewellyn focused solely on an
+economy of simplicity and strength.</text>
+<text id="27210102">Gloves reinforced with rare geisteel.
+Excellent defensive gear that is both light
+and sturdy.
+
+Quality equipment that is both light and strong.
+Crafted by the castle's resident master smith
+Llewellyn, and supplied only to a select few.
+
+His work easily identified by its lack of
+ostentation, Llewellyn focused solely on an
+economy of simplicity and strength.</text>
+<text id="27210103">Shoes reinforced with rare geisteel.
+Excellent defensive gear that is both light
+and sturdy.
+
+Quality equipment that is both light and strong.
+Crafted by the castle's resident master smith
+Llewellyn, and supplied only to a select few.
+
+His work easily identified by its lack of
+ostentation, Llewellyn focused solely on an
+economy of simplicity and strength.</text>
+<text id="27240100">A traditional Drangleic helmet.
+Belonged to Captain Drummond.
+
+In his day, King Vendrick was fair and just,
+and expected the same of his liegemen.
+
+This helm was proof of King Vendrick's trust,
+an honor, until his transfiguration.</text>
+<text id="27240101">Traditional Drangleic armor.
+Belonged to Captain Drummond.
+
+Drummond's ancestors have served Drangleic
+for generations, principally as defenders
+of the great fort, but Captain Drummond
+is the last in this proud line.</text>
+<text id="27240102">Traditional Drangleic gauntlets.
+Belonged to Captain Drummond.
+
+Drummond's ancestors have served Drangleic
+for generations, principally as defenders
+of the great fort, but Captain Drummond
+is the last in this proud line.</text>
+<text id="27240103">Traditional Drangleic leggings.
+Belonged to Captain Drummond.
+
+Drummond's ancestors have served Drangleic
+for generations, principally as defenders
+of the great fort, but Captain Drummond
+is the last in this proud line.</text>
+<text id="27420100">Atypical steel mask.
+Belonged to Creighton the Wanderer.
+
+Its design resembles that of the knight order
+of the eastern land of Mirrah, but with some
+odd differences that catch the eye.
+
+Perhaps it is a finely-crafted imitation.</text>
+<text id="27420101">Atypical chainmail.
+Belonged to Creighton the Wanderer.
+
+Its design resembles that of the knight order
+of the eastern land of Mirrah, but with some
+odd differences that catch the eye.
+
+Perhaps it is a finely-crafted imitation.</text>
+<text id="27420102">Atypical chain gloves.
+Belonged to Creighton the Wanderer.
+
+Their design resembles that of the knight order
+of the eastern land of Mirrah, but with some
+odd differences that catch the eye.
+
+Perhaps they are finely-crafted imitations.</text>
+<text id="27420103">Atypical chain leggings.
+Belonged to Creighton the Wanderer.
+
+Their design resembles that of the knight order
+of the eastern land of Mirrah, but with some
+odd differences that catch the eye.
+
+Perhaps they are finely-crafted imitations.</text>
+<text id="27430100">A helmet of unknown origin.
+Belonged to Benhart of Jugo.
+
+Apparently Benhart found this while wandering
+land to land, but its origins are unknown.
+He wore it all the time; he adored it so,
+leaving a slight odor.</text>
+<text id="27430101">Armor of unknown origin.
+Belonged to Benhart of Jugo.
+
+Apparently Benhart found this while wandering
+land to land, but its origins are unknown.
+He wore it all the time; he adored it so,
+leaving a slight odor.</text>
+<text id="27430102">Gauntlets of unknown origin.
+Belonged to Benhart of Jugo.
+
+Apparently Benhart found them while wandering
+land to land, but their origins are unknown.
+He wore them all the time; he adored them so,
+leaving a slight odor.</text>
+<text id="27430103">Boots of unknown origin.
+Belonged to Benhart of Jugo.
+
+Apparently Benhart found them while wandering
+land to land, but their origins are unknown.
+He wore them all the time; he adored them so,
+leaving a slight odor.</text>
+<text id="27440100">Helmet made of iron.
+
+A commonplace piece of armor.
+No embellishments. Very solid.</text>
+<text id="27440101">Armor made of sturdy leather.
+
+A commonplace piece of armor.
+No embellishments. Very solid.</text>
+<text id="27440102">Gauntlets made of sturdy leather.
+
+A commonplace piece of armor.
+No embellishments. Very solid.</text>
+<text id="27440103">Boots made of sturdy leather.
+
+A commonplace piece of armor.
+No embellishments. Very solid.</text>
+<text id="27510100">Helm of a light Mirrah foot soldier.
+Belonged to Cale the Cartographer.
+
+Apparently Cale procured this inexpensively
+second-hand, but it's surprisingly well-made.</text>
+<text id="27510101">Armor of a light Mirrah foot soldier.
+Belonged to Cale the Cartographer.
+
+Apparently Cale procured this inexpensively
+second-hand, but it's surprisingly well-made.</text>
+<text id="27510103">Shoes of a light Mirrah foot soldier.
+Belonged to Cale the Cartographer.
+
+Apparently Cale procured these inexpensively
+second-hand, but they're surprisingly well-made.</text>
+<text id="27520100">Mask attached to a ceremonial hat.
+Belonged to Lucatiel of Mirrah.
+
+Normally hats and masks are separate,
+but these two have been adjoined.</text>
+<text id="27520101">Vest worn by knights while on travel.
+Belonged to Lucatiel of Mirrah.
+
+Only those who have distinguished themselves
+on the battlefield were admitted into the elite
+ranks of Mirrah's official order of knights.
+
+It is common to hear of a peasant's dream of
+striving for knighthood as an escape from
+hardship, but who would ever think it possible?</text>
+<text id="27520102">Gloves worn by knights while on travel.
+Belonged to Lucatiel of Mirrah.
+
+Only those who have distinguished themselves
+on the battlefield were admitted into the elite
+ranks of Mirrah's official order of knights.
+
+It is common to hear of a peasant's dream of
+striving for knighthood as an escape from
+hardship, but who would ever think it possible?</text>
+<text id="27520103">Trousers worn by knights while on travel.
+Belonged to Lucatiel of Mirrah.
+
+Only those who have distinguished themselves
+on the battlefield were admitted into the elite
+ranks of Mirrah's official order of knights.
+
+It is common to hear of a peasant's dream of
+striving for knighthood as an escape from
+hardship, but who would ever think it possible?</text>
+<text id="27521100">A hat from the land of Mirrah.
+
+An elite order of knights in a far land
+used this hat in a ceremonial capacity.
+Masterfully crafted, but of little practical
+use on the battlefield.</text>
+<text id="27530100">An old helmet that is oddly comfortable.
+Belonged to a Bell Keeper.
+
+To this day, the forbidden love of the
+Prince of Alken and the Princess of Venn
+manipulates these marionettes.
+
+Surely they never imagined that their dolls
+would outlast their own kingdoms.</text>
+<text id="27530101">An old bellyband that is oddly comfortable.
+Belonged to a Bell Keeper.
+
+To this day, the forbidden love of the
+Prince of Alken and the Princess of Venn
+manipulates these marionettes.
+
+Surely they never imagined that their dolls
+would outlast their own kingdoms.</text>
+<text id="27530102">An old pair of cuffs that are oddly comfortable.
+Belonged to a Bell Keeper.
+
+To this day, the forbidden love of the
+Prince of Alken and the Princess of Venn
+manipulates these marionettes.
+
+Surely they never imagined that their dolls
+would outlast their own kingdoms.</text>
+<text id="27530103">Old trousers that are oddly comfortable.
+Belonged to a Bell Keeper.
+
+To this day, the forbidden love of the
+Prince of Alken and the Princess of Venn
+manipulates these marionettes.
+
+Surely they never imagined that their dolls
+would outlast their own kingdoms.</text>
+<text id="27550100">Mask from an unknown foreign land.
+
+King Vendrick called upon powers from
+beyond his borders in an attempt to
+stave off the curse. Perhaps this belonged
+to one of his guests.</text>
+<text id="27550101">Armor from an unknown foreign land.
+
+King Vendrick called upon powers from
+beyond his borders in an attempt to
+stave off the curse. Perhaps this belonged
+to one of his guests.</text>
+<text id="27550102">Gauntlets from an unknown foreign land.
+
+King Vendrick called upon powers from
+beyond his borders in an attempt to
+stave off the curse. Perhaps they belonged
+to one of his guests.</text>
+<text id="27550103">Leggings from an unknown foreign land.
+
+King Vendrick called upon powers from
+beyond his borders in an attempt to
+stave off the curse. Perhaps they belonged
+to one of his guests.</text>
+<text id="27630101">A terribly worn dress.
+Belonged to Rosabeth of Melfia.
+
+Rosabeth adored this dress, despite the
+fact it has no bearing on pyromancy.
+If it suits your fancy, by all means, try it on.</text>
+<text id="27680100">A black hood.
+Grants slight increase to spellcasting speed.
+Belonged to Straid of Olaphis.
+
+Straid was invited to the old kingdom of Olaphis
+for his wisdom, but its depth was such that
+people soon feared him, and in the end
+Straid was led into a dreadful trap.
+
+Effect: Improves casting speed</text>
+<text id="27680101">A black robe.
+Enchanted with resistance to magic.
+Belonged to Straid of Olaphis.
+
+Straid spent several lifetimes as stone.
+During this hiatus, kingdoms rose and fell,
+until the land called Drangleic came to be.</text>
+<text id="27680102">Black gloves.
+Enchanted with resistance to magic.
+Belonged to Straid of Olaphis.
+
+Straid spent several lifetimes as stone.
+During this hiatus, kingdoms rose and fell,
+until the land called Drangleic came to be.</text>
+<text id="27680103">Black boots.
+Enchanted with resistance to magic.
+Belonged to Straid of Olaphis.
+
+Straid spent several lifetimes as stone.
+During this hiatus, kingdoms rose and fell,
+until the land called Drangleic came to be.</text>
+<text id="27690100">Hood worn by miracle-casting clerics.
+Grants slight increase to spell uses.
+Belonged to Licia of Lindelt.
+
+Lindelt is founded upon stringent commandments.
+Its inhabitants often travel to distant lands
+for ascetic training, but more than a few of
+these trainees liberate themselves from
+Lindelt's teachings in the process.
+
+Effect: Increases number of casts for each spell</text>
+<text id="27690101">Dress worn by miracle-casting clerics.
+Belonged to Licia of Lindelt.
+
+While it's true Licia dedicated herself
+to miracles, it's rare for anyone to pass
+through life without trouble.
+Even clerics aren't always who they seem.</text>
+<text id="27690102">Gloves worn by miracle-casting clerics.
+Belonged to Licia of Lindelt.
+
+While it's true Licia dedicated herself
+to miracles, it's rare for anyone to pass
+through life without trouble.
+Even clerics aren't always who they seem.</text>
+<text id="27690103">Trousers worn by miracle-casting clerics.
+Belonged to Licia of Lindelt.
+
+While it's true Licia dedicated herself
+to miracles, it's rare for anyone to pass
+through life without trouble.
+Even clerics aren't always who they seem.</text>
+<text id="27700100">Hood worn by a hexer.
+Grants slight increase to spell uses.
+Belonged to Felkin the Outcast.
+
+Hexing appears to be an offshoot of sorcery,
+but its specific origins are unknown.
+
+Effect: Increases number of casts for each spell</text>
+<text id="27700101">Robe worn by a hexer.
+Belonged to Felkin the Outcast.
+
+Those who have a taste of dark are drawn
+into its vortex and rarely return.
+Perhaps it appeals to something deep within
+the human soul.</text>
+<text id="27700102">Gloves worn by a hexer.
+Belonged to Felkin the Outcast.
+
+Those who have a taste of dark are drawn
+into its vortex and rarely return.
+Perhaps it appeals to something deep within
+the human soul.</text>
+<text id="27700103">Boots worn by a hexer.
+Belonged to Felkin the Outcast.
+
+Those who have a taste of dark are drawn
+into its vortex and rarely return.
+Perhaps it appeals to something deep within
+the human soul.</text>
+<text id="27710100">Hood worn by a chaos sorcerer.
+
+The man claims to have sealed himself away,
+but who’s ever heard of sentient magic?
+
+It is no doubt difficult to judge the veracity of
+the man's words, but this hood certainly seems
+to possess an unusual power.
+
+Effect: Improves casting speed</text>
+<text id="27710101">Robe worn by a chaos sorcerer.
+
+He calls himself Navlaan now.</text>
+<text id="27710102">Gloves worn by a chaos sorcerer.
+
+He calls himself Navlaan now.</text>
+<text id="27710103">Boots worn by a chaos sorcerer.
+
+He calls himself Navlaan now.</text>
+<text id="27830100">Hood worn by servants of Nahr Alma,
+god of blood.
+Increases souls acquired for each kill.
+Belonged to Titchy Gren.
+
+Those who profess faith in Nahr Alma
+have rejected all that is this world,
+and vow to travel a path stained with blood.
+
+Effect: Increases number of Souls acquired</text>
+<text id="27830101">Robe worn by servants of Nahr Alma,
+god of blood.
+Increases souls acquired for each kill.
+Belonged to Titchy Gren.
+
+Those who profess faith in Nahr Alma
+have rejected all that is this world,
+and vow to travel a path stained with blood.
+
+Effect: Increases number of Souls acquired</text>
+<text id="27950100">Helm of one who guides others.
+Belonged to Targray, Knight of the Blue.
+
+Targray can appear obtuse,
+but the blue knight means no harm.
+He only wishes to offer guidance to
+those in need, for that is his purpose.</text>
+<text id="27950101">Armor of one who guides others.
+Belonged to Targray, Knight of the Blue.
+
+The Blue Sentinels have vowed to uplift
+themselves through tireless training and
+selfless adherence to order and justice.
+May this armor ease their difficult journey.</text>
+<text id="27950102">Manifers of one who guides others.
+Belonged to Targray, Knight of the Blue.
+
+The Blue Sentinels have vowed to uplift
+themselves through tireless training and
+selfless adherence to order and justice.
+May these manifers ease their difficult journey.</text>
+<text id="27950103">Leggings of one who guides others.
+Belonged to Targray, Knight of the Blue.
+
+The Blue Sentinels have vowed to uplift
+themselves through tireless training and
+selfless adherence to order and justice.
+May these leggings ease their difficult journey.</text>
+</entries>

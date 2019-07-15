@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text id="100">Boosts maximum equipment load</text>
+<text id="101">Boosts ATK while HP is low</text>
+<text id="102">Answer Dark Sun Gwyndolin's summoning</text>
+<text id="103">Answer Alvina's summoning</text>
+<text id="104">Boosts stamina recovery speed</text>
+<text id="105">Boosts fire DEF</text>
+<text id="106">Boosts lightning DEF</text>
+<text id="107">Boosts magic DEF</text>
+<text id="108">Slight boost for magic, fire, lightning DEF</text>
+<text id="109">Boosts bleeding resistance</text>
+<text id="110">Boosts poison resistance</text>
+<text id="111">Small increase of HP</text>
+<text id="113">Boosts curse resistance</text>
+<text id="114">Grants additional attunement slots</text>
+<text id="115">Boosts sorcery</text>
+<text id="116">Grants extra magic castings, but halves HP</text>
+<text id="117">Boosts critical attacks</text>
+<text id="119">Extends bow range</text>
+<text id="120">Boosts defense vs. physical attacks</text>
+<text id="121">Boosts item discovery</text>
+<text id="122">Additional souls absorbed for each kill</text>
+<text id="123">Wearer produces no sound whatsoever</text>
+<text id="124">Reduces presence to prevent discovery</text>
+<text id="125">Improves balance on poor footing</text>
+<text id="126">Lose nothing upon death, but ring breaks</text>
+<text id="127">Die, lose nothing, nullify curse, ring breaks</text>
+<text id="128">Changes rolling action</text>
+<text id="130">Boosts miracle synergy</text>
+<text id="133">Ring attacks when incurring sustained damage</text>
+<text id="134">Grants stealth from cursed ghosts</text>
+<text id="137">An old ring, with no known use</text>
+<text id="138">Traverse abyss</text>
+<text id="139">Reduces lava damage</text>
+<text id="140">Sustains dmg in place of wearer, with % break</text>
+<text id="141">Boosts length of sorcery effects</text>
+<text id="142">Absorbs HP from fallen enemies</text>
+<text id="143">Boosts HP, stamina, load. Breaks when removed.</text>
+<text id="144">Boosts counter attacks of thrust weapons</text>
+<text id="145">Slows loss of weapon durability</text>
+<text id="146">Boosts poise</text>
+<text id="147">Boosts DEF while HP is low</text>
+<text id="148">Boosts miracles</text>
+<text id="149">Grants additional attunement slots</text>
+<text id="150">Receive double damage</text>
+</entries>

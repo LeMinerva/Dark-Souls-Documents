@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text id="40010000">An old ring set with a red jewel.
+Raises maximum HP.
+
+Each ring has a different power,
+and even very modest rings can be
+a great boon on a perilous journey.</text>
+<text id="40020000">The ring is named for
+its decorative green blossom,
+but its luster is long since faded.
+
+Raises stamina recovery speed.</text>
+<text id="40030000">A ring bearing a soldier's seal.
+Increases the load that can be carried.
+
+These rings were granted to warriors who
+distinguished themselves in the service of
+King Vendrick. The king favored simple
+warriors who staked their every battle on
+strength alone.</text>
+<text id="40040000">A dragon signet ring.
+Grants its bearer the protection of dragons.
+Increases HP, stamina, and maximum load,
+but is easily broken.
+
+Raulmond, knight of Drangleic, served the
+King by guarding the fort until his own demise,
+and was said to have cherished this ring
+throughout his life of service.</text>
+<text id="40050000">Wearer gains the protection of steel.
+Increases physical defense.
+
+Said to be the ring of the once legendary
+Knight King, though his tales are long
+forgotten, and even the greatly wizened
+have no recollection of his exploits.</text>
+<text id="40060000">A ring bestowed upon students of a
+certain standard at the Melfian Magic Academy.
+Its soul-based quartz increases magic defense.
+
+Pyromancer Glocken crafts these replicas, much to
+the dismay of the conservative old-guard faculty.</text>
+<text id="40070000">A ring bestowed upon students of a
+certain standard at the Melfian Magic Academy.
+Its fire-based quartz increases fire defense.
+
+There are rumors that Pyromancer Glocken
+has made a hefty profit selling these replicas.</text>
+<text id="40080000">A ring bestowed upon students of a
+certain standard at the Melfian Magic Academy.
+Its lightning quartz increases lightning defense.
+
+Pyromancer Glocken crafted so many of these
+replicas that they became widespread, such that
+his fellow magicians harshly scolded him for
+undermining lessons gained from harsh training.</text>
+<text id="40090000">A ring bestowed upon students of a
+certain standard at the Melfian Magic Academy.
+Its dark-infused quartz increases dark defense.
+
+Pyromancer Glocken was criticized for crafting
+these replicas, but it is well known that they
+have saved the life of many a traveler.</text>
+<text id="40100000">One of several "bite" rings,
+known for their peculiar design.
+Increases poison resistance.
+
+The similar, oddly disturbing design
+of these rings suggests a common source.
+Whoever the master craftsman was,
+he clearly knew his trade.</text>
+<text id="40110000">One of several "bite" rings,
+known for their peculiar design.
+Increases bleeding resistance.
+
+The similar, oddly disturbing design
+of these rings suggests a common source.
+Whoever the master craftsman was,
+he clearly knew his trade.</text>
+<text id="40120000">Knuckle ring worn by Rhoy the Explorer.
+Slows equipment degradation.
+
+Expensive, flashy gear will not always
+make life easier for you. Sometimes,
+you just need your tried-and-true
+equipment to last the long haul.</text>
+<text id="40130000">One of several "bite" rings,
+known for their peculiar design.
+Increases curse resistance.
+
+The similar, oddly disturbing design
+of these rings suggests a common source.
+Whoever the master craftsman was,
+he clearly knew his trade.</text>
+<text id="40135000">Knuckle ring worn by Rhoy the Explorer.
+Increases petrification resistance.
+
+Petrification is tantamount to death,
+and in that sense, this knuckle ring
+is a charm that may save your life.</text>
+<text id="40140000">A protective ring set with gemstones
+of four different colors.
+Increases the wearer's resistance to magic,
+lightning, fire and dark.
+
+The artistry required to attune the varying
+powers of four different stones within one ring
+could only be described as transcendental.
+
+There is only one sorcerer who could have
+done this; a man from the lost land of Olaphis.</text>
+<text id="40150000">A protective ring adorned with four blessed
+gems. Increases resistance to poison, bleeding, 
+petrification and curses.
+
+A creation of the lost land of Olaphis.
+The sorcerer who created this was so
+powerful that he became widely feared.</text>
+<text id="40160000">The Ring of Blades is modeled after the
+mad knight of Alken's weapon of choice.
+Increases physical attack.
+
+The kingdoms of Alken and Venn
+long ago flourished on these very grounds.
+They were both founded by the same man,
+but were reduced to rivalry and spite.</text>
+<text id="40210000">A ring blessed by the High Priest of Volgen.
+Increases intelligence.
+
+The clerics of the great city of Volgen are
+perennially entrenched in scandalous power
+struggles, but among them remain a few
+strong-willed, upstanding noblemen.</text>
+<text id="40220000">A ring blessed by the High Priest of Volgen.
+Increases faith.
+
+The clerics of the great city of Volgen are
+perennially entrenched in scandalous power
+struggles, but among them remain a few
+strong-willed, upstanding noblemen.</text>
+<text id="40230000">The beloved ring of the gallant
+Shieldless Lothian, formerly of Forossa.
+Hits greatly reduce enemy poise.
+
+The effect may seem trivial, but for those
+who comprehend how critical it is to exploit a
+hole in enemy defenses, the significance of
+this ring will be clear.</text>
+<text id="40260000">A ring set with a rare tearstone.
+Reacts when the wearer is in danger,
+temporarily increasing its wearer's
+attack power.
+
+Caitha, goddess of tears, mourns the undeserving
+dead, shedding tears as red as blood.
+It is said that the stone set in this ring
+is one such tear.</text>
+<text id="40280000">A ring set with a rare tearstone.
+Reacts when the wearer is in danger,
+temporarily increasing its wearer's
+defense.
+
+Caitha, goddess of tears, mourns those who have
+lost loved ones by shedding pure tears of blue.
+It is said that the stone set in this ring
+is one such tear.</text>
+<text id="40290000">The beloved ring of the gallant
+Shieldless Lothian, formerly of Forossa.
+Increases poise.
+
+Lothian was born a peasant, and died a general.
+His determination and diligence were unmatched,
+especially on the battlefield, where he earned
+his name by choosing to fight without a shield.</text>
+<text id="40295000">The beloved ring of a dragon-slaying knight.
+Strengthens thrust weapon counter attacks.
+
+After many years of use, the ring's face has
+worn down, but close inspection reveals an
+engraved lion.</text>
+<text id="40300000">Divine ring that watches over one's soul.
+Created by Ivory Rhones, sage of Lindelt.
+
+Its great protective power will protect you
+from any loss upon death or petrification,
+but after its power is spent, the ring will break.</text>
+<text id="40310000">Divine ring that watches over one's life.
+Created by the students of Ivory Rhones,
+sage of Lindelt.
+
+Its great protective power will protect you
+from any loss upon death, but after
+its power is spent, the ring will break.</text>
+<text id="40320000">A ring used long, long ago in a land
+that existed where Drangleic does now.
+Extends length of spell effect.
+
+The ancient dragons were once worshipped in
+several nations, and rumors concerning objects
+of similar enchantment to this uncommon ring
+abound in many lands, though their origins
+are no longer verifiable.</text>
+<text id="40330000">A ring that belonged to Fiorenza, the only
+truly moneyed merchant in Volgen.
+Shortens spell casting time.
+
+Fiorenza used his riches to buy up trinkets of
+luxury and rare collectibles, but was ruined
+after years of excessive debauchery.</text>
+<text id="40340000">One of the secret treasures restored in Aldia.
+Increases spell uses, but at the cost of HP.
+
+This modest-looking ring contains
+very powerful magic. To imagine
+what unspeakable deeds were performed
+to create such rings, one need only recall
+the cruel fate of the residents of Aldia.</text>
+<text id="40350000">One of the secret treasures restored in Aldia.
+Raises the number of spells you may attune.
+
+This modest-looking ring contains
+very powerful magic. To imagine
+what unspeakable deeds were performed
+to create such rings, one need only recall
+the cruel fate of the residents of Aldia.</text>
+<text id="40360000">A gold ring depicting the snake,
+both the servant and manifestation
+of the god of desire, Zinder.
+Greed is traditionally viewed as a vice,
+but only a coward sees every chance
+as something to fear.</text>
+<text id="40370000">A silver ring depicting the snake,
+both the servant and manifestation
+of the god of greed, Zandroe.
+
+Greed is traditionally viewed as a vice,
+but only a fool allows that to ruin
+a good opportunity.</text>
+<text id="40390000">A modest, but inexplicably disturbing ring.
+Absorb HP for each enemy defeated.
+
+Peer too closely at the rare stone that
+forms the eye of this ring, and things that
+writhe and stir may come into focus.</text>
+<text id="40400000">A protective ring passed down in House
+Osteria. Gradually restores HP.
+
+In the sacred land of Lindelt, this ring
+symbolized prosperity and longevity
+for the great House Osteria.
+
+But the ring is fragile and breaks easily,
+as if it hates being taken for granted.</text>
+<text id="40410000">An unusual ring of unknown origin.
+Limits the wearer's HP reduction when Hollow.
+
+Alas, this ring will not make you human.
+What is lost is not easily retrieved.</text>
+<text id="40420000">Silver ring depicting a leaping feline.
+Reduces damage from falling.
+
+Legend has it that when cats grow old,
+a force brews within them, and
+they are reborn as something new.</text>
+<text id="40430000">A cursed ring depicting a demon eye.
+Becomes easier to be detected by enemies.
+
+If it is tranquility that you seek,
+then you should never have left your home.
+If you seek strife, then fair enough,
+but no need to overdo it.</text>
+<text id="40440000">The ring of the assassin Gower,
+who has killed a half-dozen kings,
+and several distinguished clergymen.
+Reduces damage taken from behind.
+
+For an assassin, whose own life is always
+at stake, the greatest liability is one's
+exposed back.</text>
+<text id="40450000">A special ring that can be engraved
+with the name of a god.
+Becomes easier to connect to worlds of
+players who chose the same god.
+
+There are countless vestiges of long-lost
+gods in the ruins of Drangleic.
+Or perhaps they are the very same gods
+as ours, only known by different names.</text>
+<text id="40460000">An old ring of the Melfian Magic Academy.
+Depicts a soundly slumbering dragon.
+Masks the sounds made by its wearer.
+
+Though unknown for certain, some say
+the founders of the academy were
+sinful men who came from across
+the northern seas.
+
+The sorceries they left behind were
+fragmentary, and barely legible,
+leading to the loss of much of their wisdom.</text>
+<text id="40470000">A ring graced with the engraving of a hawk.
+Extends the range of arrows.
+
+Blue-eyed Durgo, the nomadic bowman,
+had many a valiant victory in battle,
+half owing to the boon of this ring.</text>
+<text id="40480000">An odd stone ring containing a fiery heat.
+Accumulates power as the user is harmed, then
+explodes, damaging surrounding enemies
+while leaving its wearer unscathed.
+
+Our deeds will come back to us
+in some form or another, both good and bad.</text>
+<text id="40500000">A ring of blue stone.
+The stone is misshaped, however imperceptibly.
+Renders certain equipment invisible.
+
+Do not judge your foes by their appearance.
+He who approaches without a sword
+carries two behind his back.</text>
+<text id="40510000">A soul is much like a curse.
+And those with strong souls must bear
+within themselves an even stronger curse.
+
+Vendrick, King of Drangleic, used a
+powerful soul to keep the curse at bay.
+In the end, he sought the flame that began it all.
+
+Wear this ring to open the King's Gate.</text>
+<text id="40520000">The wearer of this ring appears human
+even when Hollow.
+
+They say that in the Undead Crypt,
+we can reacquaint ourselves with the dead.
+We all suffer loss.
+And none of us can escape death.
+Then, what is the fascination with reclaiming
+that which has already passed into the beyond?</text>
+<text id="40530000">Ring granted protection by Kremmel,
+god of Struggle.
+The ring's spikes drive into the wearer's
+skin, so that each blow taken fuels spite
+toward the perpetrator.
+
+When damage is taken, the ring retaliates
+and inflicts damage upon enemy.</text>
+<text id="40540000">A soft string-like ring tied around the finger.
+Makes it easier for invaders to find your world.
+
+Who would create such a ring, and why?
+Perhaps the answer is better left unknown.</text>
+<text id="40550000">A precious ring which grants the protection
+of  Quella, god of dreams.
+Makes its wearer appear as a phantom,
+misleading invaders.
+
+He who sets the trap must be wary.
+For traps are known to spring upon their owners.</text>
+<text id="40560000">A ring of red stone.
+The stone is misshaped, however imperceptibly.
+Renders certain equipment invisible.
+
+Do not judge your foes by their appearance.
+He who approaches without a sword
+carries two behind his back.</text>
+<text id="40570000">A ring of black stone.
+The stone is misshaped, however imperceptibly.
+Renders certain equipment invisible.
+
+Do not judge your foes by their appearance.
+He who approaches without a sword
+carries two behind his back.</text>
+<text id="40610000">Ring worn by Rhoy the Explorer.
+Hear the inner voices of surrounding foes.
+
+Useful for locating hidden enemies,
+and perhaps for a few other things, as well.</text>
+<text id="40620000">A ring of yellow stone.
+The stone is misshaped, however imperceptibly.
+Renders certain equipment invisible.
+
+Do not judge your foes by their appearance.
+He who approaches without a sword
+carries two behind his back.</text>
+<text id="40700000">Ring of the Rat King covenant.
+
+Join this covenant and wear this ring
+to lure trespassers of the Rat King's territory
+into your world.
+
+If you receive this ring,
+rejoice in the opportunity to demonstrate
+your allegiance to an eminently noble being.</text>
+<text id="40710000">Ring of the Bell Keeper covenant.
+
+Join this covenant and wear this ring
+to be automatically summoned to the world
+of an invader of the bell keepers' domain.
+
+The twin bells symbolize the bond between
+two lovers who could never be united.
+The bell keepers are their eternal guardians.
+For that is their love; that is their curse.</text>
+<text id="40720000">Ring of the Blue Sentinel covenant.
+
+Join this covenant and wear this ring
+to be automatically summoned
+to the worlds of blue apostles
+who have been invaded by dark spirits.
+
+The ring is engraved with the crest of the
+Way of Blue, symbolizing the dignified oath to
+protect each world's master from dark spirits.</text>
+<text id="40730000">Ring of the Brotherhood of Blood covenant.
+
+This ring is nothing special. Perhaps,
+in the end, an oath is but a window
+into the ambitions of the oath taker.
+
+If you have taken this oath,
+then you know what you want.
+To be soaked in the blood of your kind.</text>
+<text id="40740000">Ring of the Way of Blue covenant.
+Increases HP slightly.
+
+The Way of Blue is not a developed religion.
+It is a humble prayer that spread naturally
+amongst those seeking help.
+
+When apostles of Blue are invaded by
+dark spirits, they can receive assistance
+from masters of other worlds.</text>
+<text id="40750000">Ring of the Pilgrims of Dark covenant.
+Increases the attack strength of hexes,
+but casting them reduces HP.
+
+What is dark?
+Perhaps we already know.
+We fear dark, yet find solace in it.
+
+Those who join this covenant can see
+the hidden Dark Chasm.</text>
+<text id="40760000">Ring of the Company of Champions covenant.
+Greatly increases attack power of bare hands.
+
+The souls of fallen heroes found along the way
+salute those who scoff at danger and bravely
+seek the harder path.
+
+Joining this covenant strengthens the enemies
+within your world.</text>
+<text id="40770000">Ring of the Heirs to the Sun covenant.
+Slightly increases miracle attack power.
+
+Worship of the sun, now a lost belief,
+was once widespread amongst great warriors.
+
+Members of this covenant can leave their
+golden signs to be more easily summoned
+to join brethren in jolly cooperation.</text>
+<text id="40780000">Ring of the Dragon Remnants covenant.
+Slightly increases Estus Flask HP recovery.
+
+Possessing a dragon scale is proof of its owner's
+prowess. Strength should always be displayed
+boldly, and meted out justly.
+
+Members of the covenant who bear dragon scales
+can fight with one another. The survivor of the
+duel claims the dragon scale of the opponent.</text>
+<text id="41000000">Ring depicting a simpleton's flower.
+Wearer becomes invisible while rolling.
+
+This ring was worn by the soldiers of
+the Old Iron King, said to be blessed
+with divine protection.
+
+This ring only does one thing, but with
+ingenuity it can be fearsomely effective.</text>
+<text id="41010000">An oddly deformed iron ring.
+Increases the strength of its wearer.
+
+The Old Iron King ruled over
+a great age of iron.
+
+The King's power allowed him
+to mold iron freely, as if he held sway
+over the forces of life and creation.</text>
+<text id="41020000">An oddly deformed iron ring.
+Increases the dexterity of its wearer.
+
+The Old Iron King ruled over
+a great age of iron.
+
+The King's power allowed him
+to mold iron freely, as if he held sway
+over the forces of life and creation.</text>
+<text id="41030000">Ring of the guardians of Eleum Loyce.
+Attacks greatly decrease enemy stamina.
+
+Eleum Loyce existed to subdue
+the raging flame, but when the ivory
+gates were flung open, the land grew cold
+and lifeless.</text>
+<text id="41040000">Ring depicting a hand grasping a stone.
+Increases magic attack,
+but reduces physical defense.
+
+The origin of this ring is unknown,
+but its design suggests one of the
+darker deities.
+
+Effective use of this ring requires
+skill on the part of its wearer.</text>
+<text id="41050000">Ring depicting a hand grasping a stone.
+Increases lightning attack,
+but reduces physical defense.
+
+The origin of this ring is unknown,
+but its design suggests one of the
+darker deities.
+
+Effective use of this ring requires
+skill on the part of its wearer.</text>
+<text id="41060000">Ring depicting a hand grasping a stone.
+Increases fire attack,
+but reduces physical defense.
+
+The origin of this ring is unknown,
+but its design suggests one of the
+darker deities.
+
+Effective use of this ring requires
+skill on the part of its wearer.</text>
+<text id="41070000">Ring depicting a hand grasping a stone.
+Increases dark attack,
+but reduces physical defense.
+
+The origin of this ring is unknown,
+but its design suggests one of the
+darker deities.
+
+Effective use of this ring requires
+skill on the part of its wearer.</text>
+<text id="41090000">Ring of Raime the traitor.
+Reduces stamina loss when blocking
+with shield.
+
+Raime was an agile swordsman who
+served King Vendrick, but after resigning
+from his post, he reconsidered his
+way of life and was born again as
+a stalwart warrior.</text>
+<text id="41100000">Ring of Flynn, the infamous thief.
+Utilizes the strength of the wind,
+such that lower equip load proportionally
+increases physical attack.
+
+Flynn was known as a tiny fighter
+who packed a mighty punch.
+Even the most skilled warriors
+in the land failed to capture him.</text>
+<text id="41110000">Ring crafted from the chains of the Embedded.
+Receive various benefits, but at the cost
+of increased damage taken.
+
+The chains of the Embedded have the power
+to transform people into slaves of pleasure,
+setting them on a path of ruin.
+This ring augments that peculiar quality.</text>
+<text id="41120000">A ring bearing a sharp stud.
+Appear human when a phantom.
+
+This ring jabs into the skin, creating 
+a throbbing pain that serves as
+a constant reminder of one's humanity.</text>
+<text id="41130000">Ring of Sir Yorgh, who sought the blood
+of a dragon and invaded Shulva.
+Can deflect spells.
+
+When Sir Yorgh faced Sinh, the slumbering
+dragon, he drew blood with a flash of his steel,
+but Sinh responded by spewing forth the
+poison that had long brewed within him,
+blanketing the city in a miasmic cloud.</text>
+<text id="42000000">A ring affixed with an open vessel.
+The vessel insatiably absorbs souls
+in place of its wearer, who is left
+unaware even of their collection.
+
+All things are rooted in souls,
+but what drives our thirst for them?
+Abstinence from this elixir may be
+the truest homage to an enduring self.</text>
+</entries>

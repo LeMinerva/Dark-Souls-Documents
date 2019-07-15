@@ -1,0 +1,1591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text id="10000">Distinctively shaped helm worn by the
+Knights of Catarina.
+
+Outside Catarina, it is often ridiculed for
+its onion-like shape, infuriating the proud
+knights, but the masterfully forged curved
+design makes it very effective for parrying.</text>
+<text id="11000">Distinctively shaped armor worn by the
+Knights of Catarina.
+
+Outside Catarina, it is often ridiculed for
+its onion-like shape, infuriating the proud
+knights, but the masterfully forged curved
+design makes it very effective for parrying.</text>
+<text id="12000">Distinctively shaped gauntlets worn by the
+Knights of Catarina.
+
+Outside Catarina, they are often ridiculed
+for their onion-like shape, infuriating the
+proud knights, but the masterfully forged
+curved design makes it very effective for
+parrying.</text>
+<text id="13000">Distinctively shaped leggings worn by the
+Knights of Catarina.
+
+Outside Catarina, they are often ridiculed
+for their onion-like shape, infuriating the
+proud knights, but the masterfully forged
+curved design makes it very effective for
+parrying.</text>
+<text id="20000">Helm of Leeroy, Paladin of the Catacombs.
+
+Long ago, the Way of White produced its
+first Undead, a paladin in golden armor.
+With the legendary treasures Grant and
+Sanctus, Leeroy set out for Lordran,
+Land of the Gods, in the first Undead
+mission of the Way of White.</text>
+<text id="21000">Armor of Leeroy, Paladin of the Catacombs.
+
+Long ago, the Way of White produced its
+first Undead, a paladin in golden armor.
+With the legendary treasures Grant and
+Sanctus, Leeroy set out for Lordran,
+Land of the Gods, in the first Undead
+mission of the Way of White.</text>
+<text id="22000">Gauntlets of Leeroy, Paladin of the
+Catacombs.
+
+Long ago, the Way of White produced its
+first Undead, a paladin in golden armor.
+With the legendary treasures Grant and
+Sanctus, Leeroy set out for Lordran,
+Land of the Gods, in the first Undead
+mission of the Way of White.</text>
+<text id="23000">Leggings of Leeroy, Paladin of the Catacombs.
+
+Long ago, the Way of White produced its
+first Undead, a paladin in golden armor.
+With the legendary treasures Grant and
+Sanctus, Leeroy set out for Lordran,
+Land of the Gods, in the first Undead
+mission of the Way of White.</text>
+<text id="40000">Mask of the Darkwraiths, former knights of
+New Londo who descended into Dark.
+
+Some say the skeletal mask of an ancient
+Darkwraith is partially fused with the flesh
+of its face.</text>
+<text id="41000">Armor of the Darkwraiths, former knights of
+New Londo who descended into Dark.
+
+Their armor transformed, and remains a
+symbol of the Dark servants and their
+diabolical art of Lifedrain.</text>
+<text id="42000">Gauntlets of the Darkwraiths, former knights
+of New Londo who descended into Dark.
+
+Their gauntlets transformed, and remain
+symbol of the Dark servants and their
+diabolical art of Lifedrain.</text>
+<text id="43000">Leggings of the Darkwraiths, former knights
+of New Londo who descended into Dark.
+
+Their leggings transformed, and remain a
+symbol of the Dark servants and their
+diabolical art of Lifedrain.</text>
+<text id="50000">Hood worn by the brigands who raid mountain
+hamlets and attack travelers.
+
+In addition to protecting against the blazing
+sun, dust, and sand, it helps them tell
+friend from foe in the heat of battle.</text>
+<text id="51000">Armor worn by the brigands who raid mountain
+hamlets and attack travelers.
+
+The addition of metal over a base of cloth
+and leather offers good mobility and defense.</text>
+<text id="52000">Gauntlets worn by the brigands who raid
+mountain hamlets and attack travelers.
+
+The addition of metal over a base of cloth
+and leather offers good mobility and defense.</text>
+<text id="53000">Trousers worn by the brigands who raid
+mountain hamlets and attack travelers.
+
+The addition of metal over a base of cloth
+and leather offers good mobility and defense.</text>
+<text id="60000">Black cloth mask worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts.
+
+While it sacrifices defense for the sake of
+greater mobility, it does offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of espionage.</text>
+<text id="61000">Black cloth garb worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts.
+
+While it sacrifices defense for the sake of
+greater mobility, it does offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of espionage.</text>
+<text id="62000">Black cloth gauntlets worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts.
+
+While they sacrifice defense for the sake of
+greater mobility, they do offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of espionage.</text>
+<text id="63000">Black cloth leggings worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts.
+
+While they sacrifice defense for the sake of
+greater mobility, they do offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of espionage.</text>
+<text id="70000">Helm of Black Iron Tarkus, a knight known
+for his great strength.
+
+Built of a special black iron and
+providing strong defense, notably
+against fire, but so terribly heavy to be
+unwieldy to all but Tarkus himself.</text>
+<text id="71000">Armor of Black Iron Tarkus, a knight
+known for his great strength.
+
+Built of a special black iron and
+providing strong defense, notably
+against fire, but so terribly heavy to be
+unwieldy to all but Tarkus himself.</text>
+<text id="72000">Gauntlets of Black Iron Tarkus, a knight
+known for his great strength.
+
+Built of a special black iron and
+providing strong defense, notably
+against fire, but so terribly heavy to be
+unwieldy to all but Tarkus himself.</text>
+<text id="73000">Leggings of Black Iron Tarkus, a knight
+known for his great strength.
+
+Built of a special black iron and
+providing strong defense, notably
+against fire, but so terribly heavy to be
+unwieldy to all but Tarkus himself.</text>
+<text id="80000">Helm of Smough, the Executioner, protector
+of the cathedral at the forsaken city of Anor
+Londo. It offers extremely high defense
+and can be worn by humans, but not
+without great difficulty.</text>
+<text id="81000">Armor of Smough, the Executioner, protector
+of the cathedral at the forsaken city of Anor
+Londo. It offers extremely high defense
+and can be worn by humans, but not
+without great difficulty.</text>
+<text id="82000">Gauntlets of Smough, the Executioner, protector
+of the cathedral at the forsaken city of Anor
+Londo. It offers extremely high defense
+and can be worn by humans, but not
+without great difficulty.</text>
+<text id="83000">Leggings of Smough, the Executioner, protector
+of the cathedral at the forsaken city of Anor
+Londo. It offers extremely high defense
+and can be worn by humans, but not
+without great difficulty.</text>
+<text id="90000">Helm of the Channelers, sorcerers that serve
+Seath the Scaleless. The six eyes arranged
+in two vertical columns compensate for
+Seath's lack of sight.
+
+The heaviest of protective gear for
+sorcerers, and imbued with magic.</text>
+<text id="91000">Robe of the Channelers, sorcerers that serve
+Seath the Scaleless. Even after the onset of
+Seath's madness, the "snatchers," as they
+were often called, ventured to far lands to
+find suitable human specimens.
+
+The heaviest of protective gear for
+sorcerers, and imbued with magic.</text>
+<text id="92000">Gauntlets of the Channelers, sorcerers that
+serve Seath the Scaleless. Even after the
+onset of Seath's madness, the "snatchers,"
+as they were often called, ventured to far
+lands to find suitable human specimens.
+
+The heaviest of protective gear for
+sorcerers, and imbued with magic.</text>
+<text id="93000">Waistcloth of the Channelers, sorcerers that
+serve Seath the Scaleless. Even after the
+onset of Seath's madness, the "snatchers,"
+as they were often called, ventured to far
+lands to find suitable human specimens.
+
+The heaviest of protective gear for
+sorcerers, and imbued with magic.</text>
+<text id="100000">Helm of Lautrec the Embraced,
+representing the goddess Fina's love.
+
+During his solitude, he forsook everything,
+for he believed in the goddess's love for
+him.</text>
+<text id="101000">Armor of Lautrec the Embraced,
+representing the goddess Fina's love.
+
+The goddess's arms wrap around it, as if to
+embrace the wearer.</text>
+<text id="102000">Gauntlets of Lautrec the Embraced,
+representing the goddess Fina's love.
+
+During his solitude, he forsook everything,
+for he believed in the goddess's love for
+him.</text>
+<text id="103000">Leggings of Lautrec the Embraced,
+representing the goddess Fina's love.
+
+During his solitude, he forsook everything,
+for he believed in the goddess's love for
+him.</text>
+<text id="110000">A strange helm from the ancient land of Zena,
+birthplace of the curious dealer Domhnall.
+
+The two horns are believed to symbolize
+wisdom.</text>
+<text id="111000">Strange armor from the ancient land of Zena,
+birthplace of the curious dealer Domhnall.
+
+The many medals are believed to symbolize
+glory.</text>
+<text id="112000">Strange gauntlets from the ancient land of
+Zena, birthplace of the curious dealer
+Domhnall.
+
+The gold bracelets symbolize a vanquisher.</text>
+<text id="113000">Strange boots from the ancient land of Zena,
+birthplace of the curious dealer Domhnall.
+
+The inlaid silver rings symbolize an
+explorer.</text>
+<text id="120000">Moss-covered helm of the Stone Knight,
+defender of the Darkroot Garden.
+
+The Stone Knight is a product of ancient
+magic, and although this helm is also imbued
+with magic, it is incredibly heavy.</text>
+<text id="121000">Moss-covered armor of the Stone Knight,
+defender of the Darkroot Garden.
+
+The Stone Knight is a product of ancient
+magic, and although this armor is also imbued
+with magic, it is incredibly heavy.</text>
+<text id="122000">Moss-covered gauntlets of the Stone Knight,
+defender of the Darkroot Garden.
+
+The Stone Knight is a product of ancient
+magic, and although these gauntlets are also
+imbued with magic, they are incredibly heavy.</text>
+<text id="123000">Moss-covered leggings of the Stone Knight,
+defender of the Darkroot Garden.
+
+The Stone Knight is a product of ancient
+magic, and although these leggings are also
+imbued with magic, they are incredibly heavy.</text>
+<text id="130000">Crystallized Helm worn by a Hollowed knight,
+who was partially crystallized.
+
+The power of the crystal grants high defense.</text>
+<text id="131000">Crystallized armor worn by a Hollowed knight,
+who was partially crystallized.
+
+The power of the crystal grants high defense.</text>
+<text id="132000">Crystallized gauntlets worn by a Hollowed knight,
+who was partially crystallized.
+
+The power of the crystal grants high defense.</text>
+<text id="133000">Crystallized leggings worn by a Hollowed knight,
+who was partially crystallized.
+
+The power of the crystal grants high defense.</text>
+<text id="140000">Mask of the sorcerers who flooded New Londo
+to seal away the Darkwraiths, and the
+Four Kings who descended into Dark.
+
+It symbolizes their resolve to keep the seal
+shut forever and their atonement for all who
+were sacrificed, but two of the three forsook
+New Londo upon tiring of their duty.</text>
+<text id="141000">Robe of the sorcerers who flooded
+New Londo to seal away the Darkwraiths,
+and the Four Kings who descended into Dark.
+
+The Sealers were once known as healers, and
+the bright crimson was a symbol of that.</text>
+<text id="142000">Gloves of the sorcerers who flooded
+New Londo to seal away the Darkwraiths,
+and the Four Kings who descended into Dark.
+
+The Sealers were once known as healers, and
+the bright crimson was a symbol of that.</text>
+<text id="143000">Waistcloth of the sorcerers who flooded
+New Londo to seal away the Darkwraiths,
+and the Four Kings who descended into Dark.
+
+The Sealers were once known as healers, and
+the bright crimson was a symbol of that.</text>
+<text id="150000">Mask worn by pardoners serving Velka,
+the Goddess of Sin.
+
+The pardoners listen to the confessions of
+sinners, urging reflection and salvation.
+Their masks symbolize separation from
+worldly desires.</text>
+<text id="151000">Robe worn by pardoners serving Velka,
+the Goddess of Sin.
+
+The pardoners' attire is uniformly black in
+color and said to be imbued with Velka's
+mystical power, which provides resistance
+against all manner of magic.</text>
+<text id="152000">Manchette worn by pardoners serving Velka,
+the Goddess of Sin.
+
+The pardoners' attire is uniformly black in
+color and said to be imbued with Velka's
+mystical power, which provides resistance
+against all manner of magic.</text>
+<text id="153000">Tights worn by pardoners serving Velka,
+the Goddess of Sin.
+
+The pardoners' attire is uniformly black in
+color and said to be imbued with Velka's
+mystical power, which provides resistance
+against all manner of magic.</text>
+<text id="160000">Helm of Solaire of Astora, Knight of
+Sunlight. Of high quality, but lacking any
+particular powers.
+
+Solaire's incredible prowess must have
+come from rigorous training alone, for
+his equipment exhibits no special traits.</text>
+<text id="161000">Armor of Solaire of Astora, Knight of
+Sunlight. The large holy symbol of the Sun,
+while powerless, was painted by Solaire himself.
+
+Solaire's incredible prowess must have
+come from rigorous training alone, for
+his equipment exhibits no special traits.</text>
+<text id="162000">Bracelets of Solaire of Astora, Knight of
+Sunlight. Of high quality, but lacking any
+particular powers.
+
+Solaire's incredible prowess must have
+come from rigorous training alone, for
+his equipment exhibits no special traits.</text>
+<text id="163000">Leggings of Solaire of Astora, Knight of
+Sunlight. Of high quality, but lacking any
+particular powers.
+
+Solaire's incredible prowess must have
+come from rigorous training alone, for
+his equipment exhibits no special traits.</text>
+<text id="170000">A chainmail helm of thin interlinking rings
+of steel. It is common throughout the human
+world since it can be easily produced, is not
+too heavy, and offers good defense.
+
+Knights may favor flashy armor, but for
+warriors on the battlefield, anything is
+fine as long as it keeps them alive.</text>
+<text id="171000">Chainmail armor of thin interlinking rings of
+steel. It is common throughout the human
+world since it can be easily produced, is not
+too heavy, and offers good defense.
+
+Knights may favor flashy armor, but for
+warriors on the battlefield, anything is
+fine as long as it keeps them alive.</text>
+<text id="172000">Gauntlets made of soft leather. One of the
+more common kinds of protective gear.</text>
+<text id="173000">Chainmail leggings of thin interlinking
+rings of steel. It is common throughout the
+human world since it can be easily produced,
+is not too heavy, and offers good defense.
+
+Knights may favor flashy armor, but for
+warriors on the battlefield, anything is
+fine as long as it keeps them alive.</text>
+<text id="180000">Helm worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+It is rather substantial in size and weight,
+making its wearer look even bigger than he
+actually is.</text>
+<text id="181000">Armor worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+It is rather substantial in size and weight,
+making its wearer look even bigger than he
+actually is.</text>
+<text id="182000">Gauntlets worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+They are rather substantial in size and
+weight, making its wearer look even bigger
+than he actually is.</text>
+<text id="183000">Leggings worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+They are rather substantial in size and
+weight, making its wearer look even bigger
+than he actually is.</text>
+<text id="190000">A loathsome parasite that inhabits Lost
+Izalith. It is completely immobile, yet still
+lives.
+
+When worn on the head, it emanates
+blinding light, which is why it is known
+as a Sunlight Maggot.</text>
+<text id="200000">Helm of Kirk, Knight of Thorns and notorious
+member of the Darkwraiths. A dense patch of
+thorns grows from its surface.
+
+It is a fitting item for the murderous Kirk,
+for by simply wearing it and rolling, one can
+damage enemies.</text>
+<text id="201000">Armor of Kirk, Knight of Thorns and notorious
+member of the Darkwraiths. A dense patch of
+thorns grows from its surface.
+
+It is a fitting item for the murderous Kirk,
+for by simply wearing it and rolling, one can
+damage enemies.</text>
+<text id="202000">Gauntlets of Kirk, Knight of Thorns and
+notorious member of the Darkwraiths. A dense
+patch of thorns grows from their surface.
+
+They are fitting items for the murderous
+Kirk, for by simply wearing them and rolling,
+one can damage enemies.</text>
+<text id="203000">Leggings of Kirk, Knight of Thorns and
+notorious member of the Darkwraiths. A dense
+patch of thorns grows from their surface.
+
+They are fitting items for the murderous
+Kirk, for by simply wearing them and rolling,
+one can damage enemies.</text>
+<text id="210000">A sturdy helm made of iron. Very common
+type of protective gear, it provides
+a sound level of defense.
+
+It is wise to wear a sturdy form of head
+protection against arrows and other physical
+threats.</text>
+<text id="211000">Armor made of thick leather. Very common
+type of protective gear, it provides
+a sound level of defense.</text>
+<text id="212000">Gauntlets made of thick leather. Very
+common type of protective gear, they
+provide a sound level of defense.</text>
+<text id="213000">Boots made of thick leather. Very common
+type of protective gear, they provide
+a sound level of defense.</text>
+<text id="220000">Hat worn by proper sorcerers who
+studied at Vinheim Dragon School.
+
+The majority take pride in having studied at
+the academy and look down on breaking the
+formal dress code established for sorcerers.</text>
+<text id="221000">Cloak worn by proper sorcerers who
+studied at Vinheim Dragon School.
+
+The majority take pride in having studied at
+the academy and look down on breaking the
+formal dress code established for sorcerers.</text>
+<text id="222000">Gauntlets worn by proper sorcerers who
+studied at Vinheim Dragon School.
+
+The majority take pride in having studied at
+the academy and look down on breaking the
+formal dress code established for sorcerers.</text>
+<text id="223000">Boots worn by proper sorcerers who studied
+at Vinheim Dragon School.
+
+The majority take pride in having studied at
+the academy and look down on breaking the
+formal dress code established for sorcerers.</text>
+<text id="230000">Hood worn by pyromancers of the Great Swamp.
+Though it appears tattered, it is actually
+quite strong.
+
+Their attire offers substantial protection
+against poison, fire, and other forces of
+nature out in the hinterlands where they
+were driven.</text>
+<text id="231000">Robe worn by pyromancers of the Great Swamp.
+Though it appears tattered, it is actually
+quite strong.
+
+Their attire offers substantial protection
+against poison, fire, and other forces of
+nature out in the hinterlands where they
+were driven.</text>
+<text id="232000">Manchette worn by pyromancers of the Great
+Swamp. Though it appears tattered, it is
+actually quite strong.
+
+Their attire offers substantial protection
+against poison, fire, and other forces of
+nature out in the hinterlands where they
+were driven.</text>
+<text id="233000">Boots made of thick leather. The boots of the
+pyromancers are incredibly tough, on account
+of the rugged grasslands and treacherous
+swamps they must traverse. Their soles are
+nearly impenetrable.</text>
+<text id="240000">Broad-brimmed hat favored by the archer hero
+Pharis.
+
+Pharis was an accomplished archer, and though
+he was human, he ranked alongside Hawkeye
+Gough, one of the Four Knights of Lord
+Gwyn. His hat is universally popular among
+children.</text>
+<text id="241000">Armor made of soft leather.
+Very common type of protective gear.</text>
+<text id="242000">Gloves made of soft leather.
+Very common type of protective gear.</text>
+<text id="243000">Boots made of soft leather.
+Very common type of protective gear.</text>
+<text id="250000">Hood worn by the alabaster-clothed guardians
+of the paintings in Anor Londo. Offers
+substantial protection versus magic.
+
+They have guarded the Great Paintings of
+Ariamis for ages, passing their duty down
+through the generations, but the reason for
+doing so passed from all memory long ago.</text>
+<text id="251000">Robe worn by the alabaster-clothed guardians
+of the paintings in Anor Londo. Offers
+substantial protection versus magic.
+
+They have guarded the Great Paintings of
+Ariamis for ages, passing their duty down
+through the generations, but the reason for
+doing so passed from all memory long ago.</text>
+<text id="252000">Gloves worn by the alabaster-clothed 
+guardians of the paintings in Anor Londo.
+Offer substantial protection versus magic.
+
+They have guarded the Great Paintings of
+Ariamis for ages, passing their duty down
+through the generations, but the reason for
+doing so passed from all memory long ago.</text>
+<text id="253000">Waistcloth worn by the alabaster-clothed 
+guardians of the paintings in Anor Londo.
+Offers substantial protection versus magic.
+
+They have guarded the Great Paintings of
+Ariamis for ages, passing their duty down
+through the generations, but the reason for
+doing so passed from all memory long ago.</text>
+<text id="270000">Helm of the dragonslayer Ornstein, who
+guards the cathedral in the forsaken city of
+Anor Londo.
+
+Ornstein is believed to be the captain of the
+Four Knights. His golden lion helm is imbued
+with the power of lightning and should
+provide good protection against it.</text>
+<text id="271000">Armor of the dragonslayer Ornstein, who
+guards the cathedral in the forsaken city of
+Anor Londo.
+
+Ornstein is believed to be the captain of the
+Four Knights. His golden lion armor is imbued
+with the power of lightning and should
+provide good protection against it.</text>
+<text id="272000">Gauntlets of the dragonslayer Ornstein, who
+guards the cathedral in the forsaken city of
+Anor Londo.
+
+Ornstein is believed to be the captain of the
+Four Knights. His golden lion gauntlets are
+imbued with the power of lightning and should
+provide good protection against it.</text>
+<text id="273000">Leggings of the dragonslayer Ornstein, who
+guards the cathedral in the forsaken city of
+Anor Londo.
+
+Ornstein is believed to be the captain of the
+Four Knights. His golden lion leggings are
+imbued with the power of lightning and should
+provide good protection against it.</text>
+<text id="280000">A distinctive helm made in an Eastern land.
+
+Exquisitely crafted, this helm offers
+excellent defense, particularly versus slash
+attacks, which are one of the main threats in
+battles in the East.</text>
+<text id="281000">Distinctive armor made in an Eastern Land.
+
+Exquisitely crafted, this armor offers
+excellent defense, particularly versus slash
+attacks, which are one of the main threats in
+battles in the East.</text>
+<text id="282000">Distinctive gauntlets made in an Eastern
+land.
+
+Exquisitely crafted, these gauntlets offer
+excellent defense, particularly versus slash
+attacks, which are one of the main threats in
+battles in the East.</text>
+<text id="283000">Distinctive leggings made in an Eastern
+land.
+
+Exquisitely crafted, these leggings offer
+excellent defense, particularly versus slash
+attacks, which are one of the main threats in
+battles in the East.</text>
+<text id="290000">A mysterious item once worn by the Xanthous 
+King Jeremiah, the legendary exile. No one
+knows where it came from.
+
+The crown bears high-quality cloth which is
+quite soft to the touch, but its bright
+yellow color stings the eyes, and it is
+clearly far too big.</text>
+<text id="291000">A mysterious item once worn by the Xanthous
+King Jeremiah, the legendary exile. No one
+knows where it came from.
+
+It may be tattered, but its bright yellow
+color still stings the eyes.</text>
+<text id="292000">Mysterious items once worn by the Xanthous
+King Jeremiah, the legendary exile. No one
+knows where they came from.
+
+They may be tattered, but their bright yellow
+color still stings the eyes.</text>
+<text id="293000">A mysterious item once worn by the Xanthous
+King Jeremiah, the legendary exile. No one
+knows where it came from.
+
+It may be tattered, but its bright yellow
+color still stings the eyes.</text>
+<text id="300000">Mask of sinners. They hide their faces,
+stifle their voices and hide in the shadows.
+It does not provide much in the way of
+defense.</text>
+<text id="301000">This armor made of smooth black leather is
+extremely quiet, a good thing for those who
+hide in the shadows.
+
+The leather itself is thick, offering a
+decent level of protection.</text>
+<text id="302000">These gloves made of smooth black leather are
+extremely quiet, good for those who hide in
+the shadows.
+
+The leather itself is thick, offering a
+decent level of protection.</text>
+<text id="303000">These boots made of smooth black leather are
+extremely quiet, good for those who hide in
+the shadows.
+
+The leather itself is thick, offering a
+decent level of protection.</text>
+<text id="310000">Distinctive hat worn only by Way of White
+priests in Thorolund.
+
+It is simply meant to show their position
+within the hierarchy. It holds almost no
+meaning in the land of Lordran.</text>
+<text id="311000">Robe donned by men of the cloth. Though plain
+to the eye, its hardy fabric repels rain and
+keeps the body warm.
+
+Those dissatisfied with church teachings
+must test their faith by going on a spiritual
+journey. Such is the ritual self-purification
+of the Way of White.</text>
+<text id="312000">Thick, sturdy gloves made for travelers on
+extended journeys.</text>
+<text id="313000">Trousers donned by men of the cloth. Though
+plain to the eye, their hardy fabric
+repels rain and keeps the body warm.
+
+Those dissatisfied with church teachings
+must test their faith by going on a spiritual
+journey. Such is the ritual self-purification
+of the Way of White.</text>
+<text id="320000">Helm of the Black Knights who haunt Lordran.
+
+The knights followed Lord Gwyn when he
+departed to link the Fire but they were
+burned to ashes in the newly kindled flame,
+wandering the world as disembodied spirits
+ever after.</text>
+<text id="321000">Armor of the Black Knights who haunt Lordran.
+
+The knights followed Lord Gwyn when he
+departed to link the Fire, but they were
+burned to ashes in the newly kindled flame,
+wandering the world as disembodied spirits
+ever after.</text>
+<text id="322000">Gauntlets of the Black Knights who haunt
+Lordran.
+
+The knights pursued Lord Gwyn when he
+departed to link the Fire, but they were
+burned to ashes in the newly kindled flame,
+wandering the world as disembodied spirits
+ever after.</text>
+<text id="323000">Leggings of the Black Knights who haunt
+Lordran.
+
+The knights followed Lord Gwyn when he
+departed to link the flame, but they
+were burned to ashes in the newly kindled
+fire, wandering the world as disembodied
+spirits ever after.</text>
+<text id="330000">Special magic crown bestowed upon Dusk,
+Princess of Oolacile, upon her birth.
+
+Its wearer is blessed by all manner of magic.
+This raises the power and effect of the
+wearer's magic, but damage suffered by magic
+attacks also rises.</text>
+<text id="331000">A dress from the ancient fallen land of
+Oolacile. Its ivory-colored silk features
+elaborate embroidery and is imbued with
+ancient magic power.
+
+One cannot expect any physical protection
+from this garment, as it was not meant to
+be worn in battle.</text>
+<text id="332000">Gloves from the ancient fallen land of
+Oolacile. Their ivory-colored silk features
+elaborate embroidery and are imbued with
+ancient magic power.
+
+One cannot expect any physical protection
+from these, as they were not meant to be worn
+in battle.</text>
+<text id="333000">A skirt from the ancient fallen land of
+Oolacile. Its ivory-colored silk features
+elaborate embroidery and is imbued with
+ancient magic power.
+
+One cannot expect any physical protection
+from this garment, as it was not meant to
+be worn in battle.</text>
+<text id="340000">Hat of the rogue witch Beatrice.
+
+Almost all magic users that employ a wand
+studied at Dragon School, but Beatrice is
+one of the few exceptions. She braved the
+Abyss but did not live to tell of her ordeal.</text>
+<text id="341000">Cloak of the rogue witch Beatrice.
+
+Almost all magic users that employ catalysts
+studied at Dragon School, but Beatrice is
+one of the few exceptions. She braved the
+Abyss but did not live to tell of her ordeal.</text>
+<text id="342000">Gloves of the rogue witch Beatrice.
+
+Almost all magic users that employ catalysts
+studied at Dragon School, but Beatrice is
+one of the few exceptions. She braved the
+Abyss but did not live to tell of her ordeal.</text>
+<text id="343000">Skirt of the rogue witch Beatrice.
+
+Almost all magic users that employ catalysts
+studied at Dragon School, but Beatrice is
+one of the few exceptions. She braved the
+Abyss but did not live to tell of her ordeal.</text>
+<text id="350000">Helm of a nameless knight, perhaps an elite
+knight of Astora.
+
+Although he was loath to give up on his
+Undead mission, he perished at the Undead
+Asylum, and went Hollow.</text>
+<text id="351000">Armor of a nameless knight, perhaps an elite
+knight of Astora, based on the fire-warding
+heraldic symbol on its blue surcoat.
+
+Although he was loath to give up on his
+Undead mission, he perished at the Undead
+Asylum, and went Hollow.</text>
+<text id="352000">Gauntlets of a nameless knight, perhaps an
+elite knight of Astora.
+
+Although he was loath to give up on his
+Undead mission, he perished at the Undead
+Asylum, and went Hollow.</text>
+<text id="353000">Leggings of a nameless knight, perhaps an
+elite knight of Astora.
+
+Although he was loath to give up on his
+Undead mission, he perished at the Undead
+Asylum, and went Hollow.</text>
+<text id="360000">Hood of an aimless traveler. Made from sturdy
+leather, it offers protection versus wind
+and rain.</text>
+<text id="361000">Coat of an aimless traveler. Made from sturdy
+leather and quilting.
+
+Battle comes with the territory when one
+wanders the land, and this coat provides a
+certain degree of protection.</text>
+<text id="362000">Manchette of an aimless traveler.
+
+Made from sturdy leather and protects the
+hands.</text>
+<text id="363000">Boots of an aimless traveler.
+
+Made from sturdy leather. A must-have for
+long journeys.</text>
+<text id="370000">Hat worn by proper mage smiths who
+studied at Vinheim Dragon School.
+
+Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers.</text>
+<text id="371000">Coat worn by proper mage smiths who
+studied at Vinheim Dragon School.
+
+Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers.</text>
+<text id="372000">Gauntlets worn by proper mage smiths who
+studied at Vinheim Dragon School.
+
+Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers.</text>
+<text id="373000">Boots worn by proper mage smiths who
+studied at Vinheim Dragon School.
+
+Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers.</text>
+<text id="380000">Gigantic hat worn by the great sorcerer
+Logan. It completely hid his face, which led
+to his nickname "Big Hat."
+
+Famously antisocial, Logan used it to block
+out noise and people's stares so he could
+focus on his own thoughts, but it does not
+possess any special magic powers.</text>
+<text id="381000">Robe worn by Big Hat Logan. It is said to
+have been from his apprentice days at Dragon
+School, but it is so worn out, no one knows
+what it originally looked like.
+
+Logan, who cared little for his appearance,
+no doubt ever bothered to change out of it.</text>
+<text id="382000">Gloves worn by Big Hat Logan. They are
+indistinguishable from the ordinary kind
+worn by travelers.</text>
+<text id="383000">Boots worn by Big Hat Logan. They are
+indistinguishable from the ordinary kind
+worn by travelers.</text>
+<text id="390000">Helm of a lower-rank knight. Despite the
+thin metal used, the grooved texture gives
+it added protection.</text>
+<text id="391000">Armor of a lower-rank knight. Despite the
+thin metal used, the grooved texture gives
+it added protection.</text>
+<text id="392000">Gauntlets of a lower-rank knight. Despite the
+thin metal used, the grooved texture gives
+them added protection.</text>
+<text id="393000">Leggings of a lower-rank knight. Despite the
+thin metal used, the grooved texture gives
+them added protection.</text>
+<text id="400000">Worn by the Fire Keeper at Firelink Shrine.
+
+It is thought to have once been the white
+hood of a maiden, but smoke and ashes
+from bonfires have darkened it over the
+years.</text>
+<text id="401000">Worn by the Fire Keeper at Firelink Shrine.
+
+It is thought to have once been the white
+robe of a maiden, but smoke and ashes
+from bonfires have darkened it over the
+years.</text>
+<text id="402000">Worn by the Fire Keeper at Firelink Shrine.
+
+They are thought to have once been the white
+gloves of a maiden, but smoke and ashes
+from bonfires have darkened them over the
+years.</text>
+<text id="403000">Worn by the Fire Keeper at Firelink Shrine.
+
+It is thought to have once been the white
+skirt of a maiden, but its true origin
+is lost in patches of blood. Perhaps its
+former wearer was maimed to prevent escape?</text>
+<text id="410000">White hood worn by traveling maidens. It is
+part of their formal attire, regardless of
+rank.
+
+It is soft and well-made, but does not offer
+much in the way of defense, making it ill-
+suited to use in battle.</text>
+<text id="411000">White robe worn by traveling maidens. It is
+part of their formal attire, regardless of
+rank.
+
+It is soft and well-made, but does not offer
+much in the way of defense, making it ill-
+suited to use in battle.</text>
+<text id="412000">White gloves worn by traveling maidens.
+They are part of their formal attire,
+regardless of rank.
+
+While soft and well-made, they do not
+offer much in the way of defense, making
+them ill-suited to use in battle.</text>
+<text id="413000">White skirt worn by traveling maidens.
+It is part of their formal attire, regardless
+of rank.
+
+It is soft and well-made, but does not offer
+much in the way of defense, making it ill-
+suited to use in battle.</text>
+<text id="420000">Helm of the Silver Knights who protect Anor
+Londo.
+
+When Lord Gwyn departed to link the Fire,
+his knights split into two groups. The Silver
+Knights remained in the forsaken capital in
+the service of their goddess.</text>
+<text id="421000">Armor of the Silver Knights who protect Anor
+Londo.
+
+When Lord Gwyn departed to link the Fire,
+his knights split into two groups. The Silver
+Knights remained in the forsaken capital in
+the service of their goddess.</text>
+<text id="422000">Gauntlets of the Silver Knights who protect
+Anor Londo.
+
+When Lord Gwyn departed to link the Fire,
+his knights split into two groups. The Silver
+Knights remained in the forsaken capital in
+the service of their goddess.</text>
+<text id="423000">Leggings of the Silver Knights who protect
+Anor Londo.
+
+When Lord Gwyn departed to link the Fire,
+his knights split into two groups. The Silver
+Knights remained in the forsaken capital in
+the service of their goddess.</text>
+<text id="440000">Helm worn by Havel the Rock's warriors.
+Carved from solid rock, its tremendous weight
+is matched only by the defense it provides.
+
+Havel's warriors never flinched nor retreated
+from battle. Those unfortunate enough to face
+them were inevitably beaten to a pulp.</text>
+<text id="441000">Armor worn by Havel the Rock's warriors.
+Carved from solid rock, its tremendous weight
+is matched only by the defense it provides.
+
+Havel's warriors never flinched nor retreated
+from battle. Those unfortunate enough to face
+them were inevitably beaten to a pulp.</text>
+<text id="442000">Gauntlets worn by Havel the Rock's warriors.
+Carved from solid rock, their
+tremendous weight is matched only by the
+defense they provide.
+
+Havel's warriors never flinched nor retreated
+from battle. Those unfortunate enough to face
+them were inevitably beaten to a pulp.</text>
+<text id="443000">Leggings worn by Havel the Rock's warriors.
+Carved from solid rock, their tremendous
+weight is matched only by the defense they
+provide.
+
+Havel's warriors never flinched nor retreated
+from battle. Those unfortunate enough to face
+them were inevitably beaten to a pulp.</text>
+<text id="450000">Helm of the Darkmoon Knightess,
+Fire Keeper of Anor Londo.
+
+After becoming Undead, she visited the Dark
+Sun Gwyndolin at the Mausoleum of the Spiral
+Depths, became a Blade of the Darkmoon,
+and assumed the flame-keeping duty. She
+received this helm, which hides her hideous
+form and helps her hunt the guilty.</text>
+<text id="451000">Armor of the Darkmoon Knightess,
+Fire Keeper of Anor Londo.
+
+After becoming Undead, she visited the Dark
+Sun Gwyndolin at the Mausoleum of the Spiral
+Depths, became a Blade of the Darkmoon,
+and assumed the flame-keeping duty. She
+received this armor, which hides her hideous
+form and helps her hunt the guilty.</text>
+<text id="452000">Gauntlets of the Darkmoon Knightess,
+Fire Keeper of Anor Londo.
+
+After becoming Undead, she visited the Dark
+Sun Gwyndolin at the Mausoleum of the Spiral
+Depths, became a Blade of the Darkmoon,
+and assumed the flame-keeping duty. She
+received these gauntlets, which hide her
+hideous form and help her hunt the guilty.</text>
+<text id="453000">Leggings of the Darkmoon Knightess,
+Fire Keeper of Anor Londo.
+
+After becoming Undead, she visited the Dark
+Sun Gwyndolin at the Mausoleum of the Spiral
+Depths, became a Blade of the Darkmoon,
+and assumed the flame-keeping duty. She
+received these leggings, which hide her
+hideous form and help her hunt the guilty.</text>
+<text id="460000">Worn by the witch Quelana of Izalith, mother
+of pyromancy and Daughter of Chaos.
+
+She wore this gold-hemmed black hood before
+even the Age of Fire, and it offers strong
+resistance versus fire, poison, and other
+perils.</text>
+<text id="461000">Worn by the witch Quelana of Izalith, mother
+of pyromancy and Daughter of Chaos.
+
+She wore this gold-hemmed black cloak
+before even the Age of Fire, and it offers
+strong resistance versus fire, poison, and
+other perils.</text>
+<text id="462000">Worn by the witch Quelana of Izalith, mother
+of pyromancy and Daughter of Chaos.
+
+She wore these gold-lined black gloves
+before even the Age of Fire, and they offer
+strong resistance versus fire, poison, and
+other perils.</text>
+<text id="463000">Worn by the witch Quelana of Izalith, founder
+of pyromancy and one of the Daughters of
+Chaos.
+
+She wore this gold-hemmed black skirt before
+even the Age of Fire, and it offers strong
+resistance versus fire, poison, and other
+perils.</text>
+<text id="470000">Head of the Iron Golem, guardian of the
+ancient Sen's Fortress, slayer of heroes who
+ventured forth to Anor Londo.
+
+Without its core, it is a mere hunk of iron,
+and can be equipped as solid protective gear,
+but its immense weight hinders stamina
+recovery.</text>
+<text id="471000">Body of the Iron Golem, guardian of the
+ancient Sen's Fortress, slayer of heroes who
+ventured forth to Anor Londo.
+
+Without its core, it is a mere hunk of iron,
+and can be equipped as solid protective gear,
+but its immense weight hinders stamina
+recovery.</text>
+<text id="472000">Arms of the Iron Golem, guardian of the
+ancient Sen's Fortress, slayer of heroes who
+ventured forth to Anor Londo.
+
+Without its core, they are mere hunks of
+iron, and can be equipped as solid protective
+gear, but their immense weight hinders
+stamina recovery.</text>
+<text id="473000">Legs of the Iron Golem, guardian of the
+ancient Sen's Fortress, slayer of heroes who
+ventured forth to Anor Londo.
+
+Without its core, they are mere hunks of
+iron, and can be equipped as solid protective
+gear, but their immense weight hinders
+stamina recovery.</text>
+<text id="480000">Helm worn by Hollow soldiers. It may be old
+and battered, but its iron construction makes
+it quite sturdy.
+
+It is wise to wear a sturdy form of head
+protection against arrows and other physical
+threats.</text>
+<text id="481000">Armor worn by Hollow soldiers. It may be
+old and battered, but its iron construction
+makes it quite sturdy.</text>
+<text id="483000">Waistcloth worn by Hollow soldiers. It is so
+tattered that it barely serves its purpose
+anymore.</text>
+<text id="490000">Helm of the Knights of Berenike, known for
+their heavy armaments and armor.
+
+Countless Knights of Berenike, once
+extolled as the mightiest of mighty, became
+Undead and ventured to Lordran. But their
+journey was for naught, as they went Hollow,
+and became a threat to all Undead.</text>
+<text id="491000">Armor of the Knights of Berenike, known for
+their heavy armaments and armor.
+
+Countless Knights of Berenike, once
+extolled as the mightiest of mighty, became
+Undead and ventured to Lordran. But their
+journey was for naught, as they went Hollow,
+and became a threat to all Undead.</text>
+<text id="492000">Gauntlets of the Knights of Berenike, known
+for their heavy armaments and armor.
+
+Countless Knights of Berenike, once
+extolled as the mightiest of mighty, became
+Undead and ventured to Lordran. But their
+journey was for naught, as they went Hollow,
+and became a threat to all Undead.</text>
+<text id="493000">Leggings of the Knights of Berenike, known
+for their heavy armaments and armor.
+
+Countless Knights of Berenike, once
+extolled as the mightiest of mighty, became
+Undead and ventured to Lordran. But their
+journey was for naught, as they went Hollow,
+and became a threat to all Undead.</text>
+<text id="500000">Hood worn by Hollow thieves.
+Used to hide a guilty countenance.</text>
+<text id="501000">Leather armor worn by Hollow thieves. It
+stifles noise and helps its wearer hide in
+the shadows.</text>
+<text id="503000">Tights worn by Hollow thieves. They stifle
+noise and help their wearer hide in the
+shadows.</text>
+<text id="510000">Helm worn by the knights of the ancient
+kingdom of Balder. It is made from thick
+iron plates.
+
+Balder was the homeland of the Knight
+King Rendal, but it came to ruin after a
+great many Undead were spawned.</text>
+<text id="511000">Armor worn by the knights of the ancient
+kingdom of Balder. It is made from thick
+iron plates.
+
+Balder was the homeland of the Knight
+King Rendal, but it came to ruin after a
+great many Undead were spawned.</text>
+<text id="512000">Gauntlets worn by the knights of the ancient
+kingdom of Balder. They are made from thick
+iron plates.
+
+Balder was the homeland of the Knight
+King Rendal, but it came to ruin after a
+great many Undead were spawned.</text>
+<text id="513000">Leggings worn by the knights of the ancient
+kingdom of Balder. They are made from thick
+iron plates.
+
+Balder was the homeland of the Knight
+King Rendal, but it came to ruin after a
+great many Undead were spawned.</text>
+<text id="520000">Helm worn by Hollow warriors. Although it is
+made of iron, it is old, battered and worn
+out.
+
+It is wise to wear a sturdy form of head
+protection against arrows and other physical
+threats.</text>
+<text id="521000">Armor worn by Hollow warriors. It is made of
+thick leather that is tattered with age.</text>
+<text id="523000">Waistcloth worn by Hollow warriors. It is so
+tattered that it barely serves its purpose
+anymore.</text>
+<text id="530000">Helm of the giant sentinels of Anor Londo.
+
+Made from ancient brass, it also offers
+protection versus non-physical attacks, but
+due to its giant size, it is extremely heavy
+for humans, and impedes stamina recovery.</text>
+<text id="531000">Armor of the giant sentinels of Anor Londo.
+
+Made from ancient brass, it also offers
+protection versus non-physical attacks, but
+due to its giant size, it is extremely heavy
+for humans, and impedes stamina recovery.</text>
+<text id="532000">Gauntlets of the giant sentinels of Anor
+Londo.
+
+Made from ancient brass, they also offer
+protection versus non-physical attacks, but
+due to their giant size, they are extremely
+heavy for humans, and impede stamina
+recovery.</text>
+<text id="533000">Leggings of the giant sentinels of Anor
+Londo.
+
+Made from ancient brass, they also offer
+protection versus non-physical attacks, but
+due to their giant size, they are extremely
+heavy for humans, and impede stamina
+recovery.</text>
+<text id="540000">Crown of the Dark Sun Gwyndolin, protector
+of the forsaken city of Anor Londo.
+
+This crown of the gods demands faith
+immeasurable of its wearer, but it is imbued
+with Darkmoon power that enhances all magic.
+The image of the sun manifests Gwyndolin's
+deep adoration of the sun.</text>
+<text id="541000">Robe of the Dark Sun Gwyndolin, protector
+of the forsaken city of Anor Londo.
+
+The power of the moon was strong in
+Gwyndolin, and thus he was raised as a
+daughter. His magic garb is silk-thin,
+and hardly provides any physical defense.</text>
+<text id="542000">Gloves of the Dark Sun Gwyndolin, protector
+of the forsaken city of Anor Londo.
+
+The power of the moon was strong in
+Gwyndolin, and thus he was raised as a
+daughter. His magic garb is silk-thin,
+and hardly provides any physical defense.</text>
+<text id="543000">Waistcloth of the Dark Sun Gwyndolin,
+protector of the forsaken city of Anor Londo.
+
+The power of the moon was strong in
+Gwyndolin, and thus he was raised as a
+daughter. His magic garb is silk-thin,
+and hardly provides any physical defense.</text>
+<text id="550000">Crown of Gwyn, Lord of Cinder, who linked
+the First Flame.
+
+Lord Gwyn, bearer of the ultimate soul,
+divided his power among his great clan before
+linking the flame. But he did keep his crown,
+perhaps to preserve a symbol of the monarch,
+for its actual power had fully subsided.</text>
+<text id="551000">Robe of Gwyn, Lord of Cinder, who linked
+the First Flame.
+
+Lord Gwyn, bearer of the ultimate soul,
+divided that power among his clan before
+linking the flame. When he departed, he
+left only with his greatsword, his garb,
+and the crown, now bereft of power.</text>
+<text id="552000">Bracelets of Gwyn, Lord of Cinder, who linked
+the First Flame.
+
+Lord Gwyn, bearer of the ultimate soul,
+divided that power among his clan before
+linking the flame. When he departed, he
+left only with his greatsword, his garb,
+and the crown, now bereft of power.</text>
+<text id="553000">Anklets of Gwyn, Lord of Cinder, who linked
+the First Flame.
+
+Lord Gwyn, bearer of the ultimate soul,
+divided that power among his clan before
+linking the flame. When he departed, he
+left only with his greatsword, his garb,
+and the crown, now bereft of power.</text>
+<text id="560000">Bloodstained patchwork sack by the Undead
+man-eating cook lurking in the Depths. Two
+eyeholes have been haphazardly cut out.
+
+It is unexpectedly soft and comfortable to
+wear, but it is probably near meaningless
+in terms of defense.</text>
+<text id="570000">Monster head resembling a treasure chest.
+Once an ancient god, it is said this is the
+symbol of shame imposed on a long lost clan,
+exiled for the sin of avarice.
+
+Wearing this slightly raises soul absorption
+and item discovery, but also affects its
+wearer with the curse of the branded.</text>
+<text id="580000">Helm of Vamos, skeleton blacksmith of the
+Catacombs. Partially made of gold, and
+confers high resistance overall.
+
+The helm is believed to belong to an ancient
+royal line, but only Vamos would know for
+sure, and he shall never speak again.</text>
+<text id="590000">One of the three masks of the Pinwheel,
+the necromancer who stole the power of the
+Gravelord, and reigns over the Catacombs.
+
+This mask, belonging to the valiant father,
+slightly raises equipment load.</text>
+<text id="600000">One of the three masks of the Pinwheel,
+the necromancer who stole the power of the
+Gravelord, and reigns over the Catacombs.
+
+This mask, belonging to the kindly mother,
+slightly raises HP.</text>
+<text id="610000">One of the three masks of the Pinwheel,
+the necromancer who stole the power of the
+Gravelord, and reigns over the Catacombs.
+
+This mask, belonging to the naive child,
+slightly raises stamina recovery speed.</text>
+<text id="620000">Severed head of the fully-armored Fang Boar
+taken by the one who killed it as proof of
+his victory, just as the Gods once did with
+the head of the ancient dragon.
+
+Can be worn on the head as a surprisingly
+sound piece of protective gear.</text>
+<text id="630000">Helm of the gargoyle, an enchanted creature
+that guarded the Bell of Awakening in the
+belfry of the Undead Church.
+
+This bronze helm was for mere appearance's
+sake, as gargoyle skin is naturally hard.
+Little in the way of defense can be expected
+from it.</text>
+<text id="640000">Hat worn by the secret sorcerers at Vinheim
+Dragon School.
+
+They secretly work with sound-based spells,
+and never reveal themselves.</text>
+<text id="641000">Cloak worn by the secret sorcerers at
+Vinheim Dragon School.
+
+They secretly work with sound-based spells,
+and never reveal themselves.</text>
+<text id="642000">Gauntlets worn by the secret sorcerers at
+Vinheim Dragon School.
+
+They secretly work with sound-based spells,
+and never reveal themselves.</text>
+<text id="643000">Boots worn by the secret sorcerers at
+Vinheim Dragon School.
+
+They secretly work with sound-based spells,
+and never reveal themselves.</text>
+<text id="650000">Helm worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+Among such helms, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests.</text>
+<text id="651000">Armor worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+Among such armors, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests.</text>
+<text id="652000">Gauntlets worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+Among such gauntlets, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests.</text>
+<text id="653000">Leggings worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+Among such leggings, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests.</text>
+<text id="660000">Helm of Artorias the Abysswalker,
+one of Gwyn's Four Knights.
+
+The death of the helm's owner can be
+surmised from the corrosive Dark of the
+Abyss, and the musty azure-blue tassel,
+once a symbol of pride and glory.</text>
+<text id="661000">Armor of Artorias the Abysswalker,
+one of Gwyn's Four Knights.
+
+The death of the armor's owner can be
+surmised from the corrosive Dark of the
+Abyss, and the tattered azure-blue cape,
+once a symbol of pride and glory.</text>
+<text id="662000">Gauntlets of Artorias the Abysswalker,
+one of Gwyn's Four Knights.
+
+The death of their owner can be
+surmised from the corrosive Dark of the
+Abyss, which has compromised their
+protective utility.</text>
+<text id="663000">Leggings of Artorias the Abysswalker,
+one of Gwyn's Four Knights.
+
+The death of their owner can be
+surmised from the corrosive Dark of the
+Abyss, which has compromised their
+protective utility.</text>
+<text id="670000">Mask of the Lord's Blade Ciaran,
+one of Gwyn's Four Knights.
+
+The cyclops headpiece is common to all of
+the Lord's Blades, but Ciaran was determined
+to earn this soft porcelain mask as a unique
+decoration of honor. The mask is lined with
+ivory locks of hair.</text>
+<text id="671000">Robe of the Lord's Blade Ciaran,
+one of Gwyn's Four Knights.
+
+A robe common to all of the Lord's Blades.
+These deadly women shift nimbly between
+layers of darkness, etching streaks of gold
+into the night air, and planting visions of
+terror into the minds of their targets.</text>
+<text id="672000">Gloves worn by the Lord's Blade Ciaran,
+one of Gwyn's Four Knights.
+
+Gloves common to all of the Lord's Blades.
+These deadly women shift nimbly between
+layers of darkness, etching streaks of gold
+into the night air, and planting visions of
+terror into the minds of their targets.</text>
+<text id="673000">Waistcloth worn by the Lord's Blade Ciaran,
+one of Gwyn's Four Knights.
+
+Waistcloth common to all the Lord's Blades.
+These deadly women shift nimbly between
+layers of darkness, etching streaks of gold
+into the night air, and planting visions of
+terror into the minds of their targets.</text>
+<text id="680000">Helm of Hawkeye Gough,
+one of Gwyn's Four Knights.
+Received as a decoration of knightly honor.
+
+A helm crafted especially for the honorable
+Hawkeye Gough, only the eye holes were
+packed with tree resin by those who
+dismissed Gough as a brutish giant.</text>
+<text id="681000">Armor of Hawkeye Gough,
+one of Gwyn's Four Knights.
+
+Armor donned by Gough since his days
+as a dragonslayer. The medallion,
+bequeathed by the Lord Himself,
+and the dragon bone pauldrons are
+symbols of the highest honors.</text>
+<text id="682000">Gauntlets of Hawkeye Gough,
+one of Gwyn's Four Knights.
+
+Received as a decoration of honor.
+Crafted of similar material to the
+gauntlets worn by the Silver Knights.</text>
+<text id="683000">Leggings of Hawkeye Gough,
+one of Gwyn's Four Knights.
+
+Received as a decoration of honor.
+Crafted of similar material to the
+gauntlets worn by the Silver Knights.</text>
+<text id="690000">Helm of the stone knights,
+guardians of the forest sanctuary.
+
+The stone knights are golems animated
+by magic, and their enchanted helms are
+oppressively heavy.</text>
+<text id="691000">Armor of the stone knights,
+guardians of the forest sanctuary.
+
+The stone knights are golems animated
+by magic, and their enchanted armor is
+oppressively heavy.</text>
+<text id="692000">Gauntlets of the stone knights,
+guardians of the forest sanctuary.
+
+The stone knights are golems animated
+by magic, and their enchanted gauntlets are
+oppressively heavy.</text>
+<text id="693000">Leggings of the stone knights,
+guardians of the forest sanctuary.
+
+The stone knights are golems animated
+by magic, and their enchanted leggings are
+oppressively heavy.</text>
+<text id="700000">Black top hat worn by Marvellous Chester,
+a man of mystery lost in the past.
+
+The wearer of this top hat cracks a dubious,
+permanent grin. The Curse of Chester!</text>
+<text id="701000">Black leather long coat hat worn by
+Marvellous Chester, a man of mystery
+lost in the past.
+
+This exquisitely sewn aristocratic suit
+allows its wearer to move in silence,
+lending well to stealth.</text>
+<text id="702000">Leather gloves worn by Marvellous Chester,
+a man of mystery lost in the past.
+
+These gloves have no distinguishing
+features, but are of extremely high quality.</text>
+<text id="703000">Black leather trousers worn by
+Marvellous Chester, a man of mystery
+lost in the past.
+
+These exquisitely sewn trousers are
+decorated with silver trinkets of varying
+sizes, and have straps on the inner legs
+for carrying crossbow bolts.</text>
+<text id="710000">The head of an Oolacile resident whose
+humanity went wild after being devoured
+by the Dark of Manus, Father of the Abyss.
+
+The bloated head is fissured, the cracks
+lined with innumerable tiny red eyeballs.
+With a hard outside and mucous-filled
+inside, no sane person could ever wear it.</text>
+<text id="720000">The head of an Oolacile resident whose
+humanity went wild after being devoured
+by the Dark of Manus, Father of the Abyss.
+
+The bloated head is fissured, the cracks
+lined with innumerable tiny red eyeballs,
+and accented by protruding brain parts.
+It is lightly enchanted, suggesting that it
+may have belonged to a sorcerer.</text>
+<text id="1000000">
+Transform the head into that of a dragon with
+a secret rite of the transcendent apostles.
+Use Dragon Head Stone in this state to spew
+dragon breath.
+
+The dragon apostles seek transcendence of
+life itself, attainable by transformation
+into an ancient drag</text>
+<text id="1001000">Transform the body into that of a dragon with
+a secret rite of the transcendent apostles.
+Use Dragon Torso Stone in this state to let
+out a great dragon roar.
+
+The dragon apostles seek transcendence of
+life itself, attainable by transformation
+into an an</text>
+<text id="1002000">Transform arms into those of a dragon with
+a secret rite of the transcendent apostles.
+Use Dragon Torso Stone in this state to create
+dragon roar and wield talons from the hands.
+
+The dragon apostles seek transcendence of
+life itself, attainable by trans</text>
+<text id="1003000">Transform legs into those of a dragon with
+a secret rite of the transcendent apostles.
+Use Dragon Torso Stone in this state to let
+out a great dragon roar.
+
+The dragon apostles seek transcendence of
+life itself, attainable by transformation
+into an ancie</text>
+<text id="1010000">An egg implanted on the head by a type of
+parasite bearing eggs on its back.
+
+The nightmare begins with a slight itch on
+the head, and soon the parasite will be
+siphoning the souls of slain enemies.
+Unless you find this amusing, quickly
+use Egg Vermifuge to purge it.</text>
+</entries>

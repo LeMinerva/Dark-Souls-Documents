@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text id="31010000">An elementary sorcery.
+Fires a small soul arrow straight ahead.
+
+To use sorceries, attune a sorcery
+at a bonfire and equip a staff.</text>
+<text id="31020000">A spell superior to the Soul Arrow.
+More powerful, and effective at damaging
+enemies resistant to physical attacks.
+
+The strength of this spell is influenced
+by one's intelligence.</text>
+<text id="31030000">Advanced soul spell.
+Fires a devastating, thick soul arrow.
+
+But beware. The more powerful the soul arrow,
+the longer the casting time.</text>
+<text id="31040000">A spell superior to Heavy Soul Arrow.
+Fires an even stronger soul arrow.
+
+Difficult to handle, but very powerful.
+Only the well-trained can handle these arrows.</text>
+<text id="31050000">One of the sorceries devised by Straid,
+the great mage of ancient Olaphis.
+
+Fires soul arrows that follow their
+targets to the ends of the earth.</text>
+<text id="31060000">One of the sorceries devised by Straid,
+the great mage of ancient Olaphis.
+
+Fires thick, powerful soul arrows that seek
+their targets to the ends of the earth.</text>
+<text id="31070000">Multiple soul masses appear above the head.
+When fired, they home in on their target.
+
+This spell was said to have been devised
+by a master sorcerer, but his name is
+long forgotten.</text>
+<text id="31080000">Soulbeads made more lethal with crystallization.
+When fired, they home in on their target.
+
+Crystallization makes souls and sorceries all the
+more powerful.</text>
+<text id="31090000">Sorcery that fires souls shaped into a spear.
+Pierces enemies, causing heavy damage.
+
+This spell was said to have been devised
+by a master sorcerer, but his name is
+long forgotten.</text>
+<text id="31100000">Soul spear sharpened through crystallization.
+Pierces enemies, causing heavy damage.
+
+Superior to the most finely sharpened weapons.
+When wielded precisely, it can take down several
+enemies at once.</text>
+<text id="31110000">Does not inflict damage, but unleashes a
+large shockwave, toppling opponents.
+
+Intended to stun opponents and make them
+vulnerable to attack. Some call this child's play,
+but for an innovative caster, it is a deadly tool.</text>
+<text id="31120000">Fires a flurry of soul spears.
+Inflicts high damage when multiple spears hit.
+
+A reworking of an ancient spell concocted
+at the Melfian Magic Academy.
+
+A simple idea, but potentially highly effective.
+When used properly, of course.</text>
+<text id="31130000">Hurls a huge soul mass which splits
+into smaller souls that rain from above.
+
+Requires real talent and is difficult
+to handle. Only works in certain places,
+and against certain foes.</text>
+<text id="31140000">A sorcery that attacks foes using a sword made
+of souls. Energy is focused in a single point,
+and wielded as a sword with both hands.
+
+Use of this sorcery is not too dissimilar to
+swordplay, and so inherently endangers the caster.</text>
+<text id="31150000">One of the lost sorceries preserved only
+in the Undead Crypt.
+Fires successive homing souls.
+
+Extremely difficult sorcery to evade,
+making it very effective against frisky foes.</text>
+<text id="31160000">One of the sorceries devised by Straid,
+the great mage of ancient Olaphis.
+Fires a blinding, piercing bolt of light.
+
+Straid started with an unwieldy spell
+that back-fired on its caster,
+and in time, perfected it.</text>
+<text id="31170000">A secret art unleashes a gush of souls.
+The homing soul mass pierces its target,
+then hits repeatedly for additional damage.
+
+This blasphemous spell is a family heirloom of
+Lord Aldia's. It was designed to pummel foes
+until its power is entirely exhausted.</text>
+<text id="31180000">Sorcery that imbues weapon in other hand 
+with magic. Adds magic damage to the types of
+damage the weapon already inflicts.
+
+Wielding a sword and casting a sorcery
+are two different things, and some members
+the Melfian Magic Academy view these varieties
+of spells as impure.</text>
+<text id="31190000">A sorcery superior to Magic Weapon. Reinforces
+weapon in other hand with intense magic,
+allowing for infliction of heavy magic damage.
+
+The old purists of the Melfian Magic Academy
+view swordplay as a barbaric form of engagement.</text>
+<text id="31200000">Imbues weapon in other hand with crystal magic.
+More powerful than standard magic reinforcement.
+
+The utilization of crystals to enhance soul power
+is an ancient form of magical reinforcement.</text>
+<text id="31210000">Imbues off-hand shield with magic.
+Reinforce shield to absorb additional damage.
+
+Certain members of the Melfian Magic
+Academy scoff at these types of magic.
+The purists, in particular, are disdainful of
+anything vaguely linked to sword fighting.</text>
+<text id="31220000">Creates a warm soul-like orb that serves
+as a decoy and lures foes toward itself.
+
+People regret loss, and yearn for what they
+do not have. Perhaps the name of this
+sorcery harkens to this irony.</text>
+<text id="31230000">A sorcery that facilitates surreptitious activity.
+Reduces the sound made by its caster.
+
+The eastern land of Mirrah is not only the
+home of proud knights. There is also a
+traditional order of shadow knights,
+who quietly carry out unspeakable tasks.</text>
+<text id="31240000">A sorcery that facilitates surreptitious activity.
+Reduces the damage taken from falls.
+
+The eastern land of Mirrah is not only the
+home of proud knights. There is also a
+traditional order of shadow knights, who use
+any means necessary to carry out their orders.</text>
+<text id="31250000">A sorcery that dates farther back than recollection.
+Makes weapon in other hand invisible.
+
+Effective use of this, like any tool, perhaps,
+is reliant upon the ingenuity of its caster.</text>
+<text id="31260000">A sorcery that dates farther back than recollection.
+Repairs equipped weapons and armor.
+
+Uses light to repair damaged weapons and armor.
+Supposedly this sorcery restores items to a past
+state, but with the knowledge of this art lost,
+the finer details of the phenomenon are unknown.</text>
+<text id="31270000">A sorcery that dates farther back than recollection.
+Creates a light that illuminates one's surroundings.
+
+Light banishes dark, and reveals all.
+Whether this is desired, is another matter.</text>
+<text id="31280000">A sorcery that dates farther back than recollection.
+Allows you to blend into your surroundings.
+
+Those who fear the unseen are cowards.
+Those who never doubt their eyes are fools.</text>
+<text id="31290000">Boosts magic within the body beyond even
+your own limits, but at great cost to HP.
+
+The terrible deeds carried out in Aldia led
+to the unintentional birth of several shadowy
+things, all of them eerily malformed.</text>
+<text id="31300000">One of the ancient sorceries that
+were lost when Eleum Loyce froze over.
+Rapidly fire a barrage of small souls.
+
+Intended to protect its caster
+more than damage enemies.</text>
+<text id="31310000">An ancient sorcery of Shulva, the Sanctum City.
+Fires a focused beam of souls.
+
+The development of sorceries was stunted
+in Shulva, as they were considered taboo.
+Even so, there were some occasional gems
+created by a group of nameless enthusiasts.</text>
+<text id="32010000">A healing miracle widely used by clerics.
+Slightly restores HP.
+
+To use miracles, equip a sacred chime
+and attune a miracle at a bonfire.</text>
+<text id="32020000">Superior spell to Heal.
+Restores HP.
+
+The strength of miracles are influenced
+by one's faith.
+
+Miracles are tales of the Gods passed down
+long ago, but only a small number of the
+original tomes remain in their entirety,
+and most that exist are restorations.</text>
+<text id="32030000">A highly advanced miracle.
+An excerpt from the Great Heal tome.
+Greatly restores HP.
+Its effect is the same as Great Heal,
+but has limited uses.
+
+The erudite Great Heal tome requires
+extensive training to properly interpret,
+making it accessible to only a select few.</text>
+<text id="32040000">A glorious miracle only accessible to a small
+minority of clerics. Greatly restores HP.
+
+Only a select few have learned to recite this
+epic romance in its entirety, but those who do
+are amply rewarded. </text>
+<text id="32050000">A special miracle passed down through the ages.
+Greatly heals HP of self and nearby allies.
+
+This miracle, once kept by the Lindelt Monastery,
+was stolen and never recovered.</text>
+<text id="32060000">An intermediate miracle.
+Gradually restores HP.
+
+This miracle is used by the resolute Lindelt
+cleric knights when fighting on the front lines.
+
+There is a story, passed down through generations,
+claiming this band of knights once felled a
+poisonous dragon which menaced an entire nation.</text>
+<text id="32070000">A great miracle used by highly-ranked clerics.
+Slowly restores a large amount of HP.
+
+Cleric Forsalle of Lindelt was a master of
+miracles who fought battles across the lands.
+His allies called him a holy knight, but his
+enemies feared him for his "demonic powers."</text>
+<text id="32080000">A special miracle passed down through the ages.
+Slowly heals a great amount of HP of self
+and nearby allies.
+
+This miracle, once kept by the Lindelt Monastery,
+was stolen and never recovered.</text>
+<text id="32090000">An elementary miracle for clerics.
+Purifies the body, removing all poison.
+
+Affects both the caster and nearby allies.
+
+This spell was recently developed,
+and may not be an authentic miracle.</text>
+<text id="32100000">An elementary miracle.
+Releases a shockwave that staggers foes.
+
+Pushes nearby foes back, but leaves them unhurt.
+Does not directly cause damage, but can be
+highly effective with a little ingenuity.</text>
+<text id="32110000">Miracle that releases local shockwave,
+staggering nearby foes and causing heavy damage.
+
+Little is known about the origins of this miracle,
+except its shared roots with the Force spell.
+It makes mention of certain Gods, but alas,
+their actual names are long forgotten.</text>
+<text id="32120000">A miracle derived from Force.
+Emits a forward-moving shockwave.
+
+Throughout history, there have been many
+examples of imitative miracles.
+When discerning original from imitator is nigh
+on impossible, which is which hardly matters.</text>
+<text id="32130000">Emits lightning in random directions.
+Scholars bicker over whether this is
+the original Lightning Spear, or a derivative.
+
+One can never gain full control of the power
+of the Gods, but with a little favor from lady luck,
+this spell will destroy your foes.</text>
+<text id="32140000">A miracle that launches a spear of lightning.
+Said to be the legacy of an ancient clan
+whose leader was revered as the God of Sun.
+
+The name of the clan has been lost to time,
+but the gross incandescence of our magnificent
+father shall never wane.</text>
+<text id="32150000">A miracle that launches a great spear of lightning.
+Said to be the legacy of an ancient clan
+whose leader was revered as the God of Sun.
+
+The name of the clan has been lost to time,
+but the gross incandescence of our magnificent
+father shall never wane.</text>
+<text id="32160000">A miracle that launches a spear of sunlight.
+Powered with immense wondrous souls.
+
+One of the ancient original miracles,
+said to have existed from the infancy
+of the very world.</text>
+<text id="32170000">One of the lost miracles preserved only
+in the Undead Crypt. Inflicts heavy
+damage on mindless Hollows, but has
+no effect on anything else.
+
+The Undead Crypt is a place of rest
+for the living. Those afflicted by the curse
+can only pray to one day gain entrance.</text>
+<text id="32180000">A miracle that creates a giant soul mass
+and transforms it into a lightning-spouting
+orb of light.
+
+Crafted in ancient times by the God of Sun,
+but later forbidden by the same deity. Was it
+to protect the world from hatred, or sorrow?</text>
+<text id="32190000">A miracle encasing the body in a magic barrier.
+Increases resistance to magic, lightning,
+fire, and dark.
+
+This miracle is said to shield its caster with
+the Rock's armor, and was common
+amongst the wizard knights of Mirrah.</text>
+<text id="32200000">Superior miracle to Magic Barrier.
+Increases resistance to magic, lightning,
+fire, and dark.
+
+The knights of Mirrah are expected to fight
+honorably, with reliance only upon swordsmanship.
+They only resort to magic the only time they
+truly need it: to face the magic of an enemy.</text>
+<text id="32210000">A miracle that returns its caster to the
+last bonfire rested at. Traditionally,
+its destination was the caster's homeland.
+
+The curse slowly erodes one's memory,
+until even one's birthplace is reduced to
+a figment of a clouded past.
+But the bonfires are constant,
+a beacon for the tragically afflicted.</text>
+<text id="32220000">A miracle created to help those who have
+lost their way. Reveals more messages
+from other worlds.
+
+Countless worlds loosely overlap,
+and at the seams of contact, kindred souls,
+who have lost their way, call out to one
+another with fleeting messages of hope.</text>
+<text id="32230000">An ancient miracle said to have been devised
+by warriors who once served the God of Sun.
+
+Provides a temporary boost to the attack and
+defense of its caster and all nearby allies.</text>
+<text id="32240000">A miracle that senses traitors.
+Reveals the location of the nearest enemy,
+or invading dark spirit.
+
+Those who serve the Lindelt Monastery
+willfully adhere to strict commandments.
+This miracle was created to castigate those
+who ignore the righteous teachings.</text>
+<text id="32250000">Enwreathes its caster with a pure veil.
+Grants temporary resistance to status effects.
+
+Lindelt ascetics are sent to distant lands
+for proselytizing and self-training,
+but many of them decide not to return.</text>
+<text id="32260000">An ancient miracle of the sun.
+Reinforces weapon in other hand with sunlight,
+a form of lightning.
+
+The sun grants life to all things upon the earth,
+even if the worshippers of sunlight no longer
+bless the surface with their presence.</text>
+<text id="32300000">An ancient miracle owed to the cardinal of Shulva.
+Challenge fate one time when HP reaches 0.
+
+Originally intended to grant the dying
+a few moments for a final farewell.</text>
+<text id="32310000">Developed from a primal miracle.
+Launch splintering spears of lightning.
+
+Ever since miracles came to be, learned
+men have endeavored to rework and remold
+them to their satisfaction.
+This is one such effort.</text>
+<text id="33010000">A standard spell for pyromancers.
+Creates a fireball that is hurled at foes.
+
+To use pyromancies, equip
+a pyromancy flame to serve
+as the catalyst, and assign
+a pyromancy to an
+attunement slot.
+
+The power of a pyromancy is
+directly affected by the
+quality of the catalyst.</text>
+<text id="33020000">A stronger form of Fireball.
+Creates a fireball that is hurled at foes.
+Also inflicts damage to foes near point of
+contact.
+
+The power of pyromancies is influenced
+by one's pyromancy flame, which can be
+strengthened through reinforcement.</text>
+<text id="33030000">The strongest form of Fireball.
+Creates a giant fireball that is hurled at foes.
+
+The exalted flame, long pined after.
+Even if it would scorch our very flesh.</text>
+<text id="33040000">The chaos flame is said to have
+devoured the mother of pyromancy.
+Create a chaos flame, and hurl it at foes.
+
+This special flame creates a short-lived
+surge of molten lava wherever it lands.</text>
+<text id="33050000">An ancient, primal pyromancy.
+Pillars of flame erupt near the caster.
+
+The Firestorm is said to be the wrath
+and ire of the spell's creator.</text>
+<text id="33060000">An ancient, primal pyromancy.
+Giant pillars of flame erupt near the caster.
+
+The fire tempest incinerates all life.
+What menace was so great as to make
+such a fearsome spell necessary?</text>
+<text id="33070000">The chaos flame is said to have
+devoured the mother of pyromancy.
+Create multiple pillars of chaos flame.
+
+Those who sought great power were
+consumed by their own desires.
+Where are these lost souls now?</text>
+<text id="33080000">An elementary spell for new pyromancers.
+Releases flame in front of the caster.
+
+The simplest pyromancy of all,
+but surprisingly effective.</text>
+<text id="33090000">Superior spell to Combustion.
+Releases intense flame in front of the caster.
+
+A very powerful spell, but so simple that
+it can be awkward to use.</text>
+<text id="33100000">An ancient, primal pyromancy.
+Sweep foes with a whip-like flame.
+
+One of the original pyromancies.
+Effective use of it demands agile footwork,
+making it a difficult spell for most.</text>
+<text id="33110000">A fringe pyromancy of unknown origin.
+Creates a cloud of poison mist.
+
+This spell contradicts the very principles of
+pyromancy, suggesting that its creator
+had a heretical streak.</text>
+<text id="33120000">A fringe pyromancy of unknown origin.
+Creates a powerful cloud of poison mist.
+
+The poison gradually erodes the target's body,
+inflicting damage all the while.
+Whoever created this spell did not believe
+his enemies deserved a swift death.</text>
+<text id="33130000">A fringe pyromancy of unknown origin.
+Sprays an equipment-eroding acid.
+
+Does not directly damage foes, but eats away
+at their equipment instead. Yet another
+pyromancy inspired by perniciousness.</text>
+<text id="33140000">One of the pyromancies devised by Straid,
+the great mage of ancient Olaphis.
+Release a static fireball that explodes when
+foes draw near.
+
+Straid was an oddly gifted mage, well-versed
+in both sorceries and pyromancies, but his
+curious temperament never allowed him
+to settle down in one place for very long.</text>
+<text id="33150000">One of the pyromancies devised by Straid,
+the great mage of ancient Olaphis.
+Great flames envelop and immolate faraway foes.
+
+Straid, always immersed in magic,
+never accepted an apprentice.
+As a result, much of his extensive
+knowledge is permanently lost.</text>
+<text id="33160000">Pyromancy developed in Aldian rites.
+Fires a giant fireball with a widely
+encompassing explosion.
+
+What could possibly justify such excessive
+destructive power? In all likelihood, the madmen
+of Aldia never even questioned the need.</text>
+<text id="33170000">Pyromancy that imbues weapon in other hand 
+with fire. Adds fire damage to the types of
+damage the weapon already inflicts.
+
+Pyromancy and sorcery are said to be
+like oil and water, but in fact their origins
+can be traced to a common source.</text>
+<text id="33180000">A pyromancy that internalizes the power of flame.
+Sweat profusely, reducing fire damage.
+
+Most useful when facing other flame-manipulating
+pyromancers.
+Just don't take the looks you get personally.</text>
+<text id="33190000">A pyromancy that internalizes the power of flame.
+Turns the body into iron,
+increasing defense and resistance.
+
+As one might guess, the rock-solid flesh enabled
+by this spell dramatically slows movement.
+Guaranteed to cause trouble if used
+at an inopportune moment.</text>
+<text id="33200000">One of the lost pyromancies preserved only
+in the Undead Crypt. Creates a gentle,
+warm flame that heals those who touch it.
+
+Fire can be a show of strength, but it is
+also a symbol of wisdom and comfort.
+Fire is what the caster wishes it be.</text>
+<text id="33210000">A pyromancy that creates a coating of flame,
+allowing the caster to incinerate nearby foes.
+Needless to say, this is a perilous spell
+that burns the caster while active.
+
+If a person is truly desirous of something,
+perhaps being set on fire does not seem so bad.</text>
+<text id="33300000">Pyromancy created by the magus Eygil,
+loyal follower of the Old Iron King.
+Creates several pillars of flame
+in front of the caster.
+
+Eygil sought to grant fire a will of its own.
+This pyromancy was conjured up to behave
+like a snake, writhing toward its prey,
+with a mind to strike.</text>
+<text id="33310000">Pyromancy created by the magus Eygil,
+loyal follower of the Old Iron King.
+Cast flame in a sweeping motion across
+a targeted area.
+
+The fire seems to dance, and makes its
+victims dance with it.</text>
+<text id="33320000">A pyromancy of Nadalia, Bride of Ash.
+Spouts multiple Dark flames.
+
+This child of Dark, bearing inconceivable
+strength, found herself in a kingless land
+devoid of souls. And in journeying there, has
+all but condemned herself to a fate most wretched.</text>
+<text id="34010000">A hex modified from an old sorcery by
+Gilleah, the father of Hexing.
+Fires a heavy orb of darkness.
+
+To use hexes, equip a sacred chime or staff,
+and attune a hex at a bonfire.
+Required equipment depends on hex.
+
+Catalyst: staff</text>
+<text id="34020000">A hex modified from an old sorcery by
+Gilleah the Hexer.
+Fires several orbs of darkness.
+
+Hexing is rooted in both sorcery and
+miracles, but is viewed as a perilous affront
+to all life, and banned in most lands.
+
+Catalyst: staff</text>
+<text id="34030000">A hex that releases a temporary localized mist.
+Those who breathe in the mist are instantly
+assailed by poison.
+
+This hex is regarded as a poison due to
+the outward symptoms, but in fact the mist
+eats away at the target's inner essence.
+Just the traits that led to the prohibition
+of hexing.
+
+Catalyst: staff</text>
+<text id="34040000">An advanced hex based on an ancient sorcery.
+Creates a dark mass that seems to pursue
+its target with a will of its own.
+
+It appears to be a manifestation of an emotion.
+Perhaps of hate, perhaps of love.
+
+Catalyst: staff</text>
+<text id="34050000">Hex that casts a dark flame upon corpses,
+causing them to combust violently.
+
+Hexes such as these, that tamper with
+life itself, are particularly abhorred.
+
+Catalyst: staff</text>
+<text id="34060000">Felkin the Outcast applied his art
+to transform Magic Weapon into a hex.
+Adds dark damage to the types of damage
+the weapon already inflicts.
+
+Those who choose the path of dark
+are admonished by all manner of sorcerers.
+But this does not stop the curious from
+being drawn to this strangely alluring craft.
+
+Catalyst: staff</text>
+<text id="34070000">A hex that releases verbose darkness.
+The darkness echoes words of despair,
+reducing the defense of opponents.
+
+The Dark blankets the world in black.
+A thing of tranquility, a thing serene.
+
+Catalyst: staff</text>
+<text id="34080000">A hex that distorts local space.
+For a brief moment, no damage can be inflicted.
+
+The hexer Gilleah took no apprentice, and it is
+unclear how his spells were passed down.
+It is even possible that hexes originated from
+another source altogether.
+
+Catalyst: staff</text>
+<text id="34090000">A hex that distorts local space.
+For a brief moment, spells are deflected.
+
+Hexer Gilleah never took an apprentice, making
+it unclear how his spells were passed down.
+It is even possible that hexes came from
+another source entirely.
+
+Catalyst: staff</text>
+<text id="34100000">A hex that transforms its caster's flesh.
+Temporarily reduces received damage,
+but darkens one's sight.
+
+If it cannot be observed, it does not exist.
+Certainly a common conception, but one
+with far too many exceptions in this world.
+
+Catalyst: staff</text>
+<text id="34300000">Hex adapted from an ancient sorcery.
+Brandish Dark like a sword.
+
+By its nature Dark is normally tranquil,
+but this hex releases a focused blade
+of Dark in an uncharacteristic flash
+of brilliance.
+
+Catalyst: staff</text>
+<text id="34310000">Hex created by the children of Dark.
+Fire multiple Dark orbs that seek their target.
+
+Hexes that grant a fleeting volition to Dark
+have existed from ancient times,
+and it appears that the children of Dark
+have some recollection of the creator
+of these spells.
+
+Catalyst: staff</text>
+<text id="35010000">An esoteric spell created by Navlaan,
+the infamous exiled sorcerer.
+Awakens the souls of the long-buried dead.
+
+The heretic Navlaan was executed along with
+his entire village, and the mere utterance of
+his name became a crime. Some say it was
+because he sought to restore the banned art
+of resurrection.
+
+Catalyst: sacred chime</text>
+<text id="35020000">An esoteric spell created by Navlaan,
+the infamous exiled sorcerer.
+Creates a local vortex of dark flame.
+
+The heretic Navlaan was executed along with
+his entire village, and the mere utterance of
+his name became a crime. Some say it was
+because he sought to restore the banned art
+of resurrection.
+
+Catalyst: sacred chime</text>
+<text id="35030000">A hex that distorts the power of life.
+Emits a dark mass at the cost of souls.
+
+Can be used even without souls,
+but at greatly reduced strength.
+
+Catalyst: sacred chime</text>
+<text id="35040000">A hex that distorts the power of life.
+Emits a large mass of dark at the cost of souls.
+
+Can be used even without souls,
+but at greatly reduced strength.
+
+Catalyst: sacred chime</text>
+<text id="35050000">A hex that distorts the power of life.
+Emits a mass of dark, but at the cost of all souls.
+
+Strength varies depending on the number
+of souls. Not a hex to be used lightly.
+
+Catalyst: sacred chime</text>
+<text id="35060000">A hex developed independently by Outcast Felkin.
+Transforms a certain number of souls
+into HP over a period of time.
+
+Something gained, something lost.
+
+Catalyst: sacred chime</text>
+<text id="35070000">A hex developed independently by Outcast Felkin.
+Transforms a certain number of souls
+into attack power over a period of time.
+
+Something gained, something lost.
+
+Catalyst: sacred chime</text>
+<text id="35080000">Consume a number of souls and
+affix dark to a certain spot.
+Inflicts damage upon those who touch it.
+
+This distorted dark, brewed by hexers,
+drains the life-force of those who touch it.
+
+Catalyst: sacred chime</text>
+<text id="35090000">A hex created by an ostracized cleric.
+Blocks the spells of nearby casters.
+
+This hex, born of jealousy and humiliation,
+is a locus of dark thoughts. The very things
+that reflect the true essence of life itself.
+
+Catalyst: sacred chime</text>
+<text id="35300000">A hex created from an ancient miracle
+of unknown origin. Slows the walking pace
+of its caster and those in the vicinity.
+
+To stand and glare at one another,
+steaming with ire and wrath,
+but without making a move.
+Such is the nature of peace.
+
+Catalyst: Sacred Chime</text>
+<text id="35310000">Hex that converts souls into a large mass of Dark.
+This momentous mass of Dark dances to
+signal the joy of its own release, or perhaps
+merely to taunt foes as it veers towards them.
+
+Hexes are an expression of human depravity,
+of which this dance is a perfect example.
+
+Catalyst: sacred chime</text>
+</entries>

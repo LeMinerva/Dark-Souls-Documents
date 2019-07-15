@@ -1,0 +1,1155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text id="100">Online play item.
+Leave summon sign.
+
+Be summoned to another world as a phantom
+through your sign, and defeat the area boss
+to acquire humanity.
+(Hollows cannot conduct summons)
+
+In Lordran, the flow of time is distorted,
+and the White Sign Soapstone allows
+Undead to assist one another.</text>
+<text id="101">Online play item.
+Leave invasion sign.
+(Hollows cannot use the item)
+
+Be summoned to another world as a dark
+spirit, and defeat the summoner to acquire
+humanity.
+Certain Darkwraiths resist their descent into
+dark and persevere along the honorable path.
+The Red Sign Soapstone is for them.</text>
+<text id="102">Online play item.
+Invade another world.
+(Only Covenanter can use the item while Hollows cannot)
+
+Defeat the master of the world you have
+invaded to acquire humanity.
+
+The Darkwraiths of Kaathe use this orb to
+seek humanity and plunge further into dark.
+Perhaps they are more human than we?</text>
+<text id="103">This black crystal, long a symbol of
+farewell, is granted to banished Undead.
+The crystal sends phantoms back to their
+homes, or sends you back to yours.
+
+Beware of fickle use of this item if you
+intend to nurture relations.</text>
+<text id="106">Online play item.
+Write/view/rate message.
+
+Messages transmit to other worlds, where they
+are rated. Also, rate messages of others.
+
+In Lordran, the flow of time is distorted,
+and messages allow Undead to assist
+(or deceive) one another.</text>
+<text id="108">Online play item.
+Check list of indicted players.
+
+The Goddess of Sin Velka oversees this list
+of the guilty, who have disrespected the Gods
+or their covenants, and shall one day face
+the wrath of the Blades of the Darkmoon.</text>
+<text id="109">Online play item.
+Lure phantoms from other worlds.
+(Only Covenanter can use the item while Hollows cannot)
+
+The dreadful Eyes of Death spread disaster
+across neighboring worlds. Phantoms lured
+to the host world may end up as victims,
+allowing the Eyes of Death to multiply,
+and leading to further proliferation of bane.</text>
+<text id="111">Online play item.
+Invade another world.
+(Hollows cannot use the item)
+
+Defeat the master of the world you have
+invaded to acquire humanity.
+
+The Cracked Red Eye Orb allows players to
+temporarily imitate this ability normally
+limited to the Darkwraiths of Kaathe.</text>
+<text id="112">Online play item.
+Check servants of the Daughters of Chaos.
+
+Egg-bearer Eingyi keeps this roster of those
+who serve his master, a Daughter of Chaos.
+Eingyi praises those who offer significant
+humanity to alleviate his master's suffering.
+
+But what is praise from Eingyi really worth?</text>
+<text id="113">Online play item.
+Invade world of player in Book of the Guilty.
+Subdue player to acquire Souvenir of Reprisal.
+(Only Covenanter can use the item)
+
+These mystical orbs are granted to
+Blades of the Darkmoon, knights who serve
+the Dark Sun Gwyndolin, so that they may
+serve the Gods in meting out vengeance.</text>
+<text id="114">Online play item.
+Find a player who has acquired a Dragon Scale
+and invade that player's world to pillage it.
+(Only Covenanter can use the item)
+
+An art of the transcendent apostles who pray
+to the ancient dragons. To be alive is to be
+vulnerable, and the fiery Gods are no
+exception. The apostles seek another plane
+of existence, which transcends life.</text>
+<text id="115">Mystical orb found on a Keeper's corpse.
+
+Invade the world of the murderer of a 
+Fire Keeper, to defeat the perpetrator and
+reclaim the soul of the Fire Keeper.
+
+The Black Eye keeps constant watch on the
+city of the Gods, Anor Londo.</text>
+<text id="116">Invade the world of the traitor Shiva.
+
+Invade the world of Shiva, and subdue him
+to reclaim the Blade of Chaos.
+
+But the Black Eye has lost its focus,
+and its powers waver timorously.
+Where could the traitor Shiva be?</text>
+<text id="117">The Darksign signifies an accursed Undead.
+Those branded with it are reborn after
+death, but will one day lose their mind
+and go Hollow.
+
+Death triggers the Darksign, which returns
+its bearer to the last bonfire rested at,
+but at the cost of all humanity and souls.</text>
+<text id="118">Online play item.
+Quit Battle of Stoicism.
+(Session ends if host leaves)
+
+Victory in this battle once led to ancient
+Anor Londo, but even in the absence
+of its overseer, capitulation is a disgrace.
+In the name of a warrior's honor, do not
+quickly resort to use of this crystal.</text>
+<text id="200">The Undead treasure these dull green flasks.
+Fill with Estus at bonfire. Fills HP.
+
+The Estus Flasks are linked to the Fire
+Keepers. The Dark Tales also make reference:
+
+   An emerald flask, from the Keeper's soul
+   She lives to protect the flame,
+   And dies to protect it further</text>
+<text id="220">Silver pendant engraved with
+the crest of Artorias.
+
+One of the ancient treasures of Anor Londo.
+Presented to Artorias for facing the Abyss.
+
+Effectively deflects the Dark of the Abyss,
+especially in its magic forms.</text>
+<text id="230">Large medicinal mushroom of
+Elizabeth, keeper of the sanctuary.
+
+Eating this mushroom invigorates the flesh,
+and greatly restores HP for a limited duration.
+
+Its dramatic effect can make the difference
+between a warrior's life and death.</text>
+<text id="240">Holy water from Goddess Gwynevere.
+Fully restore HP and undo irregularities.
+
+The Goddess of Sunlight Gwynevere, daughter of
+the great Lord of Sunlight Gwyn, is cherished
+by all as the symbol of bounty and fertility.</text>
+<text id="260">Green weed, shaped like a flower.
+Temporary boost to stamina recovery speed.
+
+This uniquely bitter, biting herb is
+sometimes harvested in large quantities,
+but normally it is an annual plant found
+near water.</text>
+<text id="270">Medicinal red moss clump.
+Reduces bleeding build-up.
+
+Bleeding builds up when attacked by sharp
+blades or spikes, and once triggered causes
+severe damage. Use this moss clump before
+it reaches this point.</text>
+<text id="271">Medicinal purple moss clump.
+Reduces poison build-up. Cures poison.
+
+Poison builds up in the body, and when it
+breaks out, it causes gradual damage over
+a period of time.
+Poison can be exasperating, so be certain to
+carry the needed quantity of these moss
+clumps when destined for an afflicted area.</text>
+<text id="272">Potently medicinal moss clump with a flower.
+Reduces poison and toxin. Restores status.
+
+Toxin is a more vicious form of poison which
+quickly leads to death.
+
+Moss clumps without a flower are useless
+against toxin, and a lack of these moss
+clumps could lead to an early demise.</text>
+<text id="274">Ash-colored stone encasing a skull.
+Secret treasure of Arstor, the Earl of Carim.
+Reduces curse build-up and breaks curse.
+
+Humans are helpless against curses,
+and can only redirect their influence.
+The Purging Stone does not dispel curses,
+but receives them as a surrogate. The stone
+itself was once a person or some other being.</text>
+<text id="275">Bitter, sour chestnut.
+Removes parasitic egg from body.
+
+The egg-bearers have chosen to serve the
+Flame of Chaos, and the eggs symbolize this
+selfless choice.
+
+Naturally, these chestnuts are forbidden, but
+are allowed under special circumstances.</text>
+<text id="280">Lightly enchanted golden powder.
+Repairs weapon equipped in right hand.
+
+Use of a weapon depletes its durability,
+eventually rendering it ineffective.
+
+Repair Powder is a precious method of repair
+on the battlefield, as it obviates the need
+for a Repairbox.</text>
+<text id="290">Throwing knife.
+Used as a projectile.
+
+Throwing knives have limited range and
+accuracy compared to arrows, but offer a
+quick-and-easy ranged attack.
+
+Undead who lack other means of ranged
+attacks will do well to stock a few of these.</text>
+<text id="291">Throwing knife.
+Coated with poison.
+
+Throwing knives have limited range and
+accuracy compared to arrows, but offer a
+quick-and-easy ranged attack.
+
+When a foe is poisoned, it will continually
+take damage over a period of time.</text>
+<text id="292">Bisque urn filled with black powder.
+Explodes, inflicting fire damage.
+
+Relatively powerful ranged weapon, especially
+in situations calling for fire damage.
+A very precious item at low levels.
+
+Many warriors use these to augment their
+strategic repertoire.</text>
+<text id="293">Atrocious fecal waste material.
+Throw at enemy to build up toxins,
+but also builds up your toxicity.
+
+Although the stench makes it difficult to
+carry on one's person, turning an enemy toxic
+inflicts high damage over a period of time.</text>
+<text id="294">A skull with meekly lingering souls.
+Throw to shatter and spread souls to
+attract certain types of enemies.
+
+Souls are a concentration of life, and the
+life-starved Hollows are lured by its power.
+Not effective for all enemies.</text>
+<text id="296">Talisman utilized by Allfather Lloyd's
+cleric knights to hunt down the Undead.
+Blocks Estus recovery within a limited area.
+
+In the outside world, the Undead are accursed
+creatures, and Lloyd's cleric knights are
+widely praised for their Undead hunts. This
+blessed talisman blocks Undead recovery,
+allowing the knights to fight with impunity.</text>
+<text id="297">Black bisque urn filled with black powder.
+Explodes, inflicting fire damage.
+
+Powerful ranged weapon, especially
+in situations calling for fire damage.
+A very precious item at low levels.
+
+Black Firebombs are especially destructive.</text>
+<text id="310">Black charcoal-like pine resin.
+Applies fire to right-hand weapon.
+
+Affected weapon inflicts fire damage
+for a short time. Particularly effective
+against corporeal creatures and Undead,
+who have an instinctual fear of fire.</text>
+<text id="311">Rare pine resin which emits golden sparks.
+Applies lightning to right-hand weapon.
+
+Affected weapon inflicts rare lightning
+damage, making it effective against targets
+which are resilient to both magic and fire.
+Very effective against dragon family foes.</text>
+<text id="312">Limb of the victim of a curse.
+Temporary curse allows engagement with ghosts.
+
+The only way to fight back against ghosts,
+who are cursed beings, is to become cursed
+oneself. The safest method, however dreadful,
+is to cut off an arm of the dead.</text>
+<text id="313">Rotten pine resin that has gained poison.
+Adds poison effect to right-hand weapon.
+
+Hits with affected weapon build up enemy
+poison level. If enemy is poisoned, damage
+will be inflicted for a period of time.</text>
+<text id="330">Bone fragment reduced to white ash.
+Return to last bonfire used for resting.
+
+Bonfires are fueled by bones of the Undead.
+In rare cases, the strong urge of their
+previous owner's to seek bonfires enchants
+their bones with a homeward instinct.</text>
+<text id="370">Warm pebble emitting a beautiful phasing aura
+of seven colors, with a very rare eighth.
+
+The rainbow stone does nothing special, but
+can serve as a path marker, and can be
+dropped off a cliff to judge height by the
+sound of its descent.
+If a loud noise is heard upon its landing,
+then a fall off the ledge is surely lethal.</text>
+<text id="371">Binoculars made of brass.
+Use to peer at distant scenery.
+
+This advanced device was built by a
+famous craftsman of Astora. Its utility is
+singular, but its applications many.
+
+The value of these specs depends greatly on
+the imagination of their owner.</text>
+<text id="372">Slip sold by bishop of Velka, Goddess of Sin
+Annul a covenant without committing sin
+
+A covenant is a most sacred union,
+normally not subject to negotiation,
+but when circumstances require it,
+even Goddess Velka will make an exception.</text>
+<text id="373">Slip sold by bishop of Velka, Goddess of Sin.
+If you are killed by an invader, use this to
+report the crime of that trespasser.
+
+The indicted player will be added to a list
+of unfortunate souls who will one day face
+the wrath of the Blades of the Darkmoon.</text>
+<text id="374">Blood-drained, shrunken ear.
+Souvenir taken for subduing the guilty.
+
+The knights called the Blades of the Darkmoon
+punish the guilt-soaked offenders of the Gods
+and take this as proof of their conquest.
+The earless corpses of the guilty will be
+left behind as a warning to others, inspiring
+both fear and respect for the Gods. Such is
+the eternal mandate of the Dark Sun.</text>
+<text id="375">This faintly warm medal, engraved with the
+symbol of the Sun, is the ultimate honor,
+awarded to those who summon the Warrior
+of Sunlight and complete a goal.
+
+The symbol represents Lord Gwyn's firstborn,
+who lost his deity status and was expunged
+from the annals. But the old God of War
+still watches closely over his warriors.</text>
+<text id="376">A simple pendant with no effect.
+
+Even so, pleasant memories are crucial
+to survival on arduous journeys.</text>
+<text id="377">Stone imbued with the power of the dragons.
+Rite of apostles of the ancient dragons.
+Gain head of dragon. Emit dragon breath.
+
+The dragon apostles seek transcendence of
+life itself, attainable by transformation
+into an ancient dragon. This rite is only one
+step, but it cannot be reversed until death.</text>
+<text id="378">Stone imbued with the power of the dragons.
+Rite of apostles of the ancient dragons.
+Gain torso of dragon. Roar like a dragon.
+
+The dragon apostles seek transcendence of
+life itself, attainable by transformation
+into an ancient dragon. This rite is only one
+step, but it cannot be reversed until death.</text>
+<text id="380">Rubbish with no value.
+Who in their right mind would bother carrying
+this around? Perhaps you need help.</text>
+<text id="381">Coin made of copper. Its face shows
+Old Man McLoyf, god of medicine and drink.
+
+Even coins of great value in the world of
+men have little value in Lordran, where the
+accepted currency is souls.
+
+Those who dream of returning to the outside
+world are fond of carrying these around.</text>
+<text id="382">Coin made of silver, with a portrait of the
+legendary Knight King Rendal on its face.
+
+Even coins of great value in the world of
+men have little value in Lordran, where the
+accepted currency is souls.
+
+Those who dream of returning to the outside
+world are fond of carrying these around.</text>
+<text id="383">Coin made of gold, with Allfather Lloyd
+and his white halo shown on its face.
+
+Even coins of great value in the world of
+men have little value in Lordran, where the
+accepted currency is souls.
+
+Those who dream of returning to the outside
+world are fond of carrying these around.</text>
+<text id="384">A strange doll in strange dress.
+
+There once was an abomination who had
+no place in this world. She clutched this
+doll tightly, and eventually was drawn into
+a cold and lonely painted world.</text>
+<text id="385">Online play item.
+Dried finger with multiple knuckles.
+
+Use to strengthen connection to other worlds, allowing the 
+summoning of a third phantom, but also a second dark spirit.
+
+Also makes the summoning of a dark spirit occur earlier. 
+Use with caution.</text>
+<text id="390">Soul of the Ash Maiden,
+Fire Keeper of Firelink Shrine.
+
+A Fire Keeper's soul is a draw for humanity,
+and held within their bosoms, below just a
+thin layer of skin, are swarms of humanity
+that writhe and squirm.
+Was the Ash Maiden locked in this dark prison
+for some transgression, or by her own will?</text>
+<text id="391">Soul of the Darkmoon Knightess,
+Fire Keeper of Anor Londo.
+
+A Fire Keeper's soul is a draw for humanity,
+and held within their bosoms, below just a
+thin layer of skin, are swarms of humanity
+that writhe and squirm. Her brass armor
+serves to disguise this ghastly form.</text>
+<text id="392">Soul of a Daughter of Chaos,
+Fire Keeper of Quelaag's Domain.
+
+A Fire Keeper's soul is a draw for humanity,
+and held within their bosoms, below just a
+thin layer of skin, are swarms of humanity
+that writhe and squirm.
+To her, the countless eggs which appeared
+were cradles for each tiny humanity. </text>
+<text id="393">Soul of a long-lost Fire Keeper.
+
+Each Fire Keeper is a corporeal manifestation
+of her bonfire, and a draw for the humanity
+which is offered to her. Her soul is gnawed
+by infinite humanity, and can boost the power
+of precious Estus Flasks.
+
+It can be used to gain Humanity and restore HP
+at the cost of losing the Fire Keeper soul to
+reinforce the Estus Flasks.</text>
+<text id="400">Soul of a lost Undead who has
+long ago gone Hollow.
+
+Use to acquire souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="401">Large soul of a lost Undead
+who has long ago gone Hollow.
+
+Use to acquire souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="402">Soul of a nameless Undead soldier
+who has long ago gone Hollow.
+
+Use to acquire souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="403">Large soul of a nameless Undead
+soldier who has long ago gone Hollow.
+
+Use to acquire many souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="404">Soul of a proud Undead knight who
+has long ago gone Hollow.
+
+Use to acquire many souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="405">Large soul of a proud Undead knight
+who has long ago gone Hollow.
+
+Use to acquire many souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="406">Soul of a brave Undead warrior
+who has long ago gone Hollow.
+
+Use to acquire a large amount of souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="407">Large soul of a brave Undead warrior
+who has long ago gone Hollow.
+
+Use to acquire a large amount of souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="408">Soul of a hero of legend
+who has long ago gone Hollow.
+
+Use to acquire a large amount of souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="409">Great soul of a hero of legend
+who has long ago gone Hollow.
+
+Use to acquire an incredible amount of souls.
+
+Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them.</text>
+<text id="500">Rare tiny black sprite found on corpses.
+Use to gain 1 humanity and restore a
+large amount of HP.
+
+This black sprite is called humanity, but
+little is known about its true nature.
+If the soul is the source of all life,
+then what distinguishes the humanity
+we hold within ourselves?</text>
+<text id="501">Rare tiny black sprite found on corpses.
+Very unusual twin humanity.
+Use to gain 2 humanity and restore a
+large amount of HP.
+
+This black sprite is called humanity, but
+little is known about its true nature.
+If the soul is the source of all life,
+then what distinction is left for humanity?</text>
+<text id="510">Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "Hello". Have another look.
+Do you sense the amicability in its eyes?</text>
+<text id="511">Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "Thank you". Have another
+look. Is this not a face of gratitude?</text>
+<text id="512">Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "Very good!" Have another
+look. Does it not appear quite jovial?</text>
+<text id="513">Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "I'm sorry". Have another look.
+Isn't that an expression of atonement?</text>
+<text id="514">Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "Help me!" Look again.
+Can you hear the desperate plea?</text>
+<text id="700">Soul of Quelaag, once daughter of the
+Witch of Izalith, but now a chaos demon.
+
+Special beings have special souls, and
+Quelaag's soul contains all aspects of Chaos.
+Use it to acquire a huge amount of souls,
+or to create a unique weapon.</text>
+<text id="701">Soul of Sif the Great Grey Wolf, who
+guards the grave of Artorias the Abysswalker.
+
+Special beings have special souls.
+Use the soul of Sif, who inherited the
+divine knightsword, to acquire a huge
+amount of souls, or to create a
+unique weapon.</text>
+<text id="702">Soul of the Gwyn, Lord of Sunlight
+and Cinder, who linked the First Flame.
+
+Lord Gwyn bequeathed most of his power to the
+Gods, and burned as cinder for the First
+Flame, but even so, Lord Gwyn's soul
+is a powerful thing indeed.</text>
+<text id="703">Soul serving as the core of the Iron Golem,
+guardian of Sen's Fortress, and slayer of
+countless heroes seeking Anor Londo.
+
+Originally a bone of an everlasting dragon.
+Use to acquire a huge amount of souls,
+or to create a unique weapon.</text>
+<text id="704">Soul of Ornstein, Dragonslayer Knight who
+guards the cathedral in the forsaken city of Anor Londo.
+
+Special beings have special souls.
+Lord Gwyn granted this soul to his four
+most trusted knights.
+
+Use to acquire a huge amount of souls,
+or to create a unique weapon.</text>
+<text id="705">Soul of the mystical Moonlight Butterfly,
+which flitters in the Darkroot Garden.
+
+Special beings have special souls.
+The butterfly's soul is a creation of
+Seath the Scaleless.
+
+Use to acquire a huge amount of souls,
+or to create a unique weapon.</text>
+<text id="706">Soul of Smough the Executioner, who
+guards the cathedral in the forsaken
+city of Anor Londo.
+
+Special beings have special souls.
+Use the soul of this eerily gleeful
+executioner to acquire a huge amount
+of souls, or to create a unique weapon.</text>
+<text id="707">Soul of Priscilla the Crossbreed,
+trapped inside the painted world of Ariamis.
+
+Special beings have special souls.
+Use the soul of this crossbreed bastard
+child and antithesis to all life to acquire
+a huge amount of souls, or to create
+a unique weapon.</text>
+<text id="708">Soul of Darkmoon Gwyndolin, god of the Dark
+Sun and guardian of deserted Anor Londo.
+
+Special beings have special souls.
+Use the soul of Gwyn's lastborn
+to acquire a huge amount of souls,
+or to create a unique weapon.</text>
+<text id="709">Soul of the white winged lion sanctuary
+watchkeeper, who dreaded the spread of
+the Abyss.
+
+The Guardian exhibited traits of several
+animals other than lions, suggesting that it
+was no ordinary beast, but rather
+closer to the beings known as Demons.</text>
+<text id="710">Soul of Lord Gwyn's Knight Artorias,
+who was consumed by the Abyss.
+
+The legend that Artorias repelled the Abyss
+only told half of the story.
+
+It seems that he was defeated, and his
+honor preserved, by some unsung hero,
+who is the true victor over the Abyss.</text>
+<text id="711">Soul of Manus, Father of the Abyss.
+This extraordinary soul is a viscous,
+lukewarm lump of gentle humanity.
+
+Ancient Manus was clearly once human.
+But he became the Father of the Abyss
+after his humanity went wild, eternally
+seeking his precious broken pendant.</text>
+<text id="800">Ember required for weapon ascension.
+A large, high-quality ember.
+Handled by the blacksmiths of Astora.
+
+Ascension for +5 standard weapon.
+Allows reinforcement to +10.
+
+Also, can ascend +5 std wpn to raw wpn.
+(raw weapon can be reinforced to +5)</text>
+<text id="801">Ember required for weapon ascension.
+Huge ember of highest quality.
+Handled by the blacksmiths of Astora.
+
+Ascension for +10 standard weapon.
+Allows reinforcement to +15,
+on par with the greatest weapons of legend.</text>
+<text id="802">Ember required for weapon ascension.
+Crystal ember created by Seath the Scaleless.
+Handled only by the giant God's blacksmiths.
+
+Ascends +10 standard wpn to crystal weapon.
+(crystal weapon can be reinforced to +5)
+
+Crystal weapons are powerful but brittle,
+and cannot be repaired once broken.</text>
+<text id="806">Ember required for weapon ascension.
+Large magic ember, a form of sorcery.
+Handled only by the Vinheim magic blacksmiths.
+
+Ascends +5 magic weapon.
+Allows reinforcement to +10,
+the most powerful level for magic weapons.</text>
+<text id="807">Ember required for weapon ascension.
+This enchanted ember, a form of sorcery,
+is a vestige of the lost land of Oolacile.
+
+Ascends +5 magic wpn to enchanted weapon.
+(enchanted weapon can be reinforced to +5)
+
+The sorcerer's enchanted weapon that inflicts
+magic damage and is boosted by intelligence.</text>
+<text id="808">Ember required for weapon ascension.
+Divine embers are property of the church,
+and intended for divine blacksmiths.
+
+Ascends +5 standard wpn to divine weapon.
+(divine weapon can be reinforced to +5)
+
+Divine weapons are for Undead hunting. Use
+against Undead and the pawns of necromancers.</text>
+<text id="809">Ember required for weapon ascension.
+Large divine ember, of secret church rites.
+Intended for select divine blacksmiths.
+
+Ascends +5 divine weapon.
+Allows reinforcement to +10,
+on par with the very weapons of the Gods.</text>
+<text id="810">Ember required for weapon ascension. The
+church long hid the forbidden black ember,
+and no living blacksmith knows of it.
+
+Ascends +5 divine weapon to occult weapon.
+(occult weapon can be reinforced to +5)
+
+Occult weapons were used to hunt the Gods, and
+are effective against their followers and kin.</text>
+<text id="812">Ember required for weapon ascension.
+Large flame ember used in ancient rites.
+Handled only by blacksmiths knowledgeable in
+ancient methods.
+
+Ascends +5 fire weapon.
+Allows reinforcement to +10,
+the most powerful level for fire weapons.</text>
+<text id="813">Ember required for weapon ascension.
+Chaos Flame Ember is an art of the lost city
+of Izalith. Handled only by blacksmiths
+knowledgeable in ancient methods.
+
+Ascends +5 flame weapon to chaos weapon.
+(chaos weapon can be reinforced to +5)
+Chaos weapons are demon weapons augmented
+by humanity which inflict fire damage.</text>
+<text id="1000">Titanite shard for weapon reinforcement.
+Most common titanite material.
+Reinforces standard weapons to +5.
+
+Titanite shards are fragments of
+the Legendary Slabs. Titanite is
+etched into weapons to reinforce.</text>
+<text id="1010">Titanite shard for weapon reinforcement.
+Larger titanite material.
+Reinforces standard weapons to +10,
+and raw weapons to +5.
+
+Titanite shards are fragments of
+the Legendary Slabs. Titanite is
+etched into weapons to reinforce.</text>
+<text id="1020">Titanite shard for weapon reinforcement.
+Green titanite imbued with a special power.
+Reinforces magic, divine, and fire
+weapons to +5.
+
+Titanite shards are fragments of
+the Legendary Slabs. Titanite is
+etched into weapons to reinforce.</text>
+<text id="1030">Titanite chunk for weapon reinforcement.
+Not found outside of Lordran.
+Reinforces standard weapons to +14,
+and crystal, lightning weapons to +4.
+
+With the discovery of chunks in Lordran,
+the race to locate the Legendary Slabs
+has begun. But could they be mere myth?</text>
+<text id="1040">Titanite chunk for weapon reinforcement.
+Blue titanite has powerful magic energy.
+Reinforces magic weapons to +9,
+and enchanted weapons to +4.
+
+With the discovery of chunks in Lordran,
+the race to locate the Legendary Slabs
+has begun. But could they be mere myth?</text>
+<text id="1050">Titanite chunk for weapon reinforcement.
+White titanite has powerful miracle energy.
+Reinforces divine weapons to +9,
+and occult weapons to +4.
+
+With the discovery of chunks in Lordran,
+the race to locate the Legendary Slabs
+has begun. But could they be mere myth?</text>
+<text id="1060">Titanite chunk for weapon reinforcement.
+Red titanite has powerful fire energy.
+Reinforces fire weapons to +9,
+and chaos weapons to +4.
+
+With the discovery of chunks in Lordran,
+the race to locate the Legendary Slabs
+has begun. But could they be mere myth?</text>
+<text id="1070">Titanite slab for weapon reinforcement.
+Legendary Slabs were the domain of the Gods.
+Reinforces standard weapons to +15,
+and crystal or lightning weapons to +5.
+
+Legendary Slabs are the heirlooms of a
+nameless blacksmith deity, who forged the
+weapons of other Gods. Weapons forged with
+this slab become rare legendary weapons.</text>
+<text id="1080">Blue titanite slab for weapon reinforcement.
+Legendary Slabs were the domain of the Gods.
+Reinforces magic weapons to +10,
+and enchanted weapons to +5.
+
+Legendary Slabs are the heirlooms of a
+nameless blacksmith deity, who forged the
+weapons of other Gods. Weapons forged with
+this slab become rare legendary weapons.</text>
+<text id="1090">White titanite slab for weapon reinforcement.
+Legendary Slabs were the domain of the Gods.
+Reinforces divine weapons to +10,
+and occult weapons to +5.
+
+Legendary Slabs are the heirlooms of a
+nameless blacksmith deity, who forged the
+weapons of other Gods. Weapons forged with
+this slab become rare legendary weapons.</text>
+<text id="1100">Red titanite slab for weapon reinforcement.
+Legendary Slabs were the domain of the Gods.
+Reinforces fire weapons to +10,
+and chaos weapons to +5.
+
+Legendary Slabs are the heirlooms of a
+nameless blacksmith deity, who forged the
+weapons of other Gods. Weapons forged with
+this slab become rare legendary weapons.</text>
+<text id="1110">Dragon scale for reinforcing dragon weapons.
+Peeled from an ancient dragon.
+
+A dragon is inseparable from its scales,
+and the transcendent apostles, who seek
+the perpetuity of the ancient dragons,
+have crossed the very end of the earth
+to seek this invaluable treasure.</text>
+<text id="1120">Special titanite stolen from a faceless
+stone beast known as a Titanite Demon.
+
+When the nameless blacksmith deity passed,
+from several Slabs, great beasts arose.
+The power of titanite remains within them,
+and they still roam Lordran today.</text>
+<text id="1130">This weapon-reinforcing titanite is imbued
+with a particularly powerful energy.
+Reinforces weapons that cannot be
+reinforced normally to +5.
+
+After this titanite was peeled from its Slab,
+it is said that it received a special power,
+but its specific nature is not clear.</text>
+<text id="2001">Opens the narrow passage leading below
+at the far face of the great bridge in
+the Undead Burg.
+
+The lower Undead Burg is a treacherous place.
+Do not turn your back on the wily thieves, or
+the wild dogs who serve the Capra Demon.</text>
+<text id="2002">This crest opens a door in the
+Darkroot Garden sealed by ancient magic.
+
+The door leads to the grave of Sir Artorias
+the Abysswalker. Many adventurers have left
+for the grave, but none have returned,
+for they make easy prey for local bandits.
+With such dangers, the crest can do more harm
+than good in the hands of the uninitiated.</text>
+<text id="2003">Key to the hanging cage in Sen's Fortress.
+
+If a hapless adventurer becomes fatigued
+during an imprudent attempt to overcome the
+fortress, the serpent men will not kill him,
+but lock him up in a lonely cage.
+Eventually, unless they have forgotten,
+they drag the victim off to who-knows-where.</text>
+<text id="2004">Key to the cell of the Duke's Archive Tower.
+
+The Archive Tower, once a trove of precious
+tomes and letters, became a prison after the
+onset of Seath's madness. The serpent men
+who guard the prison know not the value of
+what they hide. In the basement of the tower
+are the writhing "mistakes" of the terrifying
+experiments which were conducted there.</text>
+<text id="2005">Key to the giant door leading out from
+the uppermost floor of Archive Tower,
+which now serves as a prison.
+
+The key's design resembles not the key of a
+prison; indeed, the tower was once no prison
+at all, but a trove of precious tomes.</text>
+<text id="2006">Key to the giant cell below the Duke's
+Archive Tower.
+
+The giant cell once imprisoned countless
+maidens, but is now empty, save for a few
+key persons. They struggle to uphold their
+sanity, as the horde of "mistakes" writhe
+at a fearfully close proximity.</text>
+<text id="2007">Key to Blighttown from the Depths of the
+Undead Burg. Swallowed by the Gaping Dragon.
+
+As its name suggests, Blighttown is a place
+of great pestilence. Even the polluted
+inhabitants of the Depths are aware of its
+dangers, and built this mighty door in hopes
+that they could remain safely separated.</text>
+<text id="2008">Key to the iron bars separating the ruins of
+New Londo and Drake Valley.
+
+The ruins of New Londo were blocked off,
+for the cursed ghosts posed danger to life
+and spirit, and the legends speak of a
+terrible Dark which was sealed away.</text>
+<text id="2009">Key to the annex in the Painted World
+of Ariamis.
+
+In the wintery painted world, there is
+a structure resembling an old cathedral;
+its annex serves as a type of storehouse.</text>
+<text id="2010">Key to the dungeon of the Undead Asylum to
+the North.
+
+A mysterious knight, without saying a word,
+shoved a corpse down into the cell, and on
+its person was this key. Who was this knight?
+And what was his purpose? There may be no
+answers, but one must still forge ahead.</text>
+<text id="2011">Key to the inner door of the Undead Asylum
+main hall. Big key belonging to a chosen
+Undead pilgrim.
+
+But this Chosen Undead knows not what
+this pilgrimage has in store.</text>
+<text id="2012">Key to the iron bars on the east side of the
+second floor of the North Undead Asylum.
+
+The Undead Asylum is a giant Undead prison,
+segmented by countless iron bars.
+
+Even if an Undead were to escape from a
+cell, passage to the outside world would
+not be gained easily.</text>
+<text id="2013">Key to the floodgates of New Londo, which
+seal away the Four Kings who fell to Dark.
+
+The Sealers flooded New Londo to banish
+the Darkwraiths and the Four Kings.
+The agonizing decision was made with the
+realization that countless lives, and the
+robust culture of the city, would be lost.
+The victims now roam the ruins as ghosts.</text>
+<text id="2014">Key opening the door from the lower
+Undead Burg to the Depths.
+
+Those banished from the Undead Burg eke out
+their existence in the Depths, a damp lair
+with no trace of sunlight. Nearly half of
+the Depths form a perilous flooded labyrinth.</text>
+<text id="2015">Key opening the lift leading to New Londo
+ruins in the basement of Firelink Shrine.
+
+The ruins of New Londo were blocked off,
+for the cursed ghosts posed danger to life
+and spirit, and the legends speak of a
+terrible Dark which was sealed away.</text>
+<text id="2016">Key to the iron bars on the west side of the
+second floor of the North Undead Asylum.
+
+The Undead Asylum is a giant Undead prison,
+segmented by countless iron bars.
+
+But even if a hero found a key in Lordran
+to liberate this prison, would he have the
+means, or the heart, to ever come back?</text>
+<text id="2017">The purpose of this key is unknown.
+It appears to be a basic prison cell key.</text>
+<text id="2018">Key to the sewer chamber in the Depths.
+
+In any community, a few bad apples are sure
+to exhibit insatiable greed. If they were
+turned Undead, and banished to the Depths,
+would they reconsider their ways?
+
+Use this key to see for yourself.</text>
+<text id="2019">Key to the basement of the watchtower in
+the Undead Burg.
+
+The basement of the watchtower forms a stone
+cell. There are rumors of a hero turned
+Hollow who was locked away by a dear friend.
+For his own good, of course.</text>
+<text id="2020">Extra key to a cell in the
+Duke's Archive Tower.
+
+Perhaps the serpent men were careless,
+for there are several keys scattered
+about which fit Archive Tower cells.</text>
+<text id="2021">Key to a residence in the Undead Burg.
+Simple, sturdy design of the locks in
+the Burg keep out unwanted visitors.
+
+But this is a standard key in these parts,
+and will open several residences.</text>
+<text id="2022">Bent Crest Key.
+
+The grooves of the crest are enchanted,
+the door sealed with a powerful spell.</text>
+<text id="2100">This universal key opens any basic lock.
+Tool of the trade for thieves.
+
+But in the cursed land of the Undead,
+most doors are better left unopened.</text>
+<text id="2500">Soul of Gravelord Nito, first of the dead.
+This Lord Soul was discovered at the
+dawn of the Age of Fire.
+
+Gravelord Nito administers the death of all
+manner of beings. The power of this soul is
+so great that it satiates the Lordvessel,
+despite the fact that much of its energy has
+already been offered to death.</text>
+<text id="2501">Soul of the Bed of Chaos and the mother
+of all demons. This Lord Soul was found
+at the dawn of the Age of Fire.
+
+The Witch of Izalith attempted to duplicate
+the First Flame from a soul, but instead
+created a distorted being of chaos and fire.
+Its power formed a bed of life which would
+become the source of all demons, and is more
+than enough to satiate the Lordvessel.</text>
+<text id="2502">Soul of one of the Four Kings, who fell to
+Dark. A fragment of a Lord Soul discovered
+at the dawn of the Age of Fire.
+
+Lord Gwyn recognized the foresight of these
+four great leaders of New Londo, and granted
+them their ranks and the fragments of a
+great soul. Although this is not a full Lord
+Soul, it can still satiate the Lordvessel.</text>
+<text id="2503">Soul of the albino Seath the Scaleless.
+A fragment of a Lord Soul discovered
+at the dawn of the Age of Fire.
+
+Seath allied with Lord Gwyn and turned upon
+the dragons, and for this he was awarded
+Dukedom, embraced by the royalty, and given
+a fragment of a great soul. Although just a
+piece, it will still satiate the Lordvessel.</text>
+<text id="2510">Lordvessel bestowed upon the chosen Undead
+who is destined to succeed Lord Gwyn.
+The chosen Undead is granted the art of
+warping between bonfires.
+
+To open the final door, place this vessel
+on the Firelink Altar, and fill it with
+powerful souls.</text>
+<text id="2520">Half of a broken stone pendant.
+The vine appears to originate from Oolacile.
+
+A powerful magic can be sensed from this
+ancient stone. Yet men of this time can
+neither manipulate nor sense its power,
+which has a distinct air consisting of
+both reverence and nostalgia.</text>
+<text id="2600">Tool used to etch titanite
+into weapons for reinforcement.
+
+Rest at a bonfire to make
+weapon reinforcement possible.</text>
+<text id="2601">Tool used to etch titanite
+into armor for reinforcement.
+
+Rest at a bonfire to make
+armor reinforcement possible.</text>
+<text id="2602">Specialized mortar used to repair weapons
+and armor by grinding repair powder.
+
+Rest at a bonfire to make weapon
+and armor repair possible.
+Repair powder is fragile,
+and cannot be taken along.</text>
+<text id="2607">This secret rite allows bonfires to be
+bolstered further with Kindling, so that
+even more Estus can be collected.
+
+Kindling was a sacred rite passed down
+among clerics, but all Undead can imitate
+the process, in the same manner that they
+restore their Hollowing with humanity.
+How peculiar that humans had found little
+use for humanity until they turned Undead.</text>
+<text id="2608">A peculiar bottomless wooden box.
+Its origins are unknown. Some deride
+it as a symbol of unbridled avarice.
+
+Any number of items can be deposited into
+the box, and items can be managed while
+resting at a bonfire.</text>
+</entries>
