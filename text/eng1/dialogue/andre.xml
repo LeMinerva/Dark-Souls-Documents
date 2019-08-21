@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text id="29000000">Well, you must be a new arrival.</text>
+<text id="29000001">Having trouble accessing the Undead Church?</text>
+<text id="29000002">Here, take this key.</text>
+<text id="29000003">I won't be needing it anymore.</text>
+<text id="29000004">I'm Andre, of Astora.</text>
+<text id="29000005">If you require smithing, then speak to me.</text>
+<text id="29000100">Well, hello again.</text>
+<text id="29000101">You seem to be doing all right.</text>
+<text id="29000102">Need anything forged?</text>
+<text id="29000200">Most weapons and armour are mighty sturdy indeed.</text>
+<text id="29000201">But every hunk of metal has its breaking point.</text>
+<text id="29000202">If you notice durability running low, it's time to repair.</text>
+<text id="29000203">You can ask a blacksmith like meself,
+or do it on your own with a grindstone.</text>
+<text id="29000204">The nice thing about weapons... they never betray you.</text>
+<text id="29000205">So, pay them a little respect, eh?</text>
+<text id="29000300">There are two types of weapon forging.
+There's reinforcement, and there's ascension.</text>
+<text id="29000301">Reinforcement is simple.
+It strengthens the weapon and nothing more.</text>
+<text id="29000302">A simple task for any blacksmith.
+Hell, you could even do it yourself with a smithbox.</text>
+<text id="29000303">But ascension's a finer art. It alters a weapon's properties.</text>
+<text id="29000304">Ascension is the territory of we blacksmiths;
+a smithbox just won't do the trick.</text>
+<text id="29000305">Start out with reinforcement.
+When that loses its charm, you can consider ascension.</text>
+<text id="29000306">As you've noticed,
+this land is flush with the mad and wicked.</text>
+<text id="29000307">You won't make it through the night
+without employing my services!</text>
+<text id="29000308">Hah hah hah!</text>
+<text id="29000400">You can forge armour just like you do weapons.</text>
+<text id="29000401">Reinforcement is easy enough. You only need a smithbox.
+But ascension is the territory of we blacksmiths.</text>
+<text id="29000402">Forging armour is even easier than forging weapons.</text>
+<text id="29000403">Whether you forge weapons or armour first? Well, that's up to you.</text>
+<text id="29000404">But nobody wants to see you go Hollow.</text>
+<text id="29000405">So, whatever you do, you'd better do it well!</text>
+<text id="29000406">Hah hah hah!</text>
+<text id="29000500">This is the old church.</text>
+<text id="29000501">It was abandoned in favour of
+the church that you passed through.</text>
+<text id="29000502">There are paths leading from here to two forbidden planes:
+Sen's Fortress, and the Darkroot Garden.</text>
+<text id="29000503">They attract all sorts of lunatics, no-one as cultured as yourself.</text>
+<text id="29000504">It's fine to be Undead, but keep a level head, eh?</text>
+<text id="29000505">Hah hah hah!</text>
+<text id="29000600">Sen's Fortress is an old proving grounds built by the ancient gods.</text>
+<text id="29000601">It is the only route leading to
+the great Anor Londo.</text>
+<text id="29000602">Of course, most fools can't even
+find their way into that fortified deathtrap.</text>
+<text id="29000603">But they won't stop trying! Take that bumbling Sir Onion...</text>
+<text id="29000604">Hah hah hah!</text>
+<text id="29000700">Oi, where're you off to?</text>
+<text id="29000800">What's going on with you, eh?</text>
+<text id="29000801">I thought you'd gone Hollow there.</text>
+<text id="29000802">Hah hah hah!</text>
+<text id="29000900">Ow!</text>
+<text id="29000950">Owww, that hurts!</text>
+<text id="29001000">Well, you've got some nerve!</text>
+<text id="29001001">Coming at me like that!</text>
+<text id="29001002">I'll tear you to shreds! You bloody Hollow!</text>
+<text id="29001100">Curses, you damn backstabber...</text>
+<text id="29001200">Ahh, why, that's a fine ember you have there.</text>
+<text id="29001201">I could smith some mighty weapons with one of those.</text>
+<text id="29001202">Why not lend it to me?</text>
+<text id="29001300">I see...'Tis a pity...</text>
+<text id="29001400">Magnificent! You won't be disappointed.</text>
+<text id="29001401">I can hardly wait to get started...</text>
+<text id="29001450">Well, I'll be! That's a brilliant ember you've got there!</text>
+<text id="29001451">For all my years in the trade, that might be the finest!</text>
+<text id="29001452">How's about...you leave that ember with me?</text>
+<text id="29001453">I'm just an old smith.
+I'd give my left arm for a gem like that!</text>
+<text id="29001460">I see...'Tis a pity...</text>
+<text id="29001461">But perhaps you'd...</text>
+<text id="29001462">No, no, it's quite all right...</text>
+<text id="29001463">Quite all right, indeed...</text>
+<text id="29001470">Well! Thank you mightily for that.</text>
+<text id="29001471">Now, just leave the rest to me.</text>
+<text id="29001472">Andre of Astora gets the job done, you shall see!</text>
+<text id="29001500">My, that's a rare ember you have there.</text>
+<text id="29001501">I've seen one of those before...
+It's the ember of a divine blacksmith.</text>
+<text id="29001502">Might you consider leaving that with me?</text>
+<text id="29001503">I could produce divine weapons with a flame such as that.</text>
+<text id="29001600">I see...'Tis a pity...</text>
+<text id="29001700">Well, thanks for that!</text>
+<text id="29001701">You've made a fine decision. You soon shall see!</text>
+<text id="29001800">Oh, my, what a brilliant ember you have there.</text>
+<text id="29001801">I've only heard legends of such specimens...</text>
+<text id="29001802">The embers used for the secret rites of divine blacksmiths...</text>
+<text id="29001803">Perhaps you could lend it to me?</text>
+<text id="29001804">I've long dreamed of forging divine weapons...</text>
+<text id="29001900">I see...'Tis a pity...</text>
+<text id="29001901">I can't expect you to give up what's yours.</text>
+<text id="29002000">Ah-hah! Splendid, splendid! Thank you!</text>
+<text id="29002001">Andre of Astora never disappoints, I assure you!</text>
+<text id="29002100">Hrm? Show me that ember of yours...</text>
+<text id="29002101">Well, I've never heard of a black ember.</text>
+<text id="29002102">Hmmm...</text>
+<text id="29002103">How about leaving that ember with me?</text>
+<text id="29002104">I find it strangely fascinating..</text>
+<text id="29002200">Are you sure? Well, fair enough.</text>
+<text id="29002201">Tis a pity, but I'll live.</text>
+<text id="29002300">Yes, well! Thank you.</text>
+<text id="29002301">This ember really is something special.
+I'm already under its spell.</text>
+<text id="29002302">I sense great potential, indeed...</text>
+<text id="29002400">Hmm, that's an odd ember you have there.</text>
+<text id="29002401">Ahh, I know what you're thinking.
+But I'm no good with those.</text>
+<text id="29002402">It won't be easy, but...</text>
+<text id="29002403">I'm afraid you'll have to look for someone else.</text>
+<text id="29002500">I'll be seeing you, then.</text>
+<text id="29002501">Be careful out there.</text>
+<text id="29002600">Don't get yourself killed.</text>
+<text id="29002601">Neither of us want to see you go Hollow.</text>
+<text id="29002700">I know little of the Darkroot Garden.</text>
+<text id="29002701">Although I've heard rumours of
+a divine blacksmith who resides there.</text>
+<text id="29002702">Those who get stumped in the Catacombs
+seek him for divine weapons.</text>
+<text id="29002800">Oh, yes, and one other thing about the Darkroot Garden.</text>
+<text id="29002801">It is said to house the grave of Sir Artorias the Abysswalker.</text>
+<text id="29002802">Only, of those who ventured into the forest,
+none has returned.</text>
+</entries>

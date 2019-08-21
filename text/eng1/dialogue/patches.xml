@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text id="42000000">Good day! You look reasonably sane!</text>
+<text id="42000001">What are you doing in the Catacombs?
+Are you a cleric or something?</text>
+<text id="42000020">Yes, I imagined as much.</text>
+<text id="42000021">Best of luck with your pilgrimages
+or missions or whatever you do.</text>
+<text id="42000022">This place is treacherous. Do watch your step, eh?</text>
+<text id="42000023">Heh heh heh...</text>
+<text id="42000040">No? Well, that's strange.</text>
+<text id="42000041">Ohhh, I know what it is.
+You've come for the trinkets, haven't you?</text>
+<text id="42000042">Well, whatever it is...</text>
+<text id="42000043">This place is treacherous. Do watch your step.</text>
+<text id="42000044">Heh heh heh...</text>
+<text id="42000100">Yeah? What is it now?</text>
+<text id="42000101">Enough with the chit-chat.
+In a place like this, we need to stay on our toes.</text>
+<text id="42000200">Ah, oh! Well, well, how are you, then?</text>
+<text id="42000201">I, uh, sort of lost my way, yes...</text>
+<text id="42000202">But when I came here,
+I didn't touch any levers, no, not me!</text>
+<text id="42000203">Very peculiar, isn't it?
+Wait, did something happen to you?</text>
+<text id="42000204">Hey, don't look at me like that.
+I'm Trusty Patches, the one-and-only!</text>
+<text id="42000205">Here, everything's good with us, eh? Aww, c'mon, take it!</text>
+<text id="42000206">Heh heh. We'll be wonderful friends.</text>
+<text id="42000207">Heh heh heh...</text>
+<text id="42000300">Oh, does it really matter that much?</text>
+<text id="42000301">C'mon, now. What exactly do you think I did?</text>
+<text id="42000302">You're not making sense, my friend.</text>
+<text id="42000303">Heh heh heh...</text>
+<text id="42000400">Ah, oh! Well, how are you, then?</text>
+<text id="42000401">...I slipped and flipped that lever, you see...</text>
+<text id="42000402">...It didn't cause you any trouble, by chance?</text>
+<text id="42000500">Are you certain?!</text>
+<text id="42000501">Well, that's a fine shame. Oh, I'm truly sorry, really!</text>
+<text id="42000502">But, wait now, you didn't actually fall down, then?</text>
+<text id="42000503">Well, why didn't you tell me sooner!
+All's well that ends well!</text>
+<text id="42000504">Everybody makes mistakes. I'm not above it all, I swear!</text>
+<text id="42000505">I'm Trusty Patches, the one-and-only!</text>
+<text id="42000506">I know! This should make up for it.</text>
+<text id="42000507">We're on the same side! Undead outcasts!</text>
+<text id="42000508">Fantastic, isn't it?</text>
+<text id="42000509">Heh heh heh...</text>
+<text id="42000600">Oh, really? Yes, I see...Righty-oh!</text>
+<text id="42000601">Then, everything's good, isn't it?</text>
+<text id="42000602">I'm Trusty Patches, the one-and-only!</text>
+<text id="42000603">You and I, just a couple of Undead outcasts, right mate?</text>
+<text id="42000604">You and I, just a couple of Undead outcasts, right my darling?</text>
+<text id="42000605">Heh heh heh...</text>
+<text id="42000700">Oh, will you come off it, now!</text>
+<text id="42000701">You're fine and well, so what's the difference!</text>
+<text id="42000702">Nobody likes a crybaby, you know?</text>
+<text id="42000703">Heh heh heh...</text>
+<text id="42000840">Oww!</text>
+<text id="42000850">What the devil!</text>
+<text id="42000860">Please, no!</text>
+<text id="42000900">All right, all right, if that's the way it is!</text>
+<text id="42000901">You silly little bastard!</text>
+<text id="42000902">You impossible little wench!</text>
+<text id="42000903">Well, I've had enough of you!</text>
+<text id="42000904">Take your higher cause and stuff it, you lousy charlatan!</text>
+<text id="42000905">You lousy good-for-nothing! Wallow in your spit!</text>
+<text id="42000906">You filthy wench! You'll get what you deserve!</text>
+<text id="42001000">Curses...I'm finished...</text>
+<text id="42001001">What did I ever...</text>
+<text id="42001100">Phew...The righteous prevail, again...</text>
+<text id="42001101">Hey, don't blame me, mate.</text>
+<text id="42001102">Hey, don't blame me, me old darling.</text>
+<text id="42001240">What?! Oww!</text>
+<text id="42001250">Oi! Put an end to that!</text>
+<text id="42001260">Stop that!</text>
+<text id="42001300">Curses, what's wrong with you!</text>
+<text id="42001301">Well, if that's what it has to be! Why you...</text>
+<text id="42001400">Curses! How in the...</text>
+<text id="42001401">What did I do? What...did...I...do?!</text>
+<text id="42001500">What happened to you?</text>
+<text id="42001501">Curses, you left me no choice...</text>
+<text id="42010000">Good day! You look reasonably sane!</text>
+<text id="42010001">What are you doing in the Catacombs?
+Are you a cleric or something?</text>
+<text id="42010100">Yes, I guessed as much.</text>
+<text id="42010101">Well, here's a tip.</text>
+<text id="42010102">There's a stash of treasure right down that hole.</text>
+<text id="42010103">I found it first, but...well, you're the cleric, right?</text>
+<text id="42010104">I owe you for all that, er,
+praying and what not...I'll give you first pick.</text>
+<text id="42010105">Well, go on, have a look. It'll shimmer you blind.</text>
+<text id="42010106">Heh heh heh...</text>
+<text id="42010200">No? Really?</text>
+<text id="42010201">Then I'd have no qualms telling you,</text>
+<text id="42010202">there's a fine stash of treasure right down that hole.</text>
+<text id="42010203">I found it first, but...
+well, we're friends now, so I'll split it with you!</text>
+<text id="42010204">In any case, have a look, it'll shimmer you blind!</text>
+<text id="42010205">Heh heh heh...</text>
+<text id="42010300">What, you again? Well, well!</text>
+<text id="42010301">Where have you been? Any tidings, hmm?</text>
+<text id="42010302">Oh, you came at the perfect time.</text>
+<text id="42010303">There's a fine stash of treasure right down that hole.</text>
+<text id="42010304">I found it first, but...well, you're the cleric, right?</text>
+<text id="42010305">I owe you for all that...
+praying and what not...look I'll give you first pick.</text>
+<text id="42010306">Well, go on, have a look. It'll shimmer you blind.</text>
+<text id="42010307">Heh heh heh...</text>
+<text id="42010400">What, you again? Well, well!</text>
+<text id="42010401">You've been a stranger. Ah, good to see you're well, mate.</text>
+<text id="42010402">You've been a stranger. Ah it's good to see you're well, my darling.</text>
+<text id="42010403">Oh right, you came at the perfect time.</text>
+<text id="42010404">There's a fine stash of treasure right down that hole.</text>
+<text id="42010405">I found it first, but...
+well, we're friends now. I'll split it with you!</text>
+<text id="42010406">In any case, have a look, it'll shimmer you blind!</text>
+<text id="42010407">Heh heh heh...</text>
+<text id="42010500">There, that hole. Take a closer look.</text>
+<text id="42010600">What's your problem?</text>
+<text id="42010601">Take a peep in the hole, and check out that treasure!</text>
+<text id="42010700">Heh heh, you got what you deserve!</text>
+<text id="42010701">You damn clerics, you're worse than maggots!</text>
+<text id="42010702">You must be loaded!
+I'll strip your corpse clean!</text>
+<text id="42010703">Nyah hah hah hah!</text>
+<text id="42010800">Heh heh, this is what I do, my friend.</text>
+<text id="42010801">The trinkets I'll be stripping off your corpse;
+that's the real treasure!</text>
+<text id="42010802">Nyah hah hah hah!</text>
+<text id="42010900">...Oh, you, I...</text>
+<text id="42010901">Well, let's just calm down. Talk about things...</text>
+<text id="42010902">I did you wrong. But, I didn't mean it.</text>
+<text id="42010903">These...temptations, they can, well, overcome me...</text>
+<text id="42010904">You know what I mean? Don't you? Please forgive me.</text>
+<text id="42010905">You and me, we're jolly Undead outcasts, aren't we?</text>
+<text id="42011000">Oh, brilliant! A second chance! Wonderful!</text>
+<text id="42011001">I had a feeling you'd understand, I did.</text>
+<text id="42011002">But if I were in your shoes...Ooh! Who knows what I'd have done?
+But now...We're friends again, eh?</text>
+<text id="42011003">Heh heh heh...</text>
+<text id="42011100">Oh, for heaven's sake, let's not mope about, eh?</text>
+<text id="42011101">You're still alive, I've said I'm sorry!</text>
+<text id="42011102">Wait, I know! Here, take this. It proves something, doesn't it?</text>
+<text id="42011103">We're both Undead outcasts, what could be better?</text>
+<text id="42011104">Heh heh heh...</text>
+<text id="42011200">Blimey, how did you...</text>
+<text id="42011201">You weren't supposed to survive that...</text>
+<text id="42011202">Well, no matter. I'll settle this once and for all.</text>
+<text id="42011203">You lousy self-righteous cleric!</text>
+<text id="42011300">I did you wrong. But, I didn't mean it.</text>
+<text id="42011301">These...temptations, they can overcome me...</text>
+<text id="42011302">You know what I mean? Don't you? Please, forgive me.</text>
+<text id="42020000">Oh, we meet again. How many of you are there?</text>
+<text id="42020001">You've come at the perfect time.</text>
+<text id="42020002">I'm done with the looting. I'm a humble merchant now!</text>
+<text id="42020003">And wondrous treasures, have I! At a special price for you.</text>
+<text id="42020004">There you are, have a nice look at them.</text>
+<text id="42020005">Oh relax, no more funny business out of me, my friend!</text>
+<text id="42020100">Oh, you again. Fancy that.</text>
+<text id="42020101">You've come at the perfect time.</text>
+<text id="42020102">Some new gems have come my way.</text>
+<text id="42020103">I saved them specially, just for you, mate.</text>
+<text id="42020104">I saved them specially, just for you, my darling.</text>
+<text id="42020200">Oh, there you are again.</text>
+<text id="42020201">Welcome to Trusty Patches' Trove of Treasures.</text>
+<text id="42020202">We chop prices, not limbs!</text>
+<text id="42020300">What, nothing appeals to you?</text>
+<text id="42020301">Well, you must have poor taste.</text>
+<text id="42020400">Come on, you can do better than that.</text>
+<text id="42020401">Nobody likes a tightwad, you hear me?</text>
+<text id="42020500">Right? Good stuff, eh?</text>
+<text id="42020501">Don't you forget who got it for you!</text>
+<text id="42020502">Heh heh heh...</text>
+<text id="42020600">How is it? Fine stuff, eh?</text>
+<text id="42020601">Don't forget to thank me.</text>
+<text id="42020700">Oi, have you met Lautrec the Embraced?</text>
+<text id="42020701">Believe me on this one, bruv...He's completely mad.</text>
+<text id="42020702">Believe me on this one, my love...He's completely mad.</text>
+<text id="42020703">He wouldn't think twice about cutting somebody down.</text>
+<text id="42020704">So watch out for him, especially if you've humanity to spare.</text>
+<text id="42020800">Oi, have you met Petrus, that self-proclaimed cleric?</text>
+<text id="42020801">Believe me on this one, bruv...The man is scum.</text>
+<text id="42020802">Believe me on this one, my love...The man is scum.</text>
+<text id="42020803">Don't you be fooled by his claims to do good.</text>
+<text id="42020804">They're all the same, those rotten clerics.</text>
+<text id="42020900">Here, have you met that sunbathing Solaire?</text>
+<text id="42020901">Believe me on this one, bruv...He's a complete idiot.</text>
+<text id="42020902">Believe me on this one, my love...He's a complete idiot.</text>
+<text id="42020903">But he happens to be an awfully strong idiot.</text>
+<text id="42020904">Just nod your head, and keep him on your side!</text>
+<text id="42020905">Nyah hah hah hah!</text>
+<text id="42021000">Here, have you met that backwoods Shiva?</text>
+<text id="42021001">Believe me on this one, bruv...The man is trouble.</text>
+<text id="42021002">Believe me on this one, my love...The man is trouble.</text>
+<text id="42021003">I can see it in his eyes. I just can.</text>
+<text id="42021004">Hmph, No doubt about it. Watch him.</text>
+</entries>
