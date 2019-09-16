@@ -10,6 +10,8 @@ window.onload=function(){
   game=geturl("game");
   type=geturl("type");
   lines=geturl("lines");
+  title=unescape(geturl("title").replace(/\\/g,"%").replace(/\//g,"%"));
+  document.title="黑暗之魂"+[game]+[title];
   var xmlhttp=new window.XMLHttpRequest();
   xmlhttp.open("get","text/chn"+[game]+"/"+[type]+"_name.xml",false);
   xmlhttp.send(null);
