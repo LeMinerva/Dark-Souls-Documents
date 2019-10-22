@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 <text id="50200000">Human, are we?</text>
-<text id="50200010">This is no place for you. Be gone.</text>
+<text id="50200010">This is no place for you.
+Be gone.</text>
 <text id="50200100">Are you not afraid of me?</text>
 <text id="50200110">Humans rarely come here.</text>
 <text id="50200120">Those who do turn back when they see me.
@@ -43,7 +44,8 @@ does this mean I was once human?</text>
 <text id="50200710">The past is a distant fog...</text>
 <text id="50200720">My name was Tark... That is all that I remember...</text>
 <text id="50201000">You've defeated my better half.</text>
-<text id="50201010">This is my thanks. Take it.</text>
+<text id="50201010">This is my thanks.
+Take it.</text>
 <text id="50201100">Long ago, there was a being with powers similar to ours.</text>
 <text id="50201110">The creature took the form of a spider.</text>
 <text id="50201120">But I don't know where it disappeared to.</text>

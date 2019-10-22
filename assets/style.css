@@ -3,6 +3,8 @@ html{background:#000}
 a,img{color:#aaa;text-decoration:none;transition:.3s}
 a:hover{color:#960}
 ::selection{background:#fff;color:#000}
+::-webkit-scrollbar{background:#222;width:10px}
+::-webkit-scrollbar-thumb{background:#960;width:10px;border-radius:5px}
 .content,.contentd{width:1800px;margin:auto;overflow:hidden}
 .content:last-child,.contentd{margin-top:100px}
 .content.game3 .icon img{margin-left:-10%;transition:none}
