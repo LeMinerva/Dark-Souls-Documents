@@ -6,11 +6,11 @@ a:hover{color:#960}
 ::-webkit-scrollbar{background:#222;width:10px}
 ::-webkit-scrollbar-thumb{background:#960;width:10px;border-radius:5px}
 .content,.contentd{width:1800px;margin:auto;overflow:hidden}
-.content:last-child,.contentd{margin-top:100px}
+.content:last-child,.contentd{margin-top:150px}
 .content.game3 .icon img{margin-left:-10%;transition:none}
 .menu{margin:auto;padding:.5em 0;width:1800px;position:fixed;background:rgba(0,0,0,.8);z-index:999}
 .submenu{overflow:hidden;border-bottom:1px solid #430}
-.submenu:nth-child(3){border:0}
+.submenu:nth-child(4){border:0}
 .submenu a,.submenu p{display:block;float:left;width:8%;margin:0 0 0 5%;padding:0 2% 0 0;text-align:right;font:16px/2 微软雅黑}
 .submenu p{width:8%;margin:0;padding:0 0 0 2%;text-align:left;color:#aaa}
 a.mainitm{color:#960}
