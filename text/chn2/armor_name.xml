@@ -6,7 +6,7 @@
 <text id="21010103">培特长裤</text>
 <text id="21020100">小偷面具</text>
 <text id="21020101">黑皮铠甲</text>
-<text id="21020102">黑皮手笼</text>
+<text id="21020102">黑皮手套</text>
 <text id="21020103">黑皮靴子</text>
 <text id="21030100">流浪风帽</text>
 <text id="21030101">流浪大衣</text>
@@ -47,7 +47,7 @@
 <text id="21160103">哈维尔腿甲</text>
 <text id="21210100">奇术师帽子</text>
 <text id="21210101">奇术师大衣</text>
-<text id="21210102">奇术师手笼</text>
+<text id="21210102">奇术师手套</text>
 <text id="21210103">奇术师紧身裤</text>
 <text id="21230100">月亮帽子</text>
 <text id="21230101">占星外衣</text>
@@ -142,11 +142,11 @@
 <text id="22031103">下级士兵靴子</text>
 <text id="22060100">司祭白头冠</text>
 <text id="22060101">司祭白圣职衣</text>
-<text id="22060102">司祭白手笼</text>
+<text id="22060102">司祭白手套</text>
 <text id="22060103">司祭白围裙</text>
 <text id="22062100">司祭头冠</text>
 <text id="22062101">司祭圣职衣</text>
-<text id="22062102">司祭手笼</text>
+<text id="22062102">司祭手套</text>
 <text id="22062103">司祭围裙</text>
 <text id="22080100">盗贼头巾</text>
 <text id="22080101">盗贼铠甲</text>
@@ -177,7 +177,7 @@
 <text id="22230103">黑影下装</text>
 <text id="22240100">傀儡面罩</text>
 <text id="22240101">傀儡铠甲</text>
-<text id="22240102">傀儡手笼</text>
+<text id="22240102">傀儡手套</text>
 <text id="22240103">傀儡长靴</text>
 <text id="22270100">囚徒头巾</text>
 <text id="22270101">囚徒衣服</text>
@@ -191,11 +191,11 @@
 <text id="22310103">古龙院靴子</text>
 <text id="22340100">盖鲁姆头盔</text>
 <text id="22340101">盖鲁姆铠甲</text>
-<text id="22340102">盖鲁姆手笼</text>
+<text id="22340102">盖鲁姆手套</text>
 <text id="22340103">盖鲁姆靴子</text>
 <text id="22350100">盖鲁姆战士头盔</text>
 <text id="22350101">盖鲁姆战士铠甲</text>
-<text id="22350102">盖鲁姆战士手笼</text>
+<text id="22350102">盖鲁姆战士手套</text>
 <text id="22350103">盖鲁姆战士靴子</text>
 <text id="22351100">盖鲁姆战士大头盔</text>
 <text id="22360100">黑暗面罩</text>
@@ -274,11 +274,11 @@
 <text id="23150103">巨象腿甲</text>
 <text id="23160100">沙之魔法师风帽</text>
 <text id="23160101">沙之魔法师外衣</text>
-<text id="23160102">沙之魔法师手笼</text>
+<text id="23160102">沙之魔法师手套</text>
 <text id="23160103">沙之魔法师裙子</text>
 <text id="23170100">龙学徒面罩</text>
 <text id="23170101">龙学徒长衣</text>
-<text id="23170102">龙学徒手笼</text>
+<text id="23170102">龙学徒手套</text>
 <text id="23170103">龙学徒靴子</text>
 <text id="23171100">龙学师风帽</text>
 <text id="23250100">茫然头盔</text>
@@ -393,7 +393,7 @@
 <text id="27420103">克雷顿锁子腿甲</text>
 <text id="27430100">凡荷特骑士盔</text>
 <text id="27430101">凡荷特铠甲</text>
-<text id="27430102">凡荷特手笼</text>
+<text id="27430102">凡荷特手套</text>
 <text id="27430103">凡荷特靴子</text>
 <text id="27440100">铁头盔</text>
 <text id="27440101">硬皮护甲</text>
@@ -418,7 +418,7 @@
 <text id="27630101">罗莎贝娜衣服</text>
 <text id="27680100">黑衣风帽</text>
 <text id="27680101">黑之长衣</text>
-<text id="27680102">黑衣手笼</text>
+<text id="27680102">黑衣手套</text>
 <text id="27680103">黑衣靴子</text>
 <text id="27690100">圣女风帽</text>
 <text id="27690101">圣女外衣</text>
