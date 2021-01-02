@@ -41,3 +41,19 @@ a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin-left:7em}
 .contentd .title{padding:1% 1% 2%}
 .contentd .desfrm{transform:none;margin:2em 0}
 .contentd .frame{padding-bottom:1em}
+@media screen and (max-width:1000px){
+.content,.contentd{width:100%;overflow:auto}
+.menu{width:100%}
+.submenu a,.submenu p{font:8px/2 微软雅黑}
+.frame{font:8px/1.5 仿宋;margin:0 0 10em}
+.icon{float:none;width:50%;height:auto;margin:auto}
+.chn,.eng,.jap,.title{width:100%;padding:5% 0}
+.desc{height:auto}
+.icon img{transform:translateY(0);margin:0}
+.desfrm{transform:translateY(0);margin:0}
+.remk p{transform:translateY(0);margin:0}
+.contentd div img{width:60%}
+a.icon,a.icon:nth-child(1),a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin:5em 0;float:left;}
+.contentd .chn,.contentd .eng,.contentd .jap{width:100%}
+.desktop{display:none}
+}
