@@ -43,8 +43,9 @@ a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin-left:7em}
 .contentd .frame{padding-bottom:1em}
 .mobile{display:none}
 @media screen and (max-width:1000px){
-.content,.contentd{width:100%;margin:0;overflow:auto}
-.menu{width:100%;margin:0}
+.content,.contentd{width:100%;overflow:auto}
+.content:last-child,.contentd{margin:0}
+.menu{width:100%}
 .submenu a,.submenu p{font:8px/2 微软雅黑}
 .frame{font:8px/1.5 仿宋;margin:0 0 10em}
 .icon{float:none;width:50%;height:auto;margin:auto}
@@ -57,7 +58,7 @@ a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin-left:7em}
 a.icon,a.icon:nth-child(1),a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin:5em 0;float:left;}
 .contentd .chn,.contentd .eng,.contentd .jap{width:100%}
 .desktop{display:none}
-.contentd,.content.game1,.content.game2,.content.game3{margin-top:7em}
-.mobile{display:block;margin-top:5em}
-.mobile img{width:100%}
+table,frame:first-child{margin-top:7em}
+.mobile{display:block}
+.mobile img{width:100%;margin-top:5em}
 }
