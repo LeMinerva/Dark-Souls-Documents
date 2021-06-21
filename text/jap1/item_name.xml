@@ -12,7 +12,7 @@
 <text id="113">青い瞳のオーブ</text>
 <text id="114">古竜の瞳</text>
 <text id="115">黒い瞳のオーブ</text>
-<text id="116">黒い瞳のオーブ</text>
+<text id="116">##黒い瞳のオーブ</text>
 <text id="117">ダークリング</text>
 <text id="118">臆病者の紫水晶</text>
 <text id="200">エスト瓶</text>
@@ -40,7 +40,7 @@
 <text id="330">帰還の骨片</text>
 <text id="370">七色石</text>
 <text id="371">遠眼鏡</text>
-<text id="372">宣誓符</text>
+<text id="372">##宣誓符</text>
 <text id="373">告罪符</text>
 <text id="374">復讐の証</text>
 <text id="375">太陽のメダル</text>
@@ -124,7 +124,7 @@
 <text id="2012">不死院二階東の鍵</text>
 <text id="2013">封印の鍵</text>
 <text id="2014">最下層の鍵</text>
-<text id="2015">リフト部屋の鍵</text>
+<text id="2015">##リフト部屋の鍵</text>
 <text id="2016">不死院二階西の鍵</text>
 <text id="2017">不明の鍵</text>
 <text id="2018">下水部屋の鍵</text>

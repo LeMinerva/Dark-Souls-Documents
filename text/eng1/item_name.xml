@@ -12,7 +12,7 @@
 <text id="113">Blue Eye Orb</text>
 <text id="114">Dragon Eye</text>
 <text id="115">Black Eye Orb</text>
-<text id="116">Black Eye Orb</text>
+<text id="116">##Black Eye Orb</text>
 <text id="117">Darksign</text>
 <text id="118">Purple Coward's Crystal</text>
 <text id="200">Estus Flask</text>
@@ -40,7 +40,7 @@
 <text id="330">Homeward Bone</text>
 <text id="370">Prism Stone</text>
 <text id="371">Binoculars</text>
-<text id="372">Affidavit</text>
+<text id="372">##Affidavit</text>
 <text id="373">Indictment</text>
 <text id="374">Souvenir of Reprisal</text>
 <text id="375">Sunlight Medal</text>
@@ -124,7 +124,7 @@
 <text id="2012">Undead Asylum F2 East Key</text>
 <text id="2013">Key to the Seal</text>
 <text id="2014">Key to Depths</text>
-<text id="2015">Lift Chamber Key</text>
+<text id="2015">##Lift Chamber Key</text>
 <text id="2016">Undead Asylum F2 West Key</text>
 <text id="2017">Mystery Key</text>
 <text id="2018">Sewer Chamber Key</text>

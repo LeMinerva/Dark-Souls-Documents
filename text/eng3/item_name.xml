@@ -13,7 +13,7 @@
 <text id="190">Ashen Estus Flask</text>
 <text id="240">Divine Blessing</text>
 <text id="241">Hidden Blessing</text>
-<text id="242">Silver Pendant</text>
+<text id="242">##Silver Pendant</text>
 <text id="260">Green Blossom</text>
 <text id="261">Budding Green Blossom</text>
 <text id="262">Budding Green Blossom</text>
@@ -22,7 +22,7 @@
 <text id="272">Blooming Purple Moss Clump</text>
 <text id="274">Purging Stone</text>
 <text id="276">Rime-blue Moss Clump</text>
-<text id="277">Monastery Charm</text>
+<text id="277">##Monastery Charm</text>
 <text id="280">Repair Powder</text>
 <text id="290">Kukri</text>
 <text id="292">Firebomb</text>
@@ -32,7 +32,7 @@
 <text id="297">Black Firebomb</text>
 <text id="299">Rope Firebomb</text>
 <text id="300">Lightning Urn</text>
-<text id="301">Holy Water Urn</text>
+<text id="301">##Holy Water Urn</text>
 <text id="302">Rope Black Firebomb</text>
 <text id="303">Stalk Dung Pie</text>
 <text id="304">Duel Charm</text>
@@ -87,11 +87,11 @@
 <text id="419">Soul of a Champion</text>
 <text id="420">Soul of a Great Champion</text>
 <text id="440">Seed of a Giant Tree</text>
-<text id="441">Spirit Amethyst</text>
-<text id="450">Oozing Charm Berry</text>
-<text id="451">Oozing Flash Berry</text>
+<text id="441">##Spirit Amethyst</text>
+<text id="450">##Oozing Charm Berry</text>
+<text id="451">##Oozing Flash Berry</text>
 <text id="452">Mossfruit</text>
-<text id="453">Brightbug</text>
+<text id="453">##Brightbug</text>
 <text id="454">Young White Branch</text>
 <text id="455">Rusted Coin</text>
 <text id="456">Siegbräu</text>
@@ -104,7 +104,7 @@
 <text id="463">Young White Branch</text>
 <text id="490">Dark Sigil</text>
 <text id="500">Ember</text>
-<text id="501">Ember</text>
+<text id="501">##Ember</text>
 <text id="520">Hello Carving</text>
 <text id="521">Thank you Carving</text>
 <text id="522">Very good! Carving</text>
@@ -134,7 +134,7 @@
 <text id="1001">Large Titanite Shard</text>
 <text id="1002">Titanite Chunk</text>
 <text id="1003">Titanite Slab</text>
-<text id="1010">Dragon Scale</text>
+<text id="1010">##Dragon Scale</text>
 <text id="1020">Titanite Scale</text>
 <text id="1030">Twinkling Titanite</text>
 <text id="1100">Heavy Gem</text>
@@ -154,8 +154,8 @@
 <text id="1240">Hollow Gem</text>
 <text id="1250">Shriving Stone</text>
 <text id="2001">Lift Chamber Key</text>
-<text id="2003">Bridge Key</text>
-<text id="2004">Iron Seal of the Wolf</text>
+<text id="2003">##Bridge Key</text>
+<text id="2004">##Iron Seal of the Wolf</text>
 <text id="2005">Small Doll</text>
 <text id="2007">Jailbreaker's Key</text>
 <text id="2008">Jailer's Key Ring</text>
@@ -164,7 +164,7 @@
 <text id="2012">Old Cell Key</text>
 <text id="2013">Tower Key</text>
 <text id="2014">Grand Archives Key</text>
-<text id="2101">Holy Remains</text>
+<text id="2101">##Holy Remains</text>
 <text id="2102">Small Lothric Banner</text>
 <text id="2103">Farron Coal</text>
 <text id="2104">Sage's Coal</text>
@@ -184,7 +184,7 @@
 <text id="2118">Loretta's Bone</text>
 <text id="2119">Braille Divine Tome of Carim</text>
 <text id="2120">Braille Divine Tome of Lothric</text>
-<text id="2121">Braille Divine Sunlight Tome</text>
+<text id="2121">##Braille Divine Sunlight Tome</text>
 <text id="2123">Cinders of a Lord</text>
 <text id="2124">Cinders of a Lord</text>
 <text id="2125">Cinders of a Lord</text>
@@ -221,7 +221,7 @@
 <text id="2155">Contraption Key</text>
 <text id="315">Church Guardian Shiv</text>
 <text id="379">Filianore's Spear Ornament</text>
-<text id="620">Proof of a Pact</text>
+<text id="620">##Proof of a Pact</text>
 <text id="650">Ritual Spear Fragment</text>
 <text id="651">Divine Spear Fragment</text>
 <text id="745">Soul of Slave Knight Gael</text>

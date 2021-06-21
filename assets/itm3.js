@@ -53,13 +53,13 @@ window.onload=function(){
   for(var i=0;i<[lines];i++){
     document.getElementById("content").appendChild(frm.cloneNode(true));
     document.getElementsByClassName("icon")[i].firstChild.src="icons/"+[type]+[game]+"/"+[i]+".png";
-    document.getElementsByClassName("chn")[i].childNodes[0].innerHTML=namec[i].childNodes[0].nodeValue;
+    document.getElementsByClassName("chn")[i].childNodes[0].innerHTML=namec[i].childNodes[0].nodeValue.replace(/##/,"<i>未采用</i>");
     document.getElementsByClassName("chn")[i].childNodes[1].firstChild.innerHTML="<p>"+descc[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>")+"</p>";
     document.getElementsByClassName("chn")[i].childNodes[2].innerHTML="<p>"+remkc[i].childNodes[0].nodeValue+"</p>";
-    document.getElementsByClassName("jap")[i].childNodes[0].innerHTML=namej[i].childNodes[0].nodeValue;
+    document.getElementsByClassName("jap")[i].childNodes[0].innerHTML=namej[i].childNodes[0].nodeValue.replace(/##/,"<i>未使用</i>");
     document.getElementsByClassName("jap")[i].childNodes[1].firstChild.innerHTML="<p>"+descj[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>")+"</p>";
     document.getElementsByClassName("jap")[i].childNodes[2].innerHTML="<p>"+remkj[i].childNodes[0].nodeValue+"</p>";
-    document.getElementsByClassName("eng")[i].childNodes[0].innerHTML=namee[i].childNodes[0].nodeValue;
+    document.getElementsByClassName("eng")[i].childNodes[0].innerHTML=namee[i].childNodes[0].nodeValue.replace(/##/,"<i>UNUSED</i>");
     document.getElementsByClassName("eng")[i].childNodes[1].firstChild.innerHTML="<p>"+desce[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>")+"</p>";
     document.getElementsByClassName("eng")[i].childNodes[2].innerHTML="<p>"+remke[i].childNodes[0].nodeValue+"</p>";
   }

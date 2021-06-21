@@ -2592,4 +2592,337 @@ Found in the heart of the Dark Chasm.
 No one knows what lies beyond the
 dark passages found across Drangleic,
 but perhaps they are better left undisturbed.</text>
+<text id="60760000">Inexpensive wooden arrows.
+Easily acquired, but not very threatening.
+
+Bows are excellent tools for attacking
+foes from a safe distance, but require
+the equipping of some type of arrow.</text>
+<text id="60770000">Standard arrows made of iron.
+Sturdy arrows that pierce effectively.
+
+Iron arrows are powerful, but not cheap.
+Be certain not to overuse them.</text>
+<text id="60780000">Arrows imbued with magic.
+Tipped with a Aromatic Ooze.
+
+Weapons fortified with magic are particularly
+effective against heavily armored foes
+or creatures with thick scales.
+Useful in the short term for those who have
+learned no magic, or whose magic is exhausted.</text>
+<text id="60790000">Arrows imbued with lightning.
+Tipped with Gold Pine Resin.
+
+Weapons fortified with lightning are effective
+against foes resistant to magic and fire.
+Useful in the short term for those who have
+learned no magic, or whose magic is exhausted.</text>
+<text id="60800000">Arrows imbued with fire.
+Tipped with Charcoal Pine Resin.
+
+Weapons fortified with fire are effective against
+against foes vulnerable to magic and fire, such
+as Undead or beasts.
+
+Useful in the short term for those who have
+learned no magic, or whose magic is exhausted.</text>
+<text id="60810000">Arrows imbued with dark flame.
+Tipped with Dark Pine Resin.
+
+Weapons fortified with dark are effective
+against those who fear the dark, such as
+clerics and magical creatures.
+
+Useful in the short term for those who have
+learned no magic, or whose magic is exhausted.</text>
+<text id="60820000">Arrows imbued with poison.
+Tipped with Rotten Pine Resin.
+
+Poisoned foes slowly lose HP over time.</text>
+<text id="60830000">Arrows that cause bleeding.
+Tipped with finely sharpened arrow heads.
+
+Bleeding foes' max HP is lowered.</text>
+<text id="60840000">Inexpensive wooden greatarrows.
+
+Bows are excellent tools for attacking
+foes from a safe distance, but naturally,
+require an arrow to be equipped.
+
+Greatbows will not function with ordinary
+arrows. Equip specially-designed greatarrows.</text>
+<text id="60850000">Standard greatarrows made of iron.
+
+More effective than regular arrows,
+but considerably heavier.</text>
+<text id="60860000">Greatarrows imbued with magic.
+Tipped with a Aromatic Ooze.
+
+Weapons fortified with magic are particularly
+effective against heavily armored foes
+or creatures with thick scales.
+
+If you require magic but have learned none
+yourself, these will serve you well.</text>
+<text id="60870000">Greatarrows imbued with lightning.
+Tipped with Gold Pine Resin.
+
+Weapons fortified with lightning are effective
+against foes resistant to magic and fire.
+
+If you require magic but have learned none
+yourself, these will serve you well.</text>
+<text id="60880000">Greatarrows imbued with fire.
+Tipped with Charcoal Pine Resin.
+
+Weapons fortified with fire are effective against
+against foes vulnerable to fire, such
+as Undead or beasts.
+
+If you require magic but have learned none
+yourself, these will serve you well.</text>
+<text id="60890000">Greatarrows imbued with dark flame.
+Tipped with Dark Pine Resin.
+
+Weapons fortified with dark are effective
+against those who fear the dark, such as
+clerics and magical creatures.
+
+If you require magic but have learned none
+yourself, these will serve you well.</text>
+<text id="60900000">Greatarrows with intricately crafted tips.
+Designed to destroy equipment with impact.
+
+Bravery does not necessarily entail going
+head-on with a foe, especially if they have
+better armor than you. Use these arrows,
+and grind them down from afar.</text>
+<text id="60910000">Inexpensive wooden bolts.
+Not very intimidating, but highly portable
+and easy to use.
+
+Use of a crossbow requires the equipping
+of bolts, which are shorter than arrows.</text>
+<text id="60920000">Standard crossbow bolts made of iron.
+Effective at piercing enemies.
+
+Very effective in ranged attacks,
+though somewhat expensive to
+use willy-nilly.</text>
+<text id="60930000">Bolt imbued with magic.
+Tipped with Aromatic Ooze.
+
+Weapons fortified with magic are particularly
+effective against heavily armored foes
+or creatures with thick scales.
+
+Crossbows and specialized bolts allow warriors
+with low dexterity to inflict elemental damage.</text>
+<text id="60940000">Bolt imbued with lightning.
+Tipped with Gold Pine Resin.
+
+Weapons fortified with lightning are effective
+against foes that are resistant to magic and fire.
+
+Crossbows and specialized bolts allow warriors
+with low dexterity to inflict elemental damage.</text>
+<text id="60950000">Bolt imbued with fire.
+Tipped with Charcoal Pine Resin.
+
+Weapons fortified with fire are effective
+against foes vulnerable to fire, such
+as Undead or beasts.
+
+Crossbows and specialized bolts allow warriors
+with low dexterity to inflict elemental damage.</text>
+<text id="60960000">Bolt imbued with dark flame.
+Tipped with Dark Pine Resin.
+
+Weapons fortified with dark are effective
+against those who fear the dark, such as
+clerics and magical creatures.
+
+Crossbows and specialized bolts allow warriors
+with low dexterity to inflict elemental damage.</text>
+<text id="900008400">This standard small dagger possesses only modest attack,
+	but can be jabbed in rapid succession.
+
+Though daggers are the most basic weapons,
+their light weight allows for powerful critical hits.
+Masters of this weapon will find it sufficient for combat.</text>
+<text id="900008401">Dagger fashioned from rare geisteel,
+boasting an unusually long blade.
+
+Though this dagger was bestowed as a gift
+by the king of these lands to his chancellor,
+the fate of its owner remains obscure.</text>
+<text id="900008402">Standard straight sword.
+
+Though the sword excels in no one area,
+it is an accessible weapon widely used by many,
+from novice adventurers to experienced warriors.</text>
+<text id="900008403">A widely-used small straight sword.
+
+Particularly easy to wield,
+allowing even the weak to make effective use of it.
+This weapon alone should be enough to fight with,
+provided one isn't too hard-pressed by circumstance.</text>
+<text id="900008404">Black axe from the tales of Shieldless Lothian.
+Balances maneuverability and power,
+but requires strength and dexterity.
+
+Long ago, many tried and failed
+to seek out this legendary axe,
+and with time it faded into obscurity.</text>
+<text id="900008405">This greataxe is a veritable mass of iron.
+Its weight sends foes flying,
+but makes it difficult to handle without inhuman strength.
+
+Each swing of the greataxe requires
+the full force of the body,
+making this weapon suitable only
+for those confident in their accuracy.</text>
+<text id="900008406">Halberd used by the Dragonriders, the retinue
+of the king. Though otherwise traditional in
+design, these halberds are particularly heavy.
+
+A tremendously versatile weapon,
+allowing for slashing, sweeping,
+and even thrusting attacks.</text>
+<text id="900008407">Branch sawn from one of the witchtrees
+	that wander the forests.
+Catalyst for sorceries and pyromancies.
+
+Slight remnants of the witchtree's
+mind channel power to the staff,
+and it is for this reason that even
+high-ranking sorcerers use these as catalysts.</text>
+<text id="900008408">Staff used by the fallen sorcerers who wander this land.
+A catalyst for both sorceries and pyromancies.
+Particularly well-attuned for sorceries.
+
+The lizard bound to its tip is a simple charm,
+and has no bearing on the staff's powers.</text>
+<text id="900008409">Sacred bell used by an order of knights.
+Catalyst for miracles and hexes.
+
+Though little is truly known about the order,
+it is said that their well-honed miracles
+and unwavering loyalty in the face of death
+made them worthy rivals to this country in their day. </text>
+<text id="900008410">Sacred bell imbued with the prayers of a renowned saint.
+Catalyst for miracles and hexes.
+
+The saint came to these lands from a peaceful country.
+However, no more can be divulged
+about her to such transient travellers.</text>
+<text id="900008411">Standard projectile weapon.
+
+Equip arrows to use.
+You can change the arrows used by
+equipping them to your belt slots.
+
+Aim for the heads of foes to deal a great amount of damage.</text>
+<text id="900008412">Standard projectile weapon.
+Unlike bows, a crossbow can be held in one hand.
+
+Equip bolts to use.
+You can change the ammunition used by
+equipping different bolts to your belt slots.</text>
+<text id="900008413">Small, round metal shield with
+protrusions that enhance parrying ability.
+
+Small shields are generally suited to parrying,
+but this shield is particularly specialized for the job.</text>
+<text id="900008414">Small, leather-covered round shield.
+A particularly traditional type of small shield.
+
+Though the defensive abilities of small shields
+pale in comparison to normal and greatshields,
+they make it particularly easy
+to deliver critical hits after parrying.</text>
+<text id="900008415">A metallic shield with a wing design in gold.
+Although it has low resistance to magic,
+it can take a fair pounding.
+
+This shield must have belonged to warriors
+of an ancient covenant.</text>
+<text id="900008416">Shield used by an order of knights.
+Having been blessed,
+this shield excels against miracles and hexes.
+
+Though little is truly known about the order,
+it is said that their well-honed miracles
+and unwavering loyalty in the face of death
+made them worthy rivals to this country in their day. </text>
+<text id="900008417">Medium-sized metal shield.
+
+Emblazoned in silver with an eagle crest,
+a symbol of glory.
+A commonly-used, standard shield.</text>
+<text id="900008418">A certain man's favorite greatshield.
+Forged by layering thin sheets of iron,
+it provides excellent defense for its weight.
+
+Perhaps you'll learn more
+about the original owner when next you meet... </text>
+<text id="900008419">Bell with a curious shape.
+Can be used as a shield.
+
+This type of bell is not used
+by the clergy of these lands.
+Perhaps it was brought from a foreign clime?
+
+Provides a slight increase to
+the effectiveness of miracles.</text>
+<text id="900008420">Greatsword belonging to a man
+known as "The Pursuer".
+Known as the mightiest of the straight swords,
+it also asks great strength and dexterity of its wielder.
+
+This sword was held one-handed by its previous owner,
+but now is not the timeto discuss him.</text>
+<text id="900008421">An ultra greatsword, the heaviest of weapons.
+
+As the name suggests,
+the Zweihander is held with two hands,
+but its weight is such that even wielding it in this manner
+requires strength worthy of the blade.</text>
+<text id="900008422">A long-hilted spear that boasts considerable reach,
+and can be used from behind a raised shield.
+
+It takes its name from the
+wing-like protrusions beneath the blade,
+which allow the spear to be pulled
+more easily from pierced foes.</text>
+<text id="900008423">A large thrusting sword.
+Known for its sturdy, slender blade designed
+to pierce foes through solid armor.
+
+The blade's sharpness runs its length,
+allowing for slashing attacks as well.</text>
+<text id="900008424">This standard greatsword is normally wielded
+with two hands due to its great weight.
+
+Usually swung in large arcs and effective
+against multiple foes. But such attacks leave
+the wielder exposed, and effective use of the
+weapon requires practice.</text>
+<text id="900008425">Greatsword used by an orthodox order
+of knights from the East.
+Designed to be swung in a particular style,
+requiring high dexterity to master.
+
+Accomplished knights were allowed to
+inscribe their oaths into the body of the blade.
+It is believed that uninscribed swords belonged
+to knights who failed to distinguish themselves.</text>
+<text id="900008426">Katana used by the inquisitors.
+
+Though there is no secret to the manner of its forging,
+the katana's hefty blade glistens
+with extraordinary sharpness.
+Perhaps its great weight portends to
+the great washes of blood it has supped upon.</text>
 </entries>

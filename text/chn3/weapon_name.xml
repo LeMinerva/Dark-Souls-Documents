@@ -23,7 +23,7 @@
 <text id="1010000">盗贼短刀</text>
 <text id="1020000">格挡匕首</text>
 <text id="1040000">咕鲁腐败短刀</text>
-<text id="1050000">染血短剑</text>
+<text id="1050000">##染血短剑</text>
 <text id="1060000">镰刀剑</text>
 <text id="1070000">贤者烛台</text>
 <text id="1080000">尾骨短剑</text>
@@ -101,7 +101,7 @@
 <text id="7050000">巨斧</text>
 <text id="7070000">切肉菜刀</text>
 <text id="7080000">屠龙斧</text>
-<text id="7090000">宣教士斧</text>
+<text id="7090000">##宣教士斧</text>
 <text id="7100000">奴隶手斧</text>
 <text id="7110000">猎龙大斧</text>
 <text id="7120000">恶魔大斧</text>
@@ -118,9 +118,9 @@
 <text id="8170000">石像鬼灯火槌</text>
 <text id="8180000">玻尔多大锤</text>
 <text id="8190000">老王大槌</text>
-<text id="8210000">四骑士锤</text>
+<text id="8210000">##四骑士锤</text>
 <text id="8220000">海泽儿的十字镐</text>
-<text id="8230000">大树锤</text>
+<text id="8230000">##大树锤</text>
 <text id="8240000">战镐</text>
 <text id="8250000">十字镐</text>
 <text id="8260000">大龙牙</text>
@@ -143,7 +143,7 @@
 <text id="9180000">圣者双叉枪</text>
 <text id="9190000">幽儿希卡枪</text>
 <text id="9200000">矛</text>
-<text id="9210000">四齿钉耙</text>
+<text id="9210000">##四齿钉耙</text>
 <text id="9220000">猎龙枪</text>
 <text id="10000000">大镰刀</text>
 <text id="10010000">鹤嘴戟</text>
@@ -154,8 +154,8 @@
 <text id="10080000">鸦人大镰刀</text>
 <text id="10090000">羽翼骑士戟</text>
 <text id="10100000">古达的戟</text>
-<text id="10110000">洛斯里克镰刀</text>
-<text id="10120000">古龙钺</text>
+<text id="10110000">##洛斯里克镰刀</text>
+<text id="10120000">##古龙钺</text>
 <text id="10140000">红柄戟</text>
 <text id="10150000">黑骑士剑刃戟</text>
 <text id="10160000">火刑光芒</text>
@@ -176,7 +176,7 @@
 <text id="13110000">大主教的大杖</text>
 <text id="13120000">金枝杖枪</text>
 <text id="13140000">幽儿希卡圣铃</text>
-<text id="13150000">灵兽杖</text>
+<text id="13150000">##灵兽杖</text>
 <text id="13160000">老者结晶杖</text>
 <text id="13170000">异端杖</text>
 <text id="13180000">宫廷魔法师杖</text>
@@ -193,10 +193,10 @@
 <text id="13290000">圣女护符</text>
 <text id="13300000">白发护符</text>
 <text id="13400000">咒术之火</text>
-<text id="13450000">摇曳咒术之火</text>
-<text id="13460000">强烈摇曳咒术之火</text>
-<text id="13500000">深色咒术之火</text>
-<text id="13510000">漆黑咒术之火</text>
+<text id="13450000">##摇曳咒术之火</text>
+<text id="13460000">##强烈摇曳咒术之火</text>
+<text id="13500000">##深色咒术之火</text>
+<text id="13510000">##漆黑咒术之火</text>
 <text id="13600000">猎龙大弓</text>
 <text id="14010000">短弓</text>
 <text id="14020000">复合弓</text>
@@ -218,7 +218,7 @@
 <text id="16050000">大柴刀</text>
 <text id="16060000">成对山贼短刀</text>
 <text id="16070000">歌德希尔特对剑</text>
-<text id="16080000">黄金双剑</text>
+<text id="16080000">##黄金双剑</text>
 <text id="16090000">鬼切与姥断</text>
 <text id="16100000">多兰对枪</text>
 <text id="16130000">多兰对槌</text>
@@ -242,7 +242,7 @@
 <text id="20230000">红圆盾</text>
 <text id="20240000">东方铁盾</text>
 <text id="20250000">林德盾</text>
-<text id="20260000">圣职圆盾</text>
+<text id="20260000">##圣职圆盾</text>
 <text id="20270000">金鹰小盾</text>
 <text id="20280000">圣花盾</text>
 <text id="20290000">古龙绘大盾</text>
@@ -251,7 +251,7 @@
 <text id="21060000">教宗骑士盾</text>
 <text id="21070000">卡萨斯盾</text>
 <text id="21100000">黑骑士盾</text>
-<text id="21110000">王子盾</text>
+<text id="21110000">##王子盾</text>
 <text id="21120000">银骑士盾</text>
 <text id="21130000">刺针盾</text>
 <text id="21140000">突刺盾</text>
@@ -274,7 +274,7 @@
 <text id="22020000">教堂骑士大盾</text>
 <text id="22040000">猎龙大盾</text>
 <text id="22050000">呻吟盾</text>
-<text id="22060000">古龙大盾</text>
+<text id="22060000">##古龙大盾</text>
 <text id="22070000">尤姆大盾</text>
 <text id="22080000">黑铁大盾</text>
 <text id="22090000">狼骑士大盾</text>

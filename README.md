@@ -12,6 +12,6 @@
 * 敌人伤害属性信息（1代为防御力系统，2/3代为防御力+伤害倍率系统）
 * 敌人物品掉落信息
 
-> 注：请使用Chrome运行 (本地需要增加运行参数 --allow-file-access-from-files，第一次开浏览器的时候从改过的这个快捷方式启动，然后再开工具。建议收藏到地址栏，免得要先启动浏览器再去文件目录找)
+>不支持IE核心，建议使用Edge运行。
 
-[在线快捷链接](https://leminerva.github.io/Dark-Souls-Documents/)（如果出现404请科学上网）
+[在线快捷链接](https://leminerva.github.io/Dark-Souls-Documents/)

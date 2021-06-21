@@ -24,6 +24,8 @@ a.mainitm{color:#960}
 .name{height:2em;line-height:2em;font-weight:700;padding:0}
 .desc{height:22em}
 .remk{height:3em}
+i{font-style:normal;font-size:.85em;color:#f00;margin:0 .5em 0 -3.5em}
+.eng i{margin:0 .5em 0 -5em}
 .icon img{transform:translateY(-50%);margin:14em 0 0;max-width:120%}
 .desfrm{transform:translateY(-50%);margin:11em 0}
 .desfrm p{border-bottom:1px solid #321;box-sizing:border-box;min-height:1.5em}

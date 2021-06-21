@@ -133,10 +133,10 @@
 <text id="361000">流浪大衣</text>
 <text id="362000">流浪袖套</text>
 <text id="363000">流浪靴子</text>
-<text id="370000">魔法铁匠帽子</text>
-<text id="371000">魔法铁匠大衣</text>
-<text id="372000">魔法铁匠护臂</text>
-<text id="373000">魔法铁匠靴子</text>
+<text id="370000">##魔法铁匠帽子</text>
+<text id="371000">##魔法铁匠大衣</text>
+<text id="372000">##魔法铁匠护臂</text>
+<text id="373000">##魔法铁匠靴子</text>
 <text id="380000">大帽子</text>
 <text id="381000">贤者长袍</text>
 <text id="382000">旅行长手套</text>
@@ -214,10 +214,10 @@
 <text id="641000">魔法师黑大衣</text>
 <text id="642000">魔法师黑护臂</text>
 <text id="643000">魔法师黑靴子</text>
-<text id="650000">高阶圣职头盔</text>
-<text id="651000">高阶圣职铠甲</text>
-<text id="652000">高阶圣职臂甲</text>
-<text id="653000">高阶圣职腿甲</text>
+<text id="650000">##高阶圣职头盔</text>
+<text id="651000">##高阶圣职铠甲</text>
+<text id="652000">##高阶圣职臂甲</text>
+<text id="653000">##高阶圣职腿甲</text>
 <text id="660000">亚尔特留斯头盔</text>
 <text id="661000">亚尔特留斯铠甲</text>
 <text id="662000">亚尔特留斯臂甲</text>
@@ -240,9 +240,9 @@
 <text id="703000">切斯特长裤</text>
 <text id="710000">肥大头颅</text>
 <text id="720000">肥大魔法师头颅</text>
-<text id="1000000">龙头</text>
-<text id="1001000">龙身</text>
-<text id="1002000">龙臂</text>
-<text id="1003000">龙腿</text>
-<text id="1010000">蛋</text>
+<text id="1000000">##龙头</text>
+<text id="1001000">##龙身</text>
+<text id="1002000">##龙臂</text>
+<text id="1003000">##龙腿</text>
+<text id="1010000">##蛋</text>
 </entries>

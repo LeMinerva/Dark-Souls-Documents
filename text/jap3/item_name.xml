@@ -13,7 +13,7 @@
 <text id="190">エストの灰瓶</text>
 <text id="240">女神の祝福</text>
 <text id="241">秘めた祝福</text>
-<text id="242">銀のペンダント</text>
+<text id="242">##銀のペンダント</text>
 <text id="260">緑花草</text>
 <text id="261">花付き緑花草</text>
 <text id="262">花付き緑花草</text>
@@ -22,7 +22,7 @@
 <text id="272">毒紫の花苔玉</text>
 <text id="274">解呪石</text>
 <text id="276">凍青の苔玉</text>
-<text id="277">聖院の護符</text>
+<text id="277">##聖院の護符</text>
 <text id="280">修理の光粉</text>
 <text id="290">ククリ</text>
 <text id="292">火炎壺</text>
@@ -32,7 +32,7 @@
 <text id="297">黒火炎壺</text>
 <text id="299">紐付き火炎壺</text>
 <text id="300">雷壺</text>
-<text id="301">聖水瓶</text>
+<text id="301">##聖水瓶</text>
 <text id="302">紐付き黒火炎壺</text>
 <text id="303">草付き糞団子</text>
 <text id="304">決闘の護符</text>
@@ -87,11 +87,11 @@
 <text id="419">英雄のソウル</text>
 <text id="420">偉大な英雄のソウル</text>
 <text id="440">巨人樹の種</text>
-<text id="441">霊宿る紫水晶</text>
-<text id="450">漏れだす魔力の木の実</text>
-<text id="451">漏れだす雷火の木の実</text>
+<text id="441">##霊宿る紫水晶</text>
+<text id="450">##漏れだす魔力の木の実</text>
+<text id="451">##漏れだす雷火の木の実</text>
 <text id="452">苔玉の実</text>
-<text id="453">光蟲</text>
+<text id="453">##光蟲</text>
 <text id="454">幼い白枝</text>
 <text id="455">錆びついた銅貨</text>
 <text id="456">ジークの酒</text>
@@ -104,7 +104,7 @@
 <text id="463">幼い白枝</text>
 <text id="490">暗い穴</text>
 <text id="500">残り火</text>
-<text id="501">残り火</text>
+<text id="501">##残り火</text>
 <text id="520">人面「こんにちは」</text>
 <text id="521">人面「ありがとう」</text>
 <text id="522">人面「いいね！」</text>
@@ -134,7 +134,7 @@
 <text id="1001">楔石の大欠片</text>
 <text id="1002">楔石の塊</text>
 <text id="1003">楔石の原盤</text>
-<text id="1010">竜のウロコ</text>
+<text id="1010">##竜のウロコ</text>
 <text id="1020">楔石のウロコ</text>
 <text id="1030">光る楔石</text>
 <text id="1100">重厚な貴石</text>
@@ -154,8 +154,8 @@
 <text id="1240">亡者の貴石</text>
 <text id="1250">喪失石</text>
 <text id="2001">リフト部屋の鍵</text>
-<text id="2003">橋の鍵</text>
-<text id="2004">狼の鉄紋章</text>
+<text id="2003">##橋の鍵</text>
+<text id="2004">##狼の鉄紋章</text>
 <text id="2005">小さな人形</text>
 <text id="2007">窓格子の鍵</text>
 <text id="2008">獄吏の鍵束</text>
@@ -164,7 +164,7 @@
 <text id="2012">古牢の鍵</text>
 <text id="2013">塔の鍵</text>
 <text id="2014">大書庫の鍵</text>
-<text id="2101">聖遺骸</text>
+<text id="2101">##聖遺骸</text>
 <text id="2102">ロスリックの小環旗</text>
 <text id="2103">ファランの種火</text>
 <text id="2104">古老の種火</text>
@@ -184,7 +184,7 @@
 <text id="2118">ロレッタの骨</text>
 <text id="2119">カリムの点字聖書</text>
 <text id="2120">ロスリックの点字聖書</text>
-<text id="2121">太陽の点字聖書</text>
+<text id="2121">##太陽の点字聖書</text>
 <text id="2123">王の薪</text>
 <text id="2124">王の薪</text>
 <text id="2125">王の薪</text>
@@ -221,7 +221,7 @@
 <text id="2155">仕掛けの鍵</text>
 <text id="315">教会守りの薄刃</text>
 <text id="379">フィリアノールの槍飾り</text>
-<text id="620">契約の証</text>
+<text id="620">##契約の証</text>
 <text id="650">儀式槍の欠片</text>
 <text id="651">聖槍の欠片</text>
 <text id="745">奴隷騎士ゲールのソウル</text>
