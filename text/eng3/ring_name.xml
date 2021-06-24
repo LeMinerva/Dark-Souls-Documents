@@ -1,14 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="10000">Blade of the Darkmoon</text>
-<text id="10020">Watchdogs of Farron</text>
-<text id="10030">Aldrich Faithful</text>
-<text id="10040">Warrior of Sunlight</text>
-<text id="10050">Mound-makers</text>
-<text id="10060">Way of Blue</text>
-<text id="10070">Blue Sentinels</text>
-<text id="10080">Rosaria's Fingers</text>
-<text id="10090">Spears of the Church</text>
 <text id="20000">Life Ring</text>
 <text id="20010">Chloranthy Ring</text>
 <text id="20020">Havel's Ring</text>
@@ -31,7 +22,6 @@
 <text id="20190">Wolf Ring</text>
 <text id="20200">Leo Ring</text>
 <text id="20210">Ring of Sacrifice</text>
-<text id="20220">##Rare Ring of Sacrifice</text>
 <text id="20230">Young Dragon Ring</text>
 <text id="20231">Bellowing Dragoncrest Ring</text>
 <text id="20240">Great Swamp Ring</text>
@@ -64,7 +54,6 @@
 <text id="20540">Flynn's Ring</text>
 <text id="20550">Prisoner's Chain</text>
 <text id="20560">Untrue Dark Ring</text>
-<text id="20570">##Yorgh's Ring</text>
 <text id="20580">Obscuring Ring</text>
 <text id="20590">Ring of the Evil Eye</text>
 <text id="20600">Calamity Ring</text>
@@ -82,4 +71,13 @@
 <text id="20790">Pontiff's Left Eye</text>
 <text id="20830">Dragonscale Ring</text>
 <text id="21000">Chillbite Ring</text>
+<text id="20220">##Rare Ring of Sacrifice</text>
+<text id="20570">##Yorgh's Ring</text>
+<text id="20690">##Ring of Hiding</text>
+<text id="20760">##Ring of Sustained Toughness</text>
+<text id="20770">##Ring of Sustained Energy</text>
+<text id="20780">##Ring of Sustained Magic</text>
+<text id="20800">##Ring of Sustained Essence</text>
+<text id="20810">##Ring of Sustained Might</text>
+<text id="20820">##Ring of Sustained Fortune</text>
 </entries>

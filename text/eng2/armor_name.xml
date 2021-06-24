@@ -16,7 +16,6 @@
 <text id="21040101">Leather Armor</text>
 <text id="21040102">Leather Gloves</text>
 <text id="21040103">Leather Boots</text>
-<text id="21041100">##Hunter's Hat</text>
 <text id="21050100">Knight Helm</text>
 <text id="21050101">Knight Armor</text>
 <text id="21050102">Knight Gauntlets</text>
@@ -87,7 +86,6 @@
 <text id="21390103">Blood-Stained Skirt</text>
 <text id="21430100">Durgo's Hat</text>
 <text id="21440102">Engraved Gauntlets</text>
-<text id="21450101">##Barrel</text>
 <text id="21460103">Flying Feline Boots</text>
 <text id="21470100">Moon Butterfly Hat</text>
 <text id="21470101">Moon Butterfly Wings</text>
@@ -415,7 +413,6 @@
 <text id="27550101">Mad Warrior Armor</text>
 <text id="27550102">Mad Warrior Gauntlets</text>
 <text id="27550103">Mad Warrior Leggings</text>
-<text id="27630101">##Rosabeth's Dress</text>
 <text id="27680100">Black Hood</text>
 <text id="27680101">Black Robes</text>
 <text id="27680102">Black Gloves</text>
@@ -438,6 +435,9 @@
 <text id="27950101">Targray's Armor</text>
 <text id="27950102">Targray's Manifers</text>
 <text id="27950103">Targray's Leggings</text>
+<text id="21041100">##Hunter's Hat</text>
+<text id="21450101">##Barrel</text>
+<text id="27630101">##Rosabeth's Dress</text>
 <text id="892001000">##Faraam Helm</text>
 <text id="892001001">##Faraam Armor</text>
 <text id="892001002">##Faraam Gauntlets</text>

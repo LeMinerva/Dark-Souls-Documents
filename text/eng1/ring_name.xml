@@ -28,12 +28,9 @@
 <text id="127">Rare Ring of Sacrifice</text>
 <text id="128">Dark Wood Grain Ring</text>
 <text id="130">Ring of the Sun Princess</text>
-<text id="133">##Ring of Condemnation</text>
-<text id="134">##Ring of Blind Ghosts</text>
 <text id="137">Old Witch's Ring</text>
 <text id="138">Covenant of Artorias</text>
 <text id="139">Orange Charred Ring</text>
-<text id="140">##Ring of Displacement</text>
 <text id="141">Lingering Dragoncrest Ring</text>
 <text id="142">Ring of the Evil Eye</text>
 <text id="143">Ring of Favor and Protection</text>
@@ -44,4 +41,7 @@
 <text id="148">Ring of the Sun's Firstborn</text>
 <text id="149">Darkmoon Seance Ring</text>
 <text id="150">Calamity Ring</text>
+<text id="133">##Ring of Condemnation</text>
+<text id="134">##Ring of Blind Ghosts</text>
+<text id="140">##Ring of Displacement</text>
 </entries>

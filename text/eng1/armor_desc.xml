@@ -845,30 +845,6 @@ hands.</text>
 
 Made from sturdy leather. A must-have for
 long journeys.</text>
-<text id="370000">Hat worn by proper mage smiths who
-studied at Vinheim Dragon School.
-
-Mage smiths learn their craft alongside
-sorcerers, but apply their sorcery to
-forging weapons with magic embers.</text>
-<text id="371000">Coat worn by proper mage smiths who
-studied at Vinheim Dragon School.
-
-Mage smiths learn their craft alongside
-sorcerers, but apply their sorcery to
-forging weapons with magic embers.</text>
-<text id="372000">Gauntlets worn by proper mage smiths who
-studied at Vinheim Dragon School.
-
-Mage smiths learn their craft alongside
-sorcerers, but apply their sorcery to
-forging weapons with magic embers.</text>
-<text id="373000">Boots worn by proper mage smiths who
-studied at Vinheim Dragon School.
-
-Mage smiths learn their craft alongside
-sorcerers, but apply their sorcery to
-forging weapons with magic embers.</text>
 <text id="380000">Gigantic hat worn by the great sorcerer
 Logan. It completely hid his face, which led
 to his nickname "Big Hat."
@@ -1366,34 +1342,6 @@ Vinheim Dragon School.
 
 They secretly work with sound-based spells,
 and never reveal themselves.</text>
-<text id="650000">Helm worn by the warrior clerics of the
-Way of White, who are famous for being
-unyielding in battle.
-
-Among such helms, those that were black
-belonged to warrior clerics sent on missions,
-many of whom were high-level priests.</text>
-<text id="651000">Armor worn by the warrior clerics of the
-Way of White, who are famous for being
-unyielding in battle.
-
-Among such armors, those that were black
-belonged to warrior clerics sent on missions,
-many of whom were high-level priests.</text>
-<text id="652000">Gauntlets worn by the warrior clerics of the
-Way of White, who are famous for being
-unyielding in battle.
-
-Among such gauntlets, those that were black
-belonged to warrior clerics sent on missions,
-many of whom were high-level priests.</text>
-<text id="653000">Leggings worn by the warrior clerics of the
-Way of White, who are famous for being
-unyielding in battle.
-
-Among such leggings, those that were black
-belonged to warrior clerics sent on missions,
-many of whom were high-level priests.</text>
 <text id="660000">Helm of Artorias the Abysswalker,
 one of Gwyn's Four Knights.
 
@@ -1548,6 +1496,58 @@ lined with innumerable tiny red eyeballs,
 and accented by protruding brain parts.
 It is lightly enchanted, suggesting that it
 may have belonged to a sorcerer.</text>
+<text id="370000">Hat worn by proper mage smiths who
+studied at Vinheim Dragon School.
+
+Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers.</text>
+<text id="371000">Coat worn by proper mage smiths who
+studied at Vinheim Dragon School.
+
+Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers.</text>
+<text id="372000">Gauntlets worn by proper mage smiths who
+studied at Vinheim Dragon School.
+
+Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers.</text>
+<text id="373000">Boots worn by proper mage smiths who
+studied at Vinheim Dragon School.
+
+Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers.</text>
+<text id="650000">Helm worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+Among such helms, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests.</text>
+<text id="651000">Armor worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+Among such armors, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests.</text>
+<text id="652000">Gauntlets worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+Among such gauntlets, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests.</text>
+<text id="653000">Leggings worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle.
+
+Among such leggings, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests.</text>
 <text id="1000000">
 Transform the head into that of a dragon with
 a secret rite of the transcendent apostles.

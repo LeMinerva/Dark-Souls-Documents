@@ -589,26 +589,6 @@ Typical attire for blue-robed travelers.
 
 It is said that they were entrusted with a duty,
 still its nature is yet to be revealed.</text>
-<text id="33000000">Hat of a sorcerer who
-distanced himself from this world.
-
-Looks terribly worn-out,
-but the fabric's surface is reinforced with magic.</text>
-<text id="33001000">Robe of a sorcerer who
-distanced himself from this world.
-
-Looks terribly worn-out,
-but the fabric's surface is reinforced with magic.</text>
-<text id="33002000">Gloves of a sorcerer who
-distanced himself from this world.
-
-Looks terribly worn-out,
-but the fabric's surface is reinforced with magic.</text>
-<text id="33003000">Waistcloth of a sorcerer who
-distanced himself from this world.
-
-Looks terribly worn-out,
-but the fabric's surface is reinforced with magic.</text>
 <text id="40000000">Typical helm for a Lothric soldier.
 Iron-made, but half fallen apart.
 
@@ -658,48 +638,6 @@ inhabiting the Profaned Capital,
 later serving under Pontiff Sulyvahn.
 Perhaps the screams emanating from the cells
 help them forget their old home.</text>
-<text id="44500000">Veil worn by the young crossbreed
-taken prisoner within the dungeon.
-
-Originally pure white,
-years of incarceration have stained it ash grey.</text>
-<text id="44501000">Dress worn by the young crossbreed
-taken prisoner within the dungeon.
-
-Originally pure white,
-years of incarceration have stained it ash grey.</text>
-<text id="45000000">Hood worn by a manservant who
-roams the Undead Commune.
-
-The lowly footmen were given the most dejectable tasks
-among citizens of the Undead Commune.
-Their superhuman strength far exceeds
-that of an ordinary person,
-and if agitated can become quite uncontrolable.</text>
-<text id="45001000">Overcoat worn by a manservant who
-roams the Undead Commune.
-
-The lowly footmen were given the most dejectable tasks
-among citizens of the Undead Commune.
-Their superhuman strength far exceeds
-that of an ordinary person,
-and if agitated can become quite uncontrolable.</text>
-<text id="45002000">Bracelets worn by a manservant who
-roams the Undead Commune.
-
-The lowly footmen were given the most dejectable tasks
-among citizens of the Undead Commune.
-Their superhuman strength far exceeds
-that of an ordinary person,
-and if agitated can become quite uncontrolable.</text>
-<text id="45003000">Trousers worn by a manservant who
-roams the Undead Commune.
-
-The lowly footmen were given the most dejectable tasks
-among citizens of the Undead Commune.
-Their superhuman strength far exceeds
-that of an ordinary person,
-and if agitated can become quite uncontrolable.</text>
 <text id="46000000">Rotting, tattered hood.
 Attire of grave wardens at the Cathedral of the Deep.
 
@@ -784,14 +722,6 @@ These teachers, all women,
 came to enlighten inhabitants of
 the Undead Settlement and sent carriers
 on the path of sacrifice.</text>
-<text id="48500000">Skin shed from a sage of the Grand Archives.
-The ivory wax has hardened, forming a mask.
-
-Wax protected the inquirer from exposure
-to the foulness that permeated
-the majority of the texts,
-preventing one's anchor of reason
-from being too easily washed away.</text>
 <text id="48501000">Robe of a sage from the Grand Archives,
 stained quite deliberately with wax.
 
@@ -1110,18 +1040,6 @@ The iron kneecaps originated from their sword techniques.
 These undead warriors vowed to partake of wolf blood.
 They acted in the dark, seeking out any sign of the Abyss,
 fighting a constant war with its abominations.</text>
-<text id="59500000">Metallic mask worn by a man serpent priest.
-
-There were those among the man serpents as well as people,
-who devoted themselves to magic,
-and the existence of a cane that
-could invoke sorceries from ages past.</text>
-<text id="59501000">Robe worn by a man serpent priest.
-
-There were those among the man serpents as well as people,
-who devoted themselves to magic,
-and the existence of a cane that
-could invoke sorceries from ages past.</text>
 <text id="60000000">Helm of witches who bore the Profaned Flame,
 now harrowed spirits of Irithyll.
 
@@ -1211,30 +1129,6 @@ a frail and shriveled child.
 His swaddling clothes were made of aged,
 coarse cloth used in ancient prayer,
 and are all that he has ever worn.</text>
-<text id="62000000">Crown embedded with the soul of the old giant,
-Lord of Cinder.
-
-Reinforced with the protection of a giant,
-this item will repel all manner of attacks,
-holding fast against the wearer's enemies.</text>
-<text id="62001000">Armor embedded with the soul of the old giant,
-Lord of Cinder.
-
-Reinforced with the protection of a giant,
-this item will repel all manner of attacks,
-holding fast against the wearer's enemies.</text>
-<text id="62002000">Gauntlets embedded with the soul of the old giant,
-Lord of Cinder.
-
-Reinforced with the protection of a giant,
-this item will repel all manner of attacks,
-holding fast against the wearer's enemies.</text>
-<text id="62003000">Leggings embedded with the soul of the old giant,
-Lord of Cinder.
-
-Reinforced with the protection of a giant,
-this item will repel all manner of attacks,
-holding fast against the wearer's enemies.</text>
 <text id="63000000">Crown worn by the Dancer of the Boreal Valley.
 
 The mirage-like aurora veil is said
@@ -1324,10 +1218,6 @@ In time, those dedicated to sealing away
 the horrors of the Deep succumbed to their very power.
 It seems that neither tending to the flame,
 nor the faith, could save them.</text>
-<text id="67000000">Mask worn by the beast knight of the Frigid Valley.
-
-The mask was created using techniques now lost.
-It clearly has an unusual, unsettling air about it.</text>
 <text id="68001000">Robe worn by the guardian of the shrine.
 
 The Fire Keepers were robbed of light,
@@ -2114,35 +2004,6 @@ the last knight to stand in defense of the ruined cathedral.
 Boasts extremely high defense
 and can be donned by humans,
 but not without great difficulty.</text>
-<text id="95000000">Hood worn by a hexer.
-Grants slight increase to spell uses.
-Belonged to Felkin the Outcast.
-
-Hexing appears to be an offshoot of sorcery,
-but its specific origins are unknown.
-
-Effect: Increases number of casts for each spell</text>
-<text id="95001000">Robe worn by a hexer.
-Belonged to Felkin the Outcast.
-
-Those who have a taste of dark are
-drawn into its vortex and rarely return.
-Perhaps it appeals to something
-deep within the human soul.</text>
-<text id="95002000">Gloves worn by a hexer.
-Belonged to Felkin the Outcast.
-
-Those who have a taste of dark are
-drawn into its vortex and rarely return.
-Perhaps it appeals to something
-deep within the human soul.</text>
-<text id="95003000">Boots worn by a hexer.
-Belonged to Felkin the Outcast.
-
-Those who have a taste of dark are
-drawn into its vortex and rarely return.
-Perhaps it appeals to something
-deep within the human soul.</text>
 <text id="96000000">Helm of Kirk, the notorious knight of Thorns.
 A dense patch of thorns grows from its surface.
 
@@ -2167,26 +2028,6 @@ A dense patch of thorns grows from its surface.
 A fitting item for the murderous Kirk,
 for even the simple act of rolling
 can damage enemies when wearing this attire.</text>
-<text id="97000000">Helmet worn by Varangians that terrorized nearby seas.
-
-The coastline stretches far in northern Drangleic.
-Beyond this northern sea is an unexplored continent,
-said to be the home of things inhuman.</text>
-<text id="97001000">Armor worn by Varangians that terrorized nearby seas.
-
-The coastline stretches far in northern Drangleic.
-Beyond this northern sea is an unexplored continent,
-said to be the home of things inhuman.</text>
-<text id="97002000">Cuffs worn by Varangians that terrorized nearby seas.
-
-The coastline stretches far in northern Drangleic.
-Beyond this northern sea is an unexplored continent,
-said to be the home of things inhuman.</text>
-<text id="97003000">Leggings worn by Varangians that terrorized nearby seas.
-
-The coastline stretches far in northern Drangleic.
-Beyond this northern sea is an unexplored continent,
-said to be the home of things inhuman.</text>
 <text id="98000000">Feathered crown bestowed upon the princess of Oolacile,
 land of ancient golden sorceries.
 
@@ -2236,7 +2077,10 @@ It would be madness to wear such a thing.</text>
 <text id="20000000">The black helm of Vilhelm, Knight of Londor,
 and a nice fit for any lean Hollow.
 
-This hollow knight, who served the three sisters who founded the Sable Church, was particularly loyal to the eldest, and was known as a cold-blooded hangman.</text>
+This hollow knight,
+who served the three sisters who founded the Sable Church,
+was particularly loyal to the eldest,
+and was known as a cold-blooded hangman.</text>
 <text id="20001000">The black armor of Vilhelm, Knight of Londor,
 and a nice fit for any lean Hollow.
 
@@ -2689,4 +2533,203 @@ but also greatly increases damage sustained from dark.
 This purple steel creation has
 a certain resemblance to the Fire Keeper's crown,
 but the similarity is purely cosmetic.</text>
+<text id="31101000">Dingy overcoat worn by traveling maidens.
+
+Although stained from a long journey,
+this item has yet to lose its divine power,
+remaining effective as a piece of protective wear.</text>
+<text id="33000000">Hat of a sorcerer who
+distanced himself from this world.
+
+Looks terribly worn-out,
+but the fabric's surface is reinforced with magic.</text>
+<text id="33001000">Robe of a sorcerer who
+distanced himself from this world.
+
+Looks terribly worn-out,
+but the fabric's surface is reinforced with magic.</text>
+<text id="33002000">Gloves of a sorcerer who
+distanced himself from this world.
+
+Looks terribly worn-out,
+but the fabric's surface is reinforced with magic.</text>
+<text id="33003000">Waistcloth of a sorcerer who
+distanced himself from this world.
+
+Looks terribly worn-out,
+but the fabric's surface is reinforced with magic.</text>
+<text id="40100000">Hood supplied to common soldiers protecting Lothric.
+
+Its simple build offers the bare
+minimum of protection in battle,
+but is comparatively lightweight and manageable.</text>
+<text id="40200000">Mask worn by those with something to hide.
+Used to conceal the face, muffle the voice,
+and go by cover of darkness.</text>
+<text id="43001000">Robe worn by an elder
+who went to the extremes of sorcery.
+
+These robes have served the elder
+over many years of devoted study.
+Constantly exposed to magical power,
+they became formal wear for high-ranking sorcerers.</text>
+<text id="44500000">Veil worn by the young crossbreed
+taken prisoner within the dungeon.
+
+Originally pure white,
+years of incarceration have stained it ash grey.</text>
+<text id="44501000">Dress worn by the young crossbreed
+taken prisoner within the dungeon.
+
+Originally pure white,
+years of incarceration have stained it ash grey.</text>
+<text id="45000000">Hood worn by a manservant who
+roams the Undead Commune.
+
+The lowly footmen were given the most dejectable tasks
+among citizens of the Undead Commune.
+Their superhuman strength far exceeds
+that of an ordinary person,
+and if agitated can become quite uncontrolable.</text>
+<text id="45001000">Overcoat worn by a manservant who
+roams the Undead Commune.
+
+The lowly footmen were given the most dejectable tasks
+among citizens of the Undead Commune.
+Their superhuman strength far exceeds
+that of an ordinary person,
+and if agitated can become quite uncontrolable.</text>
+<text id="45002000">Bracelets worn by a manservant who
+roams the Undead Commune.
+
+The lowly footmen were given the most dejectable tasks
+among citizens of the Undead Commune.
+Their superhuman strength far exceeds
+that of an ordinary person,
+and if agitated can become quite uncontrolable.</text>
+<text id="45003000">Trousers worn by a manservant who
+roams the Undead Commune.
+
+The lowly footmen were given the most dejectable tasks
+among citizens of the Undead Commune.
+Their superhuman strength far exceeds
+that of an ordinary person,
+and if agitated can become quite uncontrolable.</text>
+<text id="48500000">Skin shed from a sage of the Grand Archives.
+The ivory wax has hardened, forming a mask.
+
+Wax protected the inquirer from exposure
+to the foulness that permeated
+the majority of the texts,
+preventing one's anchor of reason
+from being too easily washed away.</text>
+<text id="59500000">Metallic mask worn by a man serpent priest.
+
+There were those among the man serpents
+as well as people,
+who devoted themselves to magic,
+and the existence of a cane that
+could invoke sorceries from ages past.</text>
+<text id="59501000">Robe worn by a man serpent priest.
+
+There were those among the man serpents
+as well as people,
+who devoted themselves to magic,
+and the existence of a cane that
+could invoke sorceries from ages past.</text>
+<text id="62000000">Crown embedded with the soul of the old giant,
+Lord of Cinder.
+
+Reinforced with the protection of a giant,
+this item will repel all manner of attacks,
+holding fast against the wearer's enemies.</text>
+<text id="62001000">Armor embedded with the soul of the old giant,
+Lord of Cinder.
+
+Reinforced with the protection of a giant,
+this item will repel all manner of attacks,
+holding fast against the wearer's enemies.</text>
+<text id="62002000">Gauntlets embedded with the soul of the old giant,
+Lord of Cinder.
+
+Reinforced with the protection of a giant,
+this item will repel all manner of attacks,
+holding fast against the wearer's enemies.</text>
+<text id="62003000">Leggings embedded with the soul of the old giant,
+Lord of Cinder.
+
+Reinforced with the protection of a giant,
+this item will repel all manner of attacks,
+holding fast against the wearer's enemies.</text>
+<text id="65000000">Crown of the old king who protected
+the Frigid Valley's capital.
+
+Much like its owner,
+this once glorious garment has suffered
+greatly from the encroachment of dark.</text>
+<text id="65001000">Robe of the old king who protected
+the Frigid Valley's capital.
+
+Much like its owner,
+this once glorious garment has suffered
+greatly from the encroachment of dark.</text>
+<text id="67000000">Mask worn by the beast knight of the Frigid Valley.
+
+The mask was created using techniques now lost.
+It clearly has an unusual, unsettling air about it.</text>
+
+<text id="68000000">Worn by a Fire Keeper.
+
+It is thought to have once been
+the white hood of a maiden,
+but bonfire ash has darkened it over the years.</text>
+<text id="95000000">Hood worn by a hexer.
+Grants slight increase to spell uses.
+Belonged to Felkin the Outcast.
+
+Hexing appears to be an offshoot of sorcery,
+but its specific origins are unknown.
+
+Effect: Increases number of casts for each spell</text>
+<text id="95001000">Robe worn by a hexer.
+Belonged to Felkin the Outcast.
+
+Those who have a taste of dark are
+drawn into its vortex and rarely return.
+Perhaps it appeals to something
+deep within the human soul.</text>
+<text id="95002000">Gloves worn by a hexer.
+Belonged to Felkin the Outcast.
+
+Those who have a taste of dark are
+drawn into its vortex and rarely return.
+Perhaps it appeals to something
+deep within the human soul.</text>
+<text id="95003000">Boots worn by a hexer.
+Belonged to Felkin the Outcast.
+
+Those who have a taste of dark are
+drawn into its vortex and rarely return.
+Perhaps it appeals to something
+deep within the human soul.</text>
+<text id="97000000">Helmet worn by Varangians that terrorized nearby seas.
+
+The coastline stretches far in northern Drangleic.
+Beyond this northern sea is an unexplored continent,
+said to be the home of things inhuman.</text>
+<text id="97001000">Armor worn by Varangians that terrorized nearby seas.
+
+The coastline stretches far in northern Drangleic.
+Beyond this northern sea is an unexplored continent,
+said to be the home of things inhuman.</text>
+<text id="97002000">Cuffs worn by Varangians that terrorized nearby seas.
+
+The coastline stretches far in northern Drangleic.
+Beyond this northern sea is an unexplored continent,
+said to be the home of things inhuman.</text>
+<text id="97003000">Leggings worn by Varangians that terrorized nearby seas.
+
+The coastline stretches far in northern Drangleic.
+Beyond this northern sea is an unexplored continent,
+said to be the home of things inhuman.</text>
 </entries>

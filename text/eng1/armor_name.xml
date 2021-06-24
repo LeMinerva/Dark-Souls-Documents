@@ -133,10 +133,6 @@
 <text id="361000">Wanderer Coat</text>
 <text id="362000">Wanderer Manchette</text>
 <text id="363000">Wanderer Boots</text>
-<text id="370000">##Mage Smith Hat</text>
-<text id="371000">##Mage Smith Coat</text>
-<text id="372000">##Mage Smith Gauntlets</text>
-<text id="373000">##Mage Smith Boots</text>
 <text id="380000">Big Hat</text>
 <text id="381000">Sage Robe</text>
 <text id="382000">Traveling Gloves</text>
@@ -214,10 +210,6 @@
 <text id="641000">Black Sorcerer Cloak</text>
 <text id="642000">Black Sorcerer Gauntlets</text>
 <text id="643000">Black Sorcerer Boots</text>
-<text id="650000">##Elite Cleric Helm</text>
-<text id="651000">##Elite Cleric Armor</text>
-<text id="652000">##Elite Cleric Gauntlets</text>
-<text id="653000">##Elite Cleric Leggings</text>
 <text id="660000">Helm of Artorias</text>
 <text id="661000">Armor of Artorias</text>
 <text id="662000">Gauntlets of Artorias</text>
@@ -240,6 +232,14 @@
 <text id="703000">Chester's Trousers</text>
 <text id="710000">Bloated Head</text>
 <text id="720000">Bloated Sorcerer Head</text>
+<text id="370000">##Mage Smith Hat</text>
+<text id="371000">##Mage Smith Coat</text>
+<text id="372000">##Mage Smith Gauntlets</text>
+<text id="373000">##Mage Smith Boots</text>
+<text id="650000">##Elite Cleric Helm</text>
+<text id="651000">##Elite Cleric Armor</text>
+<text id="652000">##Elite Cleric Gauntlets</text>
+<text id="653000">##Elite Cleric Leggings</text>
 <text id="1000000">##Dragon Head</text>
 <text id="1001000">##Dragon Body</text>
 <text id="1002000">##Dragon Arms</text>

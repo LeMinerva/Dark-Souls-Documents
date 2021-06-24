@@ -376,12 +376,6 @@ Giant Gravelord swords jut out in vicinity.
 Many have died, and many eyes were claimed to
 realize the Greatsword Dance, a Gravelord
 ritual known only by his closest servants.</text>
-<text id="5200">Lost miracle, foreign to the Way of White
-While active, no losses incurred upon death
-
-The Way of White recognizes death itself,
-but admonishes the Undead. It is for this
-very reason that this miracle was lost.</text>
 <text id="5210">Great miracle cast by advanced clerics.
 Return to last bonfire rested at.
 
@@ -481,4 +475,10 @@ Boost right weapon with rays of Darkmoon.
 The power of the rays of the Darkmoon are
 manifested in vengeance, and the deeper the
 animus, the more devastating the attack.</text>
+<text id="5200">Lost miracle, foreign to the Way of White
+While active, no losses incurred upon death
+
+The Way of White recognizes death itself,
+but admonishes the Undead. It is for this
+very reason that this miracle was lost.</text>
 </entries>

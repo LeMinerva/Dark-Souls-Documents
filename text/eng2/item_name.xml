@@ -2,8 +2,6 @@
 <entries>
 <text id="50600000">Soldier Key</text>
 <text id="50610000">Key to King's Passage</text>
-<text id="50640000">##Weapon Smithbox</text>
-<text id="50650000">##Armor Smithbox</text>
 <text id="50800000">Bastille Key</text>
 <text id="50810000">Iron Key</text>
 <text id="50820000">Forgotten Key</text>
@@ -61,7 +59,6 @@
 <text id="60190000">Dark Troches</text>
 <text id="60200000">Common Fruit</text>
 <text id="60210000">Red Leech Troches</text>
-<text id="60220000">##Yellow Sea Troches</text>
 <text id="60230000">Triclops Snake Troches</text>
 <text id="60235000">Old Growth Balm</text>
 <text id="60236000">Vine Balm</text>
@@ -69,7 +66,6 @@
 <text id="60238000">Goldenfruit Balm</text>
 <text id="60239000">Brightbug</text>
 <text id="60240000">Aromatic Ooze</text>
-<text id="60245000">##Pungent Ooze</text>
 <text id="60250000">Gold Pine Resin</text>
 <text id="60260000">Charcoal Pine Resin</text>
 <text id="60270000">Dark Pine Resin</text>
@@ -77,18 +73,13 @@
 <text id="60290000">Bleeding Serum</text>
 <text id="60310000">Green Blossom</text>
 <text id="60320000">Rusted Coin</text>
-<text id="60330000">##Rhoy's Stone</text>
 <text id="60350000">Homeward Bone</text>
 <text id="60355000">Aged Feather</text>
 <text id="60360000">Darksign</text>
 <text id="60370000">Silver Talisman</text>
-<text id="60380000">##Gold Talisman</text>
-<text id="60390000">##Fake Dead Talisman</text>
-<text id="60400000">##Illusory Talisman</text>
 <text id="60405000">Dragon Head Stone</text>
 <text id="60406000">Dragon Torso Stone</text>
 <text id="60410000">Repair Powder</text>
-<text id="60420000">##Torch</text>
 <text id="60430000">Flame Butterfly</text>
 <text id="60450000">Prism Stone</text>
 <text id="60470000">Hello Carving</text>
@@ -205,4 +196,14 @@
 <text id="64590000">Soul of Zallen, the King's Pet</text>
 <text id="64600000">Loyce Soul</text>
 <text id="64610000">Soul of Lud, the King's Pet</text>
+<text id="50640000">##Weapon Smithbox</text>
+<text id="50650000">##Armor Smithbox</text>
+<text id="60220000">##Yellow Sea Troches</text>
+<text id="60245000">##Pungent Ooze</text>
+<text id="60330000">##Rhoy's Stone</text>
+<text id="60380000">##Gold Talisman</text>
+<text id="60390000">##Fake Dead Talisman</text>
+<text id="60400000">##Illusory Talisman</text>
+<text id="60420000">##Torch</text>
+<text id="64620000">##Soul of the Rotten</text>
 </entries>

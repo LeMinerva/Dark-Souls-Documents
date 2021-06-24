@@ -1,29 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="400000">Standard Arrow</text>
-<text id="400100">Fire Arrow</text>
-<text id="400200">Poison Arrow</text>
-<text id="400300">Large Arrow</text>
-<text id="400400">Feather Arrow</text>
-<text id="400500">Moonlight Arrow</text>
-<text id="400600">Wood Arrow</text>
-<text id="400700">Dark Arrow</text>
-<text id="402000">Dragonslayer Greatarrow</text>
-<text id="402200">Dragonslayer Lightning Arrow</text>
-<text id="402300">Onislayer Greatarrow</text>
-<text id="402400">Millwood Greatarrow</text>
-<text id="404000">Standard Bolt</text>
-<text id="404100">Heavy Bolt</text>
-<text id="404200">Sniper Bolt</text>
-<text id="404300">Wood Bolt</text>
-<text id="404400">Lightning Bolt</text>
-<text id="404500">Splintering Bolt</text>
-<text id="404600">Exploding Bolt</text>
 <text id="1000000">Dagger</text>
 <text id="1010000">Bandit's Knife</text>
 <text id="1020000">Parrying Dagger</text>
 <text id="1040000">Rotten Ghru Dagger</text>
-<text id="1050000">##Blood-stained Short Sword</text>
 <text id="1060000">Harpe</text>
 <text id="1070000">Scholar's Candlestick</text>
 <text id="1080000">Tailbone Short Sword</text>
@@ -101,7 +81,6 @@
 <text id="7050000">Greataxe</text>
 <text id="7070000">Butcher Knife</text>
 <text id="7080000">Dragonslayer's Axe</text>
-<text id="7090000">##Missionary's Axe</text>
 <text id="7100000">Thrall Axe</text>
 <text id="7110000">Dragonslayer Greataxe</text>
 <text id="7120000">Demon's Greataxe</text>
@@ -118,9 +97,7 @@
 <text id="8170000">Gargoyle Flame Hammer</text>
 <text id="8180000">Vordt's Great Hammer</text>
 <text id="8190000">Old King's Great Hammer</text>
-<text id="8210000">##Four Knights Hammer</text>
 <text id="8220000">Heysel Pick</text>
-<text id="8230000">##Hammer of the Great Tree</text>
 <text id="8240000">Warpick</text>
 <text id="8250000">Pickaxe</text>
 <text id="8260000">Dragon Tooth</text>
@@ -143,7 +120,6 @@
 <text id="9180000">Saint Bident</text>
 <text id="9190000">Yorshka's Spear</text>
 <text id="9200000">Pike</text>
-<text id="9210000">##Channeler's Trident</text>
 <text id="9220000">Dragonslayer Spear</text>
 <text id="10000000">Great Scythe</text>
 <text id="10010000">Lucerne </text>
@@ -154,8 +130,6 @@
 <text id="10080000">Great Corvian Scythe</text>
 <text id="10090000">Winged Knight Halberd</text>
 <text id="10100000">Gundyr's Halberd</text>
-<text id="10110000">##Lothric's Scythe</text>
-<text id="10120000">##Ancient Dragon Halberd</text>
 <text id="10140000">Red Hilted Halberd</text>
 <text id="10150000">Black Knight Glaive</text>
 <text id="10160000">Immolation Tinder</text>
@@ -176,7 +150,6 @@
 <text id="13110000">Archdeacon's Great Staff</text>
 <text id="13120000">Golden Ritual Spear</text>
 <text id="13140000">Yorshka's Chime</text>
-<text id="13150000">##Sacred Beast Catalyst</text>
 <text id="13160000">Sage's Crystal Staff</text>
 <text id="13170000">Heretic's Staff</text>
 <text id="13180000">Court Sorcerer's Staff</text>
@@ -193,10 +166,6 @@
 <text id="13290000">Saint's Talisman</text>
 <text id="13300000">White Hair Talisman</text>
 <text id="13400000">Pyromancy Flame</text>
-<text id="13450000">##Flickering Pyromancy Flame</text>
-<text id="13460000">##Strong Pyromancy Flame</text>
-<text id="13500000">##Deep Pyromancy Flame</text>
-<text id="13510000">##Pitch-Dark Pyromancy Flame</text>
 <text id="13600000">Dragonslayer Greatbow</text>
 <text id="14010000">Short Bow</text>
 <text id="14020000">Composite Bow</text>
@@ -218,7 +187,6 @@
 <text id="16050000">Great Machete</text>
 <text id="16060000">Brigand Twindaggers</text>
 <text id="16070000">Gotthard Twinswords</text>
-<text id="16080000">##Golden Dual Swords</text>
 <text id="16090000">Onikiri and Ubadachi</text>
 <text id="16100000">Drang Twinspears</text>
 <text id="16130000">Drang Hammers</text>
@@ -242,7 +210,6 @@
 <text id="20230000">Crimson Parma</text>
 <text id="20240000">Eastern Iron Shield</text>
 <text id="20250000">Llewellyn Shield</text>
-<text id="20260000">##Cleric's Parma</text>
 <text id="20270000">Golden Falcon Shield</text>
 <text id="20280000">Sacred Bloom Shield</text>
 <text id="20290000">Ancient Dragon Greatshield</text>
@@ -251,7 +218,6 @@
 <text id="21060000">Pontiff Knight Shield</text>
 <text id="21070000">Carthus Shield</text>
 <text id="21100000">Black Knight Shield</text>
-<text id="21110000">##Prince's Shield</text>
 <text id="21120000">Silver Knight Shield</text>
 <text id="21130000">Spiked Shield</text>
 <text id="21140000">Pierce Shield</text>
@@ -274,7 +240,6 @@
 <text id="22020000">Cathedral Knight Greatshield</text>
 <text id="22040000">Dragonslayer Greatshield</text>
 <text id="22050000">Moaning Shield</text>
-<text id="22060000">##Ancient Dragon Great Shield</text>
 <text id="22070000">Yhorm's Greatshield</text>
 <text id="22080000">Black Iron Greatshield</text>
 <text id="22090000">Wolf Knight's Greatshield</text>
@@ -321,4 +286,39 @@
 <text id="16160000">Ringed Knight Paired Greatswords</text>
 <text id="20310000">Dragonhead Shield</text>
 <text id="21310000">Dragonhead Greatshield</text>
+<text id="400000">Standard Arrow</text>
+<text id="400100">Fire Arrow</text>
+<text id="400200">Poison Arrow</text>
+<text id="400300">Large Arrow</text>
+<text id="400400">Feather Arrow</text>
+<text id="400500">Moonlight Arrow</text>
+<text id="400600">Wood Arrow</text>
+<text id="400700">Dark Arrow</text>
+<text id="402000">Dragonslayer Greatarrow</text>
+<text id="402200">Dragonslayer Lightning Arrow</text>
+<text id="402300">Onislayer Greatarrow</text>
+<text id="402400">Millwood Greatarrow</text>
+<text id="404000">Standard Bolt</text>
+<text id="404100">Heavy Bolt</text>
+<text id="404200">Sniper Bolt</text>
+<text id="404300">Wood Bolt</text>
+<text id="404400">Lightning Bolt</text>
+<text id="404500">Splintering Bolt</text>
+<text id="404600">Exploding Bolt</text>
+<text id="1050000">##Blood-stained Short Sword</text>
+<text id="7090000">##Missionary's Axe</text>
+<text id="8210000">##Four Knights Hammer</text>
+<text id="8230000">##Hammer of the Great Tree</text>
+<text id="9210000">##Channeler's Trident</text>
+<text id="10110000">##Lothric's Scythe</text>
+<text id="10120000">##Ancient Dragon Halberd</text>
+<text id="13150000">##Sacred Beast Catalyst</text>
+<text id="13450000">##Flickering Pyromancy Flame</text>
+<text id="13460000">##Strong Pyromancy Flame</text>
+<text id="13500000">##Deep Pyromancy Flame</text>
+<text id="13510000">##Pitch-Dark Pyromancy Flame</text>
+<text id="16080000">##Golden Dual Swords</text>
+<text id="20260000">##Cleric's Parma</text>
+<text id="21110000">##Prince's Shield</text>
+<text id="22060000">##Ancient Dragon Great Shield</text>
 </entries>

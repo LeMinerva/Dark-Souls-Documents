@@ -1,100 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="10000">A silver pendant depicting the Darkmoon and a sword,
-the crest of the Darkmoon Knights,
-the original Blue Sentinels.
-Equip to pledge oneself to
-the Blade of the Darkmoon covenant.
-
-When a member of the Way of Blue faces a dark spirit,
-the Blades of the Darkmoon,
-by an ancient accord,
-help to root out the invader.
-Summoning takes place automatically when equipped.</text>
-<text id="10020">Ancient medallion depicting the crest of a wolf.
-Symbolizes the pact with the Old Wolf of Farron.
-Equip to pledge oneself to the Watchdogs of Farron.
-
-The Watchdogs ensure that the warriors sleep in serenity,
-by taking the form of loyal spirits and hunting down
-those who would trespass the woods of Farron.
-
-Summoning takes place automatically
-while this is equipped.</text>
-<text id="10030">The holy symbol of the Cathedral of the Deep,
-and crest of those who see beyond fire
-to the age of deep waters.
-Equip to pledge oneself to the Aldrich Faithful covenant.
-
-The Faithful ensure that Aldrich, Devourer of Gods,
-remains undisturbed, by taking the form of loyal spirits
-and hunting down those who
-would trespass the ruined cathedral.
-
-Summoning takes place automatically
-while this is equipped.</text>
-<text id="10040">An ancient talisman depicting a holy symbol
-bestowed upon the Warriors of Sunlight.
-Equip to pledge oneself to the Warrior of Sunlight covenant.
-
-Warriors of Sunlight are brilliantly beaming co-operators
-who place their golden signatures to help those in need,
-for it is their duty to deliver
-a great conquest to their summoner.</text>
-<text id="10050">A malformed vertebra found by the mad,
-with a queer symbol on its inside,
-proof of the shackles of the Gods.
-Equip to pledge oneself to the Mound-makers covenant.
-
-The mound-makers wish only to add to their mounds,
-becoming mad spirits whether summoned
-as co-operators or invaders.
-
-They are blithe to those around them, for in their minds,
-any kill might lead to another shackle.</text>
-<text id="10060">Pale blue sheepskin parchment featuring
-an illustration of the moon,
-symbol of an ancient accord.
-
-Members of the Way of Blue are
-the beneficiaries of an ancient accord.
-When a dark spirit threatens them,
-a blue spirit will grant them assistance,
-and help to root out the invader.
-
-Summoning takes place automatically
-while this is equipped.</text>
-<text id="10070">Faded sheepskin parchment depicting
-the Darkmoon and a sword.
-Equip to pledge oneself to the Blue Sentinels covenant.
-
-When a member of the Way of Blue is
-threatened by a dark spirit,
-the Blue Sentinels, in compliance with an ancient accord,
-assume the form of blue spirits,
-and help to root out the invader.
-
-Summoning takes place automatically
-while this is equipped.</text>
-<text id="10080">Sacred seal of Archdeacon Klimt,
-who served Rosaria, Mother of Rebirth.
-Equip to pledge oneself to the Rosaria's Fingers covenant.
-
-Rosaria's Fingers collect tongues in her name.
-Some do it to be reborn;
-others do it to help comfort their voiceless goddess.</text>
-<text id="10090">A green-rusted ornament of young grass,
-the crest of Princess Filianore.
-Equip to join the Spears of the Church covenant.
-
-The Spears of the Church watch over the Princess' slumber,
-and when the church is compromised by a trespasser,
-the Judicator summons them
-as loyal spirits to eliminate the threat
-(summoned automatically while this is equipped).
-
-Loyal spirits summoned as Spears of the Church
-are granted a blessing of protection.</text>
 <text id="20000">A generations-old ring set with a small red jewel.
 Raises maximum HP.
 
@@ -228,15 +133,6 @@ have pierced scales made of stone.</text>
 Velka, the Goddess of Sin.
 
 Its wearer will lose nothing upon death,
-but the ring itself breaks.
-
-A sacrifice is only worth as much as the life it spares.</text>
-<text id="20220">This mystical ring was created in a sacrificial rite of
-Velka, the Goddess of Sin.
-This magenta-shaded ring is especially rare.
-
-Its wearer will lose nothing upon death,
-and will be freed from any curse whatsoever,
 but the ring itself breaks.
 
 A sacrifice is only worth as much as the life it spares.</text>
@@ -506,15 +402,6 @@ Retain human appearance while Hollow.
 The Hollows of Londor are wretchedly aged,
 fraught with deceit, and dubiously secretive.
 It is no wonder that they are deeply detested.</text>
-<text id="20570">Ring of Sir Yorgh, who sought the blood
-f a dragon and invaded Shulva.
-Can deflect spells.
-
-When Sir Yorgh faced Sinh, the slumbering dragon,
-he drew blood with a flash of his steel,
-but Sinh responded by spewing forth
-the poison that had long brewed within him,
-blanketing the city in a miasmic cloud.</text>
 <text id="20580">Ring bestowed upon the Fingers of Rosaria,
 invaders who seek tongues for their goddess.
 
@@ -661,4 +548,73 @@ Increases frost resistance.
 
 This ring would never grace Friede's hand,
 for the painting and its frost became her home.</text>
+<text id="20220">This mystical ring was created in a sacrificial rite of
+Velka, the Goddess of Sin.
+This magenta-shaded ring is especially rare.
+
+Its wearer will lose nothing upon death,
+and will be freed from any curse whatsoever,
+but the ring itself breaks.
+
+A sacrifice is only worth as much as the life it spares.</text>
+<text id="20570">Ring of Sir Yorgh, who sought the blood
+of a dragon and invaded Shulva.
+Can deflect spells.
+
+When Sir Yorgh faced Sinh, the slumbering dragon,
+he drew blood with a flash of his steel,
+but Sinh responded by spewing forth
+the poison that had long brewed within him,
+blanketing the city in a miasmic cloud.</text>
+<text id="20690">Masks one's presence from adversaries.
+Hides the wearer from Dark Spirits at a distance.
+
+The wearer's presence is obscured,
+concealing their very existence from invaders of that world.
+However, if permitted to get close, the effect will fade.</text>
+<text id="20760">Wearer's will to fight is converted into strength.
+Boosts defense,
+as long as attacking persists.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few.</text>
+<text id="20770">Wearer's will to fight is converted into strength.
+Boosts stamina recovery speed,
+as long as attacking persists.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few.</text>
+<text id="20780">Wearer's will to fight is converted into strength.
+Boosts spells,
+as long as attacking persists.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few.</text>
+<text id="20800">Wearer's will to fight is converted into strength.
+Recovers FP with successive attacks.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few.</text>
+<text id="20810">Wearer's will to fight is converted into strength.
+Adds extra damage with successive attacks.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few.</text>
+<text id="20820">Wearer's will to fight is converted into strength.
+Increases drop rate with successive attacks.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few.</text>
 </entries>

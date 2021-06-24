@@ -111,13 +111,6 @@ There is a grave in Lothric that sees no visitors,
 a dark place where rootless warriors rest.
 The Queen of Lothric alone cared
 to wish the poor souls good fortune.</text>
-<text id="242">Silver pendant engraved with the crest of Artorias.
-
-One of the ancient treasures of Anor Londo.
-Presented to Artorias for facing the Abyss.
-
-Effectively deflects the Dark of the Abyss,
-especially in its magic forms.</text>
 <text id="260">Green weed, shaped like a flower.
 Temporary boost to stamina recovery speed.
 
@@ -186,16 +179,6 @@ and slows stamina recovery.
 
 Weapons imbued with frost are a rare thing indeed,
 most of them originating in the Boreal Valley.</text>
-<text id="277">A blessed charm. Cures poison and restores HP.
-
-Many such charms were blessed in
-reconstructed ancient ceremonies,
-carried out in the monastery of Lindelt,
-now known as the new home of miracles.
-
-Though it may lack the power of an original,
-in circumstances dire enough,
-an imitation can be quite enough.</text>
 <text id="280">Lightly enchanted golden powder.
 
 Repairs equipped weapons and armor,
@@ -270,14 +253,6 @@ but were once hunters of dragons themselves.
 
 This explains their special hunting gear,
 and why they worshipped the sun.</text>
-<text id="301">An urn filled with crystal-clear water.
-Originally intended as a soothing potion,
-this water scalds the skin of Undead and Hollows.
-
-In the old capital of Mirrah, an ancient,
-well-protected spring produces holy water,
-but the water has been difficult to acquire
-ever since Mirrah became embroiled in war.</text>
 <text id="302">Black bisque urn attached to a string and
 filled with black powder.
 Thrown behind and explodes, inflicting fire damage.
@@ -695,48 +670,12 @@ and their seeds unmask invaders.
 
 When used effectively,
 these seeds will help counter dark spirits.</text>
-<text id="441">Online play item.
-Purple crystal inhabited by spirits.
-
-Spirits soar to seek enemies from other worlds,
-conforming to the target's color.
-
-Can be used three times,
-then regenerated with rest at a bonfire.
-What stuff is it that in the purple crystal resides?
-Perhaps cinders of Undead, sacrificed to the bonfire.
-Or perhaps the vengeful spirits of those
-who fell to foes from distant worlds.</text>
-<text id="450">A blue berry emitting a faint magic.
-Temporarily boosts magic/fire defence.
-
-When the magic contained in
-the berry permeates the body,
-it protects the user from magic and fire.</text>
-<text id="451">A yellow berry emitting a faint magic.
-Temporarily boosts dark/lightning defence.
-
-When the magic contained in
-the berry permeates the body, 
-it protects the user from dark and lightning.</text>
 <text id="452">A small clump of mossfruit.
 
 Temporarily boosts bleed, poison, frost, and curse resistance.
 
 All mossfruit is the same regardless of its color,
 and has the effects of moss of all colors.</text>
-<text id="453">A tiny bug that produces light.
-Brightbugs are said to comfort the dead,
-and are found in the marshlands
-leading to the Undead Crypt.
-
-By ingesting a brightbug just before death,
-the moment at which they glow most brightly,
-one attains great power for a short time.
-Often utilized as a last-resort for
-adventurers who have lost their way.
-
-Has no effect in other worlds or for phantoms.</text>
 <text id="454">A young white branch.
 
 Use to transform into something
@@ -841,12 +780,6 @@ the summoning signs of Unkindled become visible,
 and seekers of embers can be summoned
 to join in co-operation.
 But beware, the embers may also attract invaders.</text>
-<text id="501">Offering an ember to a body without flame
-increases HP as well as abilities.
-
-What remains of an ashen hero
-once the fire has gone out?
-Honor or ruin?</text>
 <text id="520">A strange head of unknown origin carved from archtree.
 It speaks when thrown on the ground.
 
@@ -1091,14 +1024,6 @@ Reinforces weapons to their highest level.
 Titanite slabs are smithing materials of the gods,
 and weapons reinforced with slabs will be admired
 no less than their precious legendary weapons.</text>
-<text id="1010">Dragon scale for reinforcing dragon weapons.
-Peeled from an ancient dragon.
-
-A dragon is inseparable from its scales,
-and the transcendent apostles,
-who seek the perpetuity of the ancient dragons,
-have crossed the very end of the earth
-to seek this invaluable treasure.</text>
 <text id="1020">Titanite altered by a soul.
 Reinforces soul-transposed weapons to +4.
 
@@ -1240,19 +1165,6 @@ to the deepest dungeon in Lothric.
 A surviving Darkwraith,
 from the land swallowed by darkness,
 is said to be held there.</text>
-<text id="2003">Key to the inner part of the bridge.
-
-Beyond the great bridge that couldn't possibly
-have been made by human hand,
-hides a mystery that has yet to be discovered.
-Some say that the realm of God awaits, but others…</text>
-<text id="2004">Crest opening the way to Fort Faran,
-home to the Undead Corps.
-
-Passed down to cursed undead warriors,
-the stench of death still lingers.
-
-Perhaps Freise of Vinheim will have some use for it…</text>
 <text id="2005">Small silverwork doll depicting a young squire.
 
 In the legendary old city of Irithyll
@@ -1316,14 +1228,6 @@ the Grand Archives closed its doors for good.
 Today, only a few of its keys remain.
 This one likely belonged to Gotthard,
 one of the king's Black Hands, who fled the castle.</text>
-<text id="2101">Sinister vessel made from the skull of a noble king.
-
-Placed on the altar within the catacombs,
-but its origins are unclear.
-
-An ominous air emits from the chalice,
-gripping the hearts of those who peer at it
-as if determined to drag them to the world of the dead.</text>
 <text id="2102">Small banner held by Lothric messengers.
 
 Hold up outside the main castle gate
@@ -1455,15 +1359,6 @@ Give to a storyteller to learn Lothric miracles.
 It is said that no paladin
 inside Lothric castle could fall,
 owing to the divine protection they enjoyed.</text>
-<text id="2121">A sacred braille tome of sunlight,
-written for warriors of the sun covenant.
-
-Give it to a storyteller to learn sun miracles.
-
-Knights of the sunlight covenant are brilliantly
-beaming co-operators who volley lightning,
-and hand out medals before
-disappearing into the sunset.</text>
 <text id="2123">Cinders of a lord left by the Abyss Watchers.
 
 If the lords will not return
@@ -1768,15 +1663,6 @@ The Princess' knights proudly displayed
 these precious favors,
 which were most often seen swaying
 from their identical ceremonial spears.</text>
-<text id="620">Proof of a pact, employed by the Judicator Giant.
-Briefly summons the eccentric Silver Knight Ledo.
-
-Most bound by the Judicator's pact are
-not willing but rather impelled.
-Yet a rare few are linked to the giant by mutual friendship.
-
-This is a precious corroboration of such amiability,
-and the only one that manifested in physical form.</text>
 <text id="650">Online play item.
 A fragment of the matching ritual spears
 once held by the knights of Princess Filianore.
@@ -1869,4 +1755,230 @@ after a battle well-fought,
 and is said to slightly enhance
 their blessing of protection.
 (while held, this effect is constant)</text>
+<text id="10000">A silver pendant depicting the Darkmoon and a sword,
+the crest of the Darkmoon Knights,
+the original Blue Sentinels.
+Equip to pledge oneself to
+the Blade of the Darkmoon covenant.
+
+When a member of the Way of Blue faces a dark spirit,
+the Blades of the Darkmoon,
+by an ancient accord,
+help to root out the invader.
+Summoning takes place automatically when equipped.</text>
+<text id="10020">Ancient medallion depicting the crest of a wolf.
+Symbolizes the pact with the Old Wolf of Farron.
+Equip to pledge oneself to the Watchdogs of Farron.
+
+The Watchdogs ensure that the warriors sleep in serenity,
+by taking the form of loyal spirits and hunting down
+those who would trespass the woods of Farron.
+
+Summoning takes place automatically
+while this is equipped.</text>
+<text id="10030">The holy symbol of the Cathedral of the Deep,
+and crest of those who see beyond fire
+to the age of deep waters.
+Equip to pledge oneself to the Aldrich Faithful covenant.
+
+The Faithful ensure that Aldrich, Devourer of Gods,
+remains undisturbed, by taking the form of loyal spirits
+and hunting down those who
+would trespass the ruined cathedral.
+
+Summoning takes place automatically
+while this is equipped.</text>
+<text id="10040">An ancient talisman depicting a holy symbol
+bestowed upon the Warriors of Sunlight.
+Equip to pledge oneself to the Warrior of Sunlight covenant.
+
+Warriors of Sunlight are brilliantly beaming co-operators
+who place their golden signatures to help those in need,
+for it is their duty to deliver
+a great conquest to their summoner.</text>
+<text id="10050">A malformed vertebra found by the mad,
+with a queer symbol on its inside,
+proof of the shackles of the Gods.
+Equip to pledge oneself to the Mound-makers covenant.
+
+The mound-makers wish only to add to their mounds,
+becoming mad spirits whether summoned
+as co-operators or invaders.
+
+They are blithe to those around them, for in their minds,
+any kill might lead to another shackle.</text>
+<text id="10060">Pale blue sheepskin parchment featuring
+an illustration of the moon,
+symbol of an ancient accord.
+
+Members of the Way of Blue are
+the beneficiaries of an ancient accord.
+When a dark spirit threatens them,
+a blue spirit will grant them assistance,
+and help to root out the invader.
+
+Summoning takes place automatically
+while this is equipped.</text>
+<text id="10070">Faded sheepskin parchment depicting
+the Darkmoon and a sword.
+Equip to pledge oneself to the Blue Sentinels covenant.
+
+When a member of the Way of Blue is
+threatened by a dark spirit,
+the Blue Sentinels, in compliance with an ancient accord,
+assume the form of blue spirits,
+and help to root out the invader.
+
+Summoning takes place automatically
+while this is equipped.</text>
+<text id="10080">Sacred seal of Archdeacon Klimt,
+who served Rosaria, Mother of Rebirth.
+Equip to pledge oneself to the Rosaria's Fingers covenant.
+
+Rosaria's Fingers collect tongues in her name.
+Some do it to be reborn;
+others do it to help comfort their voiceless goddess.</text>
+<text id="10090">A green-rusted ornament of young grass,
+the crest of Princess Filianore.
+Equip to join the Spears of the Church covenant.
+
+The Spears of the Church watch over the Princess' slumber,
+and when the church is compromised by a trespasser,
+the Judicator summons them
+as loyal spirits to eliminate the threat
+(summoned automatically while this is equipped).
+
+Loyal spirits summoned as Spears of the Church
+are granted a blessing of protection.</text>
+<text id="242">Silver pendant engraved with the crest of Artorias.
+
+One of the ancient treasures of Anor Londo.
+Presented to Artorias for facing the Abyss.
+
+Effectively deflects the Dark of the Abyss,
+especially in its magic forms.</text>
+<text id="277">A blessed charm. Cures poison and restores HP.
+
+Many such charms were blessed in
+reconstructed ancient ceremonies,
+carried out in the monastery of Lindelt,
+now known as the new home of miracles.
+
+Though it may lack the power of an original,
+in circumstances dire enough,
+an imitation can be quite enough.</text>
+<text id="301">An urn filled with crystal-clear water.
+Originally intended as a soothing potion,
+this water scalds the skin of Undead and Hollows.
+
+In the old capital of Mirrah, an ancient,
+well-protected spring produces holy water,
+but the water has been difficult to acquire
+ever since Mirrah became embroiled in war.</text>
+<text id="376">This faintly warm medal,
+engraved with the symbol of the Sun,
+is the ultimate honor,
+awarded to shoe who summon
+the Warrior of Sunlight and complete a goal.
+
+The symbol represents Lord Gwyn's firstborn,
+who lost his deity status and
+was expunged from the annals.
+But the old God of War still
+watches closely over his warriors.</text>
+<text id="441">Online play item.
+Purple crystal inhabited by spirits.
+
+Spirits soar to seek enemies from other worlds,
+conforming to the target's color.
+
+Can be used three times,
+then regenerated with rest at a bonfire.
+What stuff is it that in the purple crystal resides?
+Perhaps cinders of Undead, sacrificed to the bonfire.
+Or perhaps the vengeful spirits of those
+who fell to foes from distant worlds.</text>
+<text id="450">A blue berry emitting a faint magic.
+Temporarily boosts magic/fire defence.
+
+When the magic contained in
+the berry permeates the body,
+it protects the user from magic and fire.</text>
+<text id="451">A yellow berry emitting a faint magic.
+Temporarily boosts dark/lightning defence.
+
+When the magic contained in
+the berry permeates the body, 
+it protects the user from dark and lightning.</text>
+<text id="453">A tiny bug that produces light.
+Brightbugs are said to comfort the dead,
+and are found in the marshlands
+leading to the Undead Crypt.
+
+By ingesting a brightbug just before death,
+the moment at which they glow most brightly,
+one attains great power for a short time.
+Often utilized as a last-resort for
+adventurers who have lost their way.
+
+Has no effect in other worlds or for phantoms.</text>
+<text id="501">Offering an ember to a body without flame
+increases HP as well as abilities.
+
+What remains of an ashen hero
+once the fire has gone out?
+Honor or ruin?</text>
+<text id="1010">Dragon scale for reinforcing dragon weapons.
+Peeled from an ancient dragon.
+
+A dragon is inseparable from its scales,
+and the transcendent apostles,
+who seek the perpetuity of the ancient dragons,
+have crossed the very end of the earth
+to seek this invaluable treasure.</text>
+<text id="2003">Key to the inner part of the bridge.
+
+Beyond the great bridge that couldn't possibly
+have been made by human hand,
+hides a mystery that has yet to be discovered.
+Some say that the realm of God awaits, but others…</text>
+<text id="2004">Crest opening the way to Fort Faran,
+home to the Undead Corps.
+
+Passed down to cursed undead warriors,
+the stench of death still lingers.
+
+Perhaps Freise of Vinheim will have some use for it…</text>
+<text id="2101">Sinister vessel made from the skull of a noble king.
+
+Placed on the altar within the catacombs,
+but its origins are unclear.
+
+An ominous air emits from the chalice,
+gripping the hearts of those who peer at it
+as if determined to drag them to the world of the dead.</text>
+<text id="2121">A sacred braille tome of sunlight,
+written for warriors of the sun covenant.
+
+Give it to a storyteller to learn sun miracles.
+
+Knights of the sunlight covenant are brilliantly
+beaming co-operators who volley lightning,
+and hand out medals before
+disappearing into the sunset.</text>
+<text id="2136">Ruined finger of Dark Sun Gwyndolin.
+
+The young crossbreed girl loved her brother,
+of whom all that remains is this ruined finger.
+
+Even so, her love for him will never falter…</text>
+<text id="620">Proof of a pact, employed by the Judicator Giant.
+Briefly summons the eccentric Silver Knight Ledo.
+
+Most bound by the Judicator's pact are
+not willing but rather impelled.
+Yet a rare few are linked to the giant by mutual friendship.
+
+This is a precious corroboration of such amiability,
+and the only one that manifested in physical form.</text>
 </entries>

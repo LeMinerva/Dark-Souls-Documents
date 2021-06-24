@@ -57,7 +57,6 @@ humanity, and volley the result</text>
 <text id="5050">Gradual HP restoration for self and vicinity</text>
 <text id="5100">Gravelord swords jut out in vicinity</text>
 <text id="5110">Giant Gravelord swords jut out in vicinity</text>
-<text id="5200">While active, no losses incurred upon death</text>
 <text id="5210">Return to last bonfire used for resting</text>
 <text id="5300">Create shockwave</text>
 <text id="5310">Create powerful shockwave</text>
@@ -73,4 +72,5 @@ humanity, and volley the result</text>
 <text id="5810">Prevents casting of magic within effect area</text>
 <text id="5900">Boost right weapon with rays of Sun</text>
 <text id="5910">Boost right weapon with rays of Darkmoon</text>
+<text id="5200">While active, no losses incurred upon death</text>
 </entries>

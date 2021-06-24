@@ -170,7 +170,6 @@
 <text id="3430000">密探钩爪</text>
 <text id="3440000">作业挂勾</text>
 <text id="3500000">护手带</text>
-<text id="3510000">##黑影钩爪</text>
 <text id="3530000">骨拳套</text>
 <text id="3600000">软鞭</text>
 <text id="3610000">荆棘软鞭</text>
@@ -334,12 +333,9 @@
 <text id="60810000">暗箭</text>
 <text id="60820000">毒箭</text>
 <text id="60830000">撕裂箭</text>
-<text id="60840000">##木制大箭</text>
 <text id="60850000">铁制大箭</text>
-<text id="60860000">##法术大箭</text>
 <text id="60870000">雷之大箭</text>
 <text id="60880000">火之大箭</text>
-<text id="60890000">##暗之大箭</text>
 <text id="60900000">破坏大箭</text>
 <text id="60910000">木弩箭</text>
 <text id="60920000">重弩箭</text>
@@ -347,6 +343,10 @@
 <text id="60940000">雷弩箭</text>
 <text id="60950000">火弩箭</text>
 <text id="60960000">暗弩箭</text>
+<text id="3510000">##黑影钩爪</text>
+<text id="60840000">##木制大箭</text>
+<text id="60860000">##法术大箭</text>
+<text id="60890000">##暗之大箭</text>
 <text id="900008400">##匕首</text>
 <text id="900008401">##王之短刀</text>
 <text id="900008402">##长剑</text>
@@ -374,4 +374,5 @@
 <text id="900008424">##混种大剑</text>
 <text id="900008425">##骑士大剑</text>
 <text id="900008426">##审判者之刃</text>
+<text id="900008432">##荣华大剑</text>
 </entries>

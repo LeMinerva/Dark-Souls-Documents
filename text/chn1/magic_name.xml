@@ -56,7 +56,6 @@
 <text id="5050">阳光滋润</text>
 <text id="5100">墓王剑舞</text>
 <text id="5110">墓王大剑舞</text>
-<text id="5200">##回避死亡</text>
 <text id="5210">归乡路</text>
 <text id="5300">原力</text>
 <text id="5310">诸神之怒</text>
@@ -72,4 +71,5 @@
 <text id="5810">沉默禁令</text>
 <text id="5900">阳光之剑</text>
 <text id="5910">暗月光之剑</text>
+<text id="5200">##回避死亡</text>
 </entries>

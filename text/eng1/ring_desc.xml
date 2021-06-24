@@ -184,20 +184,6 @@ warm ring boosts the synergy of miracles.
 The Princess of Sunlight Gwynevere left
 Anor Londo along with many other deities,
 and later became wife to Flame God Flann.</text>
-<text id="133">This black diamond ring is granted to those
-who enter a Covenant with Velka, the Goddess
-of Sin. It automatically counterattacks when
-its wearer inflicts sustained damage.
-
-Velka the Goddess of Sin is an eccentric
-witch versed in various secret rites.</text>
-<text id="134">This ring belonged to the seal guardian
-of New Londo. It prevents its wearer's
-discovery by cursed ghosts.
-
-There were once three guardians of the seal,
-but two of them tired of their eternal task,
-and left New Londo long ago.</text>
 <text id="137">Old ring from an old witch.
 
 Engraved minutely with indecipherable
@@ -215,13 +201,6 @@ from birth, his witch sisters gave him
 this special ring. But fool that he is,
 he readily dropped it, and from that spot,
 a terrible centipede demon was born.</text>
-<text id="140">The ring of a lost miracle of New Londo.
-This ring takes damage in place of its
-wearer, but has a fixed chance of breaking.
-
-As evidenced by this ring, the culture of
-New Londo was unique, and its flooding
-is widely considered to be a great loss.</text>
 <text id="141">A special ring granted to only the most
 accomplished sorcerers at Vinheim Dragon
 School.
@@ -289,4 +268,25 @@ Doubles damage received by its wearer.
 
 A useless ring befitting of no finger.
 Best left unknown, or at least well hidden.</text>
+<text id="133">This black diamond ring is granted to those
+who enter a Covenant with Velka, the Goddess
+of Sin. It automatically counterattacks when
+its wearer inflicts sustained damage.
+
+Velka the Goddess of Sin is an eccentric
+witch versed in various secret rites.</text>
+<text id="134">This ring belonged to the seal guardian
+of New Londo. It prevents its wearer's
+discovery by cursed ghosts.
+
+There were once three guardians of the seal,
+but two of them tired of their eternal task,
+and left New Londo long ago.</text>
+<text id="140">The ring of a lost miracle of New Londo.
+This ring takes damage in place of its
+wearer, but has a fixed chance of breaking.
+
+As evidenced by this ring, the culture of
+New Londo was unique, and its flooding
+is widely considered to be a great loss.</text>
 </entries>

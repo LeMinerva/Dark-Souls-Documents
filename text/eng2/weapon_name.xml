@@ -170,7 +170,6 @@
 <text id="3430000">Manikin Claws</text>
 <text id="3440000">Work Hook</text>
 <text id="3500000">Caestus</text>
-<text id="3510000">##Shadow Claws</text>
 <text id="3530000">Bone Fist</text>
 <text id="3600000">Whip</text>
 <text id="3610000">Notched Whip</text>
@@ -334,12 +333,9 @@
 <text id="60810000">Dark Arrow</text>
 <text id="60820000">Poison Arrow</text>
 <text id="60830000">Lacerating Arrow</text>
-<text id="60840000">##Wooden Greatarrow</text>
 <text id="60850000">Iron Greatarrow</text>
-<text id="60860000">##Magic Greatarrow</text>
 <text id="60870000">Lightning Greatarrow</text>
 <text id="60880000">Fire Greatarrow</text>
-<text id="60890000">##Dark Greatarrow</text>
 <text id="60900000">Destructive Greatarrow</text>
 <text id="60910000">Wood Bolt</text>
 <text id="60920000">Heavy Bolt</text>
@@ -347,6 +343,10 @@
 <text id="60940000">Lightning Bolt</text>
 <text id="60950000">Fire Bolt</text>
 <text id="60960000">Dark Bolt</text>
+<text id="3510000">##Shadow Claws</text>
+<text id="60840000">##Wooden Greatarrow</text>
+<text id="60860000">##Magic Greatarrow</text>
+<text id="60890000">##Dark Greatarrow</text>
 <text id="900008400">##Dagger</text>
 <text id="900008401">##Royal Dirk</text>
 <text id="900008402">##Longsword</text>
@@ -374,4 +374,5 @@
 <text id="900008424">##Bastard Sword</text>
 <text id="900008425">##Knight's Greatsword</text>
 <text id="900008426">##Inquisitor's Blade</text>
+<text id="900008432">##Majestic Greatsword</text>
 </entries>

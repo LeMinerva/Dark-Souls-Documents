@@ -1,117 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="400000">Standard arrows used with bows.
-
-Simultaneously equip up to two types of arrows,
-and switch between them as needed.</text>
-<text id="400100">Shoot arrows with burning tips dealing fire damage.
-
-Simultaneously equip up to two types of arrows,
-and switch between them as needed.</text>
-<text id="400200">Arrows with poisoned tips.
-
-Inflict poison damage that gradually wears down foes.</text>
-<text id="400300">Large, more powerful arrows
-with a shorter range due to their weight.
-
-Simultaneously equip up to two types of arrows,
-and switch between them as needed.</text>
-<text id="400400">Red feathered arrows used by hunters.
-Their long range makes them ideal for distant targets.
-
-Simultaneously equip up to two types of arrows,
-and switch between them as needed.</text>
-<text id="400500">Magical arrows said to have
-been used by the Darkmoon Knights.
-Imbued with a silver light,
-these arrows inflict magic damage.
-
-It is said that long ago the God of the
-Darkmoon Gwyndolin wielded these arrows
-with a matching golden bow.</text>
-<text id="400600">Inexpensive wooden arrows.
-Weaker arrows that can be easily purchased in bulk.
-
-Simultaneously equip up to two types of arrows,
-and switch between them as needed.</text>
-<text id="400700">Ritual arrows said to have been used by savage hunters.
-Inflict dark damage.
-
-It is said that these arrows
-scrape out death from their targets,
-but savages are known to tell tall tales.</text>
-<text id="402000">Large spear-like arrows created by
-the giant blacksmith of the gods.
-
-Can only be used with greatbows.
-
-These large arrows were said to have been used
-by dragon hunters during the age of the gods.
-Easily pierces human flesh.</text>
-<text id="402200">Large spear-like arrows enveloped in lightning
-created by the giant blacksmith of the gods.
-
-Can only be used with greatbows.
-
-Lightning has been a weapon of dragonslayers
-ever since the time of Gwyn, the First Lord.</text>
-<text id="402300">Large arrows used to destroy
-giant horned oni in an eastern land.
-
-Can only be used with greatbows.
-
-Made from the feathers of an aged crow,
-it is said that these arrows fly as straight as their master.</text>
-<text id="402400">Heavy, sturdy greatarrows made of black oak
-that deal heavy damage but have limited range.
-
-Can only be fired using a greatbow.
-
-It is said that the Millwood Knights used these
-to face their sworn enemy,
-the Abyss Dragon.</text>
-<text id="404000">Standard bolts used with crossbows.
-
-Simultaneously equip up to two types of bolts,
-and switch between them as needed.</text>
-<text id="404100">Large, more powerful bolts with
-a shorter range due to their weight.
-
-Simultaneously equip up to two types of bolts,
-and switch between them as needed.</text>
-<text id="404200">Red feathered bolts used by snipers of Carim.
-Their long range makes them ideal for distant targets.
-
-Though typically used with Sniper Crossbows in Carim,
-these arrows can still be used with any kind of crossbow.</text>
-<text id="404300">Inexpensive wooden bolts.
-Weaker bolts that can be easily purchased in bulk.
-
-Simultaneously equip up to two types of bolts,
-and switch between them as needed.</text>
-<text id="404400">Bolts imbued with lightning created
-by the giant blacksmith of the gods.
-
-However, the gods never used crossbows.
-These bolts are likely artifacts of the dragonless era,
-when the pact between gods and humans was upheld.</text>
-<text id="404500">Bolts that explode immediately after being shot.
-
-Makes unusual shots possible,
-and releases splinters that cause immense bleeding.
-
-These are, after all,
-prototypes created by the weapon craftsman Edmond.
-You get what you pay for.</text>
-<text id="404600">Bolts that explode on impact.
-Deals area fire damage in the immediate vicinity.
-
-Due to the risk of detonation,
-the amount of bolts the user can carry is greatly limited.
-
-These are, after all,
-prototypes created by the weapon craftsman Edmond.
-You get what you pay for.</text>
 <text id="1000000">Standard small dagger.
 
 Small daggers lack power or reach,
@@ -152,14 +40,6 @@ making it acutely poisonous.
 Skill: Quickstep
 Instantly step behind or around the side of foes.
 Especially effective when locked on to target.</text>
-<text id="1050000">Dagger used by citizens of the Undead Commune.
-
-The inner blade is lined with fish hook-like barbs,
-maximising fatality when tangled in the target.
-
-It is rumoured that this weapon had
-some sort of ritualistic use,
-but the truth is unknown.</text>
 <text id="1060000">The large sickle-shaped body,
 used for severing corpses,
 is a worker's tool in the Undead Settlement.
@@ -978,12 +858,6 @@ but Creighton used it to slay men.
 
 Skill: Warcry
 Let out a spirited warcry that temporarily boosts attack.</text>
-<text id="7090000">Axe used by the missionaries who endeavored
-to propagate the Undead Commune,
-as well as its surrounding lands.
-
-The only salvation they offer is death,
-and any who disobey their teachings will be broken in two.</text>
 <text id="7100000">Small hand axe used by Lothric slaves.
 
 A cunning weapon for a cunning lot,
@@ -1141,11 +1015,6 @@ Skill: Molten Perseverance
 Anchor weapon in earth to temporarily boost poise,
 and use strong attack to repeatedly stab earth
 to trigger molten explosions.</text>
-<text id="8210000">Hammer of the Four Knights, writhing in dark.
-
-This hammer was made for battle using a mysterious metal,
-its sharp edge capable of piercing shields and armor easily.
-Used to mercilessly crush enemies before one's eyes.</text>
 <text id="8220000">Choice weapon of Yellowfinger Heysel,
 a Finger of Rosaria and xanthous scholar.
 
@@ -1154,15 +1023,6 @@ The gold specks are remnants of lost sorceries.
 
 Skill: Steady Chant
 For a short moment, boost the strength of sorceries. </text>
-<text id="8230000">Hammer crafted from the trunk of a great tree
-that has survived for an overwhelmingly long time.
-
-It was said that the old tree posessed thought,
-and became an object of worship for
-citizens of the Undead Commune.
-With a density and strength unthinkable for wood,
-it boasts power that can stand up
-against any metallic weapon.</text>
 <text id="8240000">A war hammer with a hard pronged head.
 Was originally a pickaxe, but was refitted for battle.
 
@@ -1394,12 +1254,6 @@ but its very length makes it unwieldy in certain situations.
 Skill: Charge
 Hold spear at waist and charge at foe.
 Use strong attack while charging to extend distance.</text>
-<text id="9210000">Four-pronged Plow wielded by the wooden
-scarecrows, serfs of the forest Sanctuary.
-
-The scarecrow serfs would not normally use
-these four-pronged plows as weapons, but
-their sharpness makes them very deadly.</text>
 <text id="9220000">Cross spear associated with Ornstein the Dragonslayer.
 A weapon of the gods imbued
 with the strength of lightning.
@@ -1508,21 +1362,6 @@ Skill: Champion's Charge
 Hold spear at waist and charge at foe,
 and use momentum to transition
 into sweeping strong attack.</text>
-<text id="10110000">Scythe born from the soul of Lothric.
-
-Forged for Prince Lothric,
-this weapon's blade is slightly elongated
-and boasts beautiful craftmanship.
-It has a sharp edge contains a hard alloy,
-and can rip through anything like paper.</text>
-<text id="10120000">Rare halberd supposedly made from
-part of an immortal dragon.
-
-The scarcity of the material is matched by its strength,
-and it will not falter when exchanging blows
-with any sort of weapon.
-The halberd's rarity has precipitated the giving
-and taking of countless lives.</text>
 <text id="10140000">Long-hilted weapon mixing spear and axe.
 The red-hilted halberd is associated with clerics.
 
@@ -1733,13 +1572,6 @@ Skill: Gentle Prayer
 Recovers HP for a period of time,
 albeit extremely slowly.
 Works while equipped in either hand.</text>
-<text id="13150000">Catalyst used by the sacred beasts that
-dwell deep within the forest.
-
-The beasts employed techniques from long ago,
-and their magical power has
-become instilled in this catalyst,
-increasing the potency of sorceries.</text>
 <text id="13160000">Crystal catalyst presented as a gift
 by the Crystal Sages to their favorite pupil, Kriemhild.
 
@@ -1916,32 +1748,6 @@ One of the most basic pyromancies,
 and for this very reason,
 the flame created is fierce.
 Works while equipped in either hand.</text>
-<text id="13450000">A flame catalyst used by pyromancers.
-Pyromancers rouse this flame to wield various fire arts.
-
-This flickering flame grows in power
-the closer one is to their target,
-intensifying the impact of a pyromancy.</text>
-<text id="13460000">A flame catalyst used by pyromancers.
-Pyromancers rouse this flame to wield various fire arts.
-
-This flickering flame grows in power
-the closer one is to their target,
-intensifying the impact of a pyromancy.</text>
-<text id="13500000">A flame catalyst used by pyromancers.
-Pyromancers rouse this flame to wield various fire arts.
-
-This dark, stagnant flame follows a system that
-differs from ordinary techniques.
-The effects of this are manifested in full
-when used with dark pyromancies.</text>
-<text id="13510000">A flame catalyst used by pyromancers.
-Pyromancers rouse this flame to wield various fire arts.
-
-This dark, stagnant flame follows a system that
-differs from ordinary techniques.
-The effects of this are manifested in full
-when used with dark pyromancies.</text>
 <text id="13600000">Greatbow used by the Dragonslayers
 during the age of gods.
 Far greater in size than any normal bow,
@@ -2158,16 +1964,6 @@ Skill: Spin Slash
 Slice into foes with a large spinning motion,
 and use strong attack to lengthen attack and
 end with a double-bladed thrust.</text>
-<text id="16080000">A pair of characteristic curved swords,
-each serving a distinct purpose.
-
-The right is embedded with thorns,
-designed to wound and wither the opponent.
-During that instant,
-the left is used to finish them
-with its superior cutting ability.
-A deadly onslaught with this weapon
-will strike fear into one's enemies.</text>
 <text id="16090000">The hunters known as the King's Black Hands
 wielded paired weapons.
 These belonged to Kamui,
@@ -2409,13 +2205,6 @@ Skill: Parry
 Repel an attack at the right time to
 follow up with a critical hit.
 Works while equipped in either hand.</text>
-<text id="20260000">A parma used by clerics on pilgrimage.
-Enchanted with a somewhat fragile blessing that
-allows spells to be deflected by parrying.
-
-Unfortunately,
-the shield provides very little physical defense,
-and is more of a lucky charm than a proper shield.</text>
 <text id="20270000">A metal shield fashioned in the form
 of a falcon with wings outstretched.
 
@@ -2506,10 +2295,6 @@ but their shields became highly resistant to fire.
 Skill: Weapon Skill
 Equipping this shield in the left hand allows one
 to perform the Skill of the right hand weapon.</text>
-<text id="21110000">Shield favored by Prince Lothric's brother and protector.
-
-The prince, left mute and crippled by the curse,
-used this shield in order to protect his frail younger brother.</text>
 <text id="21120000">Heavy shield carried by the Silver Knights
 who served the old royal family.
 A flowing canal is chiseled deeply into its face.
@@ -2753,14 +2538,6 @@ Skill: Moan
 Offer a gentle prayer to the shield,
 causing the woman's face to give out
 a low moan and attract enemies.</text>
-<text id="22060000">Rare great shield supposedly made from
-part of an immortal dragon.
-
-The scarcity of the material is matched by its strength,
-and it will not falter when exchanging
-blows with any sort of weapon.
-The shield's rarity has precipitated
-the giving and taking of countless lives.</text>
 <text id="22070000">Greatshield used long ago by Yhorm the Giant.
 Increases the user's poise.
 
@@ -3286,4 +3063,227 @@ Skill: Dragon Roar
 Even the descendant of an Archdragon perishes not,
 and use of this skill restores its former strength,
 sending surrounding foes flying with a dragon roar.</text>
+<text id="400000">Standard arrows used with bows.
+
+Simultaneously equip up to two types of arrows,
+and switch between them as needed.</text>
+<text id="400100">Shoot arrows with burning tips dealing fire damage.
+
+Simultaneously equip up to two types of arrows,
+and switch between them as needed.</text>
+<text id="400200">Arrows with poisoned tips.
+
+Inflict poison damage that gradually wears down foes.</text>
+<text id="400300">Large, more powerful arrows
+with a shorter range due to their weight.
+
+Simultaneously equip up to two types of arrows,
+and switch between them as needed.</text>
+<text id="400400">Red feathered arrows used by hunters.
+Their long range makes them ideal for distant targets.
+
+Simultaneously equip up to two types of arrows,
+and switch between them as needed.</text>
+<text id="400500">Magical arrows said to have
+been used by the Darkmoon Knights.
+Imbued with a silver light,
+these arrows inflict magic damage.
+
+It is said that long ago the God of the
+Darkmoon Gwyndolin wielded these arrows
+with a matching golden bow.</text>
+<text id="400600">Inexpensive wooden arrows.
+Weaker arrows that can be easily purchased in bulk.
+
+Simultaneously equip up to two types of arrows,
+and switch between them as needed.</text>
+<text id="400700">Ritual arrows said to have been used by savage hunters.
+Inflict dark damage.
+
+It is said that these arrows
+scrape out death from their targets,
+but savages are known to tell tall tales.</text>
+<text id="402000">Large spear-like arrows created by
+the giant blacksmith of the gods.
+
+Can only be used with greatbows.
+
+These large arrows were said to have been used
+by dragon hunters during the age of the gods.
+Easily pierces human flesh.</text>
+<text id="402200">Large spear-like arrows enveloped in lightning
+created by the giant blacksmith of the gods.
+
+Can only be used with greatbows.
+
+Lightning has been a weapon of dragonslayers
+ever since the time of Gwyn, the First Lord.</text>
+<text id="402300">Large arrows used to destroy
+giant horned oni in an eastern land.
+
+Can only be used with greatbows.
+
+Made from the feathers of an aged crow,
+it is said that these arrows fly as straight as their master.</text>
+<text id="402400">Heavy, sturdy greatarrows made of black oak
+that deal heavy damage but have limited range.
+
+Can only be fired using a greatbow.
+
+It is said that the Millwood Knights used these
+to face their sworn enemy,
+the Abyss Dragon.</text>
+<text id="404000">Standard bolts used with crossbows.
+
+Simultaneously equip up to two types of bolts,
+and switch between them as needed.</text>
+<text id="404100">Large, more powerful bolts with
+a shorter range due to their weight.
+
+Simultaneously equip up to two types of bolts,
+and switch between them as needed.</text>
+<text id="404200">Red feathered bolts used by snipers of Carim.
+Their long range makes them ideal for distant targets.
+
+Though typically used with Sniper Crossbows in Carim,
+these arrows can still be used with any kind of crossbow.</text>
+<text id="404300">Inexpensive wooden bolts.
+Weaker bolts that can be easily purchased in bulk.
+
+Simultaneously equip up to two types of bolts,
+and switch between them as needed.</text>
+<text id="404400">Bolts imbued with lightning created
+by the giant blacksmith of the gods.
+
+However, the gods never used crossbows.
+These bolts are likely artifacts of the dragonless era,
+when the pact between gods and humans was upheld.</text>
+<text id="404500">Bolts that explode immediately after being shot.
+
+Makes unusual shots possible,
+and releases splinters that cause immense bleeding.
+
+These are, after all,
+prototypes created by the weapon craftsman Edmond.
+You get what you pay for.</text>
+<text id="404600">Bolts that explode on impact.
+Deals area fire damage in the immediate vicinity.
+
+Due to the risk of detonation,
+the amount of bolts the user can carry is greatly limited.
+
+These are, after all,
+prototypes created by the weapon craftsman Edmond.
+You get what you pay for.</text>
+<text id="1050000">Dagger used by citizens of the Undead Commune.
+
+The inner blade is lined with fish hook-like barbs,
+maximising fatality when tangled in the target.
+
+It is rumoured that this weapon had
+some sort of ritualistic use,
+but the truth is unknown.</text>
+<text id="7090000">Axe used by the missionaries who endeavored
+to propagate the Undead Commune,
+as well as its surrounding lands.
+
+The only salvation they offer is death,
+and any who disobey their teachings will be broken in two.</text>
+<text id="8210000">Hammer of the Four Knights, writhing in dark.
+
+This hammer was made for battle using a mysterious metal,
+its sharp edge capable of piercing shields and armor easily.
+Used to mercilessly crush enemies before one's eyes.</text>
+<text id="8230000">Hammer crafted from the trunk of a great tree
+that has survived for an overwhelmingly long time.
+
+It was said that the old tree posessed thought,
+and became an object of worship for
+citizens of the Undead Commune.
+With a density and strength unthinkable for wood,
+it boasts power that can stand up
+against any metallic weapon.</text>
+<text id="9210000">Four-pronged Plow wielded by the wooden
+scarecrows, serfs of the forest Sanctuary.
+
+The scarecrow serfs would not normally use
+these four-pronged plows as weapons, but
+their sharpness makes them very deadly.</text>
+<text id="10110000">Scythe born from the soul of Lothric.
+
+Forged for Prince Lothric,
+this weapon's blade is slightly elongated
+and boasts beautiful craftmanship.
+It has a sharp edge contains a hard alloy,
+and can rip through anything like paper.</text>
+<text id="10120000">Rare halberd supposedly made from
+part of an immortal dragon.
+
+The scarcity of the material is matched by its strength,
+and it will not falter when exchanging blows
+with any sort of weapon.
+The halberd's rarity has precipitated the giving
+and taking of countless lives.</text>
+<text id="13150000">Catalyst used by the sacred beasts that
+dwell deep within the forest.
+
+The beasts employed techniques from long ago,
+and their magical power has
+become instilled in this catalyst,
+increasing the potency of sorceries.</text>
+<text id="13450000">A flame catalyst used by pyromancers.
+Pyromancers rouse this flame to wield various fire arts.
+
+This flickering flame grows in power
+the closer one is to their target,
+intensifying the impact of a pyromancy.</text>
+<text id="13460000">A flame catalyst used by pyromancers.
+Pyromancers rouse this flame to wield various fire arts.
+
+This flickering flame grows in power
+the closer one is to their target,
+intensifying the impact of a pyromancy.</text>
+<text id="13500000">A flame catalyst used by pyromancers.
+Pyromancers rouse this flame to wield various fire arts.
+
+This dark, stagnant flame follows a system that
+differs from ordinary techniques.
+The effects of this are manifested in full
+when used with dark pyromancies.</text>
+<text id="13510000">A flame catalyst used by pyromancers.
+Pyromancers rouse this flame to wield various fire arts.
+
+This dark, stagnant flame follows a system that
+differs from ordinary techniques.
+The effects of this are manifested in full
+when used with dark pyromancies.</text>
+<text id="16080000">A pair of characteristic curved swords,
+each serving a distinct purpose.
+
+The right is embedded with thorns,
+designed to wound and wither the opponent.
+During that instant,
+the left is used to finish them
+with its superior cutting ability.
+A deadly onslaught with this weapon
+will strike fear into one's enemies.</text>
+<text id="20260000">A parma used by clerics on pilgrimage.
+Enchanted with a somewhat fragile blessing that
+allows spells to be deflected by parrying.
+
+Unfortunately,
+the shield provides very little physical defense,
+and is more of a lucky charm than a proper shield.</text>
+<text id="21110000">Shield favored by Prince Lothric's brother and protector.
+
+The prince, left mute and crippled by the curse,
+used this shield in order to protect his frail younger brother.</text>
+<text id="22060000">Rare great shield supposedly made from
+part of an immortal dragon.
+
+The scarcity of the material is matched by its strength,
+and it will not falter when exchanging
+blows with any sort of weapon.
+The shield's rarity has precipitated
+the giving and taking of countless lives.</text>
 </entries>

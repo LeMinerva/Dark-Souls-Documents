@@ -2,8 +2,6 @@
 <entries>
 <text id="50600000">兵之钥匙</text>
 <text id="50610000">王之回廊钥匙</text>
-<text id="50640000">##武器打铁箱</text>
-<text id="50650000">##防具打铁箱</text>
 <text id="50800000">牢门钥匙</text>
 <text id="50810000">熔铁钥匙</text>
 <text id="50820000">弃置钥匙</text>
@@ -61,7 +59,6 @@
 <text id="60190000">暗虫药丸</text>
 <text id="60200000">常见果实</text>
 <text id="60210000">红蛭药丸</text>
-<text id="60220000">##黄海蜇药丸</text>
 <text id="60230000">三眼蛇药丸</text>
 <text id="60235000">古树香油</text>
 <text id="60236000">藤蔓香油</text>
@@ -69,7 +66,6 @@
 <text id="60238000">黄果香油</text>
 <text id="60239000">光虫</text>
 <text id="60240000">芳香黏液</text>
-<text id="60245000">##浓香黏液</text>
 <text id="60250000">黄金松脂</text>
 <text id="60260000">焦炭松脂</text>
 <text id="60270000">黑暗松脂</text>
@@ -77,18 +73,13 @@
 <text id="60290000">出血液</text>
 <text id="60310000">绿花草</text>
 <text id="60320000">锈斑硬币</text>
-<text id="60330000">##罗伊的石头</text>
 <text id="60350000">返回骨片</text>
 <text id="60355000">艾斯登提亚羽毛</text>
 <text id="60360000">黑暗之环</text>
 <text id="60370000">银护符</text>
-<text id="60380000">##金护符</text>
-<text id="60390000">##诈死护符</text>
-<text id="60400000">##幻影护符</text>
 <text id="60405000">龙头石</text>
 <text id="60406000">龙体石</text>
 <text id="60410000">修理光粉</text>
-<text id="60420000">##火把</text>
 <text id="60430000">火蝶</text>
 <text id="60450000">七色石</text>
 <text id="60470000">人脸面具「你好啊」</text>
@@ -205,4 +196,14 @@
 <text id="64590000">王宠札连之魂</text>
 <text id="64600000">洛耶斯之魂</text>
 <text id="64610000">王宠拉铎之魂</text>
+<text id="50640000">##武器打铁箱</text>
+<text id="50650000">##防具打铁箱</text>
+<text id="60220000">##黄海蜇药丸</text>
+<text id="60245000">##浓香黏液</text>
+<text id="60330000">##罗伊的石头</text>
+<text id="60380000">##金护符</text>
+<text id="60390000">##诈死护符</text>
+<text id="60400000">##幻影护符</text>
+<text id="60420000">##火把</text>
+<text id="64620000">##「腐败」林格斯的灵魂</text>
 </entries>

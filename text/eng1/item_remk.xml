@@ -12,7 +12,6 @@
 <text id="113">Invade world of guilty player</text>
 <text id="114">Invade world of possessor of Dragon Scale</text>
 <text id="115">Invade world of murderer of Fire Keeper</text>
-<text id="116">Invade world of traitor Shiva</text>
 <text id="117">Lose humanity and souls, and return to bonfire</text>
 <text id="118">Exit Battle of Stoicism</text>
 <text id="200">Fill with Estus at bonfire. Heals HP.</text>
@@ -40,7 +39,6 @@
 <text id="330">Return to last bonfire rested at</text>
 <text id="370">Path marker. Drop and listen to check heights.</text>
 <text id="371">Use to peer at distant scenery</text>
-<text id="372">Annul a covenant without committing sin</text>
 <text id="373">Report trespass of invader</text>
 <text id="374">Souvenir taken for subduing the guilty</text>
 <text id="375">A badge of the ultimate honor</text>
@@ -124,7 +122,6 @@
 <text id="2012">Opens east iron bars of Undead Asylum F2</text>
 <text id="2013">Breaks seal on the floodgates of New Londo</text>
 <text id="2014">Opens door leading from lower Burg to Depths</text>
-<text id="2015">For lift in basement of Firelink Shrine</text>
 <text id="2016">Opens west iron bars of Undead Asylum F2</text>
 <text id="2017">Resembles a basic prison cell key</text>
 <text id="2018">Opens sewer chamber in Depths</text>
@@ -144,4 +141,7 @@
 <text id="2602">Tool for repairing weapons/armor at bonfire</text>
 <text id="2607">Rite which boosts bonfires even further</text>
 <text id="2608">Box allowing inventory management at bonfire</text>
+<text id="116">Invade world of traitor Shiva</text>
+<text id="372">Annul a covenant without committing sin</text>
+<text id="2015">For lift in basement of Firelink Shrine</text>
 </entries>

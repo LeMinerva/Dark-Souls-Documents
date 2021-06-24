@@ -16,16 +16,6 @@ purge the curse that threatened his kingdom.
 
 But when every last attempt failed,
 the King fled through the King's Passage.</text>
-<text id="50640000">Tool used to reinforce
-weapons.
-
-Rest at a bonfire to make
-weapon reinforcement possible.</text>
-<text id="50650000">Tool used to reinforce
-armor.
-
-Rest at a bonfire to make
-armor reinforcement possible.</text>
 <text id="50800000">Key to the cells of the Lost Bastille.
 
 Long ago, a bastille lord, driven to desperation
@@ -443,12 +433,6 @@ Temporarily boosts bleeding resist.
 Verbal histories often mention Saint Elizabeth;
 her uniquely concocted medicines and potions
 are still widely used today.</text>
-<text id="60220000">Troches with a strangely musty odor.
-Temporarily boosts equipment break resist.
-
-Verbal histories often mention Saint Elizabeth;
-her uniquely concocted medicines and potions
-are still widely used today.</text>
 <text id="60230000">Troches that exude the scent of rust.
 Temporarily boosts petrify resist.
 
@@ -490,14 +474,6 @@ Has no effect in other worlds or for phantoms.</text>
 <text id="60240000">A mysterious sticky substance that
 radiates a pale white light.
 Applies magic to right-hand weapon.
-
-The affected weapon inflicts magic damage
-for a short time. Particularly effective against
-heavily armored foes or creatures with
-thick scales.</text>
-<text id="60245000">A mysterious sticky substance that
-radiates a dim yellow light.
-Applies powerful magic to right-hand weapon.
 
 The affected weapon inflicts magic damage
 for a short time. Particularly effective against
@@ -550,12 +526,6 @@ easier to find.
 The coin is engraved with the image of a god
 that was worshipped in ancient times,
 but no one knows its true origins.</text>
-<text id="60340000">The beloved magic stone of Rhoy the Explorer.
-High chance of detecting treasure chest
-traps, indicated by a red light.
-
-There are more than a few men who take
-advantage of the undoing of others. Many more.</text>
 <text id="60350000">A white-ashen bone.
 Return to last bonfire rested at.
 
@@ -585,27 +555,6 @@ Use to transform into something to blend in.
 Use this talisman to hide from invaders.
 Only provides the most superficial camouflage,
 but sometimes that is enough to do the trick.</text>
-<text id="60380000">A tiny charm embedded with imitative magic.
-Use to transform into a treasure chest.
-
-Use this talisman to trick invaders.
-Only provides the most superficial camouflage,
-but for those desperate for quick riches,
-you will appear quite attractive indeed.</text>
-<text id="60390000">A tiny charm embedded with imitative magic.
-Use to transform into a corpse.
-
-Use this talisman to trick invaders.
-Only provides the most superficial camouflage,
-but for those who fail to respect the dead,
-your disguise will be quite effective.</text>
-<text id="60400000">A tiny charm embedded with imitative magic.
-Use to transform into a phantom.
-
-Use this talisman to trick invaders.
-Only provides the most superficial camouflage,
-but for those naïve enough to never question
-what they see, you should be very convincing.</text>
 <text id="60405000">A stone containing the strength of dragons.
 Transforms the head into that of a
 fire-breathing dragon, an effect that will
@@ -632,17 +581,6 @@ able to use them.
 
 You have only yourself to blame if you find
 yourself in crisis with no powder to spare.</text>
-<text id="60420000">A torch made by soaking the end of a long
-stick in pine resin.
-
-Light the torch on the fire of a sconce
-to illuminate areas for a short time.
-Find new torches to extend this period.
-
-Torches can even be lit on bonfires,
-the flames of which do not normally
-set objects alight, due to the coating
-of the bones used to fuel them.</text>
 <text id="60430000">Bottle filled with dried red butterflies.
 Stimulation of these rare butterflies creates a
 small flame, allowing torches to be lit on the go.
@@ -1667,5 +1605,79 @@ Lud's was the mercy killing of exiles.
 
 The wondrous soul of this beast
 can be used to acquire numerous souls,
+or to create something of great worth.</text>
+<text id="50640000">Tool used to reinforce
+weapons.
+
+Rest at a bonfire to make
+weapon reinforcement possible.</text>
+<text id="50650000">Tool used to reinforce
+armor.
+
+Rest at a bonfire to make
+armor reinforcement possible.</text>
+<text id="60220000">Troches with a strangely musty odor.
+Temporarily boosts equipment break resist.
+
+Verbal histories often mention Saint Elizabeth;
+her uniquely concocted medicines and potions
+are still widely used today.</text>
+<text id="60245000">A mysterious sticky substance that
+radiates a dim yellow light.
+Applies powerful magic to right-hand weapon.
+
+The affected weapon inflicts magic damage
+for a short time. Particularly effective against
+heavily armored foes or creatures with
+thick scales.</text>
+<text id="60340000">The beloved magic stone of Rhoy the Explorer.
+High chance of detecting treasure chest
+traps, indicated by a red light.
+
+There are more than a few men who take
+advantage of the undoing of others. Many more.</text>
+<text id="60380000">A tiny charm embedded with imitative magic.
+Use to transform into a treasure chest.
+
+Use this talisman to trick invaders.
+Only provides the most superficial camouflage,
+but for those desperate for quick riches,
+you will appear quite attractive indeed.</text>
+<text id="60390000">A tiny charm embedded with imitative magic.
+Use to transform into a corpse.
+
+Use this talisman to trick invaders.
+Only provides the most superficial camouflage,
+but for those who fail to respect the dead,
+your disguise will be quite effective.</text>
+<text id="60400000">A tiny charm embedded with imitative magic.
+Use to transform into a phantom.
+
+Use this talisman to trick invaders.
+Only provides the most superficial camouflage,
+but for those naïve enough to never question
+what they see, you should be very convincing.</text>
+<text id="60420000">A torch made by soaking the end of a long
+stick in pine resin.
+
+Light the torch on the fire of a sconce
+to illuminate areas for a short time.
+Find new torches to extend this period.
+
+Torches can even be lit on bonfires,
+the flames of which do not normally
+set objects alight, due to the coating
+of the bones used to fuel them.</text>
+<text id="64620000">Soul of the Rotten,
+who writhes deep within the Gutter.
+
+Gryth, the king of Shulva,
+was consumed by the poison that flooded the Sanctum City,
+but some part of him live on.
+Now he watches over the discarded and abandoned
+in his sancturary deep under the ground.
+
+Use the special soul of the Rotten
+to acquire numerous souls,
 or to create something of great worth.</text>
 </entries>

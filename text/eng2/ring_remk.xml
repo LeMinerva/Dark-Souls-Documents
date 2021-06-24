@@ -48,8 +48,6 @@
 <text id="40530000">Ring counter-attacks when damage is taken</text>
 <text id="40540000">Increases chances of being invaded</text>
 <text id="40550000">Take the appearance of a phantom</text>
-<text id="40560000">Certain equipment becomes invisible</text>
-<text id="40570000">Certain equipment becomes invisible</text>
 <text id="40610000">Can hear the voices of foes</text>
 <text id="40620000">Certain equipment becomes invisible</text>
 <text id="40700000">Ring for the Rat King covenant</text>
@@ -75,4 +73,6 @@
 <text id="41120000">Appear as human while a phantom</text>
 <text id="41130000">Sometimes deflects spells</text>
 <text id="42000000">Absorbs souls in place of wearer</text>
+<text id="40560000">Certain equipment becomes invisible</text>
+<text id="40570000">Certain equipment becomes invisible</text>
 </entries>

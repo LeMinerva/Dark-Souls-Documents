@@ -28,12 +28,9 @@
 <text id="127">Die, lose nothing, nullify curse, ring breaks</text>
 <text id="128">Changes rolling action</text>
 <text id="130">Boosts miracle synergy</text>
-<text id="133">Ring attacks when incurring sustained damage</text>
-<text id="134">Grants stealth from cursed ghosts</text>
 <text id="137">An old ring, with no known use</text>
 <text id="138">Traverse abyss</text>
 <text id="139">Reduces lava damage</text>
-<text id="140">Sustains dmg in place of wearer, with % break</text>
 <text id="141">Boosts length of sorcery effects</text>
 <text id="142">Absorbs HP from fallen enemies</text>
 <text id="143">Boosts HP, stamina, load. Breaks when removed.</text>
@@ -44,4 +41,7 @@
 <text id="148">Boosts miracles</text>
 <text id="149">Grants additional attunement slots</text>
 <text id="150">Receive double damage</text>
+<text id="133">Ring attacks when incurring sustained damage</text>
+<text id="134">Grants stealth from cursed ghosts</text>
+<text id="140">Sustains dmg in place of wearer, with % break</text>
 </entries>

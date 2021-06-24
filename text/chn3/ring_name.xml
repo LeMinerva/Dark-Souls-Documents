@@ -1,14 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="10000">暗月之剑</text>
-<text id="10020">法兰守卫</text>
-<text id="10030">吞噬神明的守护人</text>
-<text id="10040">太阳战士</text>
-<text id="10050">累积者</text>
-<text id="10060">青教</text>
-<text id="10070">青之守护者</text>
-<text id="10080">罗莎莉亚的指头</text>
-<text id="10090">教堂之枪</text>
 <text id="20000">生命戒指</text>
 <text id="20010">绿花戒指</text>
 <text id="20020">哈维尔戒指</text>
@@ -31,7 +22,6 @@
 <text id="20190">狼戒指</text>
 <text id="20200">狮子戒指</text>
 <text id="20210">牺牲戒指</text>
-<text id="20220">##宝贵牺牲戒指</text>
 <text id="20230">稚嫩龙徽戒指</text>
 <text id="20231">狂吼龙徽戒指</text>
 <text id="20240">大沼戒指</text>
@@ -64,7 +54,6 @@
 <text id="20540">弗林戒指</text>
 <text id="20550">俘虏锁链</text>
 <text id="20560">暗色伪装戒指</text>
-<text id="20570">##约亚戒指</text>
 <text id="20580">幻肢戒指</text>
 <text id="20590">邪眼戒指</text>
 <text id="20600">灾难戒指</text>
@@ -82,4 +71,13 @@
 <text id="20790">教宗左眼</text>
 <text id="20830">龙鳞戒指</text>
 <text id="21000">咬霜戒指</text>
+<text id="20220">##宝贵牺牲戒指</text>
+<text id="20570">##约亚戒指</text>
+<text id="20690">##隐蔽戒指</text>
+<text id="20760">##持续坚定戒指</text>
+<text id="20770">##持续活力戒指</text>
+<text id="20780">##持续魔力戒指</text>
+<text id="20800">##持续精力戒指</text>
+<text id="20810">##持续强盛戒指</text>
+<text id="20820">##持续幸运戒指</text>
 </entries>

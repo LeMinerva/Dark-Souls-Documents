@@ -13,7 +13,6 @@
 <text id="190">原素灰瓶</text>
 <text id="240">女神的祝福</text>
 <text id="241">秘藏的祝福</text>
-<text id="242">##银项链</text>
 <text id="260">绿花草</text>
 <text id="261">开花绿花草</text>
 <text id="262">开花绿花草</text>
@@ -22,7 +21,6 @@
 <text id="272">毒紫花苔藓球</text>
 <text id="274">解咒石</text>
 <text id="276">蓝冻苔藓球</text>
-<text id="277">##圣院护符</text>
 <text id="280">修理光粉</text>
 <text id="290">廓尔喀弯刀</text>
 <text id="292">火焰壶</text>
@@ -32,7 +30,6 @@
 <text id="297">黑火焰壶</text>
 <text id="299">附绳火焰壶</text>
 <text id="300">雷壶</text>
-<text id="301">##圣水瓶</text>
 <text id="302">附绳黑火焰壶</text>
 <text id="303">含草屎块</text>
 <text id="304">决斗护符</text>
@@ -87,11 +84,7 @@
 <text id="419">英雄的灵魂</text>
 <text id="420">伟大英雄的灵魂</text>
 <text id="440">巨人树种子</text>
-<text id="441">##栖灵紫水晶</text>
-<text id="450">##魔力泄漏果实种子</text>
-<text id="451">##闪电泄漏果实种子</text>
 <text id="452">苔藓球果实</text>
-<text id="453">##光虫</text>
 <text id="454">嫩白树枝</text>
 <text id="455">锈斑硬币</text>
 <text id="456">杰克的酒</text>
@@ -104,7 +97,6 @@
 <text id="463">嫩白树枝</text>
 <text id="490">黑暗印记</text>
 <text id="500">余火</text>
-<text id="501">##余火</text>
 <text id="520">人脸“你好啊”</text>
 <text id="521">人脸“谢谢你”</text>
 <text id="522">人脸“不错啊！”</text>
@@ -134,7 +126,6 @@
 <text id="1001">楔形石大碎片</text>
 <text id="1002">楔形石块</text>
 <text id="1003">楔形石原盘</text>
-<text id="1010">##龙鳞</text>
 <text id="1020">龙鳞楔形石</text>
 <text id="1030">光辉楔形石</text>
 <text id="1100">厚重宝石</text>
@@ -154,8 +145,6 @@
 <text id="1240">游魂宝石</text>
 <text id="1250">丧失石</text>
 <text id="2001">升降机房间的钥匙</text>
-<text id="2003">##大桥的钥匙</text>
-<text id="2004">##狼的铁图纹</text>
 <text id="2005">小人偶</text>
 <text id="2007">窗栏的钥匙</text>
 <text id="2008">狱卒的钥匙</text>
@@ -164,7 +153,6 @@
 <text id="2012">古老监牢的钥匙</text>
 <text id="2013">塔的钥匙</text>
 <text id="2014">大书库的钥匙</text>
-<text id="2101">##神圣遗骸</text>
 <text id="2102">洛斯里克小环旗</text>
 <text id="2103">法兰余烬</text>
 <text id="2104">老者余烬</text>
@@ -184,7 +172,6 @@
 <text id="2118">罗蕾塔的骨头</text>
 <text id="2119">卡利姆点字圣典</text>
 <text id="2120">洛斯里克点字圣典</text>
-<text id="2121">##太阳点字圣典</text>
 <text id="2123">薪王柴薪</text>
 <text id="2124">薪王柴薪</text>
 <text id="2125">薪王柴薪</text>
@@ -221,7 +208,6 @@
 <text id="2155">机关钥匙</text>
 <text id="315">教堂守护者薄刀</text>
 <text id="379">费莲诺尔枪饰</text>
-<text id="620">##契约之证</text>
 <text id="650">仪式枪的碎片</text>
 <text id="651">圣枪的碎片</text>
 <text id="745">奴隶骑士盖尔的灵魂</text>
@@ -231,4 +217,29 @@
 <text id="2157">老妪骨灰</text>
 <text id="2158">黑暗灵魂之血</text>
 <text id="2159">嫩芽泪滴石</text>
+<text id="10000">暗月之剑</text>
+<text id="10020">法兰守卫</text>
+<text id="10030">吞噬神明的守护人</text>
+<text id="10040">太阳战士</text>
+<text id="10050">累积者</text>
+<text id="10060">青教</text>
+<text id="10070">青之守护者</text>
+<text id="10080">罗莎莉亚的指头</text>
+<text id="10090">教堂之枪</text>
+<text id="242">##银项链</text>
+<text id="277">##圣院护符</text>
+<text id="301">##圣水瓶</text>
+<text id="376">##项链</text>
+<text id="441">##栖灵紫水晶</text>
+<text id="450">##魔力泄漏果实种子</text>
+<text id="451">##闪电泄漏果实种子</text>
+<text id="453">##光虫</text>
+<text id="501">##余火</text>
+<text id="1010">##龙鳞</text>
+<text id="2003">##大桥的钥匙</text>
+<text id="2004">##狼的铁图纹</text>
+<text id="2101">##神圣遗骸</text>
+<text id="2121">##太阳点字圣典</text>
+<text id="2136">##葛温德林的指头</text>
+<text id="620">##契约之证</text>
 </entries>

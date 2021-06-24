@@ -1349,12 +1349,6 @@ their striking power.
 Attacks with the fists are solely dependent on
 one's strength. With this weapon, any encounter
 becomes a brawl.</text>
-<text id="3510000">Claws used by those who lurk in the shadows.
-A sharp blade is attached to each of the fingers.
-
-Those who abandoned the knight's code
-stooped to all manner of unspeakable deeds,
-all for a bit of coin.</text>
 <text id="3530000">Bone that is bound to the fist.
 Used to enhance hand-to-hand combat.
 Salvaged from a malformed creature.
@@ -2644,27 +2638,10 @@ Poisoned foes slowly lose HP over time.</text>
 Tipped with finely sharpened arrow heads.
 
 Bleeding foes' max HP is lowered.</text>
-<text id="60840000">Inexpensive wooden greatarrows.
-
-Bows are excellent tools for attacking
-foes from a safe distance, but naturally,
-require an arrow to be equipped.
-
-Greatbows will not function with ordinary
-arrows. Equip specially-designed greatarrows.</text>
 <text id="60850000">Standard greatarrows made of iron.
 
 More effective than regular arrows,
 but considerably heavier.</text>
-<text id="60860000">Greatarrows imbued with magic.
-Tipped with a Aromatic Ooze.
-
-Weapons fortified with magic are particularly
-effective against heavily armored foes
-or creatures with thick scales.
-
-If you require magic but have learned none
-yourself, these will serve you well.</text>
 <text id="60870000">Greatarrows imbued with lightning.
 Tipped with Gold Pine Resin.
 
@@ -2679,15 +2656,6 @@ Tipped with Charcoal Pine Resin.
 Weapons fortified with fire are effective against
 against foes vulnerable to fire, such
 as Undead or beasts.
-
-If you require magic but have learned none
-yourself, these will serve you well.</text>
-<text id="60890000">Greatarrows imbued with dark flame.
-Tipped with Dark Pine Resin.
-
-Weapons fortified with dark are effective
-against those who fear the dark, such as
-clerics and magical creatures.
 
 If you require magic but have learned none
 yourself, these will serve you well.</text>
@@ -2745,6 +2713,38 @@ clerics and magical creatures.
 
 Crossbows and specialized bolts allow warriors
 with low dexterity to inflict elemental damage.</text>
+<text id="3510000">Claws used by those who lurk in the shadows.
+A sharp blade is attached to each of the fingers.
+
+Those who abandoned the knight's code
+stooped to all manner of unspeakable deeds,
+all for a bit of coin.</text>
+<text id="60840000">Inexpensive wooden greatarrows.
+
+Bows are excellent tools for attacking
+foes from a safe distance, but naturally,
+require an arrow to be equipped.
+
+Greatbows will not function with ordinary
+arrows. Equip specially-designed greatarrows.</text>
+<text id="60860000">Greatarrows imbued with magic.
+Tipped with a Aromatic Ooze.
+
+Weapons fortified with magic are particularly
+effective against heavily armored foes
+or creatures with thick scales.
+
+If you require magic but have learned none
+yourself, these will serve you well.</text>
+<text id="60890000">Greatarrows imbued with dark flame.
+Tipped with Dark Pine Resin.
+
+Weapons fortified with dark are effective
+against those who fear the dark, such as
+clerics and magical creatures.
+
+If you require magic but have learned none
+yourself, these will serve you well.</text>
 <text id="900008400">This standard small dagger possesses only modest attack,
 	but can be jabbed in rapid succession.
 
@@ -2925,4 +2925,13 @@ the katana's hefty blade glistens
 with extraordinary sharpness.
 Perhaps its great weight portends to
 the great washes of blood it has supped upon.</text>
+<text id="900008432">An ancient greatsword of unknown origin.
+This sword was wielded by
+the rebel Raime before he was exiled,
+but in his shame he cast it aside as he fled Drangleic.
+It was recovered by Gordin, wandering knight of Forossa,
+and was thought to lost with him.
+
+Uncannily, every last one of the prominent swordsmen
+who inherited this weapon was left-handed.</text>
 </entries>

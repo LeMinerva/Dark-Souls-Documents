@@ -13,7 +13,6 @@
 <text id="190">Fill with Estus at bonfire. Restores FP.</text>
 <text id="240">Fully restores HP and cures ailments</text>
 <text id="241">Fully restores FP</text>
-<text id="242">Silver pendant. Deflects Dark.</text>
 <text id="260">Temporary boost to stamina recovery speed</text>
 <text id="261">Large temporary boost to stamina recovery speed</text>
 <text id="262">Large temporary boost to stamina recovery speed</text>
@@ -22,7 +21,6 @@
 <text id="272">Reduces poison and toxin. Cures status.</text>
 <text id="274">Reduces undead curse build-up and cures hollowing</text>
 <text id="276">Reduces frost buildup, cures frostbite status</text>
-<text id="277">Cures poison and restores HP</text>
 <text id="280">Repairs equipped weapons and armor</text>
 <text id="290">Throwing knife. Causes bleed damage.</text>
 <text id="292">Explodes, inflicting fire damage</text>
@@ -32,7 +30,6 @@
 <text id="297">Explodes, inflicting fire damage</text>
 <text id="299">Thrown behind, explodes inflicting fire damage</text>
 <text id="300">Explodes, inflicting lightning damage</text>
-<text id="301">Cleanse Undead with holy essence</text>
 <text id="302">Thrown behind, explodes inflicting high fire damage</text>
 <text id="303">Turns enemy toxic, but also affects user</text>
 <text id="304">Temporarily disables special effects in vicinity</text>
@@ -87,11 +84,7 @@
 <text id="419">Use to acquire enough souls to sate a lord</text>
 <text id="420">Use to acquire enough souls to sate a lord</text>
 <text id="440">Enemies react to invaders</text>
-<text id="441">Spirit flies out to seek foes in other worlds</text>
-<text id="450">Temporarily boosts magic/fire defence</text>
-<text id="451">Temporarily boosts dark/lightning defence</text>
 <text id="452">Temporarily boosts all resistances</text>
-<text id="453">Inflict more damage, receive less</text>
 <text id="454">Transform, blending into environment</text>
 <text id="455">Crush to temporarily boost item discovery</text>
 <text id="456">Restores HP and boosts frost resist</text>
@@ -104,7 +97,6 @@
 <text id="463">Transform, blending into environment</text>
 <text id="490">Accumulates curse</text>
 <text id="500">Gain strength of flame, boosting HP until death.</text>
-<text id="501">Offer embers to an ashen body</text>
 <text id="520">Smash on ground to say "Hello"</text>
 <text id="521">Smash on ground to say "Thank you"</text>
 <text id="522">Smash on ground to say "Very good!"</text>
@@ -134,7 +126,6 @@
 <text id="1001">Reinforce weapon to +6</text>
 <text id="1002">Reinforce weapon to +9</text>
 <text id="1003">Reinforce weapon to highest level</text>
-<text id="1010">Reinforce dragon weapons.</text>
 <text id="1020">Reinforce soul-transposed weapon to +4</text>
 <text id="1030">Reinforce weapons steeped in strength to +4</text>
 <text id="1100">Infuse to create heavy weapon</text>
@@ -154,8 +145,6 @@
 <text id="1240">Infuse to create Hollow weapon</text>
 <text id="1250">Undo weapon infusion</text>
 <text id="2001">Key to the underground lift</text>
-<text id="2003">Key to the inner part of the bridge</text>
-<text id="2004">Crest opening the way to Fort Faran, home to the Undead Corps</text>
 <text id="2005">Silverwork doll depicting a young squire</text>
 <text id="2007">Key to the barred window of Irithyll dungeon</text>
 <text id="2008">Irithyllian Jailer's ring, filled with many keys</text>
@@ -164,7 +153,6 @@
 <text id="2012">Key to the oldest cell in all of Irithyll dungeon</text>
 <text id="2013">Key to the dilapidated tower behind the shrine</text>
 <text id="2014">Key to the main door of Lothric's Grand Archives</text>
-<text id="2101">Sinister vessel made from the skull of a noble king</text>
 <text id="2102">Hold up outside the main castle gate to be taken</text>
 <text id="2103">Enable heavy, sharp, and poison infusion</text>
 <text id="2104">Enable crystal, blessed, and deep infusion</text>
@@ -184,7 +172,6 @@
 <text id="2118">Old human bone with several holes bored into it</text>
 <text id="2119">Learn high miracles of Carim</text>
 <text id="2120">Learn miracles of Lothric</text>
-<text id="2121">Learn miracles of the sun</text>
 <text id="2123">Cinders of lord left by the Abyss Watchers</text>
 <text id="2124">Cinders of a lord left by the God Devourer Aldrich</text>
 <text id="2125">Cinders of a lord left by the Giant Yhorm</text>
@@ -221,7 +208,6 @@
 <text id="2155">Key to the contraption accessing the library attic</text>
 <text id="315">Throw illusory blades that seek foes</text>
 <text id="379">Proof of a Church Spear's fulfilment of duty</text>
-<text id="620">Briefly summon the eccentric Silver Knight Ledo</text>
 <text id="650">Summon a row of upwardly thrusting ritual spears</text>
 <text id="651">Summon a row of upwardly thrusting ritual spears</text>
 <text id="745">One of the twisted souls, steeped in strength</text>
@@ -231,4 +217,29 @@
 <text id="2157">Shrine handmaid prepares new items</text>
 <text id="2158">Pigment to depict a painted world</text>
 <text id="2159">Slightly enhance blessing to Church Spears</text>
+<text id="10000">Pledge oneself to the Blade of the Darkmoon covenant</text>
+<text id="10020">Pledge oneself to the Watchdogs of Farron covenant</text>
+<text id="10030">Pledge oneself to the Aldrich Faithful covenant</text>
+<text id="10040">Pledge oneself to the Warrior of Sunlight covenant</text>
+<text id="10050">Pledge oneself to the Mound-makers covenant</text>
+<text id="10060">Pledge oneself to the Way of Blue covenant</text>
+<text id="10070">Pledge oneself to the Blue Sentinels covenant</text>
+<text id="10080">Pledge oneself to the Rosaria's Fingers covenant</text>
+<text id="10090">Join the Spears of the Church covenant</text>
+<text id="242">Silver pendant. Deflects Dark.</text>
+<text id="277">Cures poison and restores HP</text>
+<text id="301">Cleanse Undead with holy essence</text>
+<text id="376">No effect</text>
+<text id="441">Spirit flies out to seek foes in other worlds</text>
+<text id="450">Temporarily boosts magic/fire defence</text>
+<text id="451">Temporarily boosts dark/lightning defence</text>
+<text id="453">Inflict more damage, receive less</text>
+<text id="501">Offer embers to an ashen body</text>
+<text id="1010">Reinforce dragon weapons.</text>
+<text id="2003">Key to the inner part of the bridge</text>
+<text id="2004">Crest opening the way to Fort Faran, home to the Undead Corps</text>
+<text id="2101">Sinister vessel made from the skull of a noble king</text>
+<text id="2121">Learn miracles of the sun</text>
+<text id="2136">Ruined finger of Dark Sun Gwyndolin</text>
+<text id="620">Briefly summon the eccentric Silver Knight Ledo</text>
 </entries>

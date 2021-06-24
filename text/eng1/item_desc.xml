@@ -109,14 +109,6 @@ reclaim the soul of the Fire Keeper.
 
 The Black Eye keeps constant watch on the
 city of the Gods, Anor Londo.</text>
-<text id="116">Invade the world of the traitor Shiva.
-
-Invade the world of Shiva, and subdue him
-to reclaim the Blade of Chaos.
-
-But the Black Eye has lost its focus,
-and its powers waver timorously.
-Where could the traitor Shiva be?</text>
 <text id="117">The Darksign signifies an accursed Undead.
 Those branded with it are reborn after
 death, but will one day lose their mind
@@ -334,13 +326,6 @@ singular, but its applications many.
 
 The value of these specs depends greatly on
 the imagination of their owner.</text>
-<text id="372">Slip sold by bishop of Velka, Goddess of Sin
-Annul a covenant without committing sin
-
-A covenant is a most sacred union,
-normally not subject to negotiation,
-but when circumstances require it,
-even Goddess Velka will make an exception.</text>
 <text id="373">Slip sold by bishop of Velka, Goddess of Sin.
 If you are killed by an invader, use this to
 report the crime of that trespasser.
@@ -1011,13 +996,6 @@ Those banished from the Undead Burg eke out
 their existence in the Depths, a damp lair
 with no trace of sunlight. Nearly half of
 the Depths form a perilous flooded labyrinth.</text>
-<text id="2015">Key opening the lift leading to New Londo
-ruins in the basement of Firelink Shrine.
-
-The ruins of New Londo were blocked off,
-for the cursed ghosts posed danger to life
-and spirit, and the legends speak of a
-terrible Dark which was sealed away.</text>
 <text id="2016">Key to the iron bars on the west side of the
 second floor of the North Undead Asylum.
 
@@ -1152,4 +1130,26 @@ it as a symbol of unbridled avarice.
 Any number of items can be deposited into
 the box, and items can be managed while
 resting at a bonfire.</text>
+<text id="116">Invade the world of the traitor Shiva.
+
+Invade the world of Shiva, and subdue him
+to reclaim the Blade of Chaos.
+
+But the Black Eye has lost its focus,
+and its powers waver timorously.
+Where could the traitor Shiva be?</text>
+<text id="372">Slip sold by bishop of Velka, Goddess of Sin
+Annul a covenant without committing sin
+
+A covenant is a most sacred union,
+normally not subject to negotiation,
+but when circumstances require it,
+even Goddess Velka will make an exception.</text>
+<text id="2015">Key opening the lift leading to New Londo
+ruins in the basement of Firelink Shrine.
+
+The ruins of New Londo were blocked off,
+for the cursed ghosts posed danger to life
+and spirit, and the legends speak of a
+terrible Dark which was sealed away.</text>
 </entries>

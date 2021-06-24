@@ -56,7 +56,6 @@
 <text id="5050">Bountiful Sunlight</text>
 <text id="5100">Gravelord Sword Dance</text>
 <text id="5110">Gravelord Greatsword Dance</text>
-<text id="5200">##Escape Death</text>
 <text id="5210">Homeward</text>
 <text id="5300">Force</text>
 <text id="5310">Wrath of the Gods</text>
@@ -72,4 +71,5 @@
 <text id="5810">Vow of Silence</text>
 <text id="5900">Sunlight Blade</text>
 <text id="5910">Darkmoon Blade</text>
+<text id="5200">##Escape Death</text>
 </entries>

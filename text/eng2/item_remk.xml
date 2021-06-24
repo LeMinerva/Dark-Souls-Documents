@@ -2,8 +2,6 @@
 <entries>
 <text id="50600000">Opens soldier's door in the forest of Giants</text>
 <text id="50610000">Key to King's Passage in Drangleic Castle</text>
-<text id="50640000">Tool for reinforcing weapons at bonfire</text>
-<text id="50650000">Tool for reinforcing armor at bonfire</text>
 <text id="50800000">Opens cells of the Lost Bastille</text>
 <text id="50810000">Opens the iron door of the Iron Keep</text>
 <text id="50820000">Key tossed into the Gutter</text>
@@ -61,7 +59,6 @@
 <text id="60190000">Temporarily boosts dark DEF</text>
 <text id="60200000">Temporarily boosts poison resist</text>
 <text id="60210000">Temporarily boosts bleeding resist</text>
-<text id="60220000">Temporarily boosts equipment break resist</text>
 <text id="60230000">Temporarily boosts petrify resist</text>
 <text id="60235000">Temporarily increases strength</text>
 <text id="60236000">Temporarily increases dexterity</text>
@@ -69,7 +66,6 @@
 <text id="60238000">Temporarily increases faith</text>
 <text id="60239000">Inflict more damage, receive less</text>
 <text id="60240000">Apply magic to right-hand weapon</text>
-<text id="60245000">Apply powerful magic to right-hand weapon</text>
 <text id="60250000">Apply lightning to right-hand weapon</text>
 <text id="60260000">Apply fire to right-hand weapon</text>
 <text id="60270000">Apply dark to right-hand weapon</text>
@@ -77,18 +73,13 @@
 <text id="60290000">Adds bleeding effect to right-hand weapon</text>
 <text id="60310000">Temporarily boost stamina recovery speed</text>
 <text id="60320000">Temporarily boosts luck</text>
-<text id="60340000">High chance of detecting chest trap</text>
 <text id="60350000">Return to last bonfire rested at</text>
 <text id="60355000">Return to last bonfire rested at</text>
 <text id="60360000">Lose souls, and return to last bonfire used</text>
 <text id="60370000">Transform to blend in to environment</text>
-<text id="60380000">Transform into a treasure chest</text>
-<text id="60390000">Transform into a corpse</text>
-<text id="60400000">Transform into a phantom</text>
 <text id="60405000">Head becomes a dragon head</text>
 <text id="60406000">Body becomes a dragon</text>
 <text id="60410000">Restore equipment durability</text>
-<text id="60420000">Light on sconces or bonfires for illumination</text>
 <text id="60430000">Light torch autonomously</text>
 <text id="60450000">Emits light, and marks one's path</text>
 <text id="60470000">Old wood carving that says "Hello"</text>
@@ -205,4 +196,14 @@
 <text id="64590000">Acquire numerous souls, or perhaps...</text>
 <text id="64600000">Does not yield souls, but perhaps...</text>
 <text id="64610000">Acquire numerous souls, or perhaps...</text>
+<text id="50640000">Tool for reinforcing weapons at bonfire</text>
+<text id="50650000">Tool for reinforcing armor at bonfire</text>
+<text id="60220000">Temporarily boosts equipment break resist</text>
+<text id="60245000">Apply powerful magic to right-hand weapon</text>
+<text id="60340000">High chance of detecting chest trap</text>
+<text id="60380000">Transform into a treasure chest</text>
+<text id="60390000">Transform into a corpse</text>
+<text id="60400000">Transform into a phantom</text>
+<text id="60420000">Light on sconces or bonfires for illumination</text>
+<text id="64620000">Acquire numerous souls, or perhaps...</text>
 </entries>

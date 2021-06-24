@@ -12,7 +12,6 @@
 <text id="113">深蓝眼眸宝珠</text>
 <text id="114">古龙眼珠</text>
 <text id="115">漆黑眼眸宝珠</text>
-<text id="116">##漆黑眼眸宝珠</text>
 <text id="117">黑暗之环</text>
 <text id="118">胆小鬼紫水晶</text>
 <text id="200">原素瓶</text>
@@ -40,7 +39,6 @@
 <text id="330">返回骨片</text>
 <text id="370">七色石</text>
 <text id="371">望远镜</text>
-<text id="372">##宣誓符</text>
 <text id="373">控诉符</text>
 <text id="374">复仇之证</text>
 <text id="375">太阳徽章</text>
@@ -124,7 +122,6 @@
 <text id="2012">不死院二楼东侧钥匙</text>
 <text id="2013">封印钥匙</text>
 <text id="2014">底层钥匙</text>
-<text id="2015">##升降室的钥匙</text>
 <text id="2016">不死院二楼西侧钥匙</text>
 <text id="2017">未知钥匙</text>
 <text id="2018">污水室钥匙</text>
@@ -144,4 +141,7 @@
 <text id="2602">修理箱</text>
 <text id="2607">注火秘密仪式</text>
 <text id="2608">无底木箱</text>
+<text id="116">##漆黑眼眸宝珠</text>
+<text id="372">##宣誓符</text>
+<text id="2015">##升降室的钥匙</text>
 </entries>

@@ -1,14 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="10000">Pledge oneself to the Blade of the Darkmoon covenant</text>
-<text id="10020">Pledge oneself to the Watchdogs of Farron covenant</text>
-<text id="10030">Pledge oneself to the Aldrich Faithful covenant</text>
-<text id="10040">Pledge oneself to the Warrior of Sunlight covenant</text>
-<text id="10050">Pledge oneself to the Mound-makers covenant</text>
-<text id="10060">Pledge oneself to the Way of Blue covenant</text>
-<text id="10070">Pledge oneself to the Blue Sentinels covenant</text>
-<text id="10080">Pledge oneself to the Rosaria's Fingers covenant</text>
-<text id="10090">Join the Spears of the Church covenant</text>
 <text id="20000">Raises maximum HP</text>
 <text id="20010">Raises stamina recovery speed</text>
 <text id="20020">Increases maximum load</text>
@@ -31,7 +22,6 @@
 <text id="20190">Increases poise</text>
 <text id="20200">Strengthens thrust weapon counter attacks</text>
 <text id="20210">Lose nothing upon death, but ring breaks</text>
-<text id="20220">Breaks on death, but nothing lost, nullifies curse</text>
 <text id="20230">Boosts sorceries</text>
 <text id="20231">Greatly boosts sorceries</text>
 <text id="20240">Boosts pyromancies</text>
@@ -64,7 +54,6 @@
 <text id="20540">Lowering equip load increases attack</text>
 <text id="20550">Increases VGR, END and VIT, but take more damage</text>
 <text id="20560">Retain human appearance while Hollow</text>
-<text id="20570">Sometimes deflects spells</text>
 <text id="20580">Obscures wearer while far away</text>
 <text id="20590">Absorb HP from each defeated foe</text>
 <text id="20600">Receive double damage</text>
@@ -82,4 +71,13 @@
 <text id="20790">Recovers HP with successive attacks</text>
 <text id="20830">Reduces damage from backstabs</text>
 <text id="21000">Increases frost resistance</text>
+<text id="20220">Breaks on death, but nothing lost, nullifies curse</text>
+<text id="20570">Sometimes deflects spells</text>
+<text id="20690">Hides the wearer from Dark Spirits at a distance</text>
+<text id="20760">Boosts defense, as long as attacking persists</text>
+<text id="20770">Boosts stamina recovery speed, as long as attacking persists</text>
+<text id="20780">Boosts spells, as long as attacking persists</text>
+<text id="20800">Recovers CP with successive attacks</text>
+<text id="20810">Adds extra damage with successive attacks</text>
+<text id="20820">Increases drop rate with successive attacks</text>
 </entries>
