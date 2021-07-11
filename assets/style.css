@@ -5,7 +5,7 @@
 html{background:#000}
 a,img{color:#aaa;text-decoration:none;transition:.3s}
 a:hover{color:#960}
-.content,.contentd{width:1800px;margin:auto;overflow:hidden}
+.content,.contentd{width:1800px;margin:0 auto;overflow:hidden}
 #content,.contentd{margin-top:150px}
 .content.game3 .icon img{margin-left:-10%;transition:none}
 .menu{margin:auto;padding:.5em 0;width:1800px;position:fixed;background:rgba(0,0,0,.8);z-index:999}
