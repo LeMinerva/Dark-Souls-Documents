@@ -47,7 +47,7 @@ a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin-left:7em}
 .uud,.uud::selection{text-decoration:line-through;text-decoration-color:rgba(255,0,0,.4);text-decoration-thickness:.2em}
 @media screen and (max-width:1000px){
 .content,.contentd{width:100%;overflow:auto}
-.content:last-child,.contentd{margin:7em 0}
+#content,.contentd{margin:7em 0}
 .menu{width:100%}
 .submenu a,.submenu p{font:8px/2 微软雅黑}
 .frame{font:8px/1.5 仿宋;margin:0 0 10em}
