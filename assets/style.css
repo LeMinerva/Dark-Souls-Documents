@@ -5,8 +5,8 @@
 html{background:#000}
 a,img{color:#aaa;text-decoration:none;transition:.3s}
 a:hover{color:#960}
+hr{border:0;height:150px}
 .content,.contentd{width:1800px;margin:0 auto;overflow:hidden}
-#content,.contentd{margin-top:150px}
 .content.game3 .icon img{margin-left:-10%;transition:none}
 .menu{margin:auto;padding:.5em 0;width:1800px;position:fixed;background:rgba(0,0,0,.8);z-index:999}
 .submenu{overflow:hidden;border-bottom:1px solid #430}
@@ -46,8 +46,8 @@ a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin-left:7em}
 .mobile{display:none}
 .uud,.uud::selection{text-decoration:line-through;text-decoration-color:rgba(255,0,0,.4);text-decoration-thickness:.2em}
 @media screen and (max-width:1000px){
+hr{height:7em}
 .content,.contentd{width:100%;overflow:auto}
-#content,.contentd{margin:7em 0}
 .menu{width:100%}
 .submenu a,.submenu p{font:8px/2 微软雅黑}
 .frame{font:8px/1.5 仿宋;margin:0 0 10em}

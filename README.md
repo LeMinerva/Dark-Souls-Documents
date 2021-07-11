@@ -12,6 +12,6 @@
 * 敌人伤害属性信息（1代为防御力系统，2/3代为防御力+伤害倍率系统）
 * 敌人物品掉落信息
 
->不支持IE核心，建议使用Edge运行。
+>不支持IE核心，建议使用Edge运行（若下载到本地请添加运行参数 --profile-directory=Default）。
 
 [在线快捷链接](https://leminerva.github.io/Dark-Souls-Documents/)
