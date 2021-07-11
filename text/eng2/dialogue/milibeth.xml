@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="72300000">That was dangerously close.</text>
+<text id="72300000">##That was dangerously close.</text>
 <text id="72300010">This is a limbo.
 A link between Drangleic and the outer world.</text>
 <text id="72300020">Fair traveller, I know that you must have a story.</text>
@@ -27,7 +27,7 @@ I am told there was a fourth.</text>
 <text id="72305040">You brute!</text>
 <text id="72305050">Stop this at once!</text>
 <text id="72305060">What are you...!</text>
-<text id="72306000">Have a safe journey...</text>
+<text id="72306000">##Have a safe journey...</text>
 <text id="72307000">You have proven yourself to the forest.</text>
 <text id="72307010">We have little to offer, except perhaps these.</text>
 <text id="72307020">May they bring fortune to your journey,

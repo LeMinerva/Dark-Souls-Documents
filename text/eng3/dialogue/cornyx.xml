@@ -27,9 +27,9 @@ And both prisoners, in our own ways.</text>
 <text id="14000400">...</text>
 <text id="14000401">...</text>
 <text id="14000403">What are you doing?</text>
-<text id="14000404">Cease this foolishness.</text>
-<text id="14000500">...</text>
-<text id="14000502">Hah hah hah hah!</text>
+<text id="14000404">##Cease this foolishness.</text>
+<text id="14000500">##...</text>
+<text id="14000502">##Hah hah hah hah!</text>
 <text id="14000503">Little bird, what's to be gained?</text>
 <text id="14000600">Ahh, there you are, Unkindled One.</text>
 <text id="14000601">I wish to express my gratitude.</text>
@@ -120,6 +120,6 @@ could begin to understand this.</text>
 <text id="14002102">I can't complain... This old reverie...had to end...</text>
 <text id="14002200">You've been dabbling in pyromancies, it seems?</text>
 <text id="14002201">Well then, care to learn some pyromancies from this old man?</text>
-<text id="14002300">Oh, the eternal folly of youth...</text>
+<text id="14002300">##Oh, the eternal folly of youth...</text>
 <text id="14002400">Spare the rod and spoil the child...</text>
 </entries>

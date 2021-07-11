@@ -13,8 +13,8 @@ but not so charitable as to give my goods away.</text>
 <text id="11000009">...</text>
 <text id="11000100">Ahh, well met, Ashen One.</text>
 <text id="11000101">How may I be of service?</text>
-<text id="11000200">Ashen One, be sure to bring more souls.</text>
-<text id="11000201">...</text>
+<text id="11000200">##Ashen One, be sure to bring more souls.</text>
+<text id="11000201">##...</text>
 <text id="11000300">Ashen One, if my wares are not to thy satisfaction,</text>
 <text id="11000301">bring me umbral ash.</text>
 <text id="11000302">With ash, I'll fashion new wares.</text>
@@ -30,10 +30,10 @@ but not so charitable as to give my goods away.</text>
 <text id="11000503">Oh, forgive an old woman's idle prate.</text>
 <text id="11000504">I'm sure an ashen one such as thee
 would never indulge such base contrivances...</text>
-<text id="11000505">And even temptation were to prevail...</text>
-<text id="11000506">I'd overlook a little mischief
+<text id="11000505">##And even temptation were to prevail...</text>
+<text id="11000506">##I'd overlook a little mischief
 if thou would'st but thy purse-strings loosen...</text>
-<text id="11000507">Kee hee hee...</text>
+<text id="11000507">##Kee hee hee...</text>
 <text id="11000508">...</text>
 <text id="11000600">Ashen One, what woeful umbral ash is this.</text>
 <text id="11000601">This barren dust, stuff of a fool, won't yield aught.</text>
@@ -60,10 +60,10 @@ Tell me, for the sport.</text>
 <text id="11001105">I'll have thee for all thou'rt worth...</text>
 <text id="11001106">...</text>
 <text id="11001107">...</text>
-<text id="11001200">Oh, you've picked a fine time to visit.</text>
-<text id="11001201">I've just come upon some fine new wares.</text>
-<text id="11001202">How is it thou seem'st privy to this knowledge?</text>
-<text id="11001203">...</text>
+<text id="11001200">##Oh, you've picked a fine time to visit.</text>
+<text id="11001201">##I've just come upon some fine new wares.</text>
+<text id="11001202">##How is it thou seem'st privy to this knowledge?</text>
+<text id="11001203">##...</text>
 <text id="11002000">Well, fancy that. </text>
 <text id="11002001">A lost lamb wandereth in, with nary a peep from the bell.</text>
 <text id="11002002">Well, thou shouldst my purpose know.</text>

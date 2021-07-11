@@ -62,8 +62,8 @@ I know not the missteps which led thee to this painted world.</text>
 <text id="55001101">Tis only the flame, quivering at misguided Ash.</text>
 <text id="55001102">Please, avert thine eyes.</text>
 <text id="55001103">I will snuff out these ashes for good.</text>
-<text id="55001200">Ahh, Father...</text>
-<text id="55001201">Such a deed, for one as I...?</text>
+<text id="55001200">##Ahh, Father...</text>
+<text id="55001201">##Such a deed, for one as I...?</text>
 <text id="55001500">Return from whence thou cam'st.</text>
 <text id="55001501">For that is thy place of belonging.</text>
 <text id="55001600">Leave us be, Ashen One.</text>
@@ -74,6 +74,6 @@ As thy kind always have.</text>
 <text id="55001800">Leave us be, Ashen One,</text>
 <text id="55001801">Thou'rt the Lord of Londor, and have thine own subjects to guide.</text>
 <text id="55001900">As Ashes will be, ever seeking fire...</text>
-<text id="55002000">Thy service was valiant... Vilhelm.</text>
-<text id="55002001">Rest well, good fellow.</text>
+<text id="55002000">##Thy service was valiant... Vilhelm.</text>
+<text id="55002001">##Rest well, good fellow.</text>
 </entries>

@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="35000000">...Hrrg...</text>
-<text id="35000001">...Rrgggg...</text>
-<text id="35000002">...Rrrrrgggg...</text>
-<text id="35000003">...Hrrrggaaaagghhh...</text>
-<text id="35000004">...think, think...remember...remember</text>
-<text id="35000005">...remember...count, count...yeah count...count</text>
-<text id="35000006">...one, two, three, four, five, six, seven...argh...hrgggg</text>
-<text id="35000007">...Hrrgggggggg!!</text>
+<text id="35000000">##...Hrrg...</text>
+<text id="35000001">##...Rrgggg...</text>
+<text id="35000002">##...Rrrrrgggg...</text>
+<text id="35000003">##...Hrrrggaaaagghhh...</text>
+<text id="35000004">##...think, think...remember...remember</text>
+<text id="35000005">##...remember...count, count...yeah count...count</text>
+<text id="35000006">##...one, two, three, four, five, six, seven...argh...hrgggg</text>
+<text id="35000007">##...Hrrgggggggg!!</text>
 <text id="35000100">...</text>
 <text id="35000101">Ah, what? What? Who are you?</text>
 <text id="35000102">Ahh, another Undead, eh? I took on Sen's Fortress alone...</text>
@@ -19,7 +19,7 @@ I was driven by conceit...</text>
 <text id="35000200">...</text>
 <text id="35000201">Hm...Oh, yes, it's you.</text>
 <text id="35000202">What is it? Still something you need, eh, anything at all?</text>
-<text id="35000203">What is it?</text>
+<text id="35000203">##What is it?</text>
 <text id="35000220">...</text>
 <text id="35000221">Hm, ah, oh you?</text>
 <text id="35000222">Still alive? That's a surprise.</text>

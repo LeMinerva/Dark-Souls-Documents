@@ -49,13 +49,13 @@ behind the sculpted knight which beareth no arms.</text>
 <text id="74001203">I prithee, put the great dragon to rest.</text>
 <text id="74001300">I know, I have asked of thee a thing most terrible.</text>
 <text id="74001301">Forgive me, thou wert but mine only hope.</text>
-<text id="74001302">I prithee, put the great dragon to rest.</text>
-<text id="74001303">Afore the dark consumeth him, and his vows are forgot.</text>
 <text id="74001304">Just afore the church of the Princess standeth a tower
 built to honour ancient knights.
 Behind the sculpted knight which beareth no arms,</text>
 <text id="74001305">is a small shrine,
 from which one may descend the chasm of darkness.</text>
+<text id="74001302">I prithee, put the great dragon to rest.</text>
+<text id="74001303">Afore the dark consumeth him, and his vows are forgot.</text>
 <text id="74001400">My most humble thanks.</text>
 <text id="74001401">Tis thanks to thee the dragon erred not from his vows.</text>
 <text id="74001402">Please, take this.
@@ -100,8 +100,8 @@ the glory of fire, and the fear of the dark.</text>
 <text id="74002200">Try again, to remember.</text>
 <text id="74002201">The great honour it was to be a spear.</text>
 <text id="74002400">...</text>
-<text id="74002500">Ahh, but why...</text>
-<text id="74002501">Art thou to bed with the dark?</text>
+<text id="74002500">##Ahh, but why...</text>
+<text id="74002501">##Art thou to bed with the dark?</text>
 <text id="74002600">Never would I ever...</text>
 <text id="74002601">...forgive thy lowly kind...</text>
 </entries>

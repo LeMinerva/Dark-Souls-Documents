@@ -13,7 +13,7 @@ just leave me alone.</text>
 <text id="77100320">Do not attempt to help me.
 Just let me sit here, and wither quietly away...</text>
 <text id="77100400">Well, you're nicely hollowed, aren't you...</text>
-<text id="77100410">Undead, eh?
+<text id="77100410">##Undead, eh?
 Well, you've come a long way.</text>
 <text id="77100420">Are you tormented by memories? Burdened by guilt?</text>
 <text id="77100430">Now the question. Are you ready for more?
@@ -77,7 +77,7 @@ the cartographer.</text>
 <text id="77101600">I want you to kill one more.</text>
 <text id="77101610">You target is Felkin, the hexer.</text>
 <text id="77101620">As proof, bring me that peculiar sceptre of his.</text>
-<text id="77101630">As proof, bring me a hex of his creation.</text>
+<text id="77101630">##As proof, bring me a hex of his creation.</text>
 <text id="77101640">What do you say?</text>
 <text id="77101700">Yes, very good.</text>
 <text id="77101710">But he will be formidable.
@@ -86,7 +86,7 @@ Be cautious.</text>
 That's Felkin, the hexer.</text>
 <text id="77101810">He has that sceptre.
 Bring it to me as proof.</text>
-<text id="77101820">Bring me a hex
+<text id="77101820">##Bring me a hex
 of his creation as proof.</text>
 <text id="77102000">You could kill a dozen like that, and it wouldn't matter.
 I want you to kill someone of import.</text>
@@ -97,7 +97,7 @@ But they say a lot of things...</text>
 <text id="77102030">That she's a gentle shepherd,
 lighting the way for you cursed fools.
 Nonsense.</text>
-<text id="77102040">I want you to kill the strange girl in Majula.</text>
+<text id="77102040">##I want you to kill the strange girl in Majula.</text>
 <text id="77102050">Once she is dead, I will have no regrets,
 and I will be content to remain here.</text>
 <text id="77102060">The girl will have a peculiar feather.
@@ -108,7 +108,7 @@ Heh heh...</text>
 <text id="77102110">It's your choice.</text>
 <text id="77102120">Ah hah hah, now you're getting nervous, hmm?</text>
 <text id="77102200">Your mark is the girl in Majula known as the muse.</text>
-<text id="77102210">Your mark is that strange girl in Majula.</text>
+<text id="77102210">##Your mark is that strange girl in Majula.</text>
 <text id="77102220">And don't forget that feather.
 Heh heh heh...</text>
 <text id="77102300">Yes, that's the feather.</text>

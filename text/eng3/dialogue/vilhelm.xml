@@ -5,9 +5,9 @@
 <text id="52000002">No bell tolls, and yet, you've slipped into the painting?</text>
 <text id="52000003">Oh, no matter.</text>
 <text id="52000004">If you've lost your way, the words of Lady Friede will guide you.</text>
-<text id="52000005">Now, go on ahead. Show respect, and listen carefully.</text>
+<text id="52000005">##Now, go on ahead. Show respect, and listen carefully.</text>
 <text id="52000006">Now, go on inside. Show respect, and listen carefully.</text>
-<text id="52000100">What's keeping you? Go on, straight ahead.</text>
+<text id="52000100">##What's keeping you? Go on, straight ahead.</text>
 <text id="52000101">What's keeping you? Go on, right inside.</text>
 <text id="52000102">Show respect, and let Lady Friede speak to you.</text>
 <text id="52000200">Lady Friede has spoken, has she not?</text>
@@ -25,7 +25,7 @@ and the snow will swallow you whole.</text>
 <text id="52000502">No bell tolls, and yet, you've slipped into the painting?</text>
 <text id="52000503">Oh, no matter.</text>
 <text id="52000504">If you've lost your way, the words of Lady Friede will guide you.</text>
-<text id="52000505">Now, go on ahead. Show respect, and listen carefully.</text>
+<text id="52000505">##Now, go on ahead. Show respect, and listen carefully.</text>
 <text id="52000506">Now, go on inside. Show respect, and listen carefully.</text>
 <text id="52000600">Lady Friede has spoken, has she not?</text>
 <text id="52000601">Then tarry no longer and begone.</text>

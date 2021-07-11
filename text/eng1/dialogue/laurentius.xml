@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="23000000">...Hrr...rrgg...</text>
-<text id="23000001">...somebody...</text>
-<text id="23000002">...please...help me...</text>
-<text id="23000003">...please...</text>
-<text id="23000004">...before she eats me...</text>
+<text id="23000000">##...Hrr...rrgg...</text>
+<text id="23000001">##...somebody...</text>
+<text id="23000002">##...please...help me...</text>
+<text id="23000003">##...please...</text>
+<text id="23000004">##...before she eats me...</text>
 <text id="23000020">...You</text>
 <text id="23000021">...Yes, you!</text>
 <text id="23000022">...Here, over here!</text>
@@ -12,7 +12,7 @@
 <text id="23000024">...You must help me...</text>
 <text id="23000040">...Oh, there you are...</text>
 <text id="23000041">...You must help me...</text>
-<text id="23000042">...Break the urn...</text>
+<text id="23000042">##...Break the urn...</text>
 <text id="23000043">...Or else...</text>
 <text id="23000044">...She'll have me for lunch!</text>
 <text id="23000045">...You're my only hope...</text>
@@ -25,7 +25,7 @@
 <text id="23000105">I will not forget my debt to you.</text>
 <text id="23000200">Oh, hello there.</text>
 <text id="23000201">I'm fine, thanks to you.</text>
-<text id="23000202">I'm heading back to the Undead Asylum.</text>
+<text id="23000202">##I'm heading back to the Undead Asylum.</text>
 <text id="23000300">Whoa!</text>
 <text id="23000320">What are you doing?!</text>
 <text id="23000340">It is I, Laurentius!</text>
@@ -62,10 +62,10 @@ I can teach you pyromancy.</text>
 <text id="23010122">Oh, and er...if by chance you've had a change of heart,</text>
 <text id="23010123">I'll be pleased to assist you
 by sharing my spells.</text>
-<text id="23010250">Oh, hello there.</text>
-<text id="23010251">I'm pleased to see you safe.</text>
-<text id="23010252">I have decided to rest here for a while.</text>
-<text id="23010253">It's not as if we'll be dying anytime soon.</text>
+<text id="23010250">##Oh, hello there.</text>
+<text id="23010251">##I'm pleased to see you safe.</text>
+<text id="23010252">##I have decided to rest here for a while.</text>
+<text id="23010253">##It's not as if we'll be dying anytime soon.</text>
 <text id="23010300">Good-bye, then.</text>
 <text id="23010301">Be safe, friend.</text>
 <text id="23010302">Don't you dare go Hollow.</text>

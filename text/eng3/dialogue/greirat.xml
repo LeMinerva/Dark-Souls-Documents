@@ -31,8 +31,8 @@ at the base of the High Wall.</text>
 <text id="12000401">...</text>
 <text id="12000402">What in buggery!</text>
 <text id="12000403">Damn it, you've lost it, haven't you!</text>
-<text id="12000500">...</text>
-<text id="12000501">Curses, how did this...</text>
+<text id="12000500">##...</text>
+<text id="12000501">##Curses, how did this...</text>
 <text id="12000502">Forgive me, dear...</text>
 <text id="12000600">Oh, hello, you're back.</text>
 <text id="12000601">And in one piece. Well, now it's time I do my part.</text>
@@ -47,7 +47,7 @@ at the base of the High Wall.</text>
 <text id="12000900">Oh, then, we are both safe and sound.</text>
 <text id="12000901">Thank the gods for that. I don't like cutting things so close.</text>
 <text id="12000902">I might've died if it wasn't for that peculiar onion knight.</text>
-<text id="12000903">I might've died if it wasn't for that little knight Anri.</text>
+<text id="12000903">##I might've died if it wasn't for that little knight Anri.</text>
 <text id="12000904">But in the end, it all paid off.</text>
 <text id="12000905">Take a good look. They're sure to be of some use.</text>
 <text id="12001000">Goodbye, and stay safe.</text>
@@ -126,10 +126,10 @@ I lived a petty rat, but would rather not die as one.</text>
 <text id="12002505">...</text>
 <text id="12002600">...</text>
 <text id="12002601">...</text>
-<text id="12002603">What's got into you?</text>
-<text id="12002604">Stop that, please, stop!</text>
+<text id="12002603">##What's got into you?</text>
+<text id="12002604">##Stop that, please, stop!</text>
 <text id="12002700">...</text>
-<text id="12002701">How could you!</text>
+<text id="12002701">##How could you!</text>
 <text id="12002702">I've gone and run my course, haven't I?</text>
 <text id="12002800">Cold piss, what the devil is it now!</text>
 <text id="12002801">I get caught once, and now this!</text>
@@ -139,6 +139,6 @@ I lived a petty rat, but would rather not die as one.</text>
 <text id="12003000">You're headed for the brink, aren't you?</text>
 <text id="12003001">Well, you won't drag me down.</text>
 <text id="12003002">En guarde, you crusty ash bastard!</text>
-<text id="12003100">Cold piss, why did it come to this...</text>
-<text id="12003200">And I thought we were friends...some friends...</text>
+<text id="12003100">##Cold piss, why did it come to this...</text>
+<text id="12003200">##And I thought we were friends...some friends...</text>
 </entries>

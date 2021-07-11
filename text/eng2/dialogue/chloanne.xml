@@ -40,11 +40,11 @@ and should be used with great thrift.</text>
 <text id="76201130">None of the differences are easily spotted,
 but I've learned quite a lot, really!
 Heh.</text>
-<text id="76201200">I'll trade stones for souls if you wish.</text>
-<text id="76201210">If you've no souls, I'll trade for items.</text>
-<text id="76201220">If you offer something of quality,
+<text id="76201200">##I'll trade stones for souls if you wish.</text>
+<text id="76201210">##If you've no souls, I'll trade for items.</text>
+<text id="76201220">##If you offer something of quality,
 I'll offer a comparable stone.</text>
-<text id="76201230">Don't look so surprised,
+<text id="76201230">##Don't look so surprised,
 I always deal fair and square! Heh.</text>
 <text id="76201300">Drangleic...</text>
 <text id="76201310">How is it that I ended up here?</text>
@@ -88,7 +88,7 @@ or lured in...Oh, I don't know...</text>
 <text id="76205030">What?!</text>
 <text id="76205040">What on earth?!</text>
 <text id="76205050">Stop that!</text>
-<text id="76206000">Bye for now. Heh heh...</text>
+<text id="76206000">##Bye for now. Heh heh...</text>
 <text id="76207000">Oh, I know! Take these.</text>
 <text id="76207010">We can all do with a little help,
 can't we? I know I always can!

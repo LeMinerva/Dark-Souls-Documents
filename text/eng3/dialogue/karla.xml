@@ -8,10 +8,10 @@
 <text id="15000101">Accept my apologies, for mistaking you for one of those leeches.</text>
 <text id="15000102">So, what business have you here?</text>
 <text id="15000103">This is a land of monstrosities. And I am no exception.</text>
-<text id="15000200">Would I serve you?</text>
-<text id="15000201">Then you must be involved in linking of the fire.</text>
-<text id="15000202">Ahh, very well. I can do very little holed up here.</text>
-<text id="15000203">I am Feria, of the Profaned Capital,
+<text id="15000200">##Would I serve you?</text>
+<text id="15000201">##Then you must be involved in linking of the fire.</text>
+<text id="15000202">##Ahh, very well. I can do very little holed up here.</text>
+<text id="15000203">##I am Feria, of the Profaned Capital,
 and I hereby enter into your service.</text>
 <text id="15000300">...</text>
 <text id="15000301">You are very frank.</text>
@@ -67,8 +67,8 @@ and I am afraid you will peer into it.</text>
 or a ruinous nostalgia...</text>
 <text id="15001503">...is up to you entirely.</text>
 <text id="15001504">Fear not, your choice will bring you no scorn.</text>
-<text id="15001505">Ahh, it's little wonder my kindness is lost on most...</text>
-<text id="15001506">...</text>
+<text id="15001505">##Ahh, it's little wonder my kindness is lost on most...</text>
+<text id="15001506">##...</text>
 <text id="15001600">Oh, a pyromancy tome, have we?</text>
 <text id="15001601">Quelana, Witch of Izalith...
 well, this is a fascinating pyromancy...</text>

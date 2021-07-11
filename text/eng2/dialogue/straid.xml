@@ -8,17 +8,17 @@ A wandering sorcerer of sorts.</text>
 <text id="76800030">I've been a guest for a very long time.
 But I don't think that
 anybody will miss me!</text>
-<text id="76800100">I sense the curse within you.</text>
-<text id="76800110">It has made you terribly frail.</text>
-<text id="76800120">Your faith and intelligence are anaemic.
+<text id="76800100">##I sense the curse within you.</text>
+<text id="76800110">##It has made you terribly frail.</text>
+<text id="76800120">##Your faith and intelligence are anaemic.
 Life must be unbearable.
 Heh heh...</text>
 <text id="76800200">Cursed one, you lack intelligence.</text>
 <text id="76800210">Weak, so terribly weak...</text>
 <text id="76800220">Heh heh heh...</text>
-<text id="76800300">Cursed one, you lack faith.</text>
-<text id="76800310">You are weak, very weak...</text>
-<text id="76800320">Heh heh heh
+<text id="76800300">##Cursed one, you lack faith.</text>
+<text id="76800310">##You are weak, very weak...</text>
+<text id="76800320">##Heh heh heh
 ...</text>
 <text id="76800400">Hm-hmm...</text>
 <text id="76800410">Very good, very good indeed.</text>
@@ -48,7 +48,7 @@ Heh heh heh...</text>
 Heh heh heh...</text>
 <text id="76801100">So, how long was I sat petrified...</text>
 <text id="76801110">Long enough for the old kingdom to have crumbled, I see.</text>
-<text id="76801120">Long enough for Olaphis to rise, fall, and fade away, evidently.</text>
+<text id="76801120">##Long enough for Olaphis to rise, fall, and fade away, evidently.</text>
 <text id="76801130">Why didn't anyone wake me sooner?!
 Heh heh...</text>
 <text id="76801200">Drangleic... I've never heard the name.</text>
@@ -59,7 +59,7 @@ Very good indeed.</text>
 <text id="76801310">Of course, you came of your own free will.
 Heh heh...</text>
 <text id="76801320">The people feared the cursed ones like a plague.</text>
-<text id="76801330">Our king, Alvis, feared the cursed ones like the plague.</text>
+<text id="76801330">##Our king, Alvis, feared the cursed ones like the plague.</text>
 <text id="76801340">Some people would rather keep
 dreadful things out of sight, out of mind.</text>
 <text id="76801350">In the end they swept them up

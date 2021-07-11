@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="60000000">...Human...</text>
-<text id="60000010">...Why have you the ring of Artorias?</text>
-<text id="60000011">...Why have you the soul of Artorias?</text>
-<text id="60000020">...I am Ciaran, and that is a keepsake.</text>
-<text id="60000100">...That ring...</text>
-<text id="60000110">It was purloined by a man in a long coat...</text>
-<text id="60000120">I know not how you came upon it,</text>
-<text id="60000130">but its owner met his death here.</text>
-<text id="60000140">He was a dear companion,
+<text id="60000000">##...Human...</text>
+<text id="60000010">##...Why have you the ring of Artorias?</text>
+<text id="60000011">##...Why have you the soul of Artorias?</text>
+<text id="60000020">##...I am Ciaran, and that is a keepsake.</text>
+<text id="60000100">##...That ring...</text>
+<text id="60000110">##It was purloined by a man in a long coat...</text>
+<text id="60000120">##I know not how you came upon it,</text>
+<text id="60000130">##but its owner met his death here.</text>
+<text id="60000140">##He was a dear companion,
 and I wish to return the ring to his grave.</text>
-<text id="60000150">Would you be willing to part with it?</text>
+<text id="60000150">##Would you be willing to part with it?</text>
 <text id="60000200">Thank you. You are very kind.</text>
 <text id="60000210">Please take this. I no longer need it.</text>
 <text id="60000220">May the Lord guide thee.</text>
@@ -32,7 +32,7 @@ I wish to pay proper respect, with that soul.</text>
 <text id="60000730">Would you be willing to part with it?</text>
 <text id="60005000">Hmph, you humans...</text>
 <text id="60005010">...always taking what you please. Then, I shall do the same.</text>
-<text id="60005011">...always resorting to force. Then, I shall do the same.</text>
+<text id="60005011">##...always resorting to force. Then, I shall do the same.</text>
 <text id="60005100">Hrk!</text>
 <text id="60005110">Erg!</text>
 <text id="60005120">Ooh!</text>

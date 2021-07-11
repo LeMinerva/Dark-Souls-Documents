@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="77500100">Thank you for helping me.
+<text id="77500100">##Thank you for helping me.
 How awkward...that I fell for such a trap.</text>
 <text id="77500101">Thank you for helping me.</text>
 <text id="77500110">I am Ornifex.</text>
@@ -70,5 +70,5 @@ The way you glare at any unfamiliar creature.</text>
 <text id="77505040">What are you...!</text>
 <text id="77505050">Stop this!</text>
 <text id="77505070">You humans are all alike...</text>
-<text id="77506000">May we meet again.</text>
+<text id="77506000">##May we meet again.</text>
 </entries>

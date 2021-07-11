@@ -3,9 +3,9 @@
 <text id="18000000">Hello there. I believe we are not acquainted?</text>
 <text id="18000001">I am Petrus of Thorolund. Have you business with us?</text>
 <text id="18000002">...If not, I'd prefer to keep a distance, if possible.</text>
-<text id="18000003">We are on a mission, as you likely are too.
+<text id="18000003">##We are on a mission, as you likely are too.
 A very important one at that.</text>
-<text id="18000004">Especially for M'lady.
+<text id="18000004">##Especially for M'lady.
 Surely you can understand?</text>
 <text id="18000100">Hello there.</text>
 <text id="18000101">I realize that I have requested that we retain our distance,</text>
@@ -78,8 +78,8 @@ without her family name.</text>
 Best of luck as a Hollow!</text>
 <text id="18011002">Gah hah hah hah hah!</text>
 <text id="18011100">Oh, hello...</text>
-<text id="18011101">Of course I will repay you. I gave you my word.</text>
-<text id="18011102">I'm just not sure what would do...</text>
+<text id="18011101">##Of course I will repay you. I gave you my word.</text>
+<text id="18011102">##I'm just not sure what would do...</text>
 <text id="18011103">Oh, I know. How about this...</text>
 <text id="18011104">I have to await my companions here anyway,</text>
 <text id="18011105">so, what if I were to teach you some miracles?</text>
@@ -124,20 +124,20 @@ we shall one day be granted magnificent powers.</text>
 <text id="18012400">Oh, I'm sorry. Miracles, was it?</text>
 <text id="18012420">...Sometimes I lose myself; pay me no mind!</text>
 <text id="18012460">...I'm distracted by grief; pay me no mind!</text>
-<text id="18020000">Help me!</text>
-<text id="18020001">Somebody! Help me!</text>
-<text id="18020002">I am trapped!</text>
-<text id="18020100">You there, please, help me...</text>
-<text id="18020101">As you can see I am captured, immobilized.</text>
-<text id="18020102">Soon to be a sacrifice to necromancy.</text>
-<text id="18020103">I implore you...please help...</text>
-<text id="18020104">Ooh...</text>
-<text id="18020200">Phew...I am saved.</text>
-<text id="18020201">Thank you. I owe you my life.</text>
-<text id="18020202">I am Petrus of Thorolund.</text>
-<text id="18020203">I will be sure to repay you, back at Firelink Shrine.</text>
-<text id="18020204">Please, no, it's the least that I can do.</text>
-<text id="18020300">Please, rest assured.</text>
-<text id="18020301">I shall repay you, but back at Firelink Shrine.</text>
-<text id="18020302">The Gods do not look favourably upon haste!</text>
+<text id="18020000">##Help me!</text>
+<text id="18020001">##Somebody! Help me!</text>
+<text id="18020002">##I am trapped!</text>
+<text id="18020100">##You there, please, help me...</text>
+<text id="18020101">##As you can see I am captured, immobilized.</text>
+<text id="18020102">##Soon to be a sacrifice to necromancy.</text>
+<text id="18020103">##I implore you...please help...</text>
+<text id="18020104">##Ooh...</text>
+<text id="18020200">##Phew...I am saved.</text>
+<text id="18020201">##Thank you. I owe you my life.</text>
+<text id="18020202">##I am Petrus of Thorolund.</text>
+<text id="18020203">##I will be sure to repay you, back at Firelink Shrine.</text>
+<text id="18020204">##Please, no, it's the least that I can do.</text>
+<text id="18020300">##Please, rest assured.</text>
+<text id="18020301">##I shall repay you, but back at Firelink Shrine.</text>
+<text id="18020302">##The Gods do not look favourably upon haste!</text>
 </entries>

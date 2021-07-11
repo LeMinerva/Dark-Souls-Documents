@@ -54,7 +54,7 @@ the Legion will bury a kingdom at the first sign of exposure.</text>
 <text id="7000503">Gaining admission to the Legion is a matter of some ceremony.</text>
 <text id="7000504">Inside their keep, snuffing out the flames of
 three altars opens the door to the wolf blood.</text>
-<text id="7000505">Inside their keep, snuffing out the flames of
+<text id="7000505">##Inside their keep, snuffing out the flames of
 four altars opens the door to the wolf blood.</text>
 <text id="7000506">Even accursed Undead want to believe they're special, it seems.</text>
 <text id="7000507">I pity the sorry souls.</text>
@@ -62,7 +62,7 @@ four altars opens the door to the wolf blood.</text>
 <text id="7000600">Gaining admission to the Legion is a matter of some ceremony.</text>
 <text id="7000601">Inside their keep, snuffing out the flames of
 three altars opens the door to the wolf blood.</text>
-<text id="7000602">Inside their keep, snuffing out the flames of
+<text id="7000602">##Inside their keep, snuffing out the flames of
 four altars opens the door to the wolf blood.</text>
 <text id="7000603">Even accursed Undead want to believe they're special, it seems.</text>
 <text id="7000604">I pity the sorry souls.</text>
@@ -94,9 +94,9 @@ four altars opens the door to the wolf blood.</text>
 <text id="7001401">I'm a deserter, I know.</text>
 <text id="7001402">But I've still plenty of fight in me...</text>
 <text id="7001500">...</text>
-<text id="7001502">What a bloody joke...</text>
+<text id="7001502">##What a bloody joke...</text>
 <text id="7001503">You crawled out of the ground, for gods' sake...</text>
-<text id="7001600">We'll never amount to anything, not you, not I...</text>
+<text id="7001600">##We'll never amount to anything, not you, not I...</text>
 <text id="7001700">...</text>
 <text id="7001701">...</text>
 <text id="7001703">What is it, now!</text>
@@ -106,12 +106,12 @@ four altars opens the door to the wolf blood.</text>
 <text id="7001802">And avenge the poor lost souls...</text>
 <text id="7001900">...</text>
 <text id="7001902">Go on, be as bloody mad as you like.</text>
-<text id="7001903">Trapped within your wretched curse.</text>
+<text id="7001903">##Trapped within your wretched curse.</text>
 <text id="7002000">Who can deny the curse? You poor bastard.</text>
 <text id="7002001">Who can deny the curse? You poor girl.</text>
 <text id="7002100">...</text>
 <text id="7002102">You are a dragon, more dragon than I.</text>
-<text id="7002103">A deserter could hope for no better place to die.</text>
+<text id="7002103">##A deserter could hope for no better place to die.</text>
 <text id="7002200">Loathe me all you like, but I am the true dragon...</text>
 <text id="7002300">Ahh, there you are.</text>
 <text id="7002301">This shall be no petty theft.</text>

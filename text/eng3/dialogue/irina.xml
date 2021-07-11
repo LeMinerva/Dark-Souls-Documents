@@ -33,7 +33,7 @@ might I enter into your service, instead?</text>
 <text id="16000700">...</text>
 <text id="16000702">Ohh, great gods, forgive me...</text>
 <text id="16000800">Oh, Champion of Ash. Welcome back.</text>
-<text id="16000801">You truly are all the tales said you would be.</text>
+<text id="16000801">##You truly are all the tales said you would be.</text>
 <text id="16000802">I was not meant to be a Fire Keeper,
 but I am honoured to serve you beside the Bonfire.</text>
 <text id="16000803">The gods are ever-merciful.
@@ -54,10 +54,10 @@ My gratitude lies with them, and with you.</text>
 <text id="16001202">Tales of the greater miracles can be quite the epics...</text>
 <text id="16001203">What fun we will have.</text>
 <text id="16001204">...</text>
-<text id="16001300">Ahh, you've brought me a braille Divine Tome.</text>
-<text id="16001301">Now I can tell you new tales of miracles.</text>
-<text id="16001302">Tales of the old dragon hunters.</text>
-<text id="16001303">Perhaps the kind you might enjoy...</text>
+<text id="16001300">##Ahh, you've brought me a braille Divine Tome.</text>
+<text id="16001301">##Now I can tell you new tales of miracles.</text>
+<text id="16001302">##Tales of the old dragon hunters.</text>
+<text id="16001303">##Perhaps the kind you might enjoy...</text>
 <text id="16001400">Oh, what's this...</text>
 <text id="16001401">Champion of Ash, this Divine Tome is forbidden...</text>
 <text id="16001402">These are dark tales of things that lurk deep within men...

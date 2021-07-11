@@ -1,10 +1,10 @@
+::selection{background:#fff;color:#000}
+::-webkit-scrollbar{background:#222;width:10px}
+::-webkit-scrollbar-thumb{background:#960;width:10px;border-radius:5px}
 *{margin:0;padding:0}
 html{background:#000}
 a,img{color:#aaa;text-decoration:none;transition:.3s}
 a:hover{color:#960}
-::selection{background:#fff;color:#000}
-::-webkit-scrollbar{background:#222;width:10px}
-::-webkit-scrollbar-thumb{background:#960;width:10px;border-radius:5px}
 .content,.contentd{width:1800px;margin:auto;overflow:hidden}
 .content:last-child,.contentd{margin-top:150px}
 .content.game3 .icon img{margin-left:-10%;transition:none}
@@ -44,6 +44,7 @@ a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin-left:7em}
 .contentd .desfrm{transform:none;margin:2em 0}
 .contentd .frame{padding-bottom:1em}
 .mobile{display:none}
+.uud,.uud::selection{text-decoration:line-through;text-decoration-color:rgba(255,0,0,.4);text-decoration-thickness:.2em}
 @media screen and (max-width:1000px){
 .content,.contentd{width:100%;overflow:auto}
 .content:last-child,.contentd{margin:0}

@@ -50,13 +50,13 @@ That gaping hole in the earth.</text>
 but I wouldn't suggest trying to find out.</text>
 <text id="74100530">Besides, you'll never make it down there,
 not without a ladder of some sort.</text>
-<text id="74100600">There lies a forest beyond the hills.</text>
-<text id="74100610">But I've never been out that way.
+<text id="74100600">##There lies a forest beyond the hills.</text>
+<text id="74100610">##But I've never been out that way.
 ...It's far too perilous.</text>
-<text id="74100620">I am told the palace lies beyond the forest.</text>
-<text id="74100630">If there is any palace left at all,
+<text id="74100620">##I am told the palace lies beyond the forest.</text>
+<text id="74100630">##If there is any palace left at all,
 after such a period of neglect.</text>
-<text id="74100710">Content to pray for the safety of brave travellers, like yourself.</text>
+<text id="74100710">##Content to pray for the safety of brave travellers, like yourself.</text>
 <text id="74100800">The flame you see there is a bonfire.</text>
 <text id="74100810">They exist all across the land... beacons to we Undead.</text>
 <text id="74100820">If you are tired,
@@ -114,7 +114,7 @@ treacherous journey on your own.</text>
 <text id="74105050">What on earth are you doing!</text>
 <text id="74105060">What could possibly come of this?!</text>
 <text id="74105070">Finally, I will have peace...</text>
-<text id="74106000">I'll be moving on... I suppose...</text>
+<text id="74106000">##I'll be moving on... I suppose...</text>
 <text id="74107000">You have died many times, yes, I understand.</text>
 <text id="74107010">Here, these are for you.</text>
 <text id="74107020">May they help you on your travels.</text>

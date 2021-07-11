@@ -7,10 +7,10 @@
 <text id="75810014">Go back.</text>
 <text id="75810015">Do not seek the old Chaos,
 nor its twisted flame.</text>
-<text id="75810020">It was Aava that found you.</text>
-<text id="75810021">The King's orders burden the poor thing yet.</text>
-<text id="75810022">But without the sign, you will be repelled.</text>
-<text id="75810023">You must turn back.</text>
+<text id="75810020">##It was Aava that found you.</text>
+<text id="75810021">##The King's orders burden the poor thing yet.</text>
+<text id="75810022">##But without the sign, you will be repelled.</text>
+<text id="75810023">##You must turn back.</text>
 <text id="75810030">Go back.</text>
 <text id="75810031">Aava is watching.</text>
 <text id="75810032">Go back.</text>
@@ -23,8 +23,8 @@ and end things swiftly.</text>
 <text id="75810051">And never look back.</text>
 <text id="75810052">No one must ever find that
 which is sheltered in Eleum Loyce.</text>
-<text id="75810100">You've escaped Aava's jaws, and reached this forbidden land.</text>
-<text id="75810101">Who are you?</text>
+<text id="75810100">##You've escaped Aava's jaws, and reached this forbidden land.</text>
+<text id="75810101">##Who are you?</text>
 <text id="75810110">To think Aava could be bested...</text>
 <text id="75810111">Who are you?</text>
 <text id="75810120">The frozen knights of Eleum Loyce.</text>
@@ -68,7 +68,7 @@ followed their Lord into the Chaos.</text>
 <text id="75810202">The King's dutiful subjects waited patiently for His homecoming.</text>
 <text id="75810203">But it was too long a wait to bear...</text>
 <text id="75810204">The knights, reborn, will follow your word.</text>
-<text id="75810205">The path to Chaos
+<text id="75810205">##The path to Chaos
 lies behind you...</text>
 <text id="75810210">Many of Eleum Loyce's faithful knights
 followed their Lord into the Chaos.</text>
@@ -77,7 +77,7 @@ followed their Lord into the Chaos.</text>
 <text id="75810213">But it was too long a wait to bear...</text>
 <text id="75810214">The knights of Eleum Loyce await a new leader.</text>
 <text id="75810215">One who will guide them into Chaos.</text>
-<text id="75810216">The path to Chaos lies behind you...</text>
+<text id="75810216">##The path to Chaos lies behind you...</text>
 <text id="75810300">You've granted my one wish...</text>
 <text id="75810301">Now, I have no regrets.</text>
 <text id="75810302">I was born amidst the Dark.</text>
@@ -137,7 +137,7 @@ But perhaps...</text>
 <text id="75815000">What are you...</text>
 <text id="75815010">What do you seek in murder?</text>
 <text id="75815020">Oh...my dear Lord...</text>
-<text id="75816000">The great door is open.</text>
-<text id="75816001">The frigid air of Eleum Loyce
+<text id="75816000">##The great door is open.</text>
+<text id="75816001">##The frigid air of Eleum Loyce
 sweeps across the land...</text>
 </entries>

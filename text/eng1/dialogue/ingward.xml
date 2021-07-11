@@ -28,7 +28,7 @@ You must be prepared for sacrifice.</text>
 <text id="28000500">Hello, there. Cursed again?</text>
 <text id="28000501">I do not know whether you are brave, or just foolish,
 but you do seem to find your share of trouble.</text>
-<text id="28000502">How do you manage to find so much trouble?</text>
+<text id="28000502">##How do you manage to find so much trouble?</text>
 <text id="28000900">Hello there. What is it?</text>
 <text id="28000901">The key to the seal is now in your hands.
 I will help you in any way possible.</text>
@@ -58,28 +58,26 @@ and now I've come back to this dark hole!</text>
 <text id="28001501">Very impressive.</text>
 <text id="28001502">I know exactly what your intentions are.</text>
 <text id="28001503">You seek the Four Kings whom I guard over.</text>
-<text id="28001504">And yes, I do have the key to the seal.</text>
-<text id="28001505">But before I give it up, there is something I must ask.</text>
-<text id="28001506">Do you see the great hall that stands before you?</text>
-<text id="28001507">Atop it, you will find a Darkwraith,
+<text id="28001504">##And yes, I do have the key to the seal.</text>
+<text id="28001505">##But before I give it up, there is something I must ask.</text>
+<text id="28001506">##Do you see the great hall that stands before you?</text>
+<text id="28001507">##Atop it, you will find a Darkwraith,
 a servant of the Four Kings.</text>
-<text id="28001508">Show me that you can defeat it.</text>
-<text id="28001509">As guardian of the seal, it behoves me to test your strength.</text>
-<text id="28001510">For if you cannot defeat the Darkwraith,
+<text id="28001508">##Show me that you can defeat it.</text>
+<text id="28001509">##As guardian of the seal, it behoves me to test your strength.</text>
+<text id="28001510">##For if you cannot defeat the Darkwraith,
 you will be no match for the Four Kings.</text>
-<text id="28001511">Even if Frampt has chosen you.</text>
-<text id="28001512">Even if you are the bearer of the Lordvessel.</text>
+<text id="28001511">##Even if Frampt has chosen you.</text>
+<text id="28001512">##Even if you are the bearer of the Lordvessel.</text>
 <text id="28001600">Well, this is a surprise.
 I get few visitors, save for ghosts.</text>
 <text id="28001601">You have...the Lordvessel.</text>
-<text id="28001700">Oh, hello.</text>
-<text id="28001701">What is it? I will help you in any way that I can.</text>
-<text id="28001800">Hate to ask, really.</text>
-<text id="28001801">But I am the Guardian of the Seal.
+<text id="28001800">##Hate to ask, really.</text>
+<text id="28001801">##But I am the Guardian of the Seal.
 I have seen too many lives wasted over the eons.</text>
-<text id="28001802">So, I had no choice but to test your mettle.</text>
-<text id="28001900">You, you have defeated the Darkwraith!</text>
-<text id="28001901">Very good, indeed. I can certainly trust you.</text>
+<text id="28001802">##So, I had no choice but to test your mettle.</text>
+<text id="28001900">##You, you have defeated the Darkwraith!</text>
+<text id="28001901">##Very good, indeed. I can certainly trust you.</text>
 <text id="28001902">This is the key to the seal.</text>
 <text id="28001903">The Four Kings slumber in the deepest chamber of the ruins.</text>
 <text id="28001904">Use this key to break the seal and open the floodgates.</text>

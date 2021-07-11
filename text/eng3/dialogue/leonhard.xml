@@ -12,7 +12,7 @@ and briefly heighten your strength, for your duty.</text>
 <text id="9000102">...</text>
 <text id="9000200">Well, hasn't it been some time.</text>
 <text id="9000201">I'm Leonhard, the Ringfinger.</text>
-<text id="9000202">Remember me? I slipped you those red eyes back in Lothric.</text>
+<text id="9000202">##Remember me? I slipped you those red eyes back in Lothric.</text>
 <text id="9000203">Remember me? I slipped you those red eyes some time ago.</text>
 <text id="9000204">You're making quite an effort of it.
 So I thought you might like to know.</text>
@@ -21,7 +21,7 @@ So I thought you might like to know.</text>
 survivor of the land swallowed by darkness.</text>
 <text id="9000207">He has been a prisoner, for many ages.
 In the deepest cell in all Lothric...</text>
-<text id="9000208">He has been a prisoner, for many ages.
+<text id="9000208">##He has been a prisoner, for many ages.
 Deep below the tower, just behind us now...</text>
 <text id="9000209">I can see it in your eyes.
 If you didn't invade, didn't pillage, whatever would you do?</text>
@@ -31,14 +31,14 @@ If you didn't invade, didn't pillage, whatever would you do?</text>
 survivor of the land swallowed by darkness.</text>
 <text id="9000302">He has been a prisoner, for many ages.
 In the deepest cell in all Lothric...</text>
-<text id="9000303">He has been a prisoner, for many ages.
+<text id="9000303">##He has been a prisoner, for many ages.
 Deep below the tower, just behind us now...</text>
 <text id="9000304">I can see it in your eyes.
 If you didn't invade, didn't pillage, whatever would you do?</text>
 <text id="9000305">...</text>
-<text id="9000400">The stones on that bastard, to show his face round here...</text>
-<text id="9000401">Though he does well to hide his claws...</text>
-<text id="9000402">...</text>
+<text id="9000400">##The stones on that bastard, to show his face round here...</text>
+<text id="9000401">##Though he does well to hide his claws...</text>
+<text id="9000402">##...</text>
 <text id="9000500">Ah-hah, you've found a proper red eye...</text>
 <text id="9000501">Brilliant. I knew you were no ordinary man.</text>
 <text id="9000502">Brilliant. I knew you were a dangerous woman.</text>
@@ -67,26 +67,26 @@ you can choose to believe that all Fingers share camaraderie.</text>
 <text id="9000802">You are free to believe that all Fingers share camaraderie.</text>
 <text id="9000803">But do not force your romance upon the rest of us.</text>
 <text id="9000804">...</text>
-<text id="9000900">That bastard, who does he think he is?</text>
-<text id="9000901">He needs to be reminded. Of the grovelling pig that he is...</text>
-<text id="9001000">Wait! Stay out of this!</text>
-<text id="9001001">This pig deserves his death!</text>
-<text id="9001002">If you dare question this knight's justice,
+<text id="9000900">##That bastard, who does he think he is?</text>
+<text id="9000901">##He needs to be reminded. Of the grovelling pig that he is...</text>
+<text id="9001000">##Wait! Stay out of this!</text>
+<text id="9001001">##This pig deserves his death!</text>
+<text id="9001002">##If you dare question this knight's justice,
 an enemy of mine you shall be!</text>
-<text id="9001100">Drown in your trough! You filthy pig!</text>
-<text id="9001200">Didn't I tell you?</text>
-<text id="9001201">Rosaria's Fingers take no allegiance with one another.</text>
-<text id="9001202">And this pig fully deserved his death.</text>
-<text id="9001203">At least, as far as I see it.</text>
-<text id="9001204">Isn't that enough for you?</text>
-<text id="9001205">(laugh)</text>
-<text id="9001300">This pig fully deserved his death.</text>
-<text id="9001301">At least, as far as I see it.</text>
-<text id="9001302">Isn't that enough for you?</text>
-<text id="9001303">...</text>
-<text id="9001400">...</text>
-<text id="9001402">You rotten beasts, don't you ever forget...</text>
-<text id="9001403">Just what it is you're ravaging...</text>
+<text id="9001100">##Drown in your trough! You filthy pig!</text>
+<text id="9001200">##Didn't I tell you?</text>
+<text id="9001201">##Rosaria's Fingers take no allegiance with one another.</text>
+<text id="9001202">##And this pig fully deserved his death.</text>
+<text id="9001203">##At least, as far as I see it.</text>
+<text id="9001204">##Isn't that enough for you?</text>
+<text id="9001205">##(laugh)</text>
+<text id="9001300">##This pig fully deserved his death.</text>
+<text id="9001301">##At least, as far as I see it.</text>
+<text id="9001302">##Isn't that enough for you?</text>
+<text id="9001303">##...</text>
+<text id="9001400">##...</text>
+<text id="9001402">##You rotten beasts, don't you ever forget...</text>
+<text id="9001403">##Just what it is you're ravaging...</text>
 <text id="9001500">Well, well, never expected to see you here.</text>
 <text id="9001501">Couldn't resist her any longer, in all her festering glory?</text>
 <text id="9001502">Felt sorry for the poor thing, in all her festering glory?</text>
@@ -104,8 +104,8 @@ an enemy of mine you shall be!</text>
 <text id="9001800">What do you want with her soul?</text>
 <text id="9001801">Isn't flesh enough for a sick beast!</text>
 <text id="9001900">...</text>
-<text id="9001902">You are a vile, rapacious beast...</text>
-<text id="9001903">I should have never let you near her...</text>
+<text id="9001902">##You are a vile, rapacious beast...</text>
+<text id="9001903">##I should have never let you near her...</text>
 <text id="9002000">Enough with you, my friend.</text>
 <text id="9002001">A knight of the goddess does not die.</text>
 <text id="9002100">...</text>

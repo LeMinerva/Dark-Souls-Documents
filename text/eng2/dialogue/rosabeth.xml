@@ -60,7 +60,7 @@ but if that might help you, come to me.</text>
 <text id="76302200">I finally tracked down my teacher.</text>
 <text id="76302210">But I've decided to keep at it alone.</text>
 <text id="76302220">I need to see what I can achieve by myself.</text>
-<text id="76302300">What a wonderful choice!</text>
+<text id="76302300">##What a wonderful choice!</text>
 <text id="76302700">Yes! How may I help you?</text>
 <text id="76302800">Hello! Do you require pyromancy?</text>
 <text id="76302900">Hello again! How have you been?</text>
@@ -94,7 +94,7 @@ But he didn't seem to hear.</text>
 <text id="76305040">C-calm...calm yourself!</text>
 <text id="76305060">B-but why?</text>
 <text id="76305070">Eeeek!</text>
-<text id="76306000">Master... Carhillion...</text>
+<text id="76306000">##Master... Carhillion...</text>
 <text id="76307000">Oh, yes! These are for you!</text>
 <text id="76307010">Please, take them!</text>
 </entries>

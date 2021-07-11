@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="10000000">He has the key.</text>
-<text id="10000001">The choice is yours.</text>
-<text id="10010100">Ah, hello!</text>
-<text id="10010101">I knew you would come! Just call it intuition.</text>
+<text id="10000000">##He has the key.</text>
+<text id="10000001">##The choice is yours.</text>
+<text id="10010100">##Ah, hello!</text>
+<text id="10010101">##I knew you would come! Just call it intuition.</text>
 <text id="10010102">Ah, hello! You don't look Hollow, far from it!</text>
 <text id="10010103">I am Solaire of Astora, an adherent of the Lord of Sunlight.</text>
 <text id="10010104">Now that I am Undead, I have come to this great land
@@ -14,16 +14,16 @@ the birthplace of Lord Gwyn, to seek my very own sun!</text>
 <text id="10010200">Oh, ah-hah! So, I didn't scare you?</text>
 <text id="10010201">I have a proposition, if you have a moment.</text>
 <text id="10010250">The way I see it, our fates appear to be intertwined.</text>
-<text id="10010251">Both Undead, both imprisoned in the Asylum
+<text id="10010251">##Both Undead, both imprisoned in the Asylum
 and now, we both end up here.</text>
 <text id="10010252">In a land brimming with Hollows
 could that really be mere chance?</text>
-<text id="10010253">I hardly think so!</text>
-<text id="10010254">Now, I know not of your designs,
+<text id="10010253">##I hardly think so!</text>
+<text id="10010254">##Now, I know not of your designs,
 but I sense something singular about you.</text>
 <text id="10010255">So, what do you say?
 Why not help one another on this lonely journey?</text>
-<text id="10010300">Oh, yes! Wonderful!</text>
+<text id="10010300">##Oh, yes! Wonderful!</text>
 <text id="10010301">This pleases me greatly! Well then, take this.</text>
 <text id="10010302">We are amidst strange beings, in a strange land.</text>
 <text id="10010303">The flow of time itself is convoluted;
@@ -85,26 +85,26 @@ in the name of the Lord of Sunlight!</text>
 <text id="10020208">...Only if it would please you, of course. Well?</text>
 <text id="10020250">Oh! Magnificent! I knew you would fancy it!</text>
 <text id="10020251">Then, join the Covenant! Here, stay still for a moment...</text>
-<text id="10020252">And there we are.
+<text id="10020252">##And there we are.
 Now you need only pray at the Altar of Sunlight in Anor Londo.</text>
 <text id="10020253">And there we are.
 Now, just say a prayer at the Altar of Sunlight, right there.</text>
-<text id="10020254">Then you shall know our radiance, our duty.</text>
+<text id="10020254">##Then you shall know our radiance, our duty.</text>
 <text id="10020255">Then you shall know the brilliance of our Sun.</text>
 <text id="10020300">Yes, well,
 each has one's beliefs.</text>
 <text id="10020301">But if you change your mind, the offer is open.</text>
 <text id="10020400">Oh, hello there. Still here?</text>
-<text id="10020401">You have praying to do. At the Shrine of Sunlight in Anor Londo.</text>
+<text id="10020401">##You have praying to do. At the Shrine of Sunlight in Anor Londo.</text>
 <text id="10020402">I could not hope for a braver companion than you!</text>
-<text id="10020403">But truly, I could not hope for a braver companion than you!</text>
+<text id="10020403">##But truly, I could not hope for a braver companion than you!</text>
 <text id="10020404">Gah hah hah hah hah!</text>
 <text id="10020500">Oh, hello there.</text>
 <text id="10020501">What is it? Have you changed your mind about my offer?</text>
 <text id="10020600">Hmm! Ah, oh...hello there.</text>
 <text id="10020601">Forgive me, I was just pondering...
 about my poor fortune.</text>
-<text id="10020602">I did not find my own sun, not even in Anor Londo.</text>
+<text id="10020602">##I did not find my own sun, not even in Anor Londo.</text>
 <text id="10020603">I did not find my own sun,
 not in Anor Londo, nor in Twilight Blighttown.</text>
 <text id="10020604">Where else might my sun be?

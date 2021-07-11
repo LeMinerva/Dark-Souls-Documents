@@ -6,7 +6,7 @@
 close friend of the Great Lord Gwyn.</text>
 <text id="43000102">Chosen Undead, who has rung the Bell of Awakening.</text>
 <text id="43000103">I wish to elucidate your fate,</text>
-<text id="43000104">and the very reason your kind have appeared.</text>
+<text id="43000104">##and the very reason your kind have appeared.</text>
 <text id="43000105">Do you seek such enlightenment?</text>
 <text id="43000120">Very well. Then I am pleased to share.</text>
 <text id="43000121">Chosen Undead. Your fate...is to succeed the Great Lord Gwyn.</text>
@@ -14,12 +14,12 @@ close friend of the Great Lord Gwyn.</text>
 cast away the Dark, and undo the curse of the Undead.</text>
 <text id="43000123">To this end, you must visit Anor Londo,
 and acquire the Lordvessel.</text>
-<text id="43000124">Now that you are ready,</text>
-<text id="43000125">I shall open Sen's Fortress,
+<text id="43000124">##Now that you are ready,</text>
+<text id="43000125">##I shall open Sen's Fortress,
 which leads to Anor Londo.</text>
-<text id="43000126">Hraaaoogggh!</text>
-<text id="43000127">Hraaaoogggh!</text>
-<text id="43000128">The arduous path of honour is open.
+<text id="43000126">##Hraaaoogggh!</text>
+<text id="43000127">##Hraaaoogggh!</text>
+<text id="43000128">##The arduous path of honour is open.
 Go forth, and seize your Undead destiny.</text>
 <text id="43000140">By the Lords...Are you certain?</text>
 <text id="43000141">Well, perhaps I was wrong.</text>
@@ -28,19 +28,19 @@ I will continue my search...You are freed from duty.</text>
 <text id="43000143">But then again, you did ring the Bell of Awakening.</text>
 <text id="43000144">I will stay here a while.
 Speak with me if you should change your mind.</text>
-<text id="43000200">Ahh, one other thing.</text>
-<text id="43000201">You will require humanity to remain yourself while Undead.</text>
-<text id="43000202">This I can provide you,</text>
-<text id="43000203">but only in trade for souls.</text>
+<text id="43000200">##Ahh, one other thing.</text>
+<text id="43000201">##You will require humanity to remain yourself while Undead.</text>
+<text id="43000202">##This I can provide you,</text>
+<text id="43000203">##but only in trade for souls.</text>
 <text id="43000300">I am pleased to see you well.</text>
 <text id="43000301">Is it something urgent?</text>
 <text id="43000400">Hmgg...Hmgg...</text>
 <text id="43000500">...Hm? No, no, I'm fine, I'm fine.</text>
 <text id="43000501">Well and wide awake!</text>
 <text id="43000502">Do not treat me like an old withering snake.</text>
-<text id="43000600">What brings you here?</text>
-<text id="43000601">By the Lords, you may as well be a Hollow.</text>
-<text id="43000602">This will not do. Your humanity requires replenishment.</text>
+<text id="43000600">##What brings you here?</text>
+<text id="43000601">##By the Lords, you may as well be a Hollow.</text>
+<text id="43000602">##This will not do. Your humanity requires replenishment.</text>
 <text id="43000700">What brings you here?</text>
 <text id="43000701">Had a change of heart about your fate as an Undead?</text>
 <text id="43000800">Those who seek the Realm of Lords
@@ -99,9 +99,9 @@ the new Great Lord.</text>
 <text id="43001701">Hrg!</text>
 <text id="43001702">Agh!</text>
 <text id="43001703">Ooph!</text>
-<text id="43001704">Cease.</text>
-<text id="43001705">Enough.</text>
-<text id="43001706">Infidel.</text>
+<text id="43001704">##Cease.</text>
+<text id="43001705">##Enough.</text>
+<text id="43001706">##Infidel.</text>
 <text id="43001707">You sorry fool...You could not be the Chosen one.</text>
 <text id="43001708">Enough...I shall slumber, until I am awakened again...</text>
 </entries>

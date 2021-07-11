@@ -70,34 +70,32 @@ and took me prisoner.</text>
 <text id="6001104">If only he were here, I would be most pleased for ye both to meet.</text>
 <text id="6001105">As, most assuredly, would he.</text>
 <text id="6001106">...</text>
-<text id="6001200">Oh, this is...my brother's...finger.</text>
-<text id="6001201">How it has thinned and withered...</text>
-<text id="6001300">Oh, my thanks.
+<text id="6001200">##Oh, this is...my brother's...finger.</text>
+<text id="6001201">##How it has thinned and withered...</text>
+<text id="6001300">##Oh, my thanks.
 I'm certain thou'st given my brother peace.</text>
-<text id="6001301">It is not much, but take this ring.</text>
-<text id="6001302">It is not much, but please take this.</text>
-<text id="6001303">As my thanks, not as a captain,
+<text id="6001301">##It is not much, but take this ring.</text>
+<text id="6001302">##It is not much, but please take this.</text>
+<text id="6001303">##As my thanks, not as a captain,
 but as sister to the Dark Sun Gwyndolin.</text>
-<text id="6001304">...Thou'st granted me my brother's touch, one last time...</text>
+<text id="6001304">##...Thou'st granted me my brother's touch, one last time...</text>
 <text id="6001400">...</text>
 <text id="6001401">...</text>
 <text id="6001500">...</text>
 <text id="6001502">Dear brother, forgive me...</text>
-<text id="6001503">There is no one left...</text>
+<text id="6001503">##There is no one left...</text>
 <text id="6001600">...</text>
 <text id="6001601">...</text>
 <text id="6001603">Please, stop this!</text>
 <text id="6001604">Thou'rt no true knight!</text>
 <text id="6001700">...</text>
-<text id="6001702">Dear brother, forgive me...</text>
-<text id="6001703">I have been deceived...</text>
-<text id="6001704">This man is a grave threat...</text>
-<text id="6001705">This woman is a grave threat...</text>
+<text id="6001702">##Dear brother, forgive me...</text>
+<text id="6001703">##I have been deceived...</text>
+<text id="6001704">##This man is a grave threat...</text>
+<text id="6001705">##This woman is a grave threat...</text>
 <text id="6001800">My Blade of the Darkmoon, thy deeds merit great worship.</text>
 <text id="6001801">As Captain,
 'tis my duty to honour knights of great accomplishment.</text>
-<text id="6001802">This is a wonder of the Darkmoon,
-inherited from my brother for this very purpose.</text>
 <text id="6001803">Please, it is thine, and not lightly given.</text>
 <text id="6001804">As a shade of Father Gwyn
 and Sister Gwynevere,</text>
@@ -105,6 +103,8 @@ and Sister Gwynevere,</text>
 hunting down the gods' would-be foes.</text>
 <text id="6001900">My Blade of the Darkmoon, thy deeds merit great worship.</text>
 <text id="6001901">I, Yorshka, captain of this company, hereby recognise thy service.</text>
+<text id="6001802">This is a wonder of the Darkmoon,
+inherited from my brother for this very purpose.</text>
 <text id="6001902">Please, take this. Thou'rt most deserving of it.</text>
 <text id="6001903">As a shade of Father Gwyn
 and Sister Gwynevere,</text>

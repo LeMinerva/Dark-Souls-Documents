@@ -60,7 +60,7 @@ and allow me to avow myself to you...</text>
 <text id="8001504">Please, stop this!</text>
 <text id="8001600">...</text>
 <text id="8001601">My vows...</text>
-<text id="8001602">What have I done...</text>
+<text id="8001602">##What have I done...</text>
 <text id="8001700">Mm, I have not thanked you, for your generous rescue.</text>
 <text id="8001701">That Dark Spirit was one of Rosaria's Fingers.
 Vile bastard offspring who lurk in the darkness.</text>
@@ -82,5 +82,5 @@ I offer you my sign.</text>
 <text id="8002100">You poor bastard. May you rest soundly.</text>
 <text id="8002200">Thank you for your kind assistance.</text>
 <text id="8002201">Blessing of the moon upon your journey.</text>
-<text id="800">...</text>
+<text id="800">##...</text>
 </entries>

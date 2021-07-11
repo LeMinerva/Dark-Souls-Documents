@@ -2,7 +2,7 @@
 <entries>
 <text id="11000000">Well, you are a rare visitor.</text>
 <text id="11000001">Welcome to the lost city of Anor Londo, chosen Undead.</text>
-<text id="11000002">Welcome to the lost city of Anor Londo.</text>
+<text id="11000002">##Welcome to the lost city of Anor Londo.</text>
 <text id="11000003">If you seek Lord Gwyn's old keep,</text>
 <text id="11000004">exit here and head straight yonder.</text>
 <text id="11000005">If you are the chosen one, a revelation shall visit thee.</text>
@@ -14,7 +14,7 @@
 <text id="11000201">Very auspicious. I hope for the best.</text>
 <text id="11000202">I pray that through you, Her wish will be granted.</text>
 <text id="11000300">Hmm. You have made it back. Very well.</text>
-<text id="11000301">Hmm. You have made it back. You were gone so long.</text>
+<text id="11000301">##Hmm. You have made it back. You were gone so long.</text>
 <text id="11000302">Go ahead, you may rest here.</text>
 <text id="11000303">Even an Undead requires repose.</text>
 <text id="11000400">Hm, what is it?</text>

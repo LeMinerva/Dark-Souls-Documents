@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 <text id="29000000">Well, you must be a new arrival.</text>
-<text id="29000001">Having trouble accessing the Undead Church?</text>
-<text id="29000002">Here, take this key.</text>
-<text id="29000003">I won't be needing it anymore.</text>
+<text id="29000001">##Having trouble accessing the Undead Church?</text>
+<text id="29000002">##Here, take this key.</text>
+<text id="29000003">##I won't be needing it anymore.</text>
 <text id="29000004">I'm Andre, of Astora.</text>
 <text id="29000005">If you require smithing, then speak to me.</text>
 <text id="29000100">Well, hello again.</text>
@@ -33,7 +33,7 @@ this land is flush with the mad and wicked.</text>
 without employing my services!</text>
 <text id="29000308">Hah hah hah!</text>
 <text id="29000400">You can forge armour just like you do weapons.</text>
-<text id="29000401">Reinforcement is easy enough. You only need a smithbox.
+<text id="29000401">##Reinforcement is easy enough. You only need a smithbox.
 But ascension is the territory of we blacksmiths.</text>
 <text id="29000402">Forging armour is even easier than forging weapons.</text>
 <text id="29000403">Whether you forge weapons or armour first? Well, that's up to you.</text>
