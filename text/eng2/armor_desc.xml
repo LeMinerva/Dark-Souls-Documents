@@ -52,6 +52,13 @@ Light, sturdy leather made for long journeys.</text>
 Light, sturdy leather made for long journeys.</text>
 <text id="21030103">Boots for the roving type.
 Light, sturdy leather made for long journeys.</text>
+<text id="21040100">A leather hat with a large brim.
+Traditionally used by bow hunters.
+
+The hunting goddess Evlana was no goddess
+at all, but rather a brave and highly skilled
+bow huntress. Long after her demise,
+the passing of lore transformed her into a deity.</text>
 <text id="21040101">Armor made from soft leather.
 A commonplace piece of equipment.
 
@@ -67,13 +74,6 @@ A commonplace piece of equipment.
 
 Few embellishments.
 Lightweight and easy to use.</text>
-<text id="21041100">A commonplace leather hat with a feather.
-Traditionally used by bow hunters.
-
-The wildfowl Coco was ever-loyal to
-the goddess Evlana, and hunters place its
-feathers in their caps in hopes of receiving
-the divine protection of the famed bird.</text>
 <text id="21050100">Metal helmet worn by knights.
 Standard issue for new Drangleic knights.
 
@@ -3297,13 +3297,13 @@ The Blue Sentinels have vowed to uplift
 themselves through tireless training and
 selfless adherence to order and justice.
 May these leggings ease their difficult journey.</text>
-<text id="21040100">A leather hat with a large brim.
+<text id="21041100">A commonplace leather hat with a feather.
 Traditionally used by bow hunters.
 
-The hunting goddess Evlana was no goddess
-at all, but rather a brave and highly skilled
-bow huntress. Long after her demise,
-the passing of lore transformed her into a deity.</text>
+The wildfowl Coco was ever-loyal to
+the goddess Evlana, and hunters place its
+feathers in their caps in hopes of receiving
+the divine protection of the famed bird.</text>
 <text id="21450101">A large barrel.
 One can wear this barrel, but it conceals
 the arms, making movement very difficult.
