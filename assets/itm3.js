@@ -53,9 +53,9 @@ window.onload=function(){
   for(var i=0;i<[lines];i++){
     document.getElementById("content").appendChild(frm.cloneNode(true));
     document.getElementsByClassName("icon")[i].firstChild.src="icons/"+[type]+[game]+"/"+[i]+".png";
-    document.getElementsByClassName("chn")[i].childNodes[0].innerHTML=namec[i].childNodes[0].nodeValue.replace(/##/,"<i>未采用</i>");
-    document.getElementsByClassName("chn")[i].childNodes[1].firstChild.innerHTML="<p>"+descc[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>")+"</p>";
-    document.getElementsByClassName("chn")[i].childNodes[2].innerHTML="<p>"+remkc[i].childNodes[0].nodeValue+"</p>";
+    document.getElementsByClassName("chn")[i].childNodes[0].innerHTML=namec[i].childNodes[0].nodeValue.replace(/(#1|#2|#3|##)/g,function($0, $1){return{"#1":'<span class="cgb">',"#2":'<span class="cgd">',"#3":"</span>","##":"<i>未使用</i>"}[$1]});
+    document.getElementsByClassName("chn")[i].childNodes[1].firstChild.innerHTML="<p>"+descc[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>").replace(/(#1|#2|#3)/g,function($0, $1){return{"#1":'<span class="cgb">',"#2":'<span class="cgd">',"#3":"</span>"}[$1]})+"</p>";
+    document.getElementsByClassName("chn")[i].childNodes[2].innerHTML="<p>"+remkc[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>").replace(/(#1|#2|#3)/g,function($0, $1){return{"#1":'<span class="cgb">',"#2":'<span class="cgd">',"#3":"</span>"}[$1]})+"</p>";
     document.getElementsByClassName("jap")[i].childNodes[0].innerHTML=namej[i].childNodes[0].nodeValue.replace(/##/,"<i>未使用</i>");
     document.getElementsByClassName("jap")[i].childNodes[1].firstChild.innerHTML="<p>"+descj[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>")+"</p>";
     document.getElementsByClassName("jap")[i].childNodes[2].innerHTML="<p>"+remkj[i].childNodes[0].nodeValue+"</p>";

@@ -27,7 +27,7 @@ window.onload=function(){
   var nline=document.createElement("p");
   for(var i=0;i<[lines];i++){
     var bmsgc=xmlc.getElementsByTagName("text")[i].childNodes[0].nodeValue;
-    var descc=bmsgc.replace(/\n/g,"<br>").replace(/##/,"");
+    var descc=bmsgc.replace(/\n/g,"<br>").replace(/\n/g,"</p><p>").replace(/(#1|#2|#3|##)/g,function($0, $1){return{"#1":'<span class="cgb">',"#2":'<span class="cgd">',"#3":"</span>","##":""}[$1]});
     var printc=document.getElementsByClassName("chn")[0].firstChild.appendChild(nline.cloneNode(true));
     if(bmsgc.indexOf("##")!==-1){printc.setAttribute("class","uud")}
     printc.innerHTML=descc;
