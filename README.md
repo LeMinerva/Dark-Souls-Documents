@@ -12,6 +12,6 @@
 * 敌人基本属性信息
 * 敌人物品掉落信息
 
->不支持IE核心，建议使用Edge运行（若下载到本地请添加运行参数 --profile-directory=Default）。
+>不支持IE核心，建议使用Edge运行（若下载到本地请添加运行参数 --allow-file-access-from-files）。
 
 [在线快捷链接](https://leminerva.github.io/Dark-Souls-Documents/)

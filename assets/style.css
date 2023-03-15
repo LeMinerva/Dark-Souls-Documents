@@ -47,6 +47,8 @@ a.icon:nth-child(10),a.icon:nth-child(25),a.icon:nth-child(40){margin-left:7em}
 .uud,.uud::selection{text-decoration:line-through;text-decoration-color:rgba(255,0,0,.4);text-decoration-thickness:.2em}
 .cgb,.cgb::selection{text-decoration:line-through;text-decoration-color:rgba(255,238,102,.8);text-decoration-thickness:.2em}
 .cgd{color:#FE6}
+.dtt{font-size:.8em;font-weight:700;color:#fff;background:linear-gradient(to right,rgba(80,48,1,0),#531,rgba(80,48,1,0))}
+.chn .dtt,.jap .dtt{letter-spacing:1px}
 @media screen and (max-width:1000px){
 hr{height:7em}
 .content,.contentd{width:100%;overflow:auto}
