@@ -28,19 +28,19 @@ window.onload=function(){
   for(var i=0;i<[lines];i++){
     var bmsgc=xmlc.getElementsByTagName("text")[i].childNodes[0].nodeValue;
     var descc=bmsgc.replace(/\n/g,"<br>").replace(/\n/g,"</p><p>").replace(/(#1|#2|#3|##|#0)/g,function($0, $1){return{"#1":'<span class="cgb">',"#2":'<span class="cgd">',"#3":"</span>","##":"","#0":""}[$1]});
-    var printc=document.getElementsByClassName("chn")[0].firstChild.appendChild(nline.cloneNode(true));
+    var printc=document.getElementsByClassName("chn")[0].childNodes[1].appendChild(nline.cloneNode(true));
     if(bmsgc.indexOf("##")!==-1){printc.setAttribute("class","uud")}
     if(bmsgc.indexOf("#0")!==-1){printc.setAttribute("class","dtt")}
     printc.innerHTML=descc;
     var bmsgj=xmlj.getElementsByTagName("text")[i].childNodes[0].nodeValue;
     var descj=bmsgj.replace(/\n/g,"<br>").replace(/(##|#0)/g,"");
-    var printj=document.getElementsByClassName("jap")[0].firstChild.appendChild(nline.cloneNode(true));
+    var printj=document.getElementsByClassName("jap")[0].childNodes[1].appendChild(nline.cloneNode(true));
     if(bmsgj.indexOf("##")!==-1){printj.setAttribute("class","uud")}
     if(bmsgj.indexOf("#0")!==-1){printj.setAttribute("class","dtt")}
     printj.innerHTML=descj;
     var bmsge=xmle.getElementsByTagName("text")[i].childNodes[0].nodeValue;
     var desce=bmsge.replace(/\n/g,"<br>").replace(/(##|#0)/g,"");
-    var printe=document.getElementsByClassName("eng")[0].firstChild.appendChild(nline.cloneNode(true));
+    var printe=document.getElementsByClassName("eng")[0].childNodes[1].appendChild(nline.cloneNode(true));
     if(bmsge.indexOf("##")!==-1){printe.setAttribute("class","uud")}
     if(bmsge.indexOf("#0")!==-1){printe.setAttribute("class","dtt")}
     printe.innerHTML=desce;
