@@ -48,6 +48,7 @@ a.icon:nth-child(9),a.icon:nth-child(24),a.icon:nth-child(39){margin-left:7em}
 .cgd{color:#FE6}
 .dtt{font-size:.8em;font-weight:700;color:#fff;background:linear-gradient(to right,rgba(80,48,1,0),#531,rgba(80,48,1,0))}
 .chn .dtt,.jap .dtt{letter-spacing:1px}
+.menu,.contentd .frame,.tab{user-select:none}
 @media screen and (max-width:1000px){
 hr{height:6em}
 .content,.contentd{width:100%;overflow:auto}
