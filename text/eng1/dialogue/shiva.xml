@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time after joining the Forest Hunter Covenant</text>
 <text id="41000000">I've heard all about you.</text>
 <text id="41000001">I'm Shiva of the East, captain of the brigade.</text>
 <text id="41000002">Let's teach you the clan basics now,</text>
@@ -12,42 +13,60 @@ Traitors aren't given a second chance, for any reason.</text>
 <text id="41000007">That's about it, then.</text>
 <text id="41000008">Don't worry, it's a good old time, isn't it?</text>
 <text id="41000009">Great to have you with us. Good hunting to you.</text>
+<text>#0Talk-2nd time</text>
+<text id="41000200">Don't worry, now.</text>
+<text id="41000201">You'll be called in soon enough.</text>
+<text id="41000202">Hunters with patience score the best kills.</text>
+<text>#0Talk-After speaking to his Shinobi bodyguard</text>
 <text id="41000100">Ah, did you notice that one? Sharp eyes!</text>
 <text id="41000101">He's one of the clan. From the East, like myself.</text>
 <text id="41000102">Always slinking in the shadows, but he's a tough one.</text>
 <text id="41000103">You'll see what I mean.</text>
 <text id="41000104">Hah hah hah hah!</text>
-<text id="41000200">Don't worry, now.</text>
-<text id="41000201">You'll be called in soon enough.</text>
-<text id="41000202">Hunters with patience score the best kills.</text>
-<text id="41000300">Hrg!</text>
-<text id="41000310">Mnph!</text>
-<text id="41000320">Why, you dirty...!</text>
-<text id="41000330">Have you lost it?</text>
-<text id="41000400">Turning on us from the very start?</text>
-<text id="41000401">You have some guts, to turn on us!</text>
-<text id="41000402">Have a look at my sword, for it's the last thing you'll see!</text>
-<text id="41000500">Hiyaah!</text>
-<text id="41000501">Haaah!</text>
-<text id="41000502">Hiiyah!</text>
-<text id="41000600">You poor fool...</text>
-<text id="41000601">You won't be able to run far enough...</text>
-<text id="41000700">You sick Hollow...</text>
-<text id="41000701">Don't you ever come round again.</text>
+<text>#0Talk-1st time</text>
 <text id="41010000">Hello again.</text>
 <text id="41010001">Strange to meet away from the clan and the forest.</text>
 <text id="41010002">But while you're here, how about some equipment?</text>
 <text id="41010003">I love collecting these things, but I can only keep so many.</text>
 <text id="41010004">And, you know, you are a friend. I'll sell them cheap.</text>
+<text>#0Talk-2nd time</text>
 <text id="41010100">We meet again.</text>
 <text id="41010101">I have the equipment, if you have the need.</text>
+<text>#0Talk-3rd time</text>
 <text id="41010200">Well, there you are again.</text>
 <text id="41010201">I've culled my best picks from my last summoning.</text>
 <text id="41010202">Have a look, will you?</text>
+<text>#0Menu-Choose "Leave" 1st time after purchasing some thing</text>
 <text id="41010300">I see you have a sharp eye for trinkets.</text>
 <text id="41010301">Suits me fine. I'll be seeing you.</text>
+<text>#0Menu-Choose "Leave" 2nd time after purchasing some thing</text>
 <text id="41010400">Right then. I'll see you in the forest.</text>
+<text>#0Menu-Choose "Leave" 3rd time after purchasing some thing</text>
 <text id="41010500">Right then. I'll be seeing you.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="41000300">Hrg!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="41000310">Mnph!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="41000320">Why, you dirty...!</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="41000330">Have you lost it?</text>
+<text>#0Upon being attacked &amp; made hostile, right after joining the Forest Hunter</text>
+<text id="41000400">Turning on us from the very start?</text>
+<text id="41000402">Have a look at my sword, for it's the last thing you'll see!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="41000401">You have some guts, to turn on us!</text>
+<text id="41000402">Have a look at my sword, for it's the last thing you'll see!</text>
+<text>#0Upon killing the protagonist</text>
+<text id="41000700">You sick Hollow...</text>
+<text id="41000701">Don't you ever come round again.</text>
+<text>#0After reducing his health to 30% or lower</text>
+<text id="41000500">Hiyaah!</text>
+<text id="41000501">Haaah!</text>
+<text id="41000502">Hiiyah!</text>
+<text>#0Upon dying</text>
+<text id="41000600">You poor fool...</text>
+<text id="41000601">You won't be able to run far enough...</text>
 <text id="41010600">##Have you heard of Chaos Blade?</text>
 <text id="41010601">##The legendary sword of the ancient
 Undead master Makoto, its blade a swirling vortex.</text>

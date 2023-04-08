@@ -1,47 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0第1次攀谈</text>
 <text id="31000000">你是谁？</text>
 <text id="31000001">武器要冶炼？</text>
+<text>#0第2次攀谈</text>
 <text id="31000100">喔，你啊。</text>
 <text id="31000101">武器，我会冶炼。</text>
 <text id="31000102">随时都行。</text>
-<text id="31000200">请再来。</text>
-<text id="31000300">请再来。</text>
-<text id="31000400">呃，嗯？</text>
-<text id="31000500">欢迎。</text>
-<text id="31000600">好痛。</text>
-<text id="31000650">你干么？很痛耶。</text>
-<text id="31000700">你！</text>
-<text id="31000701">不饶你！</text>
-<text id="31000800">喔，喔喔喔……</text>
-<text id="31000801">我会……？</text>
-<text id="31000900">啊！这个，我知道。</text>
-<text id="31000901">亮亮的，亮亮的。</text>
-<text id="31000902">有这个，</text>
-<text id="31000903">我会做亮亮的武器。</text>
-<text id="31001000">这个，不给我……</text>
-<text id="31001100">有这个，</text>
-<text id="31001101">我会做亮亮的武器！</text>
+<text>#0互动列表-第1次选择「交谈」</text>
 <text id="31001200">说话，我不行。</text>
 <text id="31001201">冶炼，我拿手。</text>
 <text id="31001202">随时都行。</text>
+<text>#0互动列表-第2次选择「交谈」</text>
 <text id="31001300">说话，我不行。</text>
 <text id="31001301">人，没有。</text>
 <text id="31001302">不见了。</text>
+<text>#0互动列表-第3次选择「交谈」</text>
 <text id="31001400">你来了。</text>
 <text id="31001401">你说话。</text>
 <text id="31001402">我没话。</text>
 <text id="31001403">没话，也不错。</text>
+<text>#0互动列表-第4次选择「交谈」</text>
 <text id="31001500">你来了。</text>
 <text id="31001501">武器，我冶炼。</text>
 <text id="31001502">亮亮的，亮亮的。</text>
 <text id="31001503">你拿公爵的亮亮的来。</text>
 <text id="31001504">我会做亮亮的武器。</text>
 <text id="31001505">好高兴。</text>
+<text>#0互动列表-第5次选择「交谈」</text>
 <text id="31001600">你来了。</text>
 <text id="31001601">武器，我冶炼。</text>
 <text id="31001602">说话。</text>
 <text id="31001603">不寂寞。</text>
 <text id="31001604">好快乐。</text>
+<text>#0持有结晶余烬时攀谈</text>
+<text id="31000900">啊！这个，我知道。</text>
+<text id="31000901">亮亮的，亮亮的。</text>
+<text id="31000902">有这个，</text>
+<text id="31000903">我会做亮亮的武器。</text>
+<text>#0您要将结晶余烬交给对方吗？选择「否」</text>
+<text id="31001000">这个，不给我……</text>
+<text>#0您要将结晶余烬交给对方吗？选择「是」</text>
+<text id="31001100">有这个，</text>
+<text id="31001101">我会做亮亮的武器！</text>
+<text>#0未完成交易，互动列表-选择「离去」</text>
+<text id="31000200">请再来。</text>
+<text>#0完成交易后，互动列表-选择「离去」</text>
+<text id="31000300">请再来。</text>
+<text>#0走开中断对话</text>
+<text id="31000400">呃，嗯？</text>
+<text>#0走开中断对话后，返回攀谈</text>
+<text id="31000500">欢迎。</text>
+<text>#0第1次受到攻击时</text>
+<text id="31000600">好痛。</text>
+<text>#0第2次受到攻击时</text>
+<text id="31000650">你干么？很痛耶。</text>
+<text>#0攻击导致敌对时</text>
+<text id="31000700">你！</text>
+<text id="31000701">不饶你！</text>
+<text>#0击杀主角时</text>
 <text id="31001700">你……</text>
+<text>#0被击杀时</text>
+<text id="31000800">喔，喔喔喔……</text>
+<text id="31000801">我会……？</text>
 </entries>

@@ -1,21 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After traversing the fog wall to initiate his boss fight</text>
 <text id="24000000">Ahh, you ignorant slaves. Finally taken notice, have you?</text>
 <text id="24000001">Of the power of my beloved Ocelotte, child of dragons.</text>
 <text id="24000002">Well, I will not give him up.</text>
 <text id="24000003">For he is all that I have.</text>
+<text>#0After reaching 90% health or lower</text>
 <text id="24000100">Ahh, dear little Ocelotte.</text>
 <text id="24000101">Where have you gone? Are you hiding from me?</text>
 <text id="24000102">Come out, come out, don't be afraid.</text>
 <text id="24000103">You were born a child of dragons, what could you possibly fear?</text>
 <text id="24000104">Now, now, show yourself, Ocelotte.</text>
 <text id="24000105">My dear, little Ocelotte.</text>
+<text>#0After reaching 70% health or lower</text>
 <text id="24000200">...</text>
-<text id="24000300">...</text>
-<text id="24000301">...</text>
-<text id="24000400">...</text>
-<text id="24000401">...</text>
+<text>#0Upon killing the protagonist</text>
 <text id="24000500">Ignorant slaves, how quickly you forget.</text>
-<text id="24000501">##The strength of dear Ocelotte, child of dragons!</text>
+<text>#0Upon dying</text>
 <text id="24000600">##...</text>
+<text id="24000300">##...</text>
+<text id="24000301">##...</text>
+<text id="24000400">##...</text>
+<text id="24000401">##...</text>
+<text id="24000501">##The strength of dear Ocelotte, child of dragons!</text>
 </entries>

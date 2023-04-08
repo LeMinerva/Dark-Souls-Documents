@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="10000000">##He has the key.</text>
-<text id="10000001">##The choice is yours.</text>
-<text id="10010100">##Ah, hello!</text>
-<text id="10010101">##I knew you would come! Just call it intuition.</text>
+<text>#0Talk-1st time</text>
 <text id="10010102">Ah, hello! You don't look Hollow, far from it!</text>
 <text id="10010103">I am Solaire of Astora, an adherent of the Lord of Sunlight.</text>
 <text id="10010104">Now that I am Undead, I have come to this great land
@@ -11,19 +8,26 @@ the birthplace of Lord Gwyn, to seek my very own sun!</text>
 <text id="10010105">...Do you find that strange? Well, you should!</text>
 <text id="10010106">No need to hide your reaction. I get that look all the time!</text>
 <text id="10010107">Hah hah hah!</text>
+<text>#0Talk-2nd time</text>
 <text id="10010200">Oh, ah-hah! So, I didn't scare you?</text>
 <text id="10010201">I have a proposition, if you have a moment.</text>
+<text>#0Choose "No" to either the 1st or 2nd query</text>
+<text id="10010350">Well, yes, quite understandable.</text>
+<text id="10010351">Not to worry. Let there be no obligation.</text>
+<text>#0Talk-After choosing "No" to either the 1st or 2nd query</text>
+<text id="10010500">Oh, hello. You're still keen on speaking to me?</text>
+<text id="10010501">Then, perhaps you have reconsidered my offer?</text>
+<text>#0Choose "Yes" to the 1st or 3rd query</text>
 <text id="10010250">The way I see it, our fates appear to be intertwined.</text>
-<text id="10010251">##Both Undead, both imprisoned in the Asylum
-and now, we both end up here.</text>
 <text id="10010252">In a land brimming with Hollows
 could that really be mere chance?</text>
-<text id="10010253">##I hardly think so!</text>
-<text id="10010254">##Now, I know not of your designs,
-but I sense something singular about you.</text>
 <text id="10010255">So, what do you say?
 Why not help one another on this lonely journey?</text>
-<text id="10010300">##Oh, yes! Wonderful!</text>
+<text>#0Choose "No" after choosing "Yes" to the 1st query</text>
+<text id="10010352">Not to worry. I do not wish to impose.</text>
+<text id="10010353">I was in the wrong. We'll laugh it off, shall we?</text>
+<text id="10010354">Hah hah hah!</text>
+<text>#0Choose "Yes" to the 2nd query</text>
 <text id="10010301">This pleases me greatly! Well then, take this.</text>
 <text id="10010302">We are amidst strange beings, in a strange land.</text>
 <text id="10010303">The flow of time itself is convoluted;
@@ -40,27 +44,11 @@ cross the gaps between the worlds,</text>
 Spot my summon signature easily by its brilliant aura.</text>
 <text id="10010311">If you miss it, you must be blind!</text>
 <text id="10010312">Hah hah hah!</text>
-<text id="10010350">Well, yes, quite understandable.</text>
-<text id="10010351">Not to worry. Let there be no obligation.</text>
-<text id="10010352">Not to worry. I do not wish to impose.</text>
-<text id="10010353">I was in the wrong. We'll laugh it off, shall we?</text>
-<text id="10010354">Hah hah hah!</text>
+<text>#0Talk-After choosing "Yes" to both 1st or 2nd query</text>
 <text id="10010400">Oh, hello there. I will stay behind, to gaze at the sun.</text>
 <text id="10010401">The sun is a wondrous body. Like a magnificent father!</text>
 <text id="10010402">If only I could be so grossly incandescent!</text>
-<text id="10010500">Oh, hello. You're still keen on speaking to me?</text>
-<text id="10010501">Then, perhaps you have reconsidered my offer?</text>
-<text id="10010600">Hrg!</text>
-<text id="10010610">Ooh!</text>
-<text id="10010620">Whoa!</text>
-<text id="10010630">What the...!</text>
-<text id="10010640">What's wrong with you?!</text>
-<text id="10010700">If a stubborn beast you be, I have no choice!</text>
-<text id="10010701">A Warrior of the Sun will not just sit and take it!</text>
-<text id="10010702">Hrgraaah!</text>
-<text id="10010800">Why, you...</text>
-<text id="10010801">How could this...?</text>
-<text id="10010802">My...my sun...</text>
+<text>#0Talk-1st time</text>
 <text id="10020000">Oh, there you are.</text>
 <text id="10020001">You've been quiet these days.</text>
 <text id="10020002">Smooth summoning out there?</text>
@@ -68,43 +56,15 @@ Spot my summon signature easily by its brilliant aura.</text>
 do not hesitate to call upon me.</text>
 <text id="10020004">You've left me with quite an impression.
 I would relish a chance to assist you.</text>
+<text>#0Talk-2nd time</text>
 <text id="10020100">You really are fond of chatting with me, aren't you?</text>
 <text id="10020101">If I didn't know better, I'd think you had feelings for me!</text>
 <text id="10020102">Oh, no, dear me. Pretend you didn't hear that!</text>
 <text id="10020103">Hah hah hah!</text>
-<text id="10020200">Oh, hello there.</text>
-<text id="10020201">I'm glad to see you alive.</text>
-<text id="10020202">...You have done well, indeed you have.</text>
-<text id="10020203">You've a strong arm, strong faith,
-and most importantly, a strong heart.</text>
-<text id="10020204">I am in awe, really.</text>
-<text id="10020205">Yes, yes...</text>
-<text id="10020206">What do you think? Why not join me, as a warrior of the Sun?</text>
-<text id="10020207">Righteous knights, guardians of all that is good,
-in the name of the Lord of Sunlight!</text>
-<text id="10020208">...Only if it would please you, of course. Well?</text>
-<text id="10020250">Oh! Magnificent! I knew you would fancy it!</text>
-<text id="10020251">Then, join the Covenant! Here, stay still for a moment...</text>
-<text id="10020252">##And there we are.
-Now you need only pray at the Altar of Sunlight in Anor Londo.</text>
-<text id="10020253">And there we are.
-Now, just say a prayer at the Altar of Sunlight, right there.</text>
-<text id="10020254">##Then you shall know our radiance, our duty.</text>
-<text id="10020255">Then you shall know the brilliance of our Sun.</text>
-<text id="10020300">Yes, well,
-each has one's beliefs.</text>
-<text id="10020301">But if you change your mind, the offer is open.</text>
-<text id="10020400">Oh, hello there. Still here?</text>
-<text id="10020401">##You have praying to do. At the Shrine of Sunlight in Anor Londo.</text>
-<text id="10020402">I could not hope for a braver companion than you!</text>
-<text id="10020403">##But truly, I could not hope for a braver companion than you!</text>
-<text id="10020404">Gah hah hah hah hah!</text>
-<text id="10020500">Oh, hello there.</text>
-<text id="10020501">What is it? Have you changed your mind about my offer?</text>
+<text>#0Talk-1st time</text>
 <text id="10020600">Hmm! Ah, oh...hello there.</text>
 <text id="10020601">Forgive me, I was just pondering...
 about my poor fortune.</text>
-<text id="10020602">##I did not find my own sun, not even in Anor Londo.</text>
 <text id="10020603">I did not find my own sun,
 not in Anor Londo, nor in Twilight Blighttown.</text>
 <text id="10020604">Where else might my sun be?
@@ -116,10 +76,68 @@ I became Undead to pursue this!</text>
 as a blind fool without reason?</text>
 <text id="10020608">Well, I suppose they wouldn't be far off!</text>
 <text id="10020609">Hah hah hah!</text>
+<text>#0Talk-1st time with 25 faith, or 5 less with each victory as  White Phantom</text>
+<text id="10020200">Oh, hello there.</text>
+<text id="10020201">I'm glad to see you alive.</text>
+<text id="10020202">...You have done well, indeed you have.</text>
+<text id="10020203">You've a strong arm, strong faith,
+and most importantly, a strong heart.</text>
+<text id="10020204">I am in awe, really.</text>
+<text id="10020205">Yes, yes...</text>
+<text id="10020206">What do you think? Why not join me, as a warrior of the Sun?</text>
+<text id="10020207">Righteous knights, guardians of all that is good,
+in the name of the Lord of Sunlight!</text>
+<text id="10020208">...Only if it would please you, of course. Well?</text>
+<text>#0Choose "No" to either the 1st or 2nd query</text>
+<text id="10020300">Yes, well,
+each has one's beliefs.</text>
+<text id="10020301">But if you change your mind, the offer is open.</text>
+<text>#0Talk-After choosing "No" to either the 1st or 2nd query</text>
+<text id="10020500">Oh, hello there.</text>
+<text id="10020501">What is it? Have you changed your mind about my offer?</text>
+<text>#0Choose "Yes" to the 1st query</text>
+<text id="10020250">Oh! Magnificent! I knew you would fancy it!</text>
+<text id="10020251">Then, join the Covenant! Here, stay still for a moment...</text>
+<text>#0Choose "Yes" to the 2nd query</text>
+<text id="10020253">And there we are.
+Now, just say a prayer at the Altar of Sunlight, right there.</text>
+<text id="10020255">Then you shall know the brilliance of our Sun.</text>
+<text>#0Talk-1st time after joining the Warriors of Sunlight Coverant</text>
 <text id="10020700">Oh, hello there.</text>
 <text id="10020701">Exhilarating, is it not? The power of the Sun!</text>
 <text id="10020702">I am blessed to have found such a brave companion!</text>
 <text id="10020703">Hah hah hah!</text>
+<text>#0Talk-2nd time after joining the Warriors of Sunlight Coverant</text>
+<text id="10020400">Oh, hello there. Still here?</text>
+<text id="10020402">I could not hope for a braver companion than you!</text>
+<text id="10020404">Gah hah hah hah hah!</text>
+<text>#0Talk</text>
+<text id="10040002">Was it all a lie?
+Have I done this all, for nothing?</text>
+<text id="10040003">Oh, my dear sun...What now, what should I do...?</text>
+<text id="10040004">...My sun, my dear, dear sun...</text>
+<text>#0Talk-After killing the Red-Eye Sunlight Maggot before entering Lost Izalith</text>
+<text id="10040000">...Why?...Why?...</text>
+<text id="10040001">After all this searching, I still cannot find it...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="10010600">Hrg!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="10010610">Ooh!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="10010620">Whoa!</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="10010630">What the...!</text>
+<text>#0Upon being attacked-5th time</text>
+<text id="10010640">What's wrong with you?!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="10010700">If a stubborn beast you be, I have no choice!</text>
+<text id="10010701">A Warrior of the Sun will not just sit and take it!</text>
+<text id="10010702">Hrgraaah!</text>
+<text>#0Upon dying</text>
+<text id="10010800">Why, you...</text>
+<text id="10010801">How could this...?</text>
+<text id="10010802">My...my sun...</text>
+<text>#0After approaching him once he has been infected by the Sunlight Maggot</text>
 <text id="10030000">...Hrg, rg...Arrrgh...</text>
 <text id="10030001">...Finally, I have found it, I have!...</text>
 <text id="10030002">...My very own sun...I...am the sun!...</text>
@@ -127,13 +145,24 @@ as a blind fool without reason?</text>
 <text id="10030004">...Yes, I did it...I did!...</text>
 <text id="10030005">...Ohh, ohhh...</text>
 <text id="10030006">...Hrgrraaaooogh!...</text>
+<text>#0Upon dying after infected by the Red-Eye Sunlight Maggot</text>
 <text id="10030100">...Ahh, it's over...</text>
 <text id="10030101">...My Sun...it's setting...</text>
 <text id="10030102">...It's dark, so dark...</text>
-<text id="10040000">...Why?...Why?...</text>
-<text id="10040001">After all this searching, I still cannot find it...</text>
-<text id="10040002">Was it all a lie?
-Have I done this all, for nothing?</text>
-<text id="10040003">Oh, my dear sun...What now, what should I do...?</text>
-<text id="10040004">...My sun, my dear, dear sun...</text>
+<text id="10000000">##He has the key.</text>
+<text id="10000001">##The choice is yours.</text>
+<text id="10010100">##Ah, hello!</text>
+<text id="10010101">##I knew you would come! Just call it intuition.</text>
+<text id="10010251">##Both Undead, both imprisoned in the Asylum
+and now, we both end up here.</text>
+<text id="10010253">##I hardly think so!</text>
+<text id="10010254">##Now, I know not of your designs,
+but I sense something singular about you.</text>
+<text id="10010300">##Oh, yes! Wonderful!</text>
+<text id="10020252">##And there we are.
+Now you need only pray at the Altar of Sunlight in Anor Londo.</text>
+<text id="10020254">##Then you shall know our radiance, our duty.</text>
+<text id="10020401">##You have praying to do. At the Shrine of Sunlight in Anor Londo.</text>
+<text id="10020403">##But truly, I could not hope for a braver companion than you!</text>
+<text id="10020602">##I did not find my own sun, not even in Anor Londo.</text>
 </entries>

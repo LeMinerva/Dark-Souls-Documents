@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After approaching him</text>
 <text id="5000000">...</text>
 <text id="5000001">Please, grant me death. Undo my shackles.</text>
 <text id="5000002">...</text>
+<text>#0Talk-1st time</text>
 <text id="5000100">Ohh...</text>
 <text id="5000101">Ohh, then it's true...</text>
 <text id="5000102">A Champion of Ash, as I live and breathe.</text>
@@ -13,34 +15,41 @@
 <text id="5000107">Say, Champion of Ash,
 how does the idea of taking me into your service strike you?</text>
 <text id="5000108">I was once a sorcerer. Surely I can be of use.</text>
-<text id="5000200">Ohh, I am honoured, truly.</text>
-<text id="5000201">I should be dead, yet you have granted me purpose anew.</text>
-<text id="5000202">I, Yoel of Londor, do solemnly swear myself to you.</text>
+<text>#0Choose "Decline" to either the 1st or 2nd query</text>
 <text id="5000300">Ahh, mm, yes, of course.</text>
 <text id="5000301">An accursed pilgrim has no place in your honourable service.</text>
 <text id="5000302">But if a lost soul should encounter a legend such as you,</text>
 <text id="5000303">could that be anything but a movement of fate?</text>
 <text id="5000304">I will remain in this spot.</text>
 <text id="5000305">Praying solemnly that you might have a change of heart.</text>
+<text>#0After choosing "Decline" to either the 1st or 2nd query</text>
 <text id="5000400">Ahh, Champion of Ash. Have you had a change of heart?</text>
 <text id="5000401">I beg of you, take me into your service.</text>
+<text>#0Choose "Accept his service" to either the 1st or 2nd query</text>
+<text id="5000200">Ohh, I am honoured, truly.</text>
+<text id="5000201">I should be dead, yet you have granted me purpose anew.</text>
+<text id="5000202">I, Yoel of Londor, do solemnly swear myself to you.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="5000500">...</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="5000501">...</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="5000503">What's come over you!</text>
-<text id="5000600">...</text>
+<text>#0Upon dying</text>
 <text id="5000602">Killing Undead for sport, accursed champion?</text>
-<text id="5000603">##And a fool's sport it is...</text>
+<text>#0Talk-1st time</text>
 <text id="5000700">Oh, our Champion of Ash, welcome home.</text>
 <text id="5000701">This pilgrim, with a debt in death,
 hardly deserves to behold this divine flame.</text>
 <text id="5000702">And I never would have, had you not taken me into your service.</text>
 <text id="5000703">I thank you dearly for this... And assure you of my leal service.</text>
+<text>#0Talk-2nd time</text>
 <text id="5000800">Oh, our Champion of Ash. Welcome back.</text>
 <text id="5000801">By all means, tell me what you desire.</text>
+<text>#0Talk-After hollowing by 1 degree</text>
 <text id="5000900">Oh, our Champion of Ash. Welcome back.</text>
 <text id="5000901">I would do anything for my master, just say the word.</text>
-<text id="5001000">Be safe, Champion of Ash.</text>
-<text id="5001100">Be safe, our Lord...</text>
+<text>#0Menu-Choose "Talk"</text>
 <text id="5001200">As I have said, I was once a sorcerer.</text>
 <text id="5001201">Alas, the magic of Londor is a far cry
 from the wonders of Vinheim.</text>
@@ -50,16 +59,29 @@ from the wonders of Vinheim.</text>
 <text id="5001205">We pilgrims of Londor are keenly aware.</text>
 <text id="5001206">That those branded by the Darksign
 possess something quite special...</text>
+<text>#0Menu-Choose "Draw Out True Strength" before attaining 5 Dark Sigils</text>
 <text id="5001300">Then, shall we begin?</text>
 <text id="5001301">Bearer of the Darksign, let your true strength shine...</text>
+<text>#0Menu-Choose "Draw Out True Strength" after attaining 5 Dark Sigils</text>
 <text id="5001400">Ahh, you have attained ample strength.</text>
 <text id="5001401">All will soon be clear, my good Lord...</text>
+<text>#0Menu-Choose "Leave" or after leaving abruptly</text>
+<text id="5001000">Be safe, Champion of Ash.</text>
+<text>#0Menu-Choose "Leave" or after leaving abruptly, after attaining 5 Dark Sigils</text>
+<text id="5001100">Be safe, our Lord...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="5001500">...</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="5001501">...</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="5001503">What do you intend?</text>
+<text>#0Upon dying</text>
 <text id="5001600">...</text>
-<text id="5001602">##Champion of ash, what have you done?</text>
 <text id="5001603">Lady Yuria...</text>
+<text>#0Upon dying after attained 5 Dark Sigils</text>
 <text id="5001700">Ahh, I thank you kindly...</text>
 <text id="5001701">Our kindest Lord...</text>
+<text id="5000600">##...</text>
+<text id="5000603">##And a fool's sport it is...</text>
+<text id="5001602">##Champion of ash, what have you done?</text>
 </entries>

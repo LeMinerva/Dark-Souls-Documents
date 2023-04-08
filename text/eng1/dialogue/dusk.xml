@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="15000000">So, it is thou who rescueth me?</text>
 <text id="15000001">Most gracious. I am deeply obliged.</text>
 <text id="15000002">I am Dusk of Oolacile.</text>
@@ -10,35 +11,27 @@ I can not stay here for long.</text>
 <text id="15000006">My hope is to pass this profound knowledge to thee,
 with thine approval.</text>
 <text id="15000007">Would this be of assistance to thee?</text>
-<text id="15000050">My heartfelt thanks. I am pleased beyond words.</text>
-<text id="15000051">Then, I shalt engrave my signature.</text>
-<text id="15000052">If thou art in need, pray summon me from my signature.</text>
-<text id="15000053">It seems that my time is done. May the great flames guide thee.</text>
+<text>#0Choose "No" to the query</text>
 <text id="15000100">Yes, of course...I understand well.</text>
 <text id="15000101">Pray forgive me. I have overstepped my boundaries.</text>
 <text id="15000102">Farewell; another age, another land, beckons me to return.</text>
 <text id="15000103">May the flames guide thee.</text>
-<text id="15000220">What dost thou...</text>
-<text id="15000240">Whatever for...</text>
-<text id="15000260">Cease this barbarism...</text>
-<text id="15000300">Ahh...</text>
-<text id="15000301">Farewell, my rescuer...</text>
+<text>#0Choose "Yes" to the query</text>
+<text id="15000050">My heartfelt thanks. I am pleased beyond words.</text>
+<text id="15000051">Then, I shalt engrave my signature.</text>
+<text id="15000052">If thou art in need, pray summon me from my signature.</text>
+<text id="15000053">It seems that my time is done. May the great flames guide thee.</text>
+<text>#0Talk-After summoning</text>
 <text id="15000500">I am Dusk of Oolacile.</text>
 <text id="15000501">It is an honour to see thee again.</text>
 <text id="15000502">I shall follow thine wishes.</text>
-<text id="15000600">If thou art in need, pray summon me again.</text>
-<text id="15000601">I wish to be of assistance...</text>
-<text id="15000602">May the flames guide thee.</text>
-<text id="15000700">If thou art in need, pray summon me again.</text>
-<text id="15000701">I only wish to be of some genuine assistance...</text>
-<text id="15000702">May the flames guide thee.</text>
-<text id="15000800">Wait, where... are...</text>
-<text id="15000900">Thou hast return'd. Bless thee.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="15001100">For a very long time, I was trapped within the Crystal Golem.</text>
 <text id="15001101">From my home I was taken, and banish'd to a plane of distortion.</text>
 <text id="15001102">It was there, that thou came to my rescue.</text>
 <text id="15001103">Long after I had relinquished all hope.</text>
 <text id="15001104">So gleeful was I, my faith reneweth.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="15001200">The sorceries of Oolacile differ from the magic of thine age.</text>
 <text id="15001201">It is difficult to explain...</text>
 <text id="15001202">Oolacile sorceries are, what doth one say?
@@ -46,15 +39,14 @@ They are somewhat... of an approximation.</text>
 <text id="15001203">Thine sorceries are more straight forward,
 negating all but thy self.</text>
 <text id="15001204">Dost thou not find some fascination in these discrepancies?</text>
+<text>#0Menu-Choose "Talk" 3rd time after resting at a Bonfire</text>
 <text id="15001300">My home of Oolacile was reduced to ashes, long ago, in my time.</text>
 <text id="15001301">I have been alone ever since...</text>
 <text id="15001302">But to be summon'd thus, and to be of service to thee...
 It is... most rewarding...</text>
 <text id="15001303">Oh, forgive me,
 such a long-past time is none of thine concern...</text>
-<text id="56000000">...Mmn...ahh...</text>
-<text id="56000010">...Aah...mmn...</text>
-<text id="56000020">...Hmm...mm...</text>
+<text>#0Menu-Choose "Talk" 1st time after defeating Manus, Father of the Abyss</text>
 <text id="56000100">...This may strike thine ear as somewhat peculiar, but...</text>
 <text id="56000110">Long ago, in my homeland of Oolacile,
 I was beset by a creature from the Abyss.</text>
@@ -70,11 +62,13 @@ A certain balance of the humours...</text>
 <text id="56000180">Oh, dear me.
 That was Oolacile, many centuries ago.</text>
 <text id="56000190">Please excuse my fanciful musings. </text>
+<text>#0Menu-Choose "Talk" 2nd time after defeating Manus, Father of the Abyss</text>
 <text id="56000200">Excuse me for such whimsical utterances.</text>
 <text id="56000210">Only, it was so very odd...</text>
 <text id="56000220">You, and Artorias. I owe my life to each of you.
 And both seem to share some resonance of sorts...</text>
 <text id="56000230">Perhaps it is the nature of true greatness.</text>
+<text>#0Menu-Choose "Talk" 3rd time after defeating Manus, Father of the Abyss</text>
 <text id="56000300">I still think on that creature from the Abyss that preyed upon me.</text>
 <text id="56000310">My faculties were far from lucid,
 but I quite clearly sensed certain emotions.</text>
@@ -85,6 +79,34 @@ an object of obsession, and a sincere hope to reclaim it...</text>
 <text id="56000350">Oh, please forgive my ramblings.</text>
 <text id="56000360">It's just that, I wish to know the truth.</text>
 <text id="56000370">And no one, not even loving Elizabeth, will tell me.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="15000600">If thou art in need, pray summon me again.</text>
+<text id="15000601">I wish to be of assistance...</text>
+<text id="15000602">May the flames guide thee.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="15000700">If thou art in need, pray summon me again.</text>
+<text id="15000701">I only wish to be of some genuine assistance...</text>
+<text id="15000702">May the flames guide thee.</text>
+<text>#0After leaving abruptly</text>
+<text id="15000800">Wait, where... are...</text>
+<text>#0Talk-After leaving abruptly</text>
+<text id="15000900">Thou hast return'd. Bless thee.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="15000220">What dost thou...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="15000240">Whatever for...</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="15000260">Cease this barbarism...</text>
+<text>#0Upon dying</text>
+<text id="15000300">Ahh...</text>
+<text id="15000301">Farewell, my rescuer...</text>
+<text>#0Talk-1st time after defeating Manus, Father of the Abyss</text>
+<text id="56000000">...Mmn...ahh...</text>
+<text>#0Talk-2nd time after defeating Manus, Father of the Abyss</text>
+<text id="56000010">...Aah...mmn...</text>
+<text id="56000020">...Hmm...mm...</text>
+<text>#0Upon being attacked</text>
 <text id="56005000">Aah...</text>
+<text>#0Upon dying</text>
 <text id="56005010">Eek!</text>
 </entries>

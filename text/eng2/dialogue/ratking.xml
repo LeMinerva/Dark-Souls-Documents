@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="75600000">Leave this place, human.</text>
 <text id="75600010">We have no time for thy kind.</text>
 <text id="75600020">Humans bring nothing but filth.</text>
+<text>#0Talk-2nd time</text>
 <text id="75600100">Thy welcome wearest thin.</text>
 <text id="75600110">Leave this place.</text>
+<text>#0Talk-1st time, after acquiring a Rat Tail</text>
 <text id="75600200">Is that a Rat Tail,
 human?</text>
 <text id="75600210">Thou'st one of mine rat burrows conquered.
@@ -16,6 +19,19 @@ for the right to serve me is now thine.</text>
 and pledge thyself to me?</text>
 <text id="75600250">Swearest thou by the sweet-tempered sludge
 that laps at our bosoms?</text>
+<text>#0Choose "No" to either the 1st or 2nd query</text>
+<text id="75600400">Of course.
+Humans are all alike.</text>
+<text id="75600410">Get thee gone.
+We will tolerate thy stench no longer.</text>
+<text>#0Talk-After choosing "No" to either the 1st or 2nd query</text>
+<text id="75600500">Thou return'st?</text>
+<text id="75600510">I am not unkind. Shouldst thou forbear thy ways,
+audience shall be thine.</text>
+<text id="75600520">Swearest thou to serve me true?</text>
+<text>#0Choose "No" to the 2nd query</text>
+<text id="75600600">Then we need consort no longer.</text>
+<text>#0Choose "Yes" to either the 1st or 2nd query</text>
 <text id="75600300">Thou hast the eyes of one who perceiveth true beauty.</text>
 <text id="75600310">Human, thou mayest serve.</text>
 <text id="75600320">Take this ring.
@@ -25,39 +41,36 @@ It was forged by a human who was once among us.</text>
 <text id="75600350">And destroy those who would dare provoke our ire.</text>
 <text id="75600360">I will grant unto thee all thou should so desire.</text>
 <text id="75600370">I prithee serve with a true rat's honour.</text>
-<text id="75600400">Of course.
-Humans are all alike.</text>
-<text id="75600410">Get thee gone.
-We will tolerate thy stench no longer.</text>
-<text id="75600500">Thou return'st?</text>
-<text id="75600510">I am not unkind. Shouldst thou forbear thy ways,
-audience shall be thine.</text>
-<text id="75600520">Swearest thou to serve me true?</text>
-<text id="75600600">Then we need consort no longer.</text>
+<text>#0Talk-After joining the Rat King Covenant</text>
 <text id="75600700">Speak thy mind, servant.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="75600800">My servant, tell me the way of things.</text>
 <text id="75600810">There has been much honour in thy service,
 despite the human blood coursing thy veins.</text>
 <text id="75600820">I am merciful,
 and trust in thee as I would any rat.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="75600900">The insolent fools line up to trample upon our burrows.</text>
 <text id="75600910">My servant, dispatch these invaders,
 and thy reward will be handsome indeed.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="75601000">Knowest thee of the Lockstones?
 Those odd contraptions fashioned by human hand long ago.</text>
 <text id="75601010">Thou art human, and thence able.</text>
 <text id="75601020">I know thy kind, base plotters and schemers all.
 Put these contraptions to thy employ 'gainst thy foe.</text>
+<text>#0Talk-After leaving the Rat King Covenant</text>
 <text id="75601100">Why comest thou here,
 human?</text>
 <text id="75601110">Thy treason will not go unpunished.</text>
 <text id="75601120">Be gone.
 I will gaze upon thee no longer.</text>
+<text>#0Choose "No" to the 3rd query, after previously leaving Rat King Covenant</text>
 <text id="75601200">Traitors will not be forgiven.
 Get thee gone.</text>
-<text id="75601300">My servant, destroy my enemies.</text>
+<text>#0Choose "Yes" to the 3rd query, after previously leaving Rat King Covenant</text>
 <text id="75601400">My servant, do not disappoint me.</text>
-<text id="75601500">Go then, my servant.</text>
+<text>#0Talk-After gaining rank +1 as a member of the Rat King Covenant</text>
 <text id="75601600">I am aware of thine accomplishments, and they are not few.</text>
 <text id="75601610">Long ago, I struck an accord with a human chieftain.</text>
 <text id="75601620">'Twas agreed, Humans would rule the lands
@@ -65,6 +78,7 @@ lapped by the sun's rays, and rats, all that was below.</text>
 <text id="75601630">But humans are liars all, schemers and cheats.</text>
 <text id="75601640">Thou art from a different cloth cut.
 Do not disappoint me.</text>
+<text>#0Talk-After gaining rank +2 as a member of the Rat King Covenant</text>
 <text id="75601700">Thy deeds are known to me.
 Still, there is ever more work to be done.</text>
 <text id="75601710">Humans are creatures of greed.
@@ -78,17 +92,30 @@ the fools called humans.</text>
 <text id="75601750">My servant,
 human scent lingers upon thee yet.</text>
 <text id="75601760">Rid thyself of it, if thou canst.</text>
+<text>#0Talk-After gaining rank +3 as a member of the Rat King Covenant</text>
 <text id="75601800">My servant, well met indeed.</text>
 <text id="75601810">'Twould seem some sunlight-poisoned creatures
 are worthy of great honour.</text>
 <text id="75601820">Thou'st permitted me to dream. One day,
 rats and humans may yet live and die together, in peace.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="75601400">My servant, do not disappoint me.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="75601300">My servant, destroy my enemies.</text>
+<text>#0After leaving abruptly</text>
+<text id="75601500">Go then, my servant.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="75605030">What is thy purpose?</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="75605040">Enough of thy baseness.</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="75605050">I've had quite enough.</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="75605000">I will destroy thee,
 filthy human!</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
 <text id="75605010">Thou art a fool to show thy face here!</text>
+<text>#0Upon killing the protagonist</text>
 <text id="75605020">Disgusting creature...</text>
-<text id="75605030">What is thy purpose?</text>
-<text id="75605040">Enough of thy baseness.</text>
-<text id="75605050">I've had quite enough.</text>
 <text id="75606000">##Adieu sweet burrow.</text>
 </entries>

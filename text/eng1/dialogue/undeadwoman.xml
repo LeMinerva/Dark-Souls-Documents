@@ -1,42 +1,92 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="34000000">Hmm, you still have your senses about you?</text>
 <text id="34000001">Then why won't you buy some of my moss?</text>
 <text id="34000002">I need your souls!</text>
 <text id="34000003">Vee hee hee!</text>
+<text>#0Talk-2nd time</text>
 <text id="34000100">Oh, there you are, dearie!</text>
 <text id="34000101">A pleasure to see you again.</text>
 <text id="34000102">Vee hee hee!</text>
+<text>#0Talk-3rd time</text>
 <text id="34000120">Oh, there you are, dearie!</text>
 <text id="34000121">I have moss; now dish up some souls!</text>
 <text id="34000122">Vee hee hee!</text>
+<text>#0Talk-After leaving &amp; returning to Undead Burg</text>
 <text id="34000140">Oh, hello, dearie.</text>
 <text id="34000141">You left me high and dry for a while, there.</text>
 <text id="34000142">I thought maybe you'd forgotten about me.</text>
 <text id="34000143">Are you back for more of my moss, then?</text>
 <text id="34000144">Plenty of it here. Freshly peeled, just for you!</text>
 <text id="34000145">Vee hee hee!</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
+<text id="34000900">You've come to this land at a bad time.</text>
+<text id="34000901">There are nothing but Hollows in these parts.
+Save for me, of course.</text>
+<text id="34000902">You're Undead, too, aren't you? You be careful, then.</text>
+<text id="34000903">Vee hee hee!</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
+<text id="34001100">Ah, go down along the side
+to reach the depths of the Undead Burg.</text>
+<text id="34001101">Only unkempt crooks and liars to be found there.</text>
+<text id="34001102">Hardly a place for a lady like myself!</text>
+<text id="34001103">But who knows, maybe you'd fit right in?</text>
+<text id="34001104">Vee hee hee hee hee!</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
+<text id="34001200">This is a wonderful place, don't you think?</text>
+<text id="34001201">We have water, moss, moisture,
+these nice iron bars...</text>
+<text id="34001202">I like it here, I really do.</text>
+<text id="34001203">Nothing good ever happened to me in life.</text>
+<text id="34001204">But now that I'm Undead, I've never been happier!</text>
+<text>#0Menu-Choose "Talk" 4th time</text>
+<text id="34001000">I forage moss.</text>
+<text id="34001001">In the lower areas of this town,
+you'll find all kinds of poison and pestilence.</text>
+<text id="34001002">You can't travel a stone's toss without some trusty moss.</text>
+<text id="34001003">Make sure you take plenty with you!</text>
+<text id="34001004">Vee hee hee!</text>
+<text>#0Menu-Choose "Talk" 5th time</text>
+<text id="34001300">Tell me honestly...</text>
+<text id="34001301">You think I've gone to the other side, don't you?</text>
+<text id="34001302">That I've cracked my head and gone Hollow...</text>
+<text id="34001303">You do, don't you?</text>
+<text id="34001304">I can see it in your eyes.</text>
+<text id="34001305">You'd trust a patch of moss over me...</text>
+<text>#0Menu-Choose "Leave" 1st time without purchasing something</text>
 <text id="34000200">Drat.</text>
 <text id="34000201">What a humdrum lad you are.</text>
 <text id="34000202">What a humdrum lass you are.</text>
+<text>#0Menu-Choose "Leave" 2nd time without purchasing something</text>
 <text id="34000220">Hmph, fine, then.</text>
 <text id="34000221">But you'll regret it.</text>
+<text>#0Menu-Choose "Leave" 3rd time without purchasing something</text>
 <text id="34000240">Are you toying with me?</text>
 <text id="34000241">One day, your fate will catch up with you.</text>
 <text id="34000242">I have a sense for these things...</text>
 <text id="34000243">The Gods above are watching you!</text>
+<text>#0Menu-Choose "Leave" 1st time after purchasing something</text>
 <text id="34000300">Come again, if you please!</text>
 <text id="34000301">Vee hee hee!</text>
+<text>#0Menu-Choose "Leave" 2nd time after purchasing something</text>
 <text id="34000320">Much obliged.</text>
 <text id="34000321">I think I like you!</text>
 <text id="34000322">Vee hee hee hee hee!</text>
+<text>#0After leaving abruptly</text>
 <text id="34000400">Don't run off!</text>
+<text>#0Talk-After leaving abruptly</text>
 <text id="34000500">What's the matter with you!</text>
 <text id="34000501">Don't you toy with my nerves!</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="34000600">Why, you!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="34000610">Stop that!</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="34000620">Ouch!</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="34000630">Eeek!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="34000700">What do you think you're doing?!</text>
 <text id="34000701">I have my pride, you damn fool!</text>
 <text id="34000702">You think you can get away with murder?</text>
@@ -54,34 +104,6 @@
 <text id="34000714">All of you!</text>
 <text id="34000715">Eternal pain and suffering!</text>
 <text id="34000716">Lots and lots!</text>
+<text>#0Upon dying</text>
 <text id="34000800">A curse upon you...</text>
-<text id="34000900">You've come to this land at a bad time.</text>
-<text id="34000901">There are nothing but Hollows in these parts.
-Save for me, of course.</text>
-<text id="34000902">You're Undead, too, aren't you? You be careful, then.</text>
-<text id="34000903">Vee hee hee!</text>
-<text id="34001000">I forage moss.</text>
-<text id="34001001">In the lower areas of this town,
-you'll find all kinds of poison and pestilence.</text>
-<text id="34001002">You can't travel a stone's toss without some trusty moss.</text>
-<text id="34001003">Make sure you take plenty with you!</text>
-<text id="34001004">Vee hee hee!</text>
-<text id="34001100">Ah, go down along the side
-to reach the depths of the Undead Burg.</text>
-<text id="34001101">Only unkempt crooks and liars to be found there.</text>
-<text id="34001102">Hardly a place for a lady like myself!</text>
-<text id="34001103">But who knows, maybe you'd fit right in?</text>
-<text id="34001104">Vee hee hee hee hee!</text>
-<text id="34001200">This is a wonderful place, don't you think?</text>
-<text id="34001201">We have water, moss, moisture,
-these nice iron bars...</text>
-<text id="34001202">I like it here, I really do.</text>
-<text id="34001203">Nothing good ever happened to me in life.</text>
-<text id="34001204">But now that I'm Undead, I've never been happier!</text>
-<text id="34001300">Tell me honestly...</text>
-<text id="34001301">You think I've gone to the other side, don't you?</text>
-<text id="34001302">That I've cracked my head and gone Hollow...</text>
-<text id="34001303">You do, don't you?</text>
-<text id="34001304">I can see it in your eyes.</text>
-<text id="34001305">You'd trust a patch of moss over me...</text>
 </entries>

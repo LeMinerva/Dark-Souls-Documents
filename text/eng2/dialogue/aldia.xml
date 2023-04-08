@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time after lighting a Primal Bonfire</text>
 <text id="69200010">No one has come this far,
 not for a very long while.</text>
 <text id="69200020">Young Hollow,
 do you wish to shed this curse?</text>
 <text id="69200030">Then accept the fate of your ilk, and face the trials that await you.</text>
 <text id="69200040">Unless, you have already joined the crestfallen.</text>
+<text>#0Talk-2nd time after lighting a Primal Bonfire</text>
 <text id="69200100">Young Hollow,
 there are but two paths.
 Inherit the order of this world, or destroy it.</text>
@@ -14,16 +16,19 @@ Inherit the order of this world, or destroy it.</text>
 <text id="69200130">And yet your journey is far from over.</text>
 <text id="69200140">Half-grown Hollow,
 have you what it takes, truly?</text>
+<text>#0Talk-3rd time after lighting a Primal Bonfire</text>
 <text id="69200200">Young Hollow,
 seek after Vendrick.</text>
 <text id="69200210">He who almost became a true monarch.</text>
 <text id="69200220">Vendrick is certain to guide your way.</text>
 <text id="69200230">Fledgeling Hollow,
 may we meet again.</text>
+<text>#0Talk-1st time</text>
 <text id="69200300">Heheh, I believe we've been acquainted.</text>
 <text id="69200310">Young Hollow,
 conqueror of fear.</text>
 <text id="69200320">What drives you so, to overcome this supposed curse?</text>
+<text>#0Talk-2nd time</text>
 <text id="69200400">Life is brilliant. Beautiful.
 It enchants us, to the point of obsession.</text>
 <text id="69200410">Some are true to their purpose,
@@ -31,6 +36,7 @@ though they are but shells, flesh and mind.</text>
 <text id="69200420">One man lost his own body, but lingered on, as a head.</text>
 <text id="69200430">Others chase the charms of love, however elusive.</text>
 <text id="69200440">What is it that drives you?</text>
+<text>#0Talk-3rd time</text>
 <text id="69200500">Once, the Lord of Light banished Dark,
 and all that stemmed from humanity.</text>
 <text id="69200510">And men assumed a fleeting form.</text>
@@ -40,6 +46,7 @@ and no matter how tender, how exquisite...</text>
 <text id="69200540">A lie will remain a lie.</text>
 <text id="69200550">Young Hollow,
 knowing this, do you still desire peace?</text>
+<text>#0Choose "Yes" or "No"</text>
 <text id="69200600">Vendrick, the near-true monarch,
 is here, and not far off.</text>
 <text id="69200610">But what is a king?</text>
@@ -48,15 +55,18 @@ is here, and not far off.</text>
 <text id="69200640">You cannot even say yourself.</text>
 <text id="69200650">We shall meet again,
 young Hollow.</text>
+<text>#0Talk-1st time</text>
 <text id="69200700">Young Hollow.</text>
 <text id="69200710">How you grapple, without falter,
 with this dreadfully twisted world.</text>
+<text>#0Talk-2nd time</text>
 <text id="69200800">Peace grants men the illusion of life.</text>
 <text id="69200810">Shackled by falsehoods, they yearn for love,
 unaware of its grand illusion.</text>
 <text id="69200820">Until, the curse touches their flesh.</text>
 <text id="69200830">We are bound by this yoke.</text>
 <text id="69200840">As true as the Dark that churns within men.</text>
+<text>#0Talk-3rd time</text>
 <text id="69200900">All men trust fully the illusion of life.</text>
 <text id="69200910">But is this so wrong?</text>
 <text id="69200920">A construction,
@@ -65,23 +75,27 @@ a façade, and yet...</text>
 <text id="69200940">Young Hollow,
 are you intent on shattering the yoke,
 spoiling this wonderful falsehood?</text>
+<text>#0Choose "Yes" or "No"</text>
 <text id="69201000">I am Aldia.</text>
 <text id="69201010">I sought to shed the yoke of fate, but failed.</text>
 <text id="69201020">Now, I only await an answer.</text>
 <text id="69201030">Seek the throne.</text>
 <text id="69201040">Seek light, Dark,
 and what lies beyond...</text>
+<text>#0After choosing "Yes" to the query in Dragon Shrine &amp; defeating Nashandra</text>
+<text id="69201400">Many monarchs have come and gone.</text>
+<text id="69201410">One drowned in poison, another succumbed to flame.</text>
+<text id="69201420">Still another slumbers in a realm of ice.</text>
+<text id="69201430">Not one of them stood here, as you do now.</text>
 <text id="69201100">You, conqueror of adversities.</text>
 <text id="69201110">Give us your answer.</text>
+<text>#0After defeating Aldia, Scholar of the First Sin</text>
 <text id="69201200">I lost everything, but remained here, patiently.</text>
 <text id="69201210">The throne will certainly receive you.</text>
 <text id="69201220">But the question remains...</text>
 <text id="69201230">What do you want, truly?</text>
 <text id="69201240">Light? Dark? Or something else entirely...</text>
-<text id="69201400">Many monarchs have come and gone.</text>
-<text id="69201410">One drowned in poison, another succumbed to flame.</text>
-<text id="69201420">Still another slumbers in a realm of ice.</text>
-<text id="69201430">Not one of them stood here, as you do now.</text>
+<text>#0After exiting Throne of Want by choosing "Leave Throne"</text>
 <text id="11300">There is no path.</text>
 <text id="11310">Beyond the scope of light, beyond the reach of Dark...</text>
 <text id="11320">...what could possibly await us?</text>

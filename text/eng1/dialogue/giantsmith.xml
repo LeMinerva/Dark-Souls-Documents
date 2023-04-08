@@ -1,47 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="31000000">Who are you?</text>
 <text id="31000001">Forge your weapons?</text>
+<text>#0Talk-2nd time</text>
 <text id="31000100">Mng. Hello.</text>
 <text id="31000101">Forge, I can!</text>
 <text id="31000102">Strong, I am!</text>
-<text id="31000200">Cometh soon.</text>
-<text id="31000300">Cometh soon.</text>
-<text id="31000400">Mng, hmng?</text>
-<text id="31000500">Hello again.</text>
-<text id="31000600">Oww.</text>
-<text id="31000650">Oww, that hurts.</text>
-<text id="31000700">Oi!</text>
-<text id="31000701">Stop that!</text>
-<text id="31000800">Angh, uggghh...</text>
-<text id="31000801">Nighty-night...</text>
-<text id="31000900">Mng. What's that?</text>
-<text id="31000901">Shiny-shiny.</text>
-<text id="31000902">Give me that.</text>
-<text id="31000903">I make weapons shiny.</text>
-<text id="31001000">Hmph, 'tis pity...</text>
-<text id="31001100">I hath shiny-shiny,</text>
-<text id="31001101">I make weapons shiny!</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="31001200">Talk, 'tis no good.</text>
 <text id="31001201">But forge...very good!</text>
 <text id="31001202">I help anytime.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="31001300">Talk, 'tis no good.</text>
 <text id="31001301">No-one home.</text>
 <text id="31001302">Everyone gone.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="31001400">But you, friend.</text>
 <text id="31001401">You talk,</text>
 <text id="31001402">I no talk,</text>
 <text id="31001403">but happy.</text>
+<text>#0Menu-Choose "Talk" 4th time</text>
 <text id="31001500">You come,</text>
 <text id="31001501">I forge.</text>
 <text id="31001502">Shiny-shiny.</text>
 <text id="31001503">Get shiny from Duke.</text>
 <text id="31001504">Forge weapons, make shiny.</text>
 <text id="31001505">More happy.</text>
+<text>#0Menu-Choose "Talk" 5th time</text>
 <text id="31001600">You come,</text>
 <text id="31001601">I forge,</text>
 <text id="31001602">we talk.</text>
 <text id="31001603">You good friend.</text>
 <text id="31001604">I very happy.</text>
+<text>#0Talk-After obtaining the Crystal Ember</text>
+<text id="31000900">Mng. What's that?</text>
+<text id="31000901">Shiny-shiny.</text>
+<text id="31000902">Give me that.</text>
+<text id="31000903">I make weapons shiny.</text>
+<text>#0Choose "No" to giving the Crystal Ember</text>
+<text id="31001000">Hmph, 'tis pity...</text>
+<text>#0Choose "Yes" to giving the Crystal Ember</text>
+<text id="31001100">I hath shiny-shiny,</text>
+<text id="31001101">I make weapons shiny!</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="31000200">Cometh soon.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="31000300">Cometh soon.</text>
+<text>#0After leaving abruptly</text>
+<text id="31000400">Mng, hmng?</text>
+<text>#0Talk-After leaving abruptly</text>
+<text id="31000500">Hello again.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="31000600">Oww.</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="31000650">Oww, that hurts.</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="31000700">Oi!</text>
+<text id="31000701">Stop that!</text>
+<text>#0Upon killing the protagonist</text>
 <text id="31001700">You weak.</text>
+<text>#0Upon dying</text>
+<text id="31000800">Angh, uggghh...</text>
+<text id="31000801">Nighty-night...</text>
 </entries>

@@ -1,24 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time, after using a Fragrant Branch of Yore to unpetrity her</text>
 <text id="76300000">Cough! Cough cough!</text>
 <text id="76300010">Th-th...Thank...thank you...</text>
 <text id="76300020">Cough cough!</text>
 <text id="76300030">I've been...petrified...hard to...speak...</text>
 <text id="76300040">Cough! Oww...</text>
 <text id="76300050">Give me...a moment, please!</text>
+<text>#0Talk-2nd time, on the path to the Shaded Woods</text>
 <text id="76300100">I'm fine, I think. Hrgg!</text>
 <text id="76300110">No no no, I'm fine! Really, I am!</text>
 <text id="76300120">Um, my name is Rosabeth.</text>
 <text id="76300130">Thank you so much for rescuing me.
 Phew...</text>
+<text>#0Talk-3rd time, on the path to the Shaded Woods</text>
 <text id="76300200">Oh, you're that traveller!</text>
 <text id="76300210">I still haven't thanked you!</text>
 <text id="76300220">Well, I'm quite a hand at pyromancy.</text>
 <text id="76300230">So, perhaps... You could consider this my thanks?</text>
+<text>#0Talk-4th time, on the path to the Shaded Woods</text>
 <text id="76300300">I was attacked, and turned to stone...I think...</text>
 <text id="76300310">I owe you my life!
 If you had not come...</text>
 <text id="76300320">I feel shameful...wearing these rags...</text>
+<text>#0Talk-5th time, on the path to the Shaded Woods</text>
 <text id="76300400">Um...I hate to burden you further,
 as you've already saved my life...</text>
 <text id="76300410">But...just look at me, my clothes are in tatters.</text>
@@ -27,11 +32,19 @@ as you've already saved my life...</text>
 I'm not particular when it comes to apparel.</text>
 <text id="76300440">Anything at all will do.</text>
 <text id="76300450">Just put it on the ground, and I'll change into it later.</text>
+<text>#0Talk-6th time, on the path to the Shaded Woods</text>
+<text id="76300900">Er...could you spare me something to wear?</text>
+<text id="76300910">Just put it here, and I'll change into it later.</text>
+<text>#0Menu-Choose "Give equipment" &amp; providing her with any equipment</text>
 <text id="76300500">Thank you so much!
 I'm very happy for this gift.</text>
 <text id="76300510">After I change into this, I'm heading for Majula.</text>
 <text id="76300520">I'm not sure where I might find Milord.</text>
 <text id="76300530">But perhaps Majula is my best chance.</text>
+<text>#0Talk-After giving her any equipment</text>
+<text id="76300800">I'm going back to Majula.</text>
+<text id="76300810">I hope we can meet again!</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="76300600">I have my very own teacher.</text>
 <text id="76300610">His name is Carhillion of the Fold,
 a famed sorcerer in Melfia, our home town.</text>
@@ -40,6 +53,7 @@ And so...! Well, he's so unique, you see...</text>
 <text id="76300630">When he set out for Drangleic, I couldn't let him go alone.</text>
 <text id="76300640">But we were separated...
 quite early on, I'm afraid...</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="76300700">I'm rather unskilled... Milord probably ditched me.</text>
 <text id="76300710">But oddly, I'm a fast learner when it comes to pyromancy.</text>
 <text id="76300720">What we're fascinated by, and we're skilled at,
@@ -47,30 +61,30 @@ are not always the same thing.</text>
 <text id="76300730">Why can't I just focus on what I truly enjoy?</text>
 <text id="76300740">Ooh, dear, I shouldn't be so choosy!</text>
 <text id="76300750">It's hardly my place...</text>
-<text id="76300800">I'm going back to Majula.</text>
-<text id="76300810">I hope we can meet again!</text>
-<text id="76300900">Er...could you spare me something to wear?</text>
-<text id="76300910">Just put it here, and I'll change into it later.</text>
+<text>#0Talk-1st time</text>
 <text id="76302000">Oh! There you are!</text>
 <text id="76302010">I'm here in Majula thanks entirely to you.</text>
 <text id="76302020">You even were kind enough to clothe me.
 Thank you so very much.</text>
 <text id="76302030">The only thing I can offer is pyromancy,
 but if that might help you, come to me.</text>
+<text>#0Talk-2nd time</text>
+<text id="76302700">Yes! How may I help you?</text>
+<text>#0Talk-3rd time</text>
+<text id="76302800">Hello! Do you require pyromancy?</text>
+<text>#0Talk-1st time after resting at a Bonfire</text>
+<text id="76302900">Hello again! How have you been?</text>
+<text>#0Talk-2nd time after resting at a Bonfire</text>
+<text id="76303000">I'm glad to see you're well!</text>
+<text>#0Menu-Choose "Talk"</text>
+<text id="76303600">It was a perilous trek across the mountains.</text>
+<text id="76303610">I faced the most frightful things...</text>
+<text id="76303620">The number of times I nearly died! Tee hee!</text>
+<text>#0Menu-Choose "Talk" 1st time after Carhillion has arrived in Majula</text>
 <text id="76302200">I finally tracked down my teacher.</text>
 <text id="76302210">But I've decided to keep at it alone.</text>
 <text id="76302220">I need to see what I can achieve by myself.</text>
-<text id="76302300">##What a wonderful choice!</text>
-<text id="76302700">Yes! How may I help you?</text>
-<text id="76302800">Hello! Do you require pyromancy?</text>
-<text id="76302900">Hello again! How have you been?</text>
-<text id="76303000">I'm glad to see you're well!</text>
-<text id="76303100">I'm always here,
-so come and see me when you're in town!</text>
-<text id="76303200">Be safe.</text>
-<text id="76303300">Wait!
-Where are you...
-cough...</text>
+<text>#0Menu-Choose "Talk" 2nd time after Carhillion has arrived in Majula</text>
 <text id="76303400">Master Carhillion and I are from Melfia, to the south.
 A land lush with sorcery and pyromancy.</text>
 <text id="76303410">Master Carhillion polished his art at
@@ -78,23 +92,38 @@ one of our renowned magic academies.</text>
 <text id="76303420">But he argued that the academies
 were terrible places to learn magic...</text>
 <text id="76303430">This quite angered Master Glocken, my previous teacher...</text>
+<text>#0Menu-Choose "Talk" 3rd time after Carhillion has arrived in Majula</text>
 <text id="76303500">Once, Master Carhillion spoke excitedly of this land.</text>
 <text id="76303510">He made talk of the remnants...of some great power,
 and the deep abyss that surrounds it.</text>
 <text id="76303520">I tried to ask more...
 But he didn't seem to hear.</text>
 <text id="76303530">...I'll never be good enough, will I...</text>
-<text id="76303600">It was a perilous trek across the mountains.</text>
-<text id="76303610">I faced the most frightful things...</text>
-<text id="76303620">The number of times I nearly died! Tee hee!</text>
-<text id="76305000">How could you...</text>
-<text id="76305010">I won't let you do this...</text>
-<text id="76305020">Goodness, are you alright?</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="76303200">Be safe.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="76303100">I'm always here,
+so come and see me when you're in town!</text>
+<text>#0After leaving abruptly</text>
+<text id="76303300">Wait!
+Where are you...
+cough...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="76305030">Please, stop this!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="76305040">C-calm...calm yourself!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="76305000">How could you...</text>
+<text>#0Upon approaching her, after she has previously killed the protagonist</text>
+<text id="76305010">I won't let you do this...</text>
+<text>#0Upon killing the protagonist</text>
+<text id="76305020">Goodness, are you alright?</text>
+<text>#0After reducing her health to 50% or lower</text>
 <text id="76305060">B-but why?</text>
+<text>#0Upon dying</text>
 <text id="76305070">Eeeek!</text>
+<text id="76302300">##What a wonderful choice!</text>
 <text id="76306000">##Master... Carhillion...</text>
-<text id="76307000">Oh, yes! These are for you!</text>
-<text id="76307010">Please, take them!</text>
+<text id="76307000">##Oh, yes! These are for you!</text>
+<text id="76307010">##Please, take them!</text>
 </entries>

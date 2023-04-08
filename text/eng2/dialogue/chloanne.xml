@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="76200000">Are you a traveller?</text>
 <text id="76200010">I am Chloanne,
 an orestone trader.</text>
@@ -18,19 +19,24 @@ For instance, certain stones are used in smithing.</text>
 Heh.</text>
 <text id="76200100">I've extras, if you can pay.
 This is my trade, after all!</text>
+<text>#0Talk-2nd time</text>
 <text id="76200200">What? Do you need something?</text>
+<text>#0Talk-3rd time</text>
 <text id="76200300">I'll provide whatever service you need.
 For a fair price,
 of course!</text>
+<text>#0Talk-After resting at a Bonfire</text>
 <text id="76200400">You've been long away.
 What would you like?</text>
 <text id="76200500">Well, I've only one thing to provide,
 and we both know what that is!
 Heh heh...</text>
-<text id="76200600">Visit me again, whenever you please.</text>
-<text id="76200700">No interest? Suit yourself.</text>
-<text id="76200800">I suppose it's about time I moved shop...</text>
-<text id="76200900">Oi! Mind your manners!</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
+<text id="76201010">I came here in search of rare stones, but...</text>
+<text id="76201020">The place is nothing like I was told.
+All this poison, and you can't get very far inside.</text>
+<text id="76201030">Don't just go haplessly wandering about.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="76201100">These stones may look all the same.
 but to the trained eye, each is unique.</text>
 <text id="76201110">Some of them are used to smith weapons and armour,
@@ -40,21 +46,21 @@ and should be used with great thrift.</text>
 <text id="76201130">None of the differences are easily spotted,
 but I've learned quite a lot, really!
 Heh.</text>
-<text id="76201200">##I'll trade stones for souls if you wish.</text>
-<text id="76201210">##If you've no souls, I'll trade for items.</text>
-<text id="76201220">##If you offer something of quality,
-I'll offer a comparable stone.</text>
-<text id="76201230">##Don't look so surprised,
-I always deal fair and square! Heh.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="76201300">Drangleic...</text>
 <text id="76201310">How is it that I ended up here?</text>
 <text id="76201320">It's funny... I can't seem to remember.</text>
+<text>#0Menu-Choose "Talk" 4th time</text>
 <text id="76201400">I've searched every nook and cranny here.
 I suppose it's time to move on.</text>
 <text id="76201410">Perhaps we'll meet again, if we live that long!
 Heh.</text>
+<text>#0Menu-Choose "Leave" after exhausting her dialogue</text>
+<text id="76200800">I suppose it's about time I moved shop...</text>
+<text>#0Talk-1st time</text>
 <text id="76202000">Oh, fancy meeting you here.</text>
 <text id="76202010">Speak up if you need anything at all. Alright?</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="76202100">You know how they call this place Drangleic, right?</text>
 <text id="76202110">Well, in the old lore, in stories and the like,
 they said it had another name...</text>
@@ -64,6 +70,7 @@ many kingdoms have risen and fallen on this very spot.</text>
 <text id="76202140">Each like a great flame, that turns to soot.</text>
 <text id="76202150">Maybe that's why people
 don't remember much about the past...</text>
+<text>#0Menu-Choose "Talk" 2nd time if Lenigrast is alive</text>
 <text id="76202200">You see that blacksmith over there?</text>
 <text id="76202210">Is he one of those...Hollows?
 He seems to keep eyeing me up.</text>
@@ -71,6 +78,7 @@ He seems to keep eyeing me up.</text>
 He's a blacksmith, too, you see.</text>
 <text id="76202230">The poor man's such a worrywort.</text>
 <text id="76202240">But...he wouldn't follow me out here, would he?</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="76202300">I was born in a land to the west, Volgen.
 Famous for its merchants.</text>
 <text id="76202310">There were great,
@@ -84,13 +92,88 @@ but I much prefer to live this way.</text>
 I can't remember how I ended up here...</text>
 <text id="76202360">It's as if...I were drawn to the place...
 or lured in...Oh, I don't know...</text>
-<text id="76205000">Fine, if that's the way it is...</text>
-<text id="76205030">What?!</text>
-<text id="76205040">What on earth?!</text>
-<text id="76205050">Stop that!</text>
-<text id="76206000">##Bye for now. Heh heh...</text>
+<text>#0Menu-Choose "Talk" after spending 20000 souls</text>
 <text id="76207000">Oh, I know! Take these.</text>
 <text id="76207010">We can all do with a little help,
 can't we? I know I always can!
 Heh heh...</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="76200700">No interest? Suit yourself.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="76200600">Visit me again, whenever you please.</text>
+<text>#0After leaving abruptly</text>
+<text id="76200900">Oi! Mind your manners!</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="76205030">What?!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="76205040">What on earth?!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="76205050">Stop that!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="76205000">Fine, if that's the way it is...</text>
+<text id="76201200">##I'll trade stones for souls if you wish.</text>
+<text id="76201210">##If you've no souls, I'll trade for items.</text>
+<text id="76201220">##If you offer something of quality,
+I'll offer a comparable stone.</text>
+<text id="76201230">##Don't look so surprised,
+I always deal fair and square! Heh.</text>
+<text id="76206000">##Bye for now. Heh heh...</text>
+<text id="76200100">##You're… all right? 
+I never expected a wonderer like you were still around. </text>
+<text id="76200110">##I'm Croana, 
+a craftsman that repair bags and belts.</text>
+<text id="76200120">##You do have some too, don't you?
+I could give it a tweak so that it will be easier for you to use.</text>
+<text id="76200200">##Oh, do you still have something? </text>
+<text id="76200210">##You again. Nice, what is it?</text>
+<text id="76200220">##Welcome. Bag? Belt? Whichever you like.</text>
+<text id="76200230">##I was waiting for you.
+Bags? Or is it the belts that you want.</text>
+<text id="76200400">##Stay sane again when you come back.</text>
+<text id="76200410">##Oh、don't you need anything?</text>
+<text id="76200420">##We are friends now,
+so come see me at Madula some times. </text>
+<text id="76200500">##How's this?</text>
+<text id="76200600">##Do you understand the usage of the bag and belt?</text>
+<text id="76200610">##You store the things you want to carry in the bag 
+and the things you want to use right away in the belt.</text>
+<text id="76200620">##If you can't use these to properly,
+then you will be doomed soon, ok?</text>
+<text id="76200700">##You can use the items in the belt right away,
+but it sometimes obstructs your move.</text>
+<text id="76200710">##You know the story of Cuindney the thief?
+The story he was caught because he put too much items in his belt
+and couldn't move because of the weight.</text>
+<text id="76200720">##I have this mind that you might do the same thing…</text>
+<text id="76200800">##This fort used to be the forefront base to protect
+the king's castle from the enemy invading from the sea.</text>
+<text id="76200810">##May be that collapsed pass was a remain of the battle.</text>
+<text id="76200900">##I wanted to go to Madula
+but you see that pass is closed.</text>
+<text id="76200910">##So I tried to seek another pass,
+but there's too much hollows around.</text>
+<text id="76201100">##You… you opened that pass? 
+So… I can go to Madula now!?</text>
+<text id="76201110">##I never thought you would solve the problem. 
+I guess you're much reliable then I thought.</text>
+<text id="76201200">##You opened that pass didn't you?
+ Well, thank you so much.</text>
+<text id="76201210">##I was in a big worry because I couldn't go to Madula because of it. </text>
+<text id="76201220">##Oh, sorry. I hadn't even introduced myself. </text>
+<text id="76201230">##I'm Croana the bag craftsman.
+I repair bags and belts.</text>
+<text id="76201240">##I'm sorry that I can't afford it free, but as a gratitude,
+I will fix your bag so it will be easier to use. </text>
+<text id="76201300">##Hey, what's the matter?</text>
+<text id="76209000">##Hey!</text>
+<text id="76209010">##What was that for!?</text>
+<text id="76209020">##What is wrong with you!</text>
+<text id="76209030">##Stop being violent!</text>
+<text id="76209040">##I'm not your enemy!</text>
+<text id="76209050">##This does it! Prepare yourself!</text>
+<text id="76209060">##Augh!! Not you again!</text>
+<text id="76209070">##Why do I have to fight with you.</text>
+<text id="76209080">##What do you earn from this?</text>
+<text id="76209090">##I… still had… much more…to do</text>
+<text id="76209100">##Please don't haunt me…</text>
 </entries>

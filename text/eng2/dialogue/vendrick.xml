@@ -1,15 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
+<text id="51300010">Seeker of fire,
+coveter of the throne.</text>
+<text id="51300011">I am Vendrick,
+ruler of Drangleic.</text>
+<text>#0Talk-2nd time</text>
 <text id="51200020">As flame rises, so does it fade. Such is the way of things.</text>
 <text id="51200021">Do you intend to link the fire?</text>
 <text id="51200022">Then you must first take the throne.</text>
 <text id="51200023">Prove your worth. Find the ancient crowns.</text>
 <text id="51200024">Seek adversity, and they will be yours.</text>
 <text id="51200025">And your wishes, granted.</text>
-<text id="51300010">Seeker of fire,
-coveter of the throne.</text>
-<text id="51300011">I am Vendrick,
-ruler of Drangleic.</text>
+<text>#0Talk-3rd time</text>
+<text id="51200025">And your wishes, granted.</text>
+<text>#0Talk-1st time, after acquiring the King's Crown</text>
 <text id="51300030">Seeker of fire,
 deliverer of crowns.</text>
 <text id="51300031">What do you see in the flames?</text>
@@ -18,6 +23,7 @@ deliverer of crowns.</text>
 <text id="51300034">Seek adversity.</text>
 <text id="51300035">As befits you,
 seeker of fire, coveter of the throne.</text>
+<text>#0Talk-2nd time, after acquiring the King's Crown</text>
 <text id="51300040">I am no king.
 I am more fit to be a jester... </text>
 <text id="51300041">I was unaware of my own blindness.</text>
@@ -25,8 +31,10 @@ I am more fit to be a jester... </text>
 <text id="51300043">We would cast aside the prop of life, only to face greater hardship.</text>
 <text id="51300044">Are you another such fool,
 or something more?</text>
+<text>#0Talk-3rd time, after acquiring the King's Crown</text>
 <text id="51300050">I fail to see your design, young moth.</text>
 <text id="51300051">But I see very little, these days...</text>
+<text>#0Talk-1st time, after acquiring one of three Lost Crowns &amp;  the King's Crown</text>
 <text id="51300060">Seeker of fire,
 conqueror of Dark.</text>
 <text id="51300061">I, too, sought fire, once.</text>
@@ -36,6 +44,7 @@ a true king can harness the curse.</text>
 <text id="51300064">Seeker of fire, you know not the depths of Dark within you.</text>
 <text id="51300065">It grows deeper still, the more flame you covet.</text>
 <text id="51300066">Flame, oh, flame...</text>
+<text>#0Talk-2nd time, after acquiring one of three Lost Crowns &amp;  the King's Crown</text>
 <text id="51300070">I am king of this wretched, unravelled kingdom.</text>
 <text id="51300071">I subdued the Giants, and claimed their strength.</text>
 <text id="51300072">So that I might step closer to fire...</text>
@@ -43,6 +52,12 @@ a true king can harness the curse.</text>
 and the souls of old will reemerge.</text>
 <text id="51300081">With Dark unshackled, a curse will be upon us...</text>
 <text id="51300082">And men will take their true shape...</text>
+<text>#0Talk-3rd time, after acquiring one of three Lost Crowns &amp;  the King's Crown</text>
+<text id="51300080">Drangleic will fall, the fire will fade,
+and the souls of old will reemerge.</text>
+<text id="51300081">With Dark unshackled, a curse will be upon us...</text>
+<text id="51300082">And men will take their true shape...</text>
+<text>#0Talk-1st time, after acquiring two of three Lost Crowns &amp;  the King's Crown</text>
 <text id="51300090">Seeker of fire,
 I see you've subdued another foul creature.</text>
 <text id="51300091">One of the Father of the Abyss' spawn,
@@ -57,15 +72,18 @@ was one such fragment...</text>
 tiny thing that thirsted for power more than any other...</text>
 <text id="51300097">Driven by insatiable lust
 for a worthy vessel.</text>
+<text>#0Talk-2nd time, after acquiring two of three Lost Crowns &amp;  the King's Crown</text>
 <text id="51300100">Fire came to be, and with it, Disparity.</text>
 <text id="51300101">Heat and cold, life and death,
 Light and Dark.</text>
+<text>#0Talk-3rd time, after acquiring two of three Lost Crowns &amp;  the King's Crown</text>
 <text id="51300110">Dark was seen as a curse.</text>
 <text id="51300111">Shadow is not cast, but born of fire.</text>
 <text id="51300112">And, the brighter the flame, the deeper the shadow.</text>
 <text id="51300113">Inherit fire,
 and harness the Dark.</text>
 <text id="51300114">Such is the calling of a true leader...</text>
+<text>#0Talk-1st time, after acquiring all three Lost Crowns &amp; King's Crown</text>
 <text id="51300120">One day, fire will fade, and Dark will become a curse.</text>
 <text id="51300121">Men will be free from death, left to wander eternally.</text>
 <text id="51300122">Dark will again be ours, and in our true shape...</text>
@@ -75,5 +93,6 @@ and harness the Dark.</text>
 coveter of the throne. </text>
 <text id="51300126">Seek strength.</text>
 <text id="51300127">The rest will follow...</text>
+<text>#0Upon being attacked</text>
 <text id="51300130">Foolish...</text>
 </entries>

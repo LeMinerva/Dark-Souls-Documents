@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="12000000">Ahh, you're no jailer, are you?</text>
 <text id="12000001">No, no, you're from far away. And judging by the bell...</text>
 <text id="12000002">You must be some of that unkindled ash.</text>
@@ -13,54 +14,68 @@ If that's true, then I have a favour to ask.</text>
 <text id="12000009">I'll be sure to repay you in kind.</text>
 <text id="12000010">I-I may be a petty thief, but I've more wits than most royalty.</text>
 <text id="12000011">What do you say, then?</text>
+<text>#0Choose "Refuse" to either the 1st or 2nd query</text>
+<text id="12000200">Yes, well, why should you?</text>
+<text id="12000201">But if you change your mind, give me a shout, eh?</text>
+<text id="12000202">I-I'm only a petty thief. I've nowhere else to go.</text>
+<text id="12000203">Not like there's anything calling to me out there...</text>
+<text id="12000204">...</text>
+<text>#0Talk-After choosing "Refuse" to either the 1st or 2nd query</text>
+<text id="12000300">Oh, what have we here? Changed your mind, perhaps?</text>
+<text id="12000301">You deliver the ring, and I offer my co-operation.</text>
+<text id="12000302">Hardly a shabby deal, hm?</text>
+<text>#0Choose "Grant request" to either the 1st or 2nd query</text>
 <text id="12000100">Very well. I humbly place my faith in you.</text>
 <text id="12000101">I am Greirat of the Undead Settlement,
 and I promise to assist you.</text>
 <text id="12000102">Give this ring to old Loretta
 at the base of the High Wall.</text>
 <text id="12000103">...Do your part, and I'll do mine.</text>
-<text id="12000200">Yes, well, why should you?</text>
-<text id="12000201">But if you change your mind, give me a shout, eh?</text>
-<text id="12000202">I-I'm only a petty thief. I've nowhere else to go.</text>
-<text id="12000203">Not like there's anything calling to me out there...</text>
-<text id="12000204">...</text>
-<text id="12000300">Oh, what have we here? Changed your mind, perhaps?</text>
-<text id="12000301">You deliver the ring, and I offer my co-operation.</text>
-<text id="12000302">Hardly a shabby deal, hm?</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="12000400">...</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="12000401">...</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="12000402">What in buggery!</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="12000403">Damn it, you've lost it, haven't you!</text>
-<text id="12000500">##...</text>
-<text id="12000501">##Curses, how did this...</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="12002800">Cold piss, what the devil is it now!</text>
+<text id="12002801">I get caught once, and now this!</text>
+<text id="12002802">One bloody time! Curse the gods!</text>
+<text>#0Upon killing the protagonist</text>
+<text id="12002900">As they say,</text>
+<text id="12002901">"The cornered rat will lick the balls of a cat."</text>
+<text>#0Upon dying</text>
 <text id="12000502">Forgive me, dear...</text>
+<text>#0Talk-1st time</text>
 <text id="12000600">Oh, hello, you're back.</text>
 <text id="12000601">And in one piece. Well, now it's time I do my part.</text>
 <text id="12000602">Whatever trinket you need, speak up.</text>
 <text id="12000603">Just don't ask me where I got them.</text>
 <text id="12000604">...</text>
+<text>#0Talk-2nd time</text>
 <text id="12000700">Oh, hello, you're back.</text>
 <text id="12000701">And in one piece. Well, now it's time I do my part.</text>
-<text id="12000800">Oh, hello, you've come at a good time.</text>
-<text id="12000801">It took some prowling, but I've finally made a score.</text>
-<text id="12000802">Go on, have a gander.</text>
-<text id="12000900">Oh, then, we are both safe and sound.</text>
-<text id="12000901">Thank the gods for that. I don't like cutting things so close.</text>
-<text id="12000902">I might've died if it wasn't for that peculiar onion knight.</text>
-<text id="12000903">##I might've died if it wasn't for that little knight Anri.</text>
-<text id="12000904">But in the end, it all paid off.</text>
-<text id="12000905">Take a good look. They're sure to be of some use.</text>
-<text id="12001000">Goodbye, and stay safe.</text>
-<text id="12001001">Oh, this place is a bore.
-What good is thievery if you've nowhere to go?</text>
-<text id="12001002">...</text>
-<text id="12001100">Good-bye. I will leave for some time. So long for now.</text>
-<text id="12001101">Do stay safe, you hear? Or my efforts will have been for naught.</text>
-<text id="12001102">...</text>
+<text>#0Menu-Choose "Talk"</text>
 <text id="12001200">Do me a favour, and don't forget our promise.</text>
 <text id="12001201">Give the ring to old Loretta
 at the base of the High Wall.</text>
 <text id="12001202">A nuisance, I know, but it'll help me tie up some loose ends.</text>
+<text>#0Menu-Choose "Give Loretta's Bone"</text>
+<text id="12002500">Heavens, she was already dead...</text>
+<text id="12002501">Thank you. I-I'm not surprised, though.</text>
+<text id="12002502">Hmm, almost a relief, really.</text>
+<text id="12002503">You can keep the ring.</text>
+<text id="12002504">As, well, a little trinket of thanks, I suppose.</text>
+<text id="12002505">...</text>
+<text>#0Menu-Choose "Talk" after giving him Loretta's Bone</text>
+<text id="12002503">You can keep the ring.</text>
+<text id="12002504">As, well, a little trinket of thanks, I suppose.</text>
+<text id="12002505">...</text>
+<text>#0Talk-1st time after giving him Loretta's Bone &amp; travels from Firelink Shrine</text>
+<text id="12002500">Heavens, she was already dead...</text>
+<text>#0Talk-2nd time after giving him Loretta's Bone &amp; travels from Firelink Shrine</text>
 <text id="12001300">Ahh, there you are. I was thinking...</text>
 <text id="12001301">You know I'm a petty thief.</text>
 <text id="12001302">Well, perhaps I'll go on the prowl.</text>
@@ -69,36 +84,63 @@ right, so...</text>
 <text id="12001304">I might as well fetch
 some weapons or treasure for you.</text>
 <text id="12001305">Well, what do you say?</text>
-<text id="12001400">Thank you. You will not be disappointed.</text>
-<text id="12001401">Greirat the Thief was once a well-known name.</text>
-<text id="12001402">Until I ended up rotting in a cell...</text>
-<text id="12001403">...</text>
-<text id="12001404">...</text>
+<text>#0Choose "Refuse" to either the 1st or 2nd query</text>
 <text id="12001500">All right, fine and well.</text>
 <text id="12001501">If that's your wish, I can only obey.</text>
 <text id="12001502">But, feel free to change your mind later.</text>
 <text id="12001503">I wouldn't want to lose my touch...</text>
 <text id="12001504">...</text>
+<text>#0Menu-Choose "Talk" after choosing "Refuse"</text>
 <text id="12001600">What is it? Have you changed your mind?</text>
 <text id="12001601">I'm ready to go thieving at a moment's notice.
 Just give me the word.</text>
+<text>#0Choose "Send him to pillage" to either the 1st or 2nd query</text>
+<text id="12001400">Thank you. You will not be disappointed.</text>
+<text id="12001401">Greirat the Thief was once a well-known name.</text>
+<text id="12001402">Until I ended up rotting in a cell...</text>
+<text id="12001403">...</text>
+<text id="12001404">...</text>
+<text>#0Menu-Choose "Talk" after choosing "Send him to pullage"</text>
+<text id="12001401">Greirat the Thief was once a well-known name.</text>
+<text id="12001402">Until I ended up rotting in a cell...</text>
+<text id="12001403">...</text>
+<text id="12001404">...</text>
+<text>#0Talk-After he has made it back from thieving</text>
+<text id="12000800">Oh, hello, you've come at a good time.</text>
+<text id="12000801">It took some prowling, but I've finally made a score.</text>
+<text id="12000802">Go on, have a gander.</text>
+<text>#0Talk-After protagonist has reached Irithyll of the Boreal Valley</text>
 <text id="12001700">Ahh, hello, fine work, I say.</text>
 <text id="12001701">Discovering Irithyll in the Boreal Valley, all in a day's work.</text>
 <text id="12001702">If the tales are true, it is home to old moon-worshipping nobles,
 and should be packed with treasure.</text>
 <text id="12001703">What do you think? Shall I go and see what I can find?</text>
-<text id="12001800">Mm, a fine choice!</text>
-<text id="12001801">I am Greirat, the thief.
-What I bring back will be worthy of that name.</text>
-<text id="12001802">...</text>
+<text>#0Choose "Refuse"  to pillage Irithyll, either the 1st or 2nd query prompted</text>
 <text id="12001900">All right, fine and well.</text>
 <text id="12001901">If that is your wish, I can only obey.</text>
 <text id="12001902">But, feel free to change your mind later.</text>
 <text id="12001903">I hate to leave a city of nobles ripe for the picking...</text>
 <text id="12001904">...</text>
+<text>#0Menu-Choose "Talk" after choosing "Refuse"  to pillage Irithyll</text>
 <text id="12002000">What is it? Changed your mind?</text>
 <text id="12002001">I'm ready to go thieving at a moment's notice.
 Just give me the word.</text>
+<text>#0Choose "Send him to pillage" Irithyll, either the 1st or 2nd query prompted</text>
+<text id="12001800">Mm, a fine choice!</text>
+<text id="12001801">I am Greirat, the thief.
+What I bring back will be worthy of that name.</text>
+<text id="12001802">...</text>
+<text>#0Menu-Choose "Talk" after choosing "Send him to pillage" Irithyll</text>
+<text id="12001801">I am Greirat, the thief.
+What I bring back will be worthy of that name.</text>
+<text id="12001802">...</text>
+<text>#0Talk-After he has made it back from thieving in Irithyll of the Boreal Valley</text>
+<text id="12000900">Oh, then, we are both safe and sound.</text>
+<text id="12000901">Thank the gods for that. I don't like cutting things so close.</text>
+<text id="12000902">I might've died if it wasn't for that peculiar onion knight.</text>
+<text id="12000904">But in the end, it all paid off.</text>
+<text id="12000905">Take a good look. They're sure to be of some use.</text>
+<text>#0Talk-After protagonist has reached Lothric Castle</text>
 <text id="12002100">You know, I was thinking...</text>
 <text id="12002101">About leaving for another round of thieving.</text>
 <text id="12002102">There must be something of use
@@ -108,37 +150,50 @@ in Lothric Castle.</text>
 even back in the day.</text>
 <text id="12002105">But I don't want sit around and die a petty rat.</text>
 <text id="12002106">And I consider myself your friend.</text>
+<text>#0Choose "Refuse"  to pillage Lothric Castle</text>
+<text id="12002300">Right, fine. You're very thoughtful, you are.</text>
+<text id="12002301">But, if you change your mind, do speak up.</text>
+<text id="12002302">I meant every word of what I said.</text>
+<text>#0Menu-Choose "Talk" after choosing "Refuse"  to pillage Lothric Castlel</text>
+<text id="12002400">Changed your mind?</text>
+<text id="12002401">I hope you do.
+I lived a petty rat, but would rather not die as one.</text>
+<text>#0Choose "Send him to pillage" Lothric Castle</text>
 <text id="12002200">Thank you, for placing your trust in me.</text>
 <text id="12002201">Oh, don't you worry.
 I know Lothric like the back of my hand.</text>
 <text id="12002202">...</text>
-<text id="12002300">Right, fine. You're very thoughtful, you are.</text>
-<text id="12002301">But, if you change your mind, do speak up.</text>
-<text id="12002302">I meant every word of what I said.</text>
-<text id="12002400">Changed your mind?</text>
-<text id="12002401">I hope you do.
-I lived a petty rat, but would rather not die as one.</text>
-<text id="12002500">Heavens, she was already dead...</text>
-<text id="12002501">Thank you. I-I'm not surprised, though.</text>
-<text id="12002502">Hmm, almost a relief, really.</text>
-<text id="12002503">You can keep the ring.</text>
-<text id="12002504">As, well, a little trinket of thanks, I suppose.</text>
-<text id="12002505">...</text>
+<text>#0Menu-Choose "Talk" after choosing "Send him to pillage" Lothric Castle</text>
+<text id="12002201">Oh, don't you worry.
+I know Lothric like the back of my hand.</text>
+<text id="12002202">...</text>
+<text>#0Menu-Choose "Leave" or after leaving abruptly</text>
+<text id="12001000">Goodbye, and stay safe.</text>
+<text id="12001001">Oh, this place is a bore.
+What good is thievery if you've nowhere to go?</text>
+<text id="12001002">...</text>
+<text>#0Menu-Choose "Leave" or after leaving abruptly, after "Send him to pillage"</text>
+<text id="12001100">Good-bye. I will leave for some time. So long for now.</text>
+<text id="12001101">Do stay safe, you hear? Or my efforts will have been for naught.</text>
+<text id="12001102">...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="12002600">...</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="12002601">...</text>
-<text id="12002603">##What's got into you?</text>
-<text id="12002604">##Stop that, please, stop!</text>
-<text id="12002700">...</text>
-<text id="12002701">##How could you!</text>
-<text id="12002702">I've gone and run my course, haven't I?</text>
-<text id="12002800">Cold piss, what the devil is it now!</text>
-<text id="12002801">I get caught once, and now this!</text>
-<text id="12002802">One bloody time! Curse the gods!</text>
-<text id="12002900">As they say,</text>
-<text id="12002901">"The cornered rat will lick the balls of a cat."</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="12003000">You're headed for the brink, aren't you?</text>
 <text id="12003001">Well, you won't drag me down.</text>
 <text id="12003002">En guarde, you crusty ash bastard!</text>
-<text id="12003100">##Cold piss, why did it come to this...</text>
+<text>#0Upon killing the protagonist</text>
+<text id="12003100">Cold piss, why did it come to this...</text>
+<text>#0Upon dying</text>
+<text id="12002700">...</text>
+<text id="12002702">I've gone and run my course, haven't I?</text>
+<text id="12000500">##...</text>
+<text id="12000501">##Curses, how did this...</text>
+<text id="12000903">##I might've died if it wasn't for that little knight Anri.</text>
+<text id="12002603">##What's got into you?</text>
+<text id="12002604">##Stop that, please, stop!</text>
+<text id="12002701">##How could you!</text>
 <text id="12003200">##And I thought we were friends...some friends...</text>
 </entries>

@@ -1,68 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="33000000">Well, now...</text>
 <text id="33000001">You seem to have your wits about you, hmm?</text>
 <text id="33000002">Then you are a welcome customer!</text>
 <text id="33000003">I trade for souls. Everything's for sale!</text>
 <text id="33000004">Nee hee hee hee hee!</text>
+<text>#0Talk-2nd time</text>
 <text id="33000100">Oh, you again?</text>
 <text id="33000101">I hope you've brought plenty of souls?</text>
 <text id="33000102">Nee hee hee hee hee!</text>
+<text>#0Talk-After resting at a Bonfire</text>
 <text id="33000120">Oh, there you are.</text>
 <text id="33000121">Still keeping your marbles all together?</text>
 <text id="33000122">Then, go ahead, don't be a nitwit.</text>
 <text id="33000123">Never hurts to splurge when your days are numbered!</text>
 <text id="33000124">Nee hee hee hee hee!</text>
+<text>#0Talk-After leaving &amp; returning to Undead Burg</text>
 <text id="33000140">Oh, there you are.</text>
 <text id="33000141">Where have you been hiding?</text>
 <text id="33000142">I guessed you'd hopped the twig for certain.</text>
 <text id="33000143">Bah, shows what I know!</text>
 <text id="33000144">Nee hee hee hee hee!</text>
-<text id="33000200">Hmph!</text>
-<text id="33000201">Cheap bastard.</text>
-<text id="33000202">##If you're looking for a lot, you have to give a little.</text>
-<text id="33000203">Right, Yulia?</text>
-<text id="33000220">Tsk!</text>
-<text id="33000221">Throw me a bone, will you?</text>
-<text id="33000222">You haven't got much time anyway.</text>
-<text id="33000223">Right, Yulia?</text>
-<text id="33000240">Hmph.</text>
-<text id="33000241">What a waste of time.</text>
-<text id="33000242">Go and fall off a cliff. </text>
-<text id="33000300">Thank you kindly.</text>
-<text id="33000301">Nee hee hee hee hee!</text>
-<text id="33000320">Ah, thank you, very much.</text>
-<text id="33000321">Come back soon!</text>
-<text id="33000322">Nee hee hee hee hee!</text>
-<text id="33000400">Hey, what! What's the matter?</text>
-<text id="33000500">What was that about?</text>
-<text id="33000501">Oh, nevermind.</text>
-<text id="33000600">Eeg!</text>
-<text id="33000610">Yeowch!</text>
-<text id="33000620">Oi, what's this about?</text>
-<text id="33000630">It's me! Stop it, I tell you!</text>
-<text id="33000700">You've gone mad, have you!?</text>
-<text id="33000701">I'll teach you! You lousy rat!</text>
-<text id="33000702">Yulia! Yulia!</text>
-<text id="33000800">Why, me...</text>
-<text id="33000801">Little Yulia...</text>
-<text id="33000900">Ah, this one? Ain't she lovely?</text>
-<text id="33000901">Her name is Yulia. She's plumb in love with me.</text>
-<text id="33000902">You'd never leave my side, now would you, Yulia?</text>
-<text id="33001000">Ah, you can forget it.</text>
-<text id="33001001">I'm all that she needs.</text>
-<text id="33001002">Careful, she'll bite your little fingers off!</text>
-<text id="33001003">Be kind, Yulia, be kind!</text>
-<text id="33001004">Nee hee hee hee hee!</text>
-<text id="33001100">Eh? My wares?</text>
-<text id="33001101">Of course they're stolen; what did you think?</text>
-<text id="33001102">And when you lose your head,</text>
-<text id="33001103">I'll sell it all again!</text>
-<text id="33001104">Nee hee hee hee hee!</text>
-<text id="33001200">Now, don't squander your time chatting!</text>
-<text id="33001201">You need to look over my wares!</text>
-<text id="33001300">Eh? I'm not here to chit-chat.</text>
-<text id="33001301">We talk business, or we talk nothing at all.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="33001400">Things are getting treacherous in these parts.</text>
 <text id="33001401">A horrible goat demon
 has moved in below.</text>
@@ -70,9 +30,73 @@ has moved in below.</text>
 and a bull demon, too.</text>
 <text id="33001403">If you stick around this place, it might end up being your grave!</text>
 <text id="33001404">Nee hee hee hee hee!</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
+<text id="33001300">Eh? I'm not here to chit-chat.</text>
+<text id="33001301">We talk business, or we talk nothing at all.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
+<text id="33000900">Ah, this one? Ain't she lovely?</text>
+<text id="33000901">Her name is Yulia. She's plumb in love with me.</text>
+<text id="33000902">You'd never leave my side, now would you, Yulia?</text>
+<text>#0Menu-Choose "Talk" 4th time</text>
+<text id="33001000">Ah, you can forget it.</text>
+<text id="33001001">I'm all that she needs.</text>
+<text id="33001002">Careful, she'll bite your little fingers off!</text>
+<text id="33001003">Be kind, Yulia, be kind!</text>
+<text id="33001004">Nee hee hee hee hee!</text>
+<text>#0Menu-Choose "Talk" 5th time</text>
+<text id="33001200">Now, don't squander your time chatting!</text>
+<text id="33001201">You need to look over my wares!</text>
+<text>#0Menu-Choose "Talk" 6th time</text>
 <text id="33001500">It's actually quite nice here, you know?</text>
 <text id="33001501">The Hollows don't care for a skinny old twig like me.</text>
 <text id="33001502">I've got Yulia...And nobody pelts me with stones anymore.</text>
 <text id="33001503">You're Undead, you know how it is.</text>
 <text id="33001504">I was treated worse back at home.</text>
+<text>#0Menu-Choose "Talk" 7th time</text>
+<text id="33001100">Eh? My wares?</text>
+<text id="33001101">Of course they're stolen; what did you think?</text>
+<text id="33001102">And when you lose your head,</text>
+<text id="33001103">I'll sell it all again!</text>
+<text id="33001104">Nee hee hee hee hee!</text>
+<text>#0Menu-Choose "Leave" 1st time without purchasing something</text>
+<text id="33000200">Hmph!</text>
+<text id="33000201">Cheap bastard.</text>
+<text id="33000203">Right, Yulia?</text>
+<text>#0Menu-Choose "Leave" 2nd time without purchasing something</text>
+<text id="33000220">Tsk!</text>
+<text id="33000221">Throw me a bone, will you?</text>
+<text id="33000222">You haven't got much time anyway.</text>
+<text id="33000223">Right, Yulia?</text>
+<text>#0Menu-Choose "Leave" 3rd time without purchasing something</text>
+<text id="33000240">Hmph.</text>
+<text id="33000241">What a waste of time.</text>
+<text id="33000242">Go and fall off a cliff. </text>
+<text>#0Menu-Choose "Leave" 1st time after purchasing something</text>
+<text id="33000300">Thank you kindly.</text>
+<text id="33000301">Nee hee hee hee hee!</text>
+<text>#0Menu-Choose "Leave" 2nd time after purchasing something</text>
+<text id="33000320">Ah, thank you, very much.</text>
+<text id="33000321">Come back soon!</text>
+<text id="33000322">Nee hee hee hee hee!</text>
+<text>#0After leaving abruptly</text>
+<text id="33000400">Hey, what! What's the matter?</text>
+<text>#0Talk-After leaving abruptly</text>
+<text id="33000500">What was that about?</text>
+<text id="33000501">Oh, nevermind.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="33000600">Eeg!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="33000610">Yeowch!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="33000620">Oi, what's this about?</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="33000630">It's me! Stop it, I tell you!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="33000700">You've gone mad, have you!?</text>
+<text id="33000701">I'll teach you! You lousy rat!</text>
+<text id="33000702">Yulia! Yulia!</text>
+<text>#0Upon dying</text>
+<text id="33000800">Why, me...</text>
+<text id="33000801">Little Yulia...</text>
+<text id="33000202">##If you're looking for a lot, you have to give a little.</text>
 </entries>

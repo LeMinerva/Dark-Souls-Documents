@@ -1,60 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="72600000">Who
-you?</text>
-<text id="72600010">I
-Gavlan.</text>
+<text>#0Talk-1st time</text>
+<text id="72600000">Who you?</text>
+<text id="72600010">I Gavlan.</text>
 <text id="72600020">Gavlan wheel?
 Gavlan deal.</text>
-<text id="72600030">Gavlan
-want
-soul.
-Many
-many
-soul.
+<text id="72600030">Gavlan want soul.
+Many many soul.
 Gah hah!</text>
-<text id="72600040">What
-you
-want?</text>
-<text id="72600060">With Gavlan,
-you wheel?
+<text id="72600040">What you want?</text>
+<text id="72600060">With Gavlan, you wheel?
 You deal! Gah hah!</text>
+<text>#0Talk-2nd time</text>
 <text id="72600100">What? You want?</text>
+<text>#0Talk-3rd time</text>
 <text id="72600200">Umm...You want?
 Want what?</text>
-<text id="72600300">Umm...
-Gavlan
-know you.</text>
-<text id="72600400">Make
-deal with
-Gavlan?</text>
-<text id="72600500">Oh
-Gavlan,
-know you.
-What
-you
-want?</text>
-<text id="72600600">You,
-again.
-Gavlan,
-meet you
-again.</text>
-<text id="72600700">Many deal...many thanks! Gah hah!</text>
+<text>#0Talk-1st time after resting at a Bonfire</text>
+<text id="72600300">Umm...Gavlan know you.</text>
+<text>#0Talk-2nd time after resting at a Bonfire</text>
+<text id="72600400">Make deal with Gavlan?</text>
+<text>#0Talk-3rd time after resting at a Bonfire</text>
+<text id="72600500">Oh Gavlan, know you.
+What you want?</text>
+<text>#0Talk-4th time after resting at a Bonfire</text>
+<text id="72600600">You, again.
+Gavlan, meet you again.</text>
+<text>#0Menu-Choose "Talk"</text>
+<text id="72600020">Gavlan wheel?
+Gavlan deal.</text>
+<text id="72600030">Gavlan want soul.
+Many many soul.
+Gah hah!</text>
+<text id="72600040">What you want?</text>
+<text id="72600060">With Gavlan, you wheel?
+You deal! Gah hah!</text>
+<text>#0Menu-Choose "Talk" after spending 16000 souls</text>
+<text id="72607000">With Gavlan, you deal.
+Much, much deal.</text>
+<text id="72607010">These, you take,
+ah For you.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
 <text id="72600800">You? Go home?</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="72600700">Many deal...many thanks! Gah hah!</text>
+<text>#0After leaving abruptly</text>
 <text id="72600900">Umm...</text>
-<text id="72605000">Umm...
-You strong.</text>
-<text id="72605010">You
-die!</text>
+<text>#0Upon being attacked</text>
 <text id="72605030">Umm?</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="72605000">Umm...You strong.</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="72605010">You die!</text>
 <text id="72606000">##Wheel...deal...</text>
-<text id="72607000">With Gavlan,
-you deal.
-Much,
-much
-deal.</text>
-<text id="72607010">These,
-you take,
-ah
-For you.</text>
 </entries>

@@ -1,27 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="30000000">Oh, my, I see you're Unkindled</text>
 <text id="30000001">For a pilgrim such as I, all tucked in and awaiting death,
 to have this honour.</text>
 <text id="30000002">This presages a most glorious death indeed.</text>
 <text id="30000003">Praise thee, praise thee.</text>
+<text>#0Talk-1st time, after attaining 5 Dark Sigils</text>
 <text id="30000100">Oh, my, you are...!</text>
 <text id="30000101">But I'm afraid we require more time.</text>
 <text id="30000102">As long as it takes a dark droplet to fall, that is all.</text>
 <text id="30000103">Our gracious Lord...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="30000400">...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="30000401">...</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="30000402">Whatever for!</text>
+<text>#0Upon dying</text>
+<text id="30000502">But, why...</text>
+<text id="30000503">Lady Yuria...</text>
+<text>#0Talk-1st time in front of the Darkmoon Tomb</text>
 <text id="30000200">Welcome, our gracious Lord.</text>
 <text id="30000201">Your spouse awaits you, you are very near.</text>
 <text id="30000202">Please, take the Sword of Avowal.</text>
 <text id="30000203">May you be the truest Lord of Londor yet.</text>
+<text>#0Talk-2nd time in front of the Darkmoon Tomb</text>
 <text id="30000300">Your spouse awaits you, you are very near.</text>
 <text id="30000301">May you be the truest Lord of Londor yet.</text>
-<text id="30000400">...</text>
-<text id="30000401">...</text>
-<text id="30000402">Whatever for!</text>
-<text id="30000500">...</text>
-<text id="30000502">But, why...</text>
-<text id="30000503">Lady Yuria...</text>
-<text id="30000600">...</text>
+<text>#0Upon dying or during the Dark Lord ending</text>
 <text id="30000602">Ahh, our gracious Lord...</text>
 <text id="30000603">Make Londor whole...</text>
+<text id="30000500">##...</text>
+<text id="30000600">##...</text>
 </entries>

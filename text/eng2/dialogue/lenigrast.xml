@@ -1,18 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="76400000">Who are you?</text>
 <text id="76400010">Oh, it doesn't matter,
 just help me open this door.</text>
 <text id="76400020">I packed my tools in here, seeing it was vacant...</text>
 <text id="76400030">...but now somebody's gone and locked the door.</text>
+<text>#0Talk-2nd time</text>
 <text id="76400100">I'm a blacksmith.
 I'm nothing without my tools.</text>
 <text id="76400110">Bring me that key.
 Chop chop!</text>
+<text>#0Talk-After unlocking the door using Lenigrast's Key</text>
 <text id="76400200">Ah, yes, very good.</text>
 <text id="76400210">Now I can get to work.</text>
 <text id="76400220">But first, let me set up.
 Come again later.</text>
+<text>#0Talk-After unlocking the door using Lenigrast's Key &amp; resting at a Bonfire</text>
 <text id="76400300">You, stand back.
 This is dangerous work.</text>
 <text id="76400310">The name's Lenigrast.
@@ -28,24 +32,28 @@ planted firmly in the earth.</text>
 <text id="76400370">Oh, what does it matter... Go on, show me what you've got.</text>
 <text id="76400380">Your equipment. Let me have a look.
 But do it quick.</text>
+<text>#0Talk-1st time</text>
 <text id="76400400">What? You again?</text>
+<text>#0Talk-2nd time</text>
 <text id="76400500">You again?
 Can't you see that I'm busy?</text>
+<text>#0Talk-1st time after resting at a Bonfire</text>
 <text id="76400600">Hmph, I'd given you up for dead.
 Almost had me worried, really...</text>
+<text>#0Talk-2nd time after resting at a Bonfire</text>
 <text id="76400700">I knew you'd be around soon.
 Go on, show me what you've got.</text>
-<text id="76400800">I'll be around, if you make it back.</text>
-<text id="76400900">Hmph. Don't waste my time.</text>
-<text id="76401000">People these days...</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="76401100">Drat, you're worse than my reckless daughter.</text>
 <text id="76401110">Don't spend your whole life in transit, you hear?</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="76401300">You'll need souls to
 repair and improve equipment.</text>
 <text id="76401310">I know only of smithing,
 but souls have many other uses, as well.</text>
 <text id="76401320">Don't waste your souls on useless trinkets.
 Think before you spend.</text>
+<text>#0Menu-Choose "Talk" 3rd time, before Chloanne has arrived in Majula</text>
 <text id="76401400">Equipment can be strengthened with rare orestone.
 But such orestone won't come easily.</text>
 <text id="76401410">My girl knows her stones,
@@ -54,6 +62,27 @@ but she's always out prancing about.</text>
 but you can't wander the world forever.</text>
 <text id="76401440">Even you must have
 someone waiting back home...</text>
+<text>#0Menu-Choose "Talk" 1st time, after Chloanne has arrived in Majula</text>
+<text id="76401600">My witless daughter finally came home.</text>
+<text id="76401610">Just as oblivious as she's always been.</text>
+<text id="76401620">Well, at least now I can keep an eye on her.</text>
+<text>#0Menu-Choose "Talk" 2nd time, after Chloanne has arrived in Majula</text>
+<text id="76401700">Stones? Try asking my daughter.</text>
+<text id="76401710">You might be surprised.</text>
+<text>#0Menu-Choose "Talk" 1st time, after Gilligan has arrived in Majula</text>
+<text id="76401800">Now,
+don't go near that scum
+near the pit.</text>
+<text id="76401810">The scoundrel's name is Gilligan,
+and he's infamous in our home town.</text>
+<text id="76401820">Yes, everyone's heard of him,
+as he always manages to stir up trouble.</text>
+<text>#0Menu-Choose "Talk" 2nd time, after Gilligan has arrived in Majula</text>
+<text id="76401900">Gilligan can certainly be helpful at times,
+but he's a real conniver when it comes to money.</text>
+<text id="76401910">Hah, there are even people out for his life.</text>
+<text id="76401920">And you can bet he brought it on himself.</text>
+<text>#0Menu-Choose "Talk" after acquiring the Dull Ember</text>
 <text id="76401500">I see that you have an ember.
 Where did you get it?</text>
 <text id="76401510">I hear that embers were once used in
@@ -62,30 +91,27 @@ a special process to fortify weapons.</text>
 Blacksmiths can't use embers any more.</text>
 <text id="76401530">Including myself, I'm afraid.
 Just keep it as a souvenir.</text>
-<text id="76401600">My witless daughter finally came home.</text>
-<text id="76401610">Just as oblivious as she's always been.</text>
-<text id="76401620">Well, at least now I can keep an eye on her.</text>
-<text id="76401700">Stones? Try asking my daughter.</text>
-<text id="76401710">You might be surprised.</text>
-<text id="76401800">Now,
-don't go near that scum
-near the pit.</text>
-<text id="76401810">The scoundrel's name is Gilligan,
-and he's infamous in our home town.</text>
-<text id="76401820">Yes, everyone's heard of him,
-as he always manages to stir up trouble.</text>
-<text id="76401900">Gilligan can certainly be helpful at times,
-but he's a real conniver when it comes to money.</text>
-<text id="76401910">Hah, there are even people out for his life.</text>
-<text id="76401920">And you can bet he brought it on himself.</text>
-<text id="76405000">Well, if that's what you want!</text>
-<text id="76405010">You should have stayed far away!</text>
-<text id="76405020">Hmph, the damned fool...</text>
-<text id="76405030">Now...! Watch it!</text>
-<text id="76405040">What's that about?!</text>
-<text id="76405060">The gall of it!</text>
-<text id="76406000">##Chloanne...I...</text>
+<text>#0Talk-After spending 8000 souls</text>
 <text id="76407000">How goes your journey?</text>
 <text id="76407010">Take these.
 They should help a bit.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="76400900">Hmph. Don't waste my time.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="76400800">I'll be around, if you make it back.</text>
+<text>#0After leaving abruptly</text>
+<text id="76401000">People these days...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="76405030">Now...! Watch it!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="76405040">What's that about?!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="76405000">Well, if that's what you want!</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="76405010">You should have stayed far away!</text>
+<text>#0Upon killing the protagonist</text>
+<text id="76405020">Hmph, the damned fool...</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="76405060">The gall of it!</text>
+<text id="76406000">##Chloanne...I...</text>
 </entries>

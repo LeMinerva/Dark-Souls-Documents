@@ -1,43 +1,105 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="18000000">Hello there. I believe we are not acquainted?</text>
 <text id="18000001">I am Petrus of Thorolund. Have you business with us?</text>
 <text id="18000002">...If not, I'd prefer to keep a distance, if possible.</text>
-<text id="18000003">##We are on a mission, as you likely are too.
-A very important one at that.</text>
-<text id="18000004">##Especially for M'lady.
-Surely you can understand?</text>
+<text>#0Talk-2nd time</text>
 <text id="18000100">Hello there.</text>
 <text id="18000101">I realize that I have requested that we retain our distance,</text>
 <text id="18000102">But I also want you to know that
 it is not meant in ill-will.</text>
 <text id="18000103">Here, take this. As a token of peace.</text>
 <text id="18000104">No, go ahead. It's for you.</text>
+<text>#0Talk-3rd time</text>
+<text id="18011100">Oh, hello...</text>
+<text id="18011103">Oh, I know. How about this...</text>
+<text id="18011104">I have to await my companions here anyway,</text>
+<text id="18011105">so, what if I were to teach you some miracles?</text>
+<text id="18011106">Would that please you?</text>
+<text>#0Choose "No" to the 1st query</text>
+<text id="18011300">That is a shame. But each to their own.</text>
+<text id="18011301">Speak to me if you have a change of heart.</text>
+<text>#0After choosing "No" to either the 1st or 2nd query</text>
+<text id="18011600">Oh, hello.</text>
+<text id="18011601">What is it? Have you changed your mind?</text>
+<text>#0Choose "Yes" to the 1st query</text>
+<text id="18011200">Very well. Then first, a Covenant with the Gods.</text>
+<text>#0Choose "Yes" to the 2nd query, or already belongs to the Way of White</text>
+<text id="18011201">Now, let me share my Miracles.</text>
+<text id="18011202">Only, their ultimate effectiveness
+will be determined by your efforts, and your faith.</text>
+<text>#0Talk-1st time after joining or already belonging to the Way of White</text>
+<text id="18011400">Oh, hello.</text>
+<text id="18011401">I will teach you Miracles. A promise is a promise, after all.</text>
+<text>#0Talk-2nd time after joining or already belonging to the Way of White</text>
+<text id="18011500">Oh, hello.</text>
+<text id="18011501">Miracles, I presume? Yes, I know.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
+<text id="18011900">My companions are M'lady
+and her young knights.</text>
+<text id="18011901">She is young, but burdened by an Undead mission.</text>
+<text id="18011902">We are her defences, to keep her from harm.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
+<text id="18012000">An Undead mission?</text>
+<text id="18012001">Regrettably, I cannot share that with you.</text>
+<text id="18012002">But you are my pupil, perhaps if you show your faith...</text>
+<text>#0Choose "No" to spending souls</text>
+<text id="18012200">I am afraid that may be difficult. For our missions are sacred.</text>
+<text>#0Choose "Yes" to spending souls</text>
+<text id="18012100">Very well. I can surely tell you, of all people...</text>
+<text id="18012101">Undead clerics are given a mission to seek Kindling.</text>
+<text id="18012102">Kindling is the art of
+feeding bonfires with humanity.</text>
+<text id="18012103">Through Kindling,
+we shall one day be granted magnificent powers.</text>
+<text>#0Talk-1st time after Rhea arrived in Firelink Shrine</text>
+<text id="18011702">Oh, hello.</text>
+<text id="18011800">My guests have finally arrived.</text>
+<text id="18011801">I will be departing with them shortly.</text>
+<text id="18011802">So, I'm afraid I will be saying good-bye soon.</text>
+<text id="18011803">It was a pleasure.</text>
+<text>#0Talk-2nd time after Rhea arrived in Firelink Shrine</text>
 <text id="18000200">Oh, my... you again?</text>
 <text id="18000201">Empathy, in excess, becomes a sin.</text>
 <text id="18000202">But you already knew that...I should hope?</text>
+<text>#0Talk-3rd time after Rhea arrived in Firelink Shrine</text>
 <text id="18000300">Oh, you yet again?</text>
 <text id="18000301">We shall depart on our mission soon,</text>
 <text id="18000302">for M'lady has made her final decision.</text>
 <text id="18000303">So, I must say farewell, although with great regret.</text>
 <text id="18000304">Vereor Nox</text>
-<text id="18000400">Hrg!</text>
-<text id="18000410">Ooh!</text>
-<text id="18000420">Mrgm!</text>
-<text id="18000430">Ooph!</text>
-<text id="18000500">By the Lords! You damn fool!</text>
-<text id="18000501">Enough of you! Feel the wrath of the gods!</text>
-<text id="18000600">N...no...this can't be...</text>
-<text id="18000601">It can't end like this...</text>
+<text>#0Menu-Choose "Talk" after meeting Rhea</text>
+<text id="18012300">Reah is the youngest daughter of the good house of Thorolund.</text>
+<text id="18012301">Those young knights are her old schoolmates,</text>
+<text id="18012302">But I'm not sure what to make of them...</text>
+<text id="18012303">I'm afraid they may be a bad influence...</text>
+<text>#0Talk-1st time before saving Rhea</text>
 <text id="18010000">Uh, oh, you again?</text>
 <text id="18010001">Me? Er, I've become separated from M'lady.</text>
 <text id="18010002">I've scoured near and far, but no sight of her...</text>
 <text id="18010003">Where could she have gone?</text>
 <text id="18010004">M'lady...
 To think I swore to protect you with my life...</text>
+<text>#0Talk-2nd time before saving Rhea</text>
 <text id="18010100">Your Highness...where have you gone?</text>
 <text id="18010101">I am entirely to blame for this...</text>
 <text id="18010102">Oh woe is me. I am unworthy, deathly so...</text>
+<text>#0Talk-3rd time before saving Rhea</text>
+<text id="18010400">...Ah, oh, you. Have you seen M'lady?</text>
+<text id="18010401">Oh, blast, where might she be, and would she be safe...</text>
+<text>#0Talk-4th time before saving Rhea &amp; resting at a Bonfire</text>
+<text id="18012400">Oh, I'm sorry. Miracles, was it?</text>
+<text id="18012420">...Sometimes I lose myself; pay me no mind!</text>
+<text>#0Talk-3rd time killed Rhea in the Tomb of the Giants</text>
+<text id="18010500">Are, are you sure?! Then M'lady...</text>
+<text id="18010501">What terrifying news! What am I to do...</text>
+<text id="18010502">All because of my shortcomings...it is my fault...</text>
+<text id="18010503">Sob...</text>
+<text>#0Talk-4th time killed Rhea in the Tomb of the Giants</text>
+<text id="18012400">Oh, I'm sorry. Miracles, was it?</text>
+<text id="18012460">...I'm distracted by grief; pay me no mind!</text>
+<text>#0Talk-1st time after buying the tip from Lautrec, but before saving Rhea</text>
 <text id="18010200">Oh, hello there.</text>
 <text id="18010201">Have you spoken with Sir Lautrec?</text>
 <text id="18010202">Splendid. In the depths of the Catacombs,
@@ -47,83 +109,56 @@ and the lass weeps in solitude.</text>
 <text id="18010204">Right now, you could do as you please with her.
 The poor little purebred is entirely helpless.</text>
 <text id="18010205">Keh heh heh heh...</text>
+<text>#0Talk-2nd time after buying the tip from Lautrec, but before saving Rhea</text>
 <text id="18010300">In the depths of the Catacombs,
 M'lady slipped off the giant's coffin and into a hole.</text>
 <text id="18010301">Her two companions are no longer human;
 and the lady weeps in solitude.</text>
 <text id="18010302">Keh heh heh heh...</text>
-<text id="18010400">...Ah, oh, you. Have you seen M'lady?</text>
-<text id="18010401">Oh, blast, where might she be, and would she be safe...</text>
-<text id="18010500">Are, are you sure?! Then M'lady...</text>
-<text id="18010501">What terrifying news! What am I to do...</text>
-<text id="18010502">All because of my shortcomings...it is my fault...</text>
-<text id="18010503">Sob...</text>
+<text>#0Talk-After buying the tip from Lautrec &amp; saving Rhea</text>
 <text id="18010600">...Oh, it's you...</text>
 <text id="18010601">...You rescued M'lady?</text>
 <text id="18010602">Well, a pity that is, for it will amount to nothing.</text>
 <text id="18010603">For the little madam is not worth her salt
 without her family name.</text>
 <text id="18010604">Keh heh heh heh...</text>
+<text>#0Menu-Choose "Leave"</text>
+<text id="18011700">Come again.</text>
+<text id="18011701">The effectiveness of the teachings depend upon your faith.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="18000400">Hrg!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="18000410">Ooh!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="18000420">Mrgm!</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="18000430">Ooph!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="18000500">By the Lords! You damn fool!</text>
+<text id="18000501">Enough of you! Feel the wrath of the gods!</text>
+<text>#0Upon dying</text>
+<text id="18000600">N...no...this can't be...</text>
+<text id="18000601">It can't end like this...</text>
+<text>#0Upon being attacked-1st time, after buying the tip from Lautrec</text>
 <text id="18010700">Hrgkt!</text>
+<text>#0Upon being attacked-2nd time, after buying the tip from Lautrec</text>
 <text id="18010710">Ooph!</text>
+<text>#0Upon being attacked-3rd time, after buying the tip from Lautrec</text>
 <text id="18010720">Mnph!</text>
+<text>#0Upon being attacked-4th time, after buying the tip from Lautrec</text>
 <text id="18010730">Argh!</text>
+<text>#0Upon being attacked &amp; made hostile, after buying the tip from Lautrec</text>
 <text id="18010800">What is it, fool? Driven to madness by emotion?</text>
 <text id="18010801">So be it. You'll make a fine Hollow!</text>
 <text id="18010802">You can waltz in the infernal depths together!</text>
-<text id="18010900">Rrk! Why...how could I...</text>
-<text id="18010901">What the...what did I do wrong...</text>
+<text>#0Upon killing the protagonist, after buying the tip from Lautrec</text>
 <text id="18011000">Fool...What were you thinking?</text>
 <text id="18011001">Too bad for you, I'm a wolf in sheep's clothing.
 Best of luck as a Hollow!</text>
 <text id="18011002">Gah hah hah hah hah!</text>
-<text id="18011100">Oh, hello...</text>
-<text id="18011101">##Of course I will repay you. I gave you my word.</text>
-<text id="18011102">##I'm just not sure what would do...</text>
-<text id="18011103">Oh, I know. How about this...</text>
-<text id="18011104">I have to await my companions here anyway,</text>
-<text id="18011105">so, what if I were to teach you some miracles?</text>
-<text id="18011106">Would that please you?</text>
-<text id="18011200">Very well. Then first, a Covenant with the Gods.</text>
-<text id="18011201">Now, let me share my Miracles.</text>
-<text id="18011202">Only, their ultimate effectiveness
-will be determined by your efforts, and your faith.</text>
-<text id="18011300">That is a shame. But each to their own.</text>
-<text id="18011301">Speak to me if you have a change of heart.</text>
-<text id="18011400">Oh, hello.</text>
-<text id="18011401">I will teach you Miracles. A promise is a promise, after all.</text>
-<text id="18011500">Oh, hello.</text>
-<text id="18011501">Miracles, I presume? Yes, I know.</text>
-<text id="18011600">Oh, hello.</text>
-<text id="18011601">What is it? Have you changed your mind?</text>
-<text id="18011700">Come again.</text>
-<text id="18011701">The effectiveness of the teachings depend upon your faith.</text>
-<text id="18011702">Oh, hello.</text>
-<text id="18011800">My guests have finally arrived.</text>
-<text id="18011801">I will be departing with them shortly.</text>
-<text id="18011802">So, I'm afraid I will be saying good-bye soon.</text>
-<text id="18011803">It was a pleasure.</text>
-<text id="18011900">My companions are M'lady
-and her young knights.</text>
-<text id="18011901">She is young, but burdened by an Undead mission.</text>
-<text id="18011902">We are her defences, to keep her from harm.</text>
-<text id="18012000">An Undead mission?</text>
-<text id="18012001">Regrettably, I cannot share that with you.</text>
-<text id="18012002">But you are my pupil, perhaps if you show your faith...</text>
-<text id="18012100">Very well. I can surely tell you, of all people...</text>
-<text id="18012101">Undead clerics are given a mission to seek Kindling.</text>
-<text id="18012102">Kindling is the art of
-feeding bonfires with humanity.</text>
-<text id="18012103">Through Kindling,
-we shall one day be granted magnificent powers.</text>
-<text id="18012200">I am afraid that may be difficult. For our missions are sacred.</text>
-<text id="18012300">Reah is the youngest daughter of the good house of Thorolund.</text>
-<text id="18012301">Those young knights are her old schoolmates,</text>
-<text id="18012302">But I'm not sure what to make of them...</text>
-<text id="18012303">I'm afraid they may be a bad influence...</text>
-<text id="18012400">Oh, I'm sorry. Miracles, was it?</text>
-<text id="18012420">...Sometimes I lose myself; pay me no mind!</text>
-<text id="18012460">...I'm distracted by grief; pay me no mind!</text>
+<text>#0Upon dying after spending souls on the tip from Lautrec</text>
+<text id="18010900">Rrk! Why...how could I...</text>
+<text id="18010901">What the...what did I do wrong...</text>
 <text id="18020000">##Help me!</text>
 <text id="18020001">##Somebody! Help me!</text>
 <text id="18020002">##I am trapped!</text>
@@ -140,4 +175,10 @@ we shall one day be granted magnificent powers.</text>
 <text id="18020300">##Please, rest assured.</text>
 <text id="18020301">##I shall repay you, but back at Firelink Shrine.</text>
 <text id="18020302">##The Gods do not look favourably upon haste!</text>
+<text id="18000003">##We are on a mission, as you likely are too.
+A very important one at that.</text>
+<text id="18000004">##Especially for M'lady.
+Surely you can understand?</text>
+<text id="18011101">##Of course I will repay you. I gave you my word.</text>
+<text id="18011102">##I'm just not sure what would do...</text>
 </entries>

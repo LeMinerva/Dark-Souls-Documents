@@ -1,20 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-Without having acquiring a Token of Spite</text>
 <text id="78300000">What is it?</text>
 <text id="78300010">Oh, you trot along home.
 This place won't be any fun, not for you.</text>
+<text>#0Talk-After acquiring a Token of Spite</text>
 <text id="78300100">Ooh, welcome, welcome.</text>
 <text id="78300110">Do you have a lust for blood?</text>
+<text>#0Talk-After acquiring a Token of Spite, after leaving abruptly</text>
 <text id="78300200">You've done well to find me.</text>
 <text id="78300210">Do you seek blood?</text>
+<text>#0Choose "No" to the 1st query</text>
+<text id="78300600">Well, that's no fun...</text>
+<text id="78300610">Go back home.
+This is no place for you.</text>
+<text>#0Choose "No" to either the 2nd, 3rd, 4th or 5th query</text>
+<text id="78300700">But if you seek Undead blood...I welcome you.</text>
+<text>#0Choose "Yes" to the 1st query</text>
 <text id="78300300">Yes, of course,
 why else would you be here?</text>
 <text id="78300310">Do you give yourself to Nahr Alma?</text>
-<text id="78300320">##Do you give your body and souls?</text>
+<text>#0Choose "Yes" to the 2nd query</text>
 <text id="78300400">Then you will need blood, lots of it.</text>
 <text id="78300410">Undead blood, like your own.</text>
 <text id="78300420">But it's not as easy as you think! Nah hah hah...</text>
 <text id="78300430">Well, what'dya say? Join the Brotherhood of Blood?</text>
+<text>#0Choose "Yes" to the 3rd query</text>
 <text id="78300500">Hmm...</text>
 <text id="78300510">Well, that can hardly be the whole story.</text>
 <text id="78300520">I want to hear what you really think.</text>
@@ -23,10 +34,7 @@ why else would you be here?</text>
 Am I right? Am I?</text>
 <text id="78300550">Oh, just say that I'm right!
 Nah hah hah...</text>
-<text id="78300600">Well, that's no fun...</text>
-<text id="78300610">Go back home.
-This is no place for you.</text>
-<text id="78300700">But if you seek Undead blood...I welcome you.</text>
+<text>#0Choose "Yes" to the 4th query</text>
 <text id="78300800">Heh heh heh... I knew it, I knew it!</text>
 <text id="78300810">Fantastic! You're the best.</text>
 <text id="78300820">Now you are a servant of Nahr Alma.</text>
@@ -34,8 +42,10 @@ This is no place for you.</text>
 <text id="78300840">There! Another servant of blood is born!</text>
 <text id="78300850">You will serve well,
 I just know you will! Heh heh...</text>
+<text>#0Talk-After joining the Brotherhood of Blood Covenant</text>
 <text id="78300900">Well, how are we?</text>
 <text id="78300910">Whatever you need, I've got it for you.</text>
+<text>#0Menu-Choose "Talk" 1st time, after joining the Brotherhood of Blood</text>
 <text id="78301000">Know anything about Tokens of Spite?
 Well, you can fight other blood servants with them.</text>
 <text id="78301010">I'll reward you if you win.
@@ -45,6 +55,7 @@ Use them to visit other worlds, and seek more blood.</text>
 <text id="78301030">Tell me if you need anything else.</text>
 <text id="78301040">I'm very generous.
 Anything to get you covered in blood.</text>
+<text>#0Menu-Choose "Talk" 2nd time, after joining the Brotherhood of Blood</text>
 <text id="78301100">Have you heard of the Blue Sentinels?</text>
 <text id="78301110">They're a thorn in our sides, to say the least.</text>
 <text id="78301120">Their men are obsessed with hunting down blood servants.</text>
@@ -52,50 +63,69 @@ Anything to get you covered in blood.</text>
 It's just another chance to spill more blood.</text>
 <text id="78301140">Doesn't that excite you, hm?
 Heh heh...</text>
+<text>#0Talk-1st time after leaving the Brotherhood of Blood Covenant</text>
 <text id="78301200">Wait, you've left the Brotherhood of Blood.</text>
 <text id="78301210">Oh, well.
 Some people just don't have it in them.</text>
 <text id="78301220">Bye-bye.
 Don't loiter for long. You're not wanted here.</text>
+<text>#0Talk-2nd time after leaving the Brotherhood of Blood Covenant</text>
 <text id="78301300">I've no use for you any more.</text>
 <text id="78301310">Trot along home. Heh heh heh...</text>
+<text>#0Choose "Yes" to the 5th query</text>
 <text id="78301400">Hmm... Not that I really care, but...</text>
 <text id="78301410">Let's see some results
 next time!</text>
-<text id="78301500">Come back soon.
-Heh heh heh...</text>
-<text id="78301600">Fine, either way.
-Heh heh heh...</text>
-<text id="78301700">Thirsting for blood? Heh heh heh...</text>
-<text id="78301800">##Here, this is for you.</text>
-<text id="78301810">##Now,
-go and find some blood!</text>
+<text>#0Talk-After reaching rank +1 as a member of the Brotherhood of Blood</text>
 <text id="78301900">Heh heh, wow, you're something.</text>
 <text id="78301910">But don't stop now.</text>
 <text id="78301920">You can be much nastier than this!</text>
+<text>#0Talk-After reaching rank +2 as a member of the Brotherhood of Blood</text>
 <text id="78302000">You're incredible, you really are.</text>
 <text id="78302010">Those who seek blood are driven by a thirst.</text>
 <text id="78302020">You have it, too,
 and that's what makes you good.</text>
+<text>#0Talk-After reaching rank +3 as a member of the Brotherhood of Blood</text>
 <text id="78302100">I couldn't ask for anything more.</text>
 <text id="78302110">Many Undead are obsessed with blood,
 but you're beyond the pale.</text>
 <text id="78302120">You're absolutely despicable! Hah hah hah!</text>
 <text id="78302130">Go, and seek all the blood that you desire.
 The rest is up to you.</text>
-<text id="78305000">Well, whose blood will spill first?</text>
-<text id="78305010">You are a sad,
-sad fool.</text>
-<text id="78305020">Oh,
-it's even on my shoes!</text>
-<text id="78305030">That hurts...</text>
-<text id="78305040">What are you thinking?</text>
-<text id="78305050">Trying to spill my blood?</text>
-<text id="78305060">Ooph! Agh! Hah...</text>
-<text id="78305070">Argggh...ah hah hah...</text>
-<text id="78306000">You want blood, I know you do...</text>
+<text>#0Menu-Choose "Talk" after reaching rank +3 as the Brotherhood of Blood</text>
 <text id="78307000">I have to say, you were bloody good.
 Take these, for all your trouble.</text>
 <text id="78307010">But see you don't stain them all red.
 Heh heh heh...</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="78301600">Fine, either way.
+Heh heh heh...</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="78301500">Come back soon.
+Heh heh heh...</text>
+<text>#0After leaving abruptly</text>
+<text id="78301700">Thirsting for blood? Heh heh heh...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="78305030">That hurts...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="78305040">What are you thinking?</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="78305050">Trying to spill my blood?</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="78305000">Well, whose blood will spill first?</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="78305010">You are a sad,
+sad fool.</text>
+<text>#0Upon killing the protagonist</text>
+<text id="78305020">Oh,
+it's even on my shoes!</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="78305060">Ooph! Agh! Hah...</text>
+<text>#0Upon dying</text>
+<text id="78305070">Argggh...ah hah hah...</text>
+<text id="78300320">##Do you give your body and souls?</text>
+<text id="78301800">##Here, this is for you.</text>
+<text id="78301810">##Now,
+go and find some blood!</text>
+<text id="78306000">##You want blood, I know you do...</text>
 </entries>

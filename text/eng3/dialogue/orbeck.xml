@@ -1,9 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="13000000">Well, this is unexpected. I don't often have visitors.</text>
 <text id="13000001">What do you want?</text>
 <text id="13000002">This is my study that you've happened upon.</text>
 <text id="13000003">If you haven't any business, I've reading to get back to.</text>
+<text>#0Choose "Nothing" to either the 1st or 2nd query</text>
+<text id="13000900">Yes, I see.</text>
+<text id="13000901">On your way, then.</text>
+<text id="13000902">This is my study, and I've plenty of reading to do.</text>
+<text>#0Talk-After choosing "Nothing" to either the 1st or 2nd query</text>
+<text id="13001000">Oh, enough of you, already.</text>
+<text id="13001001">Do you have business with me?</text>
+<text>#0Choose "Ask to learn sorceries" with 9 Intelligence or less</text>
+<text id="13000100">How intriguing.</text>
+<text id="13000600">You'd better not. Sorcery is not for everyone.</text>
+<text id="13000601">And should never be forced.</text>
+<text id="13000602">You have your own methods. Sorcery need not be one of them.</text>
+<text id="13000603">Don't let it bother you.</text>
+<text id="13000604">Be on your way, then.</text>
+<text id="13000605">You're Unkindled. Shouldn't you get back to your duty?</text>
+<text>#0Choose "Ask to learn sorceries" with 9 Intelligence or less</text>
+<text id="13000700">Oh, I thought you'd already given up.</text>
+<text id="13000701">Well, nothing has changed. You're not inclined for sorcery.</text>
+<text id="13000702">It is either a natural fit, or no fit at all.</text>
+<text id="13000703">Be on your way, then.</text>
+<text id="13000704">You're Unkindled. Shouldn't you get back to your duty?</text>
+<text>#0Choose "Ask to learn sorceries" after returned with 10 Intelligence or more</text>
+<text id="13000800">Well, well... There's something different about you, isn't there?</text>
+<text id="13000200">Very well.</text>
+<text id="13000201">Indeed, I am a sorcerer. With plenty to share.</text>
+<text id="13000202">However...</text>
+<text id="13000203">What champion demands service without recompense?</text>
+<text id="13000204">Clearly, you are not that sort of man.</text>
+<text id="13000205">Clearly, you are not that sort of woman.</text>
+<text id="13000206">So, you will make me a promise.</text>
+<text id="13000207">That in exchange for my teaching, you will bring me knowledge.</text>
+<text id="13000208">In the form of scrolls detailing sorcery's secrets.</text>
+<text id="13000209">Well? Can you assure me of this?</text>
+<text>#0Choose "Ask to learn sorceries" with 10 Intelligence or more</text>
 <text id="13000100">How intriguing.</text>
 <text id="13000200">Very well.</text>
 <text id="13000201">Indeed, I am a sorcerer. With plenty to share.</text>
@@ -15,84 +50,76 @@
 <text id="13000207">That in exchange for my teaching, you will bring me knowledge.</text>
 <text id="13000208">In the form of scrolls detailing sorcery's secrets.</text>
 <text id="13000209">Well? Can you assure me of this?</text>
-<text id="13000300">Very well.</text>
-<text id="13000301">You are no fool. I take it you understand the weight of a promise.</text>
-<text id="13000302">I am Orbeck of Vinheim.</text>
-<text id="13000303">Unkindled one, I shall teach you sorceries.</text>
-<text id="13000304">We will learn together, it shall be like our very own school.</text>
+<text>#0Choose "Make no promise" to either the 3rd or 4th query</text>
 <text id="13000400">I can respect an honest man.</text>
 <text id="13000401">I can respect an honest woman.</text>
 <text id="13000402">But I've already put in more than
 my fair share of gratuitous service.</text>
 <text id="13000403">Be on your way, then.</text>
 <text id="13000404">Though you're welcome back if you change your mind.</text>
+<text>#0Talk-After choosing "Make no promise" to either the 3rd or 4th query</text>
 <text id="13000500">Have you changed your mind?</text>
 <text id="13000501">If I am to teach you, you are to fetch me knowledge.</text>
 <text id="13000502">In the form of scrolls detailing the secrets of sorcery.</text>
 <text id="13000503">Can you make this promise?</text>
-<text id="13000600">You'd better not. Sorcery is not for everyone.</text>
-<text id="13000601">And should never be forced.</text>
-<text id="13000602">You have your own methods. Sorcery need not be one of them.</text>
-<text id="13000603">Don't let it bother you.</text>
-<text id="13000604">Be on your way, then.</text>
-<text id="13000605">You're Unkindled. Shouldn't you get back to your duty?</text>
-<text id="13000700">Oh, I thought you'd already given up.</text>
-<text id="13000701">Well, nothing has changed. You're not inclined for sorcery.</text>
-<text id="13000702">It is either a natural fit, or no fit at all.</text>
-<text id="13000703">Be on your way, then.</text>
-<text id="13000704">You're Unkindled. Shouldn't you get back to your duty?</text>
-<text id="13000800">Well, well... There's something different about you, isn't there?</text>
-<text id="13000900">Yes, I see.</text>
-<text id="13000901">On your way, then.</text>
-<text id="13000902">This is my study, and I've plenty of reading to do.</text>
-<text id="13001000">Oh, enough of you, already.</text>
-<text id="13001001">Do you have business with me?</text>
-<text id="13001100">...</text>
-<text id="13001101">...</text>
+<text>#0Choose "Make a promise" to either the 3rd or 4th query</text>
+<text id="13000300">Very well.</text>
+<text id="13000301">You are no fool. I take it you understand the weight of a promise.</text>
+<text id="13000302">I am Orbeck of Vinheim.</text>
+<text id="13000303">Unkindled one, I shall teach you sorceries.</text>
+<text id="13000304">We will learn together, it shall be like our very own school.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="13001103">What's the meaning of this?</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="13001104">Stop while you're still ahead.</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="13001200">Is that how it is?</text>
 <text id="13001201">Then we are through and done.</text>
 <text id="13001202">Enjoy your long sleep!</text>
+<text>#0Upon killing the protagonist</text>
 <text id="13001300">Gods, this business never did agree with me...</text>
+<text>#0Upon dying</text>
 <text id="13001400">...</text>
-<text id="13001402">Curses, how could this...</text>
 <text id="13001403">I've lost...my touch...</text>
-<text id="13001500">##Oh, I've had it with you!</text>
-<text id="13001501">##Not another word will come out of your mouth!</text>
-<text id="13001502">##Perhaps this will teach you!
-That petty mischief will not go overlooked!</text>
-<text id="13001600">##That ought to keep you quiet...</text>
+<text>#0Talk-1st time</text>
 <text id="13001700">Oh, you're back, then.</text>
 <text id="13001701">Again, I'm Orbeck of Vinheim, here to teach you sorceries.</text>
 <text id="13001702">Let us begin with the basics.
 The ideal sorcerer bears the twin faces of the dragon...</text>
 <text id="13001703">...Oh, you could at least act as if you're paying attention!</text>
 <text id="13001704">(laugh)</text>
+<text>#0Talk-2nd time</text>
 <text id="13001800">Back again, I see.</text>
 <text id="13001801">I suppose this means that you're after sorceries?</text>
+<text>#0Talk-3rd time</text>
 <text id="13001900">Back again, I see.</text>
 <text id="13001901">Perfect timing, too. I'm in need of a diversion.</text>
+<text>#0Talk-4th time</text>
 <text id="13002000">Oh, what is it? Forgot something?</text>
 <text id="13002001">That would be quite like you.</text>
 <text id="13002002">...</text>
-<text id="13002100">Come again.</text>
-<text id="13002200">Promise to stay safe.</text>
-<text id="13002300">Don't forget what you promised.</text>
-<text id="13002400">Promise to stay safe.</text>
-<text id="13002401">It's been nice running our own little school.</text>
+<text>#0Menu-Choose "Talk"-1st time</text>
 <text id="13002500">I don't mean to seem overbearing, but have you forgotten?</text>
 <text id="13002501">In exchange for my sorceries, you are to bring me knowledge.</text>
 <text id="13002502">In the form of scrolls detailing the secrets of sorcery.</text>
 <text id="13002503">I hope you're not one to break a promise.</text>
+<text>#0Menu-Choose "Talk"-2nd time</text>
 <text id="13002600">Have you forgotten our agreement?</text>
 <text id="13002601">I am starved. For sorceries.</text>
 <text id="13002602">Come now, I've been charitable long enough.</text>
+<text>#0Menu-Choose "Talk"-3rd time</text>
+<text id="13001701">Again, I'm Orbeck of Vinheim, here to teach you sorceries.</text>
+<text id="13001702">Let us begin with the basics.
+The ideal sorcerer bears the twin faces of the dragon...</text>
+<text id="13001703">...Oh, you could at least act as if you're paying attention!</text>
+<text id="13001704">(laugh)</text>
+<text>#0Menu-Choose "Talk" after giving him one scroll &amp; purchasing 3 spells</text>
 <text id="13002700">Oh, I have something for you.</text>
 <text id="13002701">You're a fine sorcerer now, no mistake.</text>
 <text id="13002702">You should have something to prove it.</text>
 <text id="13002703">Go on. If I'm giving something away, you'd better well take it.</text>
 <text id="13002704">...</text>
+<text>#0Menu-Choose "Talk" Aural Decoy/Farron Flashsword/Pestilent Mist/Spook</text>
 <text id="13002800">How do you like gimmicks, friend?</text>
 <text id="13002801">This is a sign, a cipher employed by sorcerers
 who use quietude to their advantage.</text>
@@ -100,10 +127,7 @@ who use quietude to their advantage.</text>
 from foe from your very first encounter.</text>
 <text id="13002804">It's a very old practice at this point...</text>
 <text id="13002805">...but one that you deserve to know.</text>
-<text id="13002900">It is folly to claim lives recklessly, friend. Do not be tempted.</text>
-<text id="13002901">No matter the victim's stature, every killing has a consequence.</text>
-<text id="13002902">Even as I bloodied my hands, I never realised this simple truth.</text>
-<text id="13002903">Hmph. There I was, the very definition of a fool...</text>
+<text>#0Menu-Choose "Talk"-4th time</text>
 <text id="13003000">In Vinheim, I was an assassin.</text>
 <text id="13003001">A sorcerer only in name, a killer for hire.</text>
 <text id="13003002">What a fool I was,
@@ -111,11 +135,7 @@ thinking one day I would learn real sorceries.</text>
 <text id="13003003">When I became Undead, I was exiled from the school.</text>
 <text id="13003004">But here I am, now, exploring the depths of sorcery.</text>
 <text id="13003005">All thanks to you, I might add.</text>
-<text id="13003100">##You've been very studious.</text>
-<text id="13003101">##In fact, I have nothing more to teach.</text>
-<text id="13003102">##Well, I suppose it's high time to call it quits.</text>
-<text id="13003103">##I would hate to see our agreement end sourly.</text>
-<text id="13003104">##Better left tucked away, as a nice memory.</text>
+<text>#0Menu-Choose "Talk" after purchasing all spells</text>
 <text id="13003200">You are no ordinary man.</text>
 <text id="13003201">You are no ordinary woman.</text>
 <text id="13003202">All these sorceries, and you've mastered every one.</text>
@@ -125,6 +145,12 @@ thinking one day I would learn real sorceries.</text>
 <text id="13003206">Well, I suppose it's time I packed my bags.</text>
 <text id="13003207">I would hate to see our agreement end sourly.</text>
 <text id="13003208">Better left tucked away, as a pleasant memory.</text>
+<text>#0Menu-Choose "Talk" after Yuria arrived in Firelink Shrine</text>
+<text id="13002900">It is folly to claim lives recklessly, friend. Do not be tempted.</text>
+<text id="13002901">No matter the victim's stature, every killing has a consequence.</text>
+<text id="13002902">Even as I bloodied my hands, I never realised this simple truth.</text>
+<text id="13002903">Hmph. There I was, the very definition of a fool...</text>
+<text>#0Menu-Choose "Give Sorcery Scroll" &amp; choose "Give Sage's Scroll"</text>
 <text id="13003300">Oh, my... This is stupendous.</text>
 <text id="13003301">Then the Undead Legion of Farron
 possesses sorceries quite unknown.</text>
@@ -134,16 +160,19 @@ have made this discovery alone.</text>
 <text id="13003304">Now, let us unravel the thing,
 so you may put these new sorceries to use.</text>
 <text id="13003305">...</text>
+<text>#0Menu-Choose "Give Sorcery Scroll" &amp; choose "Give Logan's Scroll"</text>
 <text id="13003400">Oh, my! You've made quite the discovery!</text>
 <text id="13003401">This is a scroll of the prodigious Big Hat Logan.</text>
 <text id="13003402">A masterful sorcerer, long missed in Vinheim.</text>
 <text id="13003403">And now, we have his scroll, right here in my very hands.</text>
+<text>#0Menu-Choose "Give Sorcery Scroll" &amp; choose "Give Crystal Scroll"</text>
 <text id="13003500">Unfathomable.</text>
 <text id="13003501">This is a crystal sorcery, created by the pale dragon,
 thought only to exist in legend...</text>
 <text id="13003502">I am ever grateful to you. This is truly sublime. </text>
 <text id="13003503">I am afraid this is a debt I cannot repay, only...</text>
 <text id="13003504">I will be sure to unravel it for you. Just a moment.</text>
+<text>#0Menu-Choose "Give Sorcery Scroll" &amp; choose "Give Golden Scroll"</text>
 <text id="13003600">Oh, my... This is very unusual.</text>
 <text id="13003601">It's from Oolacile, an ancient land of golden sorceries.</text>
 <text id="13003602">Not even the Dragon School
@@ -152,19 +181,48 @@ possesses such a long-lost scroll.</text>
 with their ridiculous headwear.</text>
 <text id="13003604">They would simply slaver over this find.</text>
 <text id="13003605">(laugh)</text>
-<text id="13003700">...</text>
-<text id="13003701">...</text>
+<text>#0Menu-Choose "Leave"-1st time</text>
+<text id="13002100">Come again.</text>
+<text>#0Menu-Choose "Leave"-2nd time</text>
+<text id="13002300">Don't forget what you promised.</text>
+<text>#0Menu-Choose "Leave"-3rd time</text>
+<text id="13002200">Promise to stay safe.</text>
+<text>#0Menu-Choose "Leave"-4th time</text>
+<text id="13002400">Promise to stay safe.</text>
+<text id="13002401">It's been nice running our own little school.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="13003703">What is this about?</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="13003704">Have you lost your wits?</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="13003800">Seems it's too late.</text>
 <text id="13003801">Then, there's only one thing to do.</text>
 <text id="13003802">With regret, I will end this here and now!</text>
+<text>#0Upon killing the protagonist</text>
 <text id="13003900">Gods, what have I done...</text>
-<text id="13004000">Farewell. We had a nice little school going.</text>
+<text>#0Upon dying</text>
 <text id="13004100">...</text>
 <text id="13004102">But, why...</text>
 <text id="13004103">Is that all that I'm worth?</text>
+<text>#0Upon killing the protagonist, after giving him all 4 sorcery scrolls</text>
+<text id="13004000">Farewell. We had a nice little school going.</text>
+<text>#0Upon dying, after giving him all 4 sorcery scrolls &amp; purchasing all spells</text>
 <text id="13004200">...</text>
 <text id="13004202">So be it...</text>
 <text id="13004203">It was nice while it lasted...</text>
+<text id="13001100">##...</text>
+<text id="13001101">##...</text>
+<text id="13001402">##Curses, how could this...</text>
+<text id="13001500">##Oh, I've had it with you!</text>
+<text id="13001501">##Not another word will come out of your mouth!</text>
+<text id="13001502">##Perhaps this will teach you!
+That petty mischief will not go overlooked!</text>
+<text id="13001600">##That ought to keep you quiet...</text>
+<text id="13003100">##You've been very studious.</text>
+<text id="13003101">##In fact, I have nothing more to teach.</text>
+<text id="13003102">##Well, I suppose it's high time to call it quits.</text>
+<text id="13003103">##I would hate to see our agreement end sourly.</text>
+<text id="13003104">##Better left tucked away, as a nice memory.</text>
+<text id="13003700">##...</text>
+<text id="13003701">##...</text>
 </entries>

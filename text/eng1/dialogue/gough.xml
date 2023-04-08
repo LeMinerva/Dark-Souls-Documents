@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="58000000">Hm? A visitor, have we?</text>
 <text id="58000010">Thou must be the one who freed Artorias.</text>
 <text id="58000020">An old friend he was,
@@ -7,73 +8,7 @@ and thanks to thee...</text>
 <text id="58000030">He left this world with honour intact.</text>
 <text id="58000040">...And here I am, retired and blind.</text>
 <text id="58000050">Of little help to thee, I am afraid.</text>
-<text id="58000100">Well, thou hast come again. This is a surprise.</text>
-<text id="58000200">Well, thou com'st again. Thou art a strange one.</text>
-<text id="58000300">Good morrow...Is the Black Dragon posing thee duress?</text>
-<text id="58000400">Yes, I thought as much.</text>
-<text id="58000410">He is called Kalameet.</text>
-<text id="58000420">A ferocious dragon indeed,
-even mighty Anor Londo dared not provoke his ire.</text>
-<text id="58000430">I see little good coming from this, but...</text>
-<text id="58000440">...Thy intent is to persevere... to the bitter end, hmm?</text>
-<text id="58000500">Hah hah hah!</text>
-<text id="58000510">Good, good. What is bravery, without a dash of recklessness!</text>
-<text id="58000520">I have taken a liking to thee.</text>
-<text id="58000530">And I owe thee much for thy service to Artorias.
-Now watch, and see how Gough hunts dragons.</text>
-<text id="58000540">Hrrmmm...</text>
-<text id="58000550">Haah!</text>
-<text id="58000560">Hah hah! Yes, a truer shot was never loosed!</text>
-<text id="58000570">That bat will be grounded for a good spell!</text>
-<text id="58000580">The rest is in thine hands. I await good tidings.</text>
-<text id="58000590">Ahh, dragon slaying. Knighthood's highest calling...</text>
-<text id="58000600">...Strange. I am rarely wrong on such matters...</text>
-<text id="58000700">A wise choice.
-Why foist thyself unto the fiery maw?</text>
-<text id="58000800">The Black Dragon troubles you yet, I see.</text>
-<text id="58000900">...Hmm, yes, I see. I was mistaken...</text>
-<text id="58001000">...Art thou prepared to challenge great Kalameet?</text>
-<text id="58001100">Yes, surely that is best.</text>
-<text id="58001200">Ah, hello there. What of Kalameet?</text>
-<text id="58001210">He is an ancient dragon.
-Skyward or no, he will not be put down easily.</text>
-<text id="58001300">Why, thou hast defeated Kalameet!</text>
-<text id="58001310">Wondrously played. Lord Gwyn's blessing upon thee.</text>
-<text id="58001320">That beast will never take to the skies again.</text>
-<text id="58001400">Farewell, human.</text>
-<text id="58001410">Lead thy life as thou seest fit.</text>
-<text id="58001500">Farewell, human.</text>
-<text id="58001510">I await good tidings.</text>
-<text id="58001600">Farewell, proud human.</text>
-<text id="58001610">May every honour be bestowed upon thee.</text>
-<text id="58001700">If thou seeketh to explore this domain, be wary of a black dragon.</text>
-<text id="58001710">I fear thee no match for this terrible beast.</text>
-<text id="58001800">##I should confer...If thine was the blade to which Artorias fell.</text>
-<text id="58001810">##Then thou must be wary of Ciaran.</text>
-<text id="58001820">##She had strong feelings for the great Artorias.</text>
-<text id="58001830">##The poor, poor girl.</text>
-<text id="58001900">Me?</text>
-<text id="58001910">There is very little to be said.</text>
-<text id="58001920">What good is a dog, with no hares to hunt?</text>
-<text id="58001930">...I am lucky to be alive, I suppose.</text>
-<text id="58002000">Now, do not mistake my words.</text>
-<text id="58002010">I cherish my work.
-Wood carving is a nuanced art.</text>
-<text id="58002020">I would have much to talk about with that blacksmith.</text>
-<text id="58002030">In truth, how is the old chap, I wonder?</text>
-<text id="58002040">Still hammering away, I should hope.</text>
-<text id="58002100">The dragons shall never be forgotten...</text>
-<text id="58002110">We knights fought valiantly,
-but for every one of them, we lost three score of our own.</text>
-<text id="58002120">Exhilaration, pride, hatred, rage...
-The dragons teased out our dearest emotions.</text>
-<text id="58002130">...Thou will understand, one day.</text>
-<text id="58002140">At thy twilight, old thoughts return,
-in great waves of nostalgia.</text>
-<text id="58002200">Ahh, this Greatbow?</text>
-<text id="58002210">I shan't need it, with no dragons to hunt.</text>
-<text id="58002220">I know not if a human could even operate it, but here...</text>
-<text id="58002230">Thy need outweighs mine.</text>
+<text>#0Talk-After defeating Kalameet before speaking with Gough</text>
 <text id="58002300">Hm? A visitor, have we?</text>
 <text id="58002310">Thou must be the one who freed Artorias.</text>
 <text id="58002320">An old friend he was,
@@ -85,12 +20,66 @@ is dusted by thine hand.</text>
 <text id="58002360">I am retired, and blind.</text>
 <text id="58002370">To receive a visit by one as lofty as thyself,
 is a great honour indeed.</text>
-<text id="58002400">I see that thou hast dusted the great black dragon Kalameet.</text>
-<text id="58002410">Wondrously played. Lord Gwyn's blessing upon thee.</text>
-<text id="58002420">I see that there is at least one legend among ye humans.</text>
-<text id="58002430">Dear me... That old bat will never fly again.</text>
-<text id="58002500">Thou com'st again, legend of humans.</text>
-<text id="58002510">It is always an honour to speak with thee.</text>
+<text>#0Talk-2nd time</text>
+<text id="58000200">Well, thou com'st again. Thou art a strange one.</text>
+<text>#0Talk-3rd time</text>
+<text id="58000100">Well, thou hast come again. This is a surprise.</text>
+<text>#0Menu-Choose "Talk" 1st time before encountering Kalameet at his lair</text>
+<text id="58001700">If thou seeketh to explore this domain, be wary of a black dragon.</text>
+<text id="58001710">I fear thee no match for this terrible beast.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
+<text id="58001900">Me?</text>
+<text id="58001910">There is very little to be said.</text>
+<text id="58001920">What good is a dog, with no hares to hunt?</text>
+<text id="58001930">...I am lucky to be alive, I suppose.</text>
+<text>#0Talk-After encountering Kalameet at his lair</text>
+<text id="58000300">Good morrow...Is the Black Dragon posing thee duress?</text>
+<text>#0Choose "No" to the 1st query</text>
+<text id="58000600">...Strange. I am rarely wrong on such matters...</text>
+<text>#0Menu-Choose "Talk" after choosing "No" to 1st query &amp; resting at a Bonfire</text>
+<text id="58000800">The Black Dragon troubles you yet, I see.</text>
+<text>#0Choose "No" after choosing "No" to the 2nd query</text>
+<text id="58000900">...Hmm, yes, I see. I was mistaken...</text>
+<text>#0Choose "Yes" to the 1st query</text>
+<text id="58000400">Yes, I thought as much.</text>
+<text id="58000410">He is called Kalameet.</text>
+<text id="58000420">A ferocious dragon indeed,
+even mighty Anor Londo dared not provoke his ire.</text>
+<text id="58000430">I see little good coming from this, but...</text>
+<text id="58000440">...Thy intent is to persevere... to the bitter end, hmm?</text>
+<text>#0Choose "No" after choosing "Yes" to the 1st query</text>
+<text id="58000700">A wise choice.
+Why foist thyself unto the fiery maw?</text>
+<text>#0Menu-Choose "Talk" after choosing "No" to 2nd query &amp; resting at a Bonfire</text>
+<text id="58001000">...Art thou prepared to challenge great Kalameet?</text>
+<text>#0Choose "No" to the 3rd query</text>
+<text id="58001100">Yes, surely that is best.</text>
+<text>#0Choose "Yes" after choosing "Yes" to the 1st query</text>
+<text id="58000500">Hah hah hah!</text>
+<text id="58000510">Good, good. What is bravery, without a dash of recklessness!</text>
+<text id="58000520">I have taken a liking to thee.</text>
+<text id="58000530">And I owe thee much for thy service to Artorias.
+Now watch, and see how Gough hunts dragons.</text>
+<text id="58000540">Hrrmmm...</text>
+<text id="58000550">Haah!</text>
+<text id="58000560">Hah hah! Yes, a truer shot was never loosed!</text>
+<text id="58000570">That bat will be grounded for a good spell!</text>
+<text id="58000580">The rest is in thine hands. I await good tidings.</text>
+<text id="58000590">Ahh, dragon slaying. Knighthood's highest calling...</text>
+<text>#0Talk-After Gough has shot down Kalameet</text>
+<text id="58001200">Ah, hello there. What of Kalameet?</text>
+<text id="58001210">He is an ancient dragon.
+Skyward or no, he will not be put down easily.</text>
+<text>#0Menu-Choose "Talk" after encountering Kalameet at his lair</text>
+<text id="58002100">The dragons shall never be forgotten...</text>
+<text id="58002110">We knights fought valiantly,
+but for every one of them, we lost three score of our own.</text>
+<text id="58002120">Exhilaration, pride, hatred, rage...
+The dragons teased out our dearest emotions.</text>
+<text id="58002130">...Thou will understand, one day.</text>
+<text id="58002140">At thy twilight, old thoughts return,
+in great waves of nostalgia.</text>
+<text>#0Menu-Choose "Talk" 1st time, after Gough has shot down Kalameet</text>
 <text id="58002600">I suspect thou hast taken a gander at it,</text>
 <text id="58002610">But the Dark of the Abyss, which swallowed poor Artorias,
 threatens to devour our entire land of Oolacile.</text>
@@ -98,6 +87,7 @@ threatens to devour our entire land of Oolacile.</text>
 <text id="58002630">But, seduced by a Dark serpent or no,</text>
 <text id="58002640">They awoke that thing themselves, and drove it mad.</text>
 <text id="58002650">...One's demise is always one's own making.</text>
+<text>#0Menu-Choose "Talk" 2nd time, after Gough has shot down Kalameet</text>
 <text id="58002700">If thine wish is to succeed poor Artorias,
 and challenge the spread of the Dark,</text>
 <text id="58002710">Then thou must face Manus, Father of the Abyss.</text>
@@ -107,14 +97,65 @@ thou may be able to prevent further corrosion.</text>
 <text id="58002740">...But even so, one day the flames will fade,
 and only Dark will remain.</text>
 <text id="58002750">And even a legend such as thineself can do nothing to stop that.</text>
+<text>#0Menu-Choose "Talk" 3rd time, after Gough has shot down Kalameet</text>
+<text id="58002000">Now, do not mistake my words.</text>
+<text id="58002010">I cherish my work.
+Wood carving is a nuanced art.</text>
+<text id="58002020">I would have much to talk about with that blacksmith.</text>
+<text id="58002030">In truth, how is the old chap, I wonder?</text>
+<text id="58002040">Still hammering away, I should hope.</text>
+<text>#0Talk-1st time after defeating Kalameet</text>
+<text id="58001300">Why, thou hast defeated Kalameet!</text>
+<text id="58001310">Wondrously played. Lord Gwyn's blessing upon thee.</text>
+<text id="58001320">That beast will never take to the skies again.</text>
+<text>#0Talk-1st time after defeating Kalameet, without Gough shot down Kalameet</text>
+<text id="58002400">I see that thou hast dusted the great black dragon Kalameet.</text>
+<text id="58002410">Wondrously played. Lord Gwyn's blessing upon thee.</text>
+<text id="58002420">I see that there is at least one legend among ye humans.</text>
+<text id="58002430">Dear me... That old bat will never fly again.</text>
+<text>#0Talk-2nd time after defeating Kalameet</text>
+<text id="58002500">Thou com'st again, legend of humans.</text>
+<text id="58002510">It is always an honour to speak with thee.</text>
+<text>#0Menu-Choose "Talk" after defeating Kalameet</text>
+<text id="58002200">Ahh, this Greatbow?</text>
+<text id="58002210">I shan't need it, with no dragons to hunt.</text>
+<text id="58002220">I know not if a human could even operate it, but here...</text>
+<text id="58002230">Thy need outweighs mine.</text>
+<text>#0Menu-Choose "Leave", or abruptly leave</text>
+<text id="58001400">Farewell, human.</text>
+<text id="58001410">Lead thy life as thou seest fit.</text>
+<text>#0Menu-Choose "Leave" after encountering Kalameet at his lair, or abruptly leave</text>
+<text id="58001500">Farewell, human.</text>
+<text id="58001510">I await good tidings.</text>
+<text>#0Menu-Choose "Leave" after defeating Kalameet, or abruptly leave</text>
+<text id="58001600">Farewell, proud human.</text>
+<text id="58001610">May every honour be bestowed upon thee.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="58005000">Cease this.</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="58005010">Stop it, I say.</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="58005020">Understand this. I wish thee no harm.</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="58005030">Stop that!</text>
+<text>#0Upon being attacked-5th time</text>
 <text id="58005040">By the Gods!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="58005100">Ahh, so this is true human nature.</text>
 <text id="58005110">Artorias is in your debt, but thou leavest me little choice...</text>
 <text id="58005120">May you perish, for the good of all!</text>
+<text>#0Upon dying</text>
+<text id="58005410">Humans...hmph...</text>
+<text>#0Archtree Carving</text>
+<text id="58006000">Hello</text>
+<text id="58006001">Thank you</text>
+<text id="58006002">Very good!</text>
+<text id="58006003">I'm sorry!</text>
+<text id="58006004">Help me!</text>
+<text id="58001800">##I should confer...If thine was the blade to which Artorias fell.</text>
+<text id="58001810">##Then thou must be wary of Ciaran.</text>
+<text id="58001820">##She had strong feelings for the great Artorias.</text>
+<text id="58001830">##The poor, poor girl.</text>
 <text id="58005200">##Mmgraah!</text>
 <text id="58005210">##Mmgraah!</text>
 <text id="58005220">##Hahh...</text>
@@ -122,11 +163,5 @@ and only Dark will remain.</text>
 <text id="58005310">##Ooph!</text>
 <text id="58005320">##Hrg!</text>
 <text id="58005400">##Arrgggg!</text>
-<text id="58005410">Humans...hmph...</text>
 <text id="58005420">##What vile creatures...</text>
-<text id="58006000">Hello</text>
-<text id="58006001">Thank you</text>
-<text id="58006002">Very good!</text>
-<text id="58006003">I'm sorry!</text>
-<text id="58006004">Help me!</text>
 </entries>

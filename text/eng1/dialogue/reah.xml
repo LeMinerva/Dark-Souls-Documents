@@ -1,22 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="17000000">You are Undead, as well?</text>
 <text id="17000001">Then we've no time to fraternize.
 I have my mission, and you no doubt have yours.</text>
 <text id="17000002">We must not let this curse overcome us.</text>
+<text>#0Talk-2nd time</text>
 <text id="17000100">Did I not explain the urgency of our tasks?</text>
 <text id="17000101">Who are you so uncouth as to lack such judgement?</text>
 <text id="17000102">By the looks of you...I should think not.</text>
+<text>#0Talk-1st time</text>
+<text id="17010000">You're no Hollow, are you?</text>
+<text id="17010001">Thank goodness.</text>
+<text id="17010002">Please be careful.
+There are two fierce Hollows not far from here.</text>
+<text id="17010003">They were once brave knights...my former escorts.</text>
+<text id="17010004">Who would let such strong spirits be Hollowed so?</text>
+<text id="17010005">Heavens...Is there nothing...Nothing at all to be done?</text>
+<text>#0Talk-After defeating both Hollowed Vince &amp; Nico</text>
+<text id="17010100">You banished those two Hollows, did you?</text>
+<text id="17010101">It pains me to think of the trouble my failings have caused.</text>
+<text id="17010102">I am certain that both
+Vince and Nico are grateful to you.</text>
+<text id="17010103">Thank you so very much.</text>
+<text id="17010104">Here, these belonged to them. 
+You deserve them more than I.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="17000230">Ow!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="17000240">Horrors!</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="17000250">The nerve!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="17000300">Are you a heretic, or just plain Hollow?</text>
 <text id="17000301">It matters not, for you shall not escape!</text>
 <text id="17000302">You will offend the Gods no longer!</text>
-<text id="17000400">Hrgkt! Eeg...</text>
-<text id="17000401">Father...</text>
+<text>#0Upon killing the protagonist</text>
 <text id="17000500">O piteous soul...</text>
 <text id="17000501">But...perhaps...this was a fate unyielding...</text>
+<text>#0Upon dying</text>
+<text id="17000400">Hrgkt! Eeg...</text>
+<text id="17000401">Father...</text>
+<text>#0Talk-1st time</text>
 <text id="17000800">Hello...I will never forget what you did.</text>
 <text id="17000801">I am deeply indebted,</text>
 <text id="17000802">for it was not within my power
@@ -26,18 +51,20 @@ to save Vince or Nico.</text>
 <text id="17000805">I only wish there were some way I could help you,</text>
 <text id="17000806">but I am inexperienced, and I only know the art of Miracles.</text>
 <text id="17000807">If that could be of any help, speak to me again.</text>
+<text>#0Talk-2nd time</text>
 <text id="17000900">Would a Miracle be of any help to you?</text>
 <text id="17000901">I would be most pleased if that were so.</text>
 <text id="17000902">May we discuss Miracles, then?</text>
+<text>#0Talk-3rd time</text>
 <text id="17001000">I am most pleased to find you in good health.</text>
 <text id="17001001">I am ready. Let us speak of Miracles.</text>
+<text>#0Talk-4th time</text>
 <text id="17001100">I was wondering when you might return.</text>
 <text id="17001101">It is a great relief to see you. Now, let us speak of Miracles.</text>
+<text>#0Talk-5th time</text>
 <text id="17001200">Oh! Please, forgive me. I was absorbed in prayer.</text>
 <text id="17001201">The Miracles, I presume? I will be ready immediately.</text>
-<text id="17001300">Then, be safe.</text>
-<text id="17001301">Farewell.</text>
-<text id="17001302">Vereor Nox</text>
+<text>#0Menu-Choose "Talk"-1st time</text>
 <text id="17001400">Vince and Nico were fooled by a lout named Patches, 
 and turned into Hollows.</text>
 <text id="17001401">My prayers did them no good.</text>
@@ -47,28 +74,21 @@ my frailty that has sealed their fates.</text>
 my weakness all along,</text>
 <text id="17001404">and thus made the decision to abandon me.</text>
 <text id="17001405">I can hardly blame him now.</text>
+<text>#0Menu-Choose "Talk"-2nd time</text>
 <text id="17001500">I do not warm easily to unfamiliar faces.</text>
 <text id="17001501">The bonfire below is so very frequented, it makes it difficult...</text>
 <text id="17001502">I have lost all those who were close to me.</text>
+<text>#0Menu-Choose "Leave"</text>
+<text id="17001300">Then, be safe.</text>
+<text id="17001301">Farewell.</text>
+<text id="17001302">Vereor Nox</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="17001700">Why on earth would you...</text>
 <text id="17001701">Perhaps this is my punishment?</text>
 <text id="17001702">Clearly, I am no threat to you. But please, I ask just one thing.</text>
 <text id="17001703">If I do go Hollow, then finish me off.</text>
 <text id="17001704">I beg of you.</text>
+<text>#0Upon dying</text>
 <text id="17001800">Dear Vince, dear Nico...</text>
 <text id="17001801">Forgive me...</text>
-<text id="17010000">You're no Hollow, are you?</text>
-<text id="17010001">Thank goodness.</text>
-<text id="17010002">Please be careful.
-There are two fierce Hollows not far from here.</text>
-<text id="17010003">They were once brave knights...my former escorts.</text>
-<text id="17010004">Who would let such strong spirits be Hollowed so?</text>
-<text id="17010005">Heavens...Is there nothing...Nothing at all to be done?</text>
-<text id="17010100">You banished those two Hollows, did you?</text>
-<text id="17010101">It pains me to think of the trouble my failings have caused.</text>
-<text id="17010102">I am certain that both
-Vince and Nico are grateful to you.</text>
-<text id="17010103">Thank you so very much.</text>
-<text id="17010104">Here, these belonged to them. 
-You deserve them more than I.</text>
 </entries>

@@ -1,47 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0話しかけた:1回目</text>
 <text id="31000000">あんた、誰？</text>
 <text id="31000001">武器、鍛えるか？</text>
+<text>#0話しかけた:2回目</text>
 <text id="31000100">お。あんた</text>
 <text id="31000101">武器、鍛えるぞ</text>
 <text id="31000102">いつでもばんぜん</text>
-<text id="31000200">またこい</text>
-<text id="31000300">またこい</text>
-<text id="31000400">あ、あれ？</text>
-<text id="31000500">おかえり</text>
-<text id="31000600">いてぇ</text>
-<text id="31000650">いてぇぞ、あんた</text>
-<text id="31000700">あんた！</text>
-<text id="31000701">許さねえぞ！</text>
-<text id="31000800">お、おおお…</text>
-<text id="31000801">これ、どうなる…？</text>
-<text id="31000900">お。それ、知ってるぞ</text>
-<text id="31000901">キラキラ、キラキラ</text>
-<text id="31000902">それ、あれば</text>
-<text id="31000903">キラキラ武器、できるぞ</text>
-<text id="31001000">それ、ないか…</text>
-<text id="31001100">これ、あれば</text>
-<text id="31001101">キラキラ武器、できるぞ！</text>
+<text>#0リストから選択:話すA</text>
 <text id="31001200">話す、苦手</text>
 <text id="31001201">鍛えるの、得意</text>
 <text id="31001202">いつでもばんぜん</text>
+<text>#0リストから選択:話すB</text>
 <text id="31001300">話す、苦手</text>
 <text id="31001301">誰も、いない</text>
 <text id="31001302">いなくなった</text>
+<text>#0リストから選択:話すC</text>
 <text id="31001400">あんた、くる</text>
 <text id="31001401">あんた、話す</text>
 <text id="31001402">何もない</text>
 <text id="31001403">ないけど、いいか</text>
+<text>#0リストから選択:話すD</text>
 <text id="31001500">あんた、くる</text>
 <text id="31001501">武器、鍛える</text>
 <text id="31001502">キラキラキラキラ</text>
 <text id="31001503">こーしゃく様の、キラキラあれば</text>
 <text id="31001504">キラキラ武器、できるぞ</text>
 <text id="31001505">うれしい</text>
+<text>#0リストから選択:話すE</text>
 <text id="31001600">あんた、くる</text>
 <text id="31001601">武器、鍛える</text>
 <text id="31001602">話す</text>
 <text id="31001603">寂しくない</text>
 <text id="31001604">楽しいぞ</text>
+<text>#0話しかけた:結晶の種火を入手後</text>
+<text id="31000900">お。それ、知ってるぞ</text>
+<text id="31000901">キラキラ、キラキラ</text>
+<text id="31000902">それ、あれば</text>
+<text id="31000903">キラキラ武器、できるぞ</text>
+<text>#0話しかけた:結晶の種火を入手後・選択肢【NO】</text>
+<text id="31001000">それ、ないか…</text>
+<text>#0話しかけた:結晶の種火を入手後・選択肢【YES】</text>
+<text id="31001100">これ、あれば</text>
+<text id="31001101">キラキラ武器、できるぞ！</text>
+<text>#0リストから選択:立ち去る(何もしなかった)</text>
+<text id="31000200">またこい</text>
+<text>#0リストから選択:立ち去る(買い物などをした)</text>
+<text id="31000300">またこい</text>
+<text>#0話しかけられた:キャラクターから離れる</text>
+<text id="31000400">あ、あれ？</text>
+<text>#0話しかけた:離れてから戻った</text>
+<text id="31000500">おかえり</text>
+<text>#0攻撃した:1回目</text>
+<text id="31000600">いてぇ</text>
+<text>#0攻撃した:2回目</text>
+<text id="31000650">いてぇぞ、あんた</text>
+<text>#0敵対状態になった</text>
+<text id="31000700">あんた！</text>
+<text id="31000701">許さねえぞ！</text>
+<text>#0敵対状態で主人公が死亡した</text>
 <text id="31001700">あんた…</text>
+<text>#0殺害した</text>
+<text id="31000800">お、おおお…</text>
+<text id="31000801">これ、どうなる…？</text>
 </entries>

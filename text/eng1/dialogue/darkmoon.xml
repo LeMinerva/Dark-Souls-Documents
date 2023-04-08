@@ -1,52 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="11000000">Well, you are a rare visitor.</text>
 <text id="11000001">Welcome to the lost city of Anor Londo, chosen Undead.</text>
-<text id="11000002">##Welcome to the lost city of Anor Londo.</text>
 <text id="11000003">If you seek Lord Gwyn's old keep,</text>
 <text id="11000004">exit here and head straight yonder.</text>
 <text id="11000005">If you are the chosen one, a revelation shall visit thee.</text>
 <text id="11000006">...What follows thereafter, depends upon you...</text>
+<text>#0Talk-2nd time</text>
 <text id="11000100">Hmm. You have survived. Impressive.</text>
 <text id="11000101">If you require rest, now is the time.</text>
 <text id="11000102">That is, after all, what the bonfire is for.</text>
-<text id="11000200">Hmm. So, you have received a revelation?</text>
-<text id="11000201">Very auspicious. I hope for the best.</text>
-<text id="11000202">I pray that through you, Her wish will be granted.</text>
+<text>#0Talk-1rd time after leaving &amp; returning to Anor Londo</text>
 <text id="11000300">Hmm. You have made it back. Very well.</text>
-<text id="11000301">##Hmm. You have made it back. You were gone so long.</text>
 <text id="11000302">Go ahead, you may rest here.</text>
 <text id="11000303">Even an Undead requires repose.</text>
+<text>#0Talk-2rd time after leaving &amp; returning to Anor Londo</text>
+<text id="11000301">Hmm. You have made it back. You were gone so long.</text>
+<text id="11000302">Go ahead, you may rest here.</text>
+<text id="11000303">Even an Undead requires repose.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="11000400">Hm, what is it?</text>
 <text id="11000401">What am I? Well...I am the Keeper of the bonfire.</text>
 <text id="11000402">If not for me, what beacon would there be in this lost city?</text>
 <text id="11000403">A gatekeeper, and a guide;
 that is my calling.</text>
-<text id="11000500">What!</text>
-<text id="11000510">How dare you!</text>
-<text id="11000520">Hrk!</text>
-<text id="11000530">Rrgh!</text>
-<text id="11000600">Very well. So be it.</text>
-<text id="11000610">Expunging fools like you is part of my charge.</text>
-<text id="11000700">...But, how...</text>
-<text id="11000710">...This man is a threat...</text>
-<text id="11000720">...This woman is a threat...</text>
-<text id="11000730">...Master Gwyndolin...</text>
-<text id="11000800">Tis a pity...To think I saw potential in you...</text>
-<text id="11000900">So...It was you, was it?</text>
-<text id="11000901">How dare you produce a blade upon a deity?
-How did you ever get this far?</text>
-<text id="11000902">I shall end your suffering here and now. It is the least that I can do.</text>
-<text id="11001000">What you saw under light of the Darkmoon
-shall haunt you forever.</text>
-<text id="11001100">Will you be departing soon,</text>
-<text id="11001101">honourable heir to Gwyn's Flame...</text>
-<text id="11001102">We are humbled...</text>
-<text id="11001103">For we exist only with your blessing.</text>
-<text id="11001200">Oh...You are one of us.</text>
-<text id="11001201">That is a surprise. But a pleasant one.</text>
-<text id="11001202">We are both Blades of the Darkmoon, now.</text>
-<text id="11001203">I shall look forward to fighting alongside you.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
+<text id="11001400">The bonfires attended by the Keepers are special.</text>
+<text id="11001401">They are linked to one another, and their flames never die.</text>
+<text id="11001402">Yet never shall the Keepers of these flames meet.</text>
+<text>#0Talk-1st time after receiving the Lordvessel</text>
+<text id="11000200">Hmm. So, you have received a revelation?</text>
+<text id="11000201">Very auspicious. I hope for the best.</text>
+<text id="11000202">I pray that through you, Her wish will be granted.</text>
+<text>#0Talk-2nd time after receiving the Lordvessel</text>
 <text id="11001300">Have you heard of Seath the Scaleless?</text>
 <text id="11001301">In legend, he turned against the ancient dragons.</text>
 <text id="11001302">He became Lord Gwyn's confidant,
@@ -58,7 +45,41 @@ scales of immortality, the one thing that he did not have.</text>
 <text id="11001306">Now, nobody dares even approach the duke's forbidden Archives.</text>
 <text id="11001307">It looms over this land, high atop the mountain.</text>
 <text id="11001308">But I should warn against even an approach...</text>
-<text id="11001400">The bonfires attended by the Keepers are special.</text>
-<text id="11001401">They are linked to one another, and their flames never die.</text>
-<text id="11001402">Yet never shall the Keepers of these flames meet.</text>
+<text>#0Talk-After obtaining all Lord Souls &amp; Bequeathed Lord Soul Shards</text>
+<text id="11001100">Will you be departing soon,</text>
+<text id="11001101">honourable heir to Gwyn's Flame...</text>
+<text id="11001102">We are humbled...</text>
+<text id="11001103">For we exist only with your blessing.</text>
+<text>#0Talk-After joining the "Blade of Darkmoon" Covenant</text>
+<text id="11001200">Oh...You are one of us.</text>
+<text id="11001201">That is a surprise. But a pleasant one.</text>
+<text id="11001202">We are both Blades of the Darkmoon, now.</text>
+<text id="11001203">I shall look forward to fighting alongside you.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="11000500">What!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="11000510">How dare you!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="11000520">Hrk!</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="11000530">Rrgh!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="11000600">Very well. So be it.</text>
+<text id="11000610">Expunging fools like you is part of my charge.</text>
+<text>#0Meeting in hostile state after killing the illusion of Gwynevere</text>
+<text id="11000900">So...It was you, was it?</text>
+<text id="11000901">How dare you produce a blade upon a deity?
+How did you ever get this far?</text>
+<text id="11000902">I shall end your suffering here and now. It is the least that I can do.</text>
+<text>#0Upon killing the protagonist</text>
+<text id="11000800">Tis a pity...To think I saw potential in you...</text>
+<text>#0Upon killing the protagonist after killing the illusion of Gwynevere</text>
+<text id="11001000">What you saw under light of the Darkmoon
+shall haunt you forever.</text>
+<text>#0Upon dying</text>
+<text id="11000700">...But, how...</text>
+<text id="11000710">...This man is a threat...</text>
+<text id="11000720">...This woman is a threat...</text>
+<text id="11000730">...Master Gwyndolin...</text>
+<text id="11000002">##Welcome to the lost city of Anor Londo.</text>
 </entries>

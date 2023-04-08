@@ -1,26 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="70200000">You have fought admirably on your journey,
 cursed Undead.</text>
 <text id="70200010">I am Nashandra,
 Queen of Drangleic.</text>
-<text id="70200020">##Brave Undead,
-your arrival here
-foreshadows your fate.</text>
-<text id="70200100">##A true monarch is much more than a ruler of men.</text>
 <text id="70200110">A true monarch carries the weight of their souls.</text>
 <text id="70200120">The last king of this land, King Vendrick, as he was called...</text>
-<text id="70200130">##He was less of a king than you might imagine.</text>
 <text id="70200140">He found the strength to rule his people,
 and when the Undead were born, cursed...</text>
 <text id="70200150">He found more strength, to face them.</text>
 <text id="70200160">But in the end,
 he never took the true throne.</text>
+<text>#0Talk-2nd time</text>
+<text id="70200210">Visit Vendrick.</text>
+<text>#0Talk-3rd time</text>
+<text id="70200220">We have no need for two rulers...</text>
+<text>#0Talk-1st time after acquiring the King's Ring</text>
+<text id="70200410">Drangleic is no longer.</text>
+<text>#0Talk-2nd time after acquiring the King's Ring</text>
+<text id="70200500">Brave Undead,
+seek the throne.</text>
+<text id="70200510">Follow the symbol of the monarch, and do what must be done.</text>
+<text>#0Talk-1st time after acquiring the Ashen Mist Heart</text>
+<text id="70200600">Brave Undead,
+what did that dragon tell you?</text>
+<text id="70200610">That thing is a prop,
+a false deity.
+Don't be fooled, my Undead.</text>
+<text>#0Talk-2nd time after acquiring the Ashen Mist Heart</text>
+<text id="70200720">Seek the forest, you,
+where those wretched Giants slumber.</text>
+<text>#0After defeating the Throne Defender &amp; Throne Watcher</text>
+<text id="62700800">Brave Undead,</text>
+<text id="62700805">you have proven yourself to me.</text>
+<text id="62700810">Now, be one, with the Dark...</text>
+<text id="70200020">##Brave Undead,
+your arrival here
+foreshadows your fate.</text>
+<text id="70200100">##A true monarch is much more than a ruler of men.</text>
+<text id="70200130">##He was less of a king than you might imagine.</text>
 <text id="70200170">##And now he lies in the Undead Crypt, wasting away.</text>
 <text id="70200200">##Brave Undead,
 perhaps you are the true monarch.</text>
-<text id="70200210">Visit Vendrick.</text>
-<text id="70200220">We have no need for two rulers...</text>
 <text id="70200230">##I will wait here.
 For you to settle things.</text>
 <text id="70200300">##Brave Undead,
@@ -30,27 +52,16 @@ And that one may well be you...</text>
 <text id="70200400">##Brave Undead,
 vanquisher of King Vendrick,
 and bearer of the symbol of the monarch.</text>
-<text id="70200410">Drangleic is no longer.</text>
 <text id="70200420">##But to know if you are the true king...</text>
 <text id="70200430">##...we will require the throne.</text>
 <text id="70200440">##Brave Undead, follow the symbol of the monarch.
 Surely you have it in you.</text>
 <text id="70200450">##For this is your true purpose...</text>
-<text id="70200500">Brave Undead,
-seek the throne.</text>
-<text id="70200510">Follow the symbol of the monarch, and do what must be done.</text>
-<text id="70200600">Brave Undead,
-what did that dragon tell you?</text>
-<text id="70200610">That thing is a prop,
-a false deity.
-Don't be fooled, my Undead.</text>
 <text id="70200700">##Brave Undead,
 you've met that dragon?
 That living, breathing sham.</text>
 <text id="70200710">##A false deity,
 offering nothing.</text>
-<text id="70200720">Seek the forest, you,
-where those wretched Giants slumber.</text>
 <text id="70200730">##Use the symbol of the dragon to delve into their thoughts.</text>
 <text id="70200740">##Brave Undead,
 to the forest.
@@ -61,7 +72,4 @@ The Forest of Giants.</text>
 <text id="70205030">##How very dare you...</text>
 <text id="70205040">##Tee hee...</text>
 <text id="70209999">##...</text>
-<text id="62700800">Brave Undead,</text>
-<text id="62700805">you have proven yourself to me.</text>
-<text id="62700810">Now, be one, with the Dark...</text>
 </entries>

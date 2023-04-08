@@ -1,15 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0第1次靠近鸟巢时</text>
 <text id="55000000">喂喂。</text>
 <text id="55000001">给我暖暖的。</text>
 <text id="55000002">给我软软的。</text>
+<text>#0第2次靠近鸟巢时</text>
 <text id="55000100">喂！喂！</text>
 <text id="55000101">给我暖暖的！</text>
 <text id="55000102">给我软软的！</text>
+<text>#0放置不可交换的物品时</text>
 <text id="55000200">不对不对。</text>
 <text id="55000201">不是这个。</text>
 <text id="55000202">这个不温暖。</text>
 <text id="55000203">这个不柔软。</text>
+<text>#0放置已交换的物品时</text>
 <text id="55000300">不对不对。</text>
 <text id="55000301">不对啦。</text>
 <text id="55000302">我不要了啦。</text>

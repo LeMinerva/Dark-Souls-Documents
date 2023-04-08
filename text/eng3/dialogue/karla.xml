@@ -1,65 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="15000000">Oh, there you are.</text>
 <text id="15000001">I thought you'd all but forgotten me. How sweet.</text>
 <text id="15000002">Good to know that a skinny little heretic can still turn heads.</text>
 <text id="15000003">...</text>
+<text>#0Talk-2nd time</text>
 <text id="15000100">Hm? Oh...you're not one of them, are you?</text>
 <text id="15000101">Accept my apologies, for mistaking you for one of those leeches.</text>
 <text id="15000102">So, what business have you here?</text>
 <text id="15000103">This is a land of monstrosities. And I am no exception.</text>
-<text id="15000200">##Would I serve you?</text>
-<text id="15000201">##Then you must be involved in linking of the fire.</text>
-<text id="15000202">##Ahh, very well. I can do very little holed up here.</text>
-<text id="15000203">##I am Feria, of the Profaned Capital,
-and I hereby enter into your service.</text>
+<text>#0Choose "Do not help her" to either the 1st, 2nd or 3rd query</text>
 <text id="15000300">...</text>
 <text id="15000301">You are very frank.</text>
 <text id="15000302">If you've no business here, take your leave at once.</text>
 <text id="15000303">For your own sake.</text>
+<text>#0Talk-After choosing "Do not help her" to either the 1st, 2nd or 3rd query</text>
 <text id="15000400">What is it? Something else?</text>
 <text id="15000401">Ahh, don't fret over me.
 I'm stuck here anyway.</text>
+<text>#0Choose "Offer help" to either the 1st or 2nd query</text>
+<text id="15002400">You're here to save me...?</text>
+<text id="15002401">But I am guilty. A wretched child of the Abyss.</text>
+<text id="15002402">Is that something you can forgive?</text>
+<text>#0Choose "Save her nonetheless" to the 4th query after choosing "Offer help"</text>
+<text id="15002500">Oh, really. You are no ordinary man.</text>
+<text id="15002501">Oh, really. You are no ordinary woman.</text>
+<text id="15002502">Very well. Besides, I've grown tired of imprisonment.</text>
+<text id="15002503">I am Karla, and I accept your proposal.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="15000500">...</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="15000501">...</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="15000502">Why, you're one of those leeches after all.</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="15000503">How dare you feign humanity.</text>
-<text id="15000504">...</text>
-<text id="15000600">...</text>
+<text>#0Upon dying</text>
 <text id="15000601">Cursed leech, I await you, in the Abyss...</text>
-<text id="15000602">...</text>
+<text>#0Talk-1st time</text>
 <text id="15000700">Ahh, there you are.</text>
 <text id="15000701">As I said, I am Karla. And am grateful to you.</text>
 <text id="15000702">Now, what shall we do.</text>
 <text id="15000703">The only thing that might interest you is my sorcery.</text>
 <text id="15000704">Although my dark arts are a detestable sort.</text>
 <text id="15000705">That wouldn't interest you, would it?</text>
-<text id="15000800">...</text>
-<text id="15000801">You're a wicked one, aren't you?</text>
-<text id="15000802">Very well. Humans are of the dark, and you are no different.</text>
-<text id="15000803">Some may avert their eyes, but the truth remains the truth.</text>
-<text id="15000804">Be careful though. Few humans are privy to this knowledge.</text>
-<text id="15000805">Let it be a secret, between you and I...</text>
+<text>#0Choose "Decline" to either the 1st or 2nd query</text>
 <text id="15000900">...</text>
 <text id="15000901">Most regrettable.</text>
 <text id="15000902">I have nothing else, you see, nothing at all.</text>
 <text id="15000903">Have you so soon forgotten?
 That place is home only to monstrous things,
 and I am no exception.</text>
+<text>#0Talk-After choosing "Decline" to either the 1st or 2nd query</text>
 <text id="15001000">Ahh, hello there. I'm sorry to say...</text>
 <text id="15001001">This truly is all I have.</text>
 <text id="15001002">Detestable sorceries that delve into the darkness of man...</text>
+<text>#0Choose "Ask to learn dark sorceries" to either the 1st or 2nd query</text>
+<text id="15000800">...</text>
+<text id="15000801">You're a wicked one, aren't you?</text>
+<text id="15000802">Very well. Humans are of the dark, and you are no different.</text>
+<text id="15000803">Some may avert their eyes, but the truth remains the truth.</text>
+<text id="15000804">Be careful though. Few humans are privy to this knowledge.</text>
+<text id="15000805">Let it be a secret, between you and I...</text>
+<text>#0Talk-2nd time</text>
 <text id="15001100">Ahh, hello again. Thank goodness.</text>
 <text id="15001101">Yes, yes, you require my sorceries, I presume?</text>
-<text id="15001102">...</text>
-<text id="15001200">Ahh, hello again. Thank goodness.</text>
-<text id="15001201">One can become quite attached, even to a bumbling apprentice.</text>
-<text id="15001202">Oh, I'm hardly serious.</text>
-<text id="15001203">...</text>
-<text id="15001300">Do stay safe.</text>
-<text id="15001400">Don't stir up any trouble.</text>
-<text id="15001401">You're my apprentice, don't forget.</text>
-<text id="15001402">...</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="15001500">There is one thing that you should know.</text>
 <text id="15001501">There is a darkness within man,
 and I am afraid you will peer into it.</text>
@@ -67,8 +74,13 @@ and I am afraid you will peer into it.</text>
 or a ruinous nostalgia...</text>
 <text id="15001503">...is up to you entirely.</text>
 <text id="15001504">Fear not, your choice will bring you no scorn.</text>
-<text id="15001505">##Ahh, it's little wonder my kindness is lost on most...</text>
-<text id="15001506">##...</text>
+<text>#0Menu-Choose "Talk" after reaching the Kiln of the First Flame</text>
+<text id="15002600">Oh, are you lost on your journey?</text>
+<text id="15002601">No matter, today's lost are conquerors tomorrow.</text>
+<text id="15002602">It only demonstrates the makings of a champion.</text>
+<text id="15002603">And besides, whatever your choice...</text>
+<text id="15002604">It will not change my sense of gratitude, or how I think of you.</text>
+<text>#0Menu-Choose "Give Quelana Pyromancy Tome"</text>
 <text id="15001600">Oh, a pyromancy tome, have we?</text>
 <text id="15001601">Quelana, Witch of Izalith...
 well, this is a fascinating pyromancy...</text>
@@ -76,6 +88,7 @@ well, this is a fascinating pyromancy...</text>
 <text id="15001603">I will unravel the thing the best I can.</text>
 <text id="15001604">Besides. It will be nice to play master for once.</text>
 <text id="15001605">...</text>
+<text>#0Menu-Choose "Grave Warden Pyromancy Tome" after Quelana Tome</text>
 <text id="15001700">Ohh, another pyromancy tome, have we?</text>
 <text id="15001701">Quelana, Witch of Izalith...
 well, this is a fascinating pyromancy...</text>
@@ -84,6 +97,7 @@ but you bring me nothing but pyromancies!</text>
 <text id="15001703">Fiendish little lad, you...</text>
 <text id="15001704">Fiendish little lass, you...</text>
 <text id="15001705">...</text>
+<text>#0Menu-Choose "Give Grave Warden Pyromancy Tome"</text>
 <text id="15001800">Oh, a pyromancy tome, have we?</text>
 <text id="15001801">And one that resonates with the dark, yes, well suited to me...</text>
 <text id="15001802">...</text>
@@ -91,6 +105,7 @@ but you bring me nothing but pyromancies!</text>
 <text id="15001804">I will unravel the thing the best I can.</text>
 <text id="15001805">Besides. It will be nice to play master for once.</text>
 <text id="15001806">...</text>
+<text>#0Menu-Choose "Quelana Pyromancy Tome" after Grave Warden Tome</text>
 <text id="15001900">Oh, another pyromancy tome, have we?</text>
 <text id="15001901">And one that resonates with the dark, yes, well suited to me...</text>
 <text id="15001902">...</text>
@@ -99,37 +114,54 @@ but you bring me nothing but pyromancies!</text>
 <text id="15001904">Fiendish little lad, you...</text>
 <text id="15001905">Fiendish little lass, you...</text>
 <text id="15001906">...</text>
+<text>#0Talk-After purchasing a pyromancy</text>
+<text id="15001200">Ahh, hello again. Thank goodness.</text>
+<text id="15001201">One can become quite attached, even to a bumbling apprentice.</text>
+<text id="15001202">Oh, I'm hardly serious.</text>
+<text id="15001203">...</text>
+<text>#0Menu-Choose "Give Deep / Londor Braille Divine Tome" for the 1st time</text>
 <text id="15002000">Oh, is this a Divine Tome?</text>
 <text id="15002001">What on earth are you thinking?</text>
 <text id="15002002">I wouldn't go near a Divine Tome or any so-called miracle.</text>
 <text id="15002003">And casters of miracles are sure to steer clear of me.</text>
 <text id="15002004">So, please.</text>
 <text id="15002005">Don't torture me so.</text>
+<text>#0Menu-Choose "Give Deep / Londor Braille Divine Tome" for the 2nd time</text>
 <text id="15002100">Ahh, you, how could you...</text>
 <text id="15002101">Ahhh....</text>
 <text id="15002102">I know, I know. I owe my life to you.</text>
 <text id="15002103">Fine, then. Just this once, I will tell you this tale.</text>
 <text id="15002104">But do understand, it will be my first time.</text>
 <text id="15002105">I'll have no sniggering, should I err.</text>
+<text>#0Menu-Choose "Leave" or after leaving abruptly</text>
+<text id="15001300">Do stay safe.</text>
+<text>#0Menu-Choose "Leave" or after leaving abruptly after purchasing a pyromancy</text>
+<text id="15001400">Don't stir up any trouble.</text>
+<text id="15001401">You're my apprentice, don't forget.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="15002200">...</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="15002201">...</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="15002202">What's wrong?</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="15002203">How could you?</text>
-<text id="15002204">...</text>
-<text id="15002300">...</text>
+<text>#0Upon dying</text>
 <text id="15002301">You're a fickle one...</text>
 <text id="15002302">And vicious...</text>
-<text id="15002303">...</text>
-<text id="15002400">You're here to save me...?</text>
-<text id="15002401">But I am guilty. A wretched child of the Abyss.</text>
-<text id="15002402">Is that something you can forgive?</text>
-<text id="15002500">Oh, really. You are no ordinary man.</text>
-<text id="15002501">Oh, really. You are no ordinary woman.</text>
-<text id="15002502">Very well. Besides, I've grown tired of imprisonment.</text>
-<text id="15002503">I am Karla, and I accept your proposal.</text>
-<text id="15002600">Oh, are you lost on your journey?</text>
-<text id="15002601">No matter, today's lost are conquerors tomorrow.</text>
-<text id="15002602">It only demonstrates the makings of a champion.</text>
-<text id="15002603">And besides, whatever your choice...</text>
-<text id="15002604">It will not change my sense of gratitude, or how I think of you.</text>
+<text id="15000504">##...</text>
+<text id="15000600">##...</text>
+<text id="15000602">##...</text>
+<text id="15001102">##...</text>
+<text id="15001402">##...</text>
+<text id="15002204">##...</text>
+<text id="15002300">##...</text>
+<text id="15002303">##...</text>
+<text id="15000200">##Would I serve you?</text>
+<text id="15000201">##Then you must be involved in linking of the fire.</text>
+<text id="15000202">##Ahh, very well. I can do very little holed up here.</text>
+<text id="15000203">##I am Feria, of the Profaned Capital,
+and I hereby enter into your service.</text>
+<text id="15001505">##Ahh, it's little wonder my kindness is lost on most...</text>
+<text id="15001506">##...</text>
 </entries>

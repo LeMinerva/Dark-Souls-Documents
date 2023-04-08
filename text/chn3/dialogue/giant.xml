@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0第1次交谈</text>
 <text id="50000000">你是？</text>
+<text>#0选择「表示友好」后</text>
 <text id="50000100">随时都行。</text>
 </entries>

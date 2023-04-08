@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk</text>
 <text id="16000000">...</text>
+<text>#0Talk-After returning her Fire Keeper Soul</text>
 <text id="16000100">...Th, thank you...</text>
-<text id="16000101">##...Thank...you...</text>
 <text id="16000102">...I am Anastacia of Astora.</text>
 <text id="16000103">...Now I can continue my duty as a Keeper.</text>
 <text id="16000104">...But...</text>
 <text id="16000105">...I only hope that my impure tongue does not offend.</text>
-<text id="16000106">##...I only wish...I could, repay you...</text>
-<text id="16000107">##...Please, forgive me...</text>
+<text>#0Menu-Choose "Talk" After returning her Fire Keeper Soul</text>
 <text id="16000200">...Forgive me...</text>
 <text id="16000201">...I am impure, my tongue never intended for restoration.</text>
 <text id="16000202">...Please, if you have any heart...</text>
 <text id="16000203">...Leave me be...</text>
 <text id="16000204">...I wish not to speak...</text>
-<text id="16000300">##...Frampt has told me of you...</text>
+<text>#0Talk-After returning her Fire Keeper Soul &amp; placing the Lordvessel for Kingseeker Frampt</text>
 <text id="16000301">...That you have agreed to link the Fire.</text>
 <text id="16000302">...I thank you, sincerely.</text>
 <text id="16000303">...Finally, the curse of the Undead will be lifted,
@@ -23,6 +23,10 @@ and I can die human.</text>
 but I will do all that I can.</text>
 <text id="16000305">...Please, save us all...</text>
 <text id="16000306">...Please...</text>
+<text id="16000101">##...Thank...you...</text>
+<text id="16000106">##...I only wish...I could, repay you...</text>
+<text id="16000107">##...Please, forgive me...</text>
+<text id="16000300">##...Frampt has told me of you...</text>
 <text id="16000400">##Mm...</text>
 <text id="16000500">##Ah...</text>
 <text id="16000501">##Vereor Nox</text>

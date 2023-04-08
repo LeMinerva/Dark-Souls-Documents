@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="75400000">Buy something, anything... </text>
 <text id="75400010">Come, now...help an old woman... And buy something...</text>
 <text id="75400020">Keh heh heh...</text>
-<text id="75400100">Oh, you again.</text>
-<text id="75400110">Go on...it's on the cheap for you.</text>
-<text id="75400120">Keh heh heh...</text>
+<text>#0Talk-2nd time</text>
 <text id="75400200">Buy something, anything...</text>
+<text>#0Talk-3rd time</text>
 <text id="75400300">Don't abandon a poor old woman...</text>
+<text>#0Talk-1st time after resting at a Bonfire</text>
 <text id="75400400">I knew you'd be back...</text>
+<text>#0Talk-2nd time after resting at a Bonfire</text>
 <text id="75400500">You again? Keh heh heh...</text>
-<text id="75400600">Thank you kindly. Keh heh heh...</text>
-<text id="75400700">Lowly times, these are...</text>
-<text id="75400800">Keh heh heh...</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="75401000">My name is Melentia.</text>
 <text id="75401010">You a stranger to this land?</text>
 <text id="75401020">All we get is strangers these days.
@@ -21,12 +21,14 @@ and run off! </text>
 <text id="75401030">Drangleic's been a pile o' rubble
 since the war fought long, long ago.</text>
 <text id="75401040">When the Giants crossed the sea.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="75401100">Seemed like the battles would never end.</text>
 <text id="75401110">Poor folk like myself had nary a place to sleep.</text>
 <text id="75401120">That's why I keep all me things right with me.</text>
 <text id="75401130">You may travel light,
 but methinks you bear a burden
 of your own.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="75401200">They say these trees grew
 from the remains of the Giants.</text>
 <text id="75401210">From each carcass sprouted new life,
@@ -34,27 +36,47 @@ growing into what you see now.</text>
 <text id="75401220">But you know what they also say.
 Don't believe what
 an old hag says!</text>
+<text>#0Menu-Choose "Talk" 4th time</text>
 <text id="75401300">It's high time that I pick up and move.</text>
 <text id="75401310">I've a bargain for you,
 next time we meet, my love. </text>
+<text>#0Talk-1st time</text>
+<text id="75400100">Oh, you again.</text>
+<text id="75400110">Go on...it's on the cheap for you.</text>
+<text id="75400120">Keh heh heh...</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="75401400">Everyone's so stingy
 around here.</text>
 <text id="75401410">Everyone's so stingy everywhere! </text>
 <text id="75401420">You're my only customer.
 Don't make me beg, now, buy something! </text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="75401500">We call this place Majula.</text>
 <text id="75401510">Not too special, if you ask me.</text>
 <text id="75401520">It's just the place...
 where everyone
 seems to end up.</text>
-<text id="75405000">You've no respect! Die, you rotten lout!</text>
-<text id="75405010">I'll have your guts
-for garters! </text>
-<text id="75405020">Cruel, cruel world, this is... Keh heh heh...</text>
-<text id="75405030">Keh heh heh...</text>
-<text id="75405040">Keh heh heh...</text>
-<text id="75405060">That's not very nice, is it?</text>
-<text id="75406000">Keh heh heh...</text>
+<text>#0Menu-Choose "Talk" after spending 10000 souls</text>
 <text id="75407000">Take these, if you want them. Keh heh heh...</text>
 <text id="75407010">Keh heh heh...</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="75400700">Lowly times, these are...</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="75400600">Thank you kindly. Keh heh heh...</text>
+<text>#0After leaving abruptly</text>
+<text id="75400800">Keh heh heh...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="75405030">Keh heh heh...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="75405040">Keh heh heh...</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="75405000">You've no respect! Die, you rotten lout!</text>
+<text>#0Upon approaching her, after she has previously killed the protagonist</text>
+<text id="75405010">I'll have your guts
+for garters! </text>
+<text>#0Upon killing the protagonist</text>
+<text id="75405020">Cruel, cruel world, this is... Keh heh heh...</text>
+<text>#0After reducing her health to 50% or lower</text>
+<text id="75405060">That's not very nice, is it?</text>
+<text id="75406000">##Keh heh heh...</text>
 </entries>

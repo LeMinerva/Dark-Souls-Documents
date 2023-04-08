@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="77700000">Oh...Undead, are we?</text>
 <text id="77700010">And one without much time remaining.</text>
 <text id="77700020">Just about ready to fall apart, I'd say.</text>
@@ -10,29 +11,33 @@ Enchanté.</text>
 <text id="77700060">So, what did you want, anyway?</text>
 <text id="77700070">Ooh, you smell wonderful.
 Hee hee hee...</text>
-<text id="77700100">Satisfied?</text>
-<text id="77700110">I'll be around,
-if you ever come back.</text>
-<text id="77700200">Nothing suited you, I presume?</text>
-<text id="77700210">Well, that's dismaying.
-Hee hee hee...</text>
-<text id="77700300">Oh my, haste makes waste.
-Hee hee hee...</text>
+<text>#0Talk-2nd time</text>
 <text id="77700400">Oh...Who were you again?</text>
 <text id="77700410">Hoh hoh... Oh, I'm not serious.</text>
 <text id="77700420">You do have a rather pleasant scent.</text>
 <text id="77700430">The type I'm quite fond of.
 Hee hee hee...</text>
+<text>#0Talk-As a 2nd stage Hollow</text>
+<text id="77702700">Hoh hoh! What's happened to you?</text>
+<text id="77702710">You have that glint in your eyes.</text>
+<text id="77702720">And the scent...
+of one with quite the catalogue of sins...</text>
+<text id="77702730">Oh, don't feel bad.
+I'm sure your mother's still proud...
+Hee hee!</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="77701000">This place is already dead.</text>
 <text id="77701010">Everything will crumble and waste away,
 so that something new may be born.</text>
 <text id="77701020">Isn't it wonderful? Hee hee hee...</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="77701100">This place is fascinating.</text>
 <text id="77701110">We receive only the most peculiar visitors.
 Folk like yourself.</text>
 <text id="77701120">It's enough to
 keep even a cat
 amused!</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="77701200">Are you going to see the Old Ones?</text>
 <text id="77701210">Those four who have grown so incredibly ancient.</text>
 <text id="77701220">They must have sprouted
@@ -42,40 +47,26 @@ quite a thick coat of moss by now.</text>
 <text id="77701250">Yes...nothing like yourself.</text>
 <text id="77701260">For you...have a most pleasant scent,
 that grows nicer with each passing day.</text>
-<text id="77701300">Once, people tried to round up the Undead
-and hide them away from the world.</text>
-<text id="77701310">They thought that imprisoning the Undead
-would solve the problem.</text>
-<text id="77701320">They created a towering bastille to contain them,
-but in the end, it did no good.</text>
-<text id="77701330">The Lost Sinner lives deep within the bastille.</text>
-<text id="77701340">The fool. Trying to light the First Flame...</text>
-<text id="77701400">Why do people try so hard to be beautiful?</text>
-<text id="77701410">We cats are born beautiful, of course.
+<text>#0Menu-Choose "Talk" 4th time</text>
+<text id="77701800">Have you made friends with the man by the sea?</text>
+<text id="77701810">He's lost everything, absolutely everything.
 Hee hee...</text>
-<text id="77701420">The human ego...how many ugly iron castles has it erected?</text>
-<text id="77701430">And they don't even see the folly of their ways.</text>
-<text id="77701440">But that's what makes watching
-humankind so delightful.</text>
-<text id="77701450">It reminds me of someone who lived long ago.</text>
-<text id="77701460">A vainglorious liar who ended up hurling himself into the flames.</text>
-<text id="77701470">Now he's Ichorous Earth, if I'm not mistaken.</text>
-<text id="77701500">You've seen that gaping hole here?</text>
-<text id="77701510">Well, there's nasty little vermin down there.</text>
-<text id="77701520">Although who you seek is even further below.</text>
-<text id="77701530">And has been down there for a very, very long time.</text>
-<text id="77701540">He's plumb Rotten by now, I'm sure!
+<text id="77701820">The only thing he's good for now... Is a few tidbits on covenants.</text>
+<text id="77701830">Covenants are a type of, well,
+contract, you might say.</text>
+<text id="77701840">You give something, to gain something.
+That's the way humans like it, right?</text>
+<text id="77701850">It might be just the thing you need.
+But what does a cat know?
 Hee hee hee...</text>
-<text id="77701600">Men develop the most peculiar fascinations.</text>
-<text id="77701610">Sometimes their fascinations seem to take control.</text>
-<text id="77701620">Till there's very little man left.
+<text>#0Menu-Choose "Talk" 5th time</text>
+<text id="77701900">Did you see that oddly-formed rock behind here?</text>
+<text id="77701910">Long ago, they called it Victor's Stone, as I recall.</text>
+<text id="77701920">If you wish to face greater challenges,
+speak to the rock.</text>
+<text id="77701930">Although you'd just as well not.
 Hee hee hee...</text>
-<text id="77701630">Oh, it's like that awful traitor long ago.</text>
-<text id="77701640">He coveted what he did not have, and it drove him mad.</text>
-<text id="77701650">What a curious conundrum.
-Hee hee hee...</text>
-<text id="77701660">The Writhing Ruin keeps searching as we speak.</text>
-<text id="77701670">Searching for its heart's desire.</text>
+<text>#0Talk-After defeating 4 Old Ones</text>
 <text id="77701700">Well, you've grown quite a bit,
 haven't you?</text>
 <text id="77701710">Your scent is lovelier than it's ever been.
@@ -91,29 +82,52 @@ though.</text>
 <text id="77701770">But we cats love that.
 It's an
 acquired taste!</text>
-<text id="77701800">Have you made friends with the man by the sea?</text>
-<text id="77701810">He's lost everything, absolutely everything.
+<text>#0Menu-Choose "Talk" 1st time, after defeating 4 Old Ones</text>
+<text id="77701300">Once, people tried to round up the Undead
+and hide them away from the world.</text>
+<text id="77701310">They thought that imprisoning the Undead
+would solve the problem.</text>
+<text id="77701320">They created a towering bastille to contain them,
+but in the end, it did no good.</text>
+<text id="77701330">The Lost Sinner lives deep within the bastille.</text>
+<text id="77701340">The fool. Trying to light the First Flame...</text>
+<text>#0Menu-Choose "Talk" 2nd time, after defeating 4 Old Ones</text>
+<text id="77701400">Why do people try so hard to be beautiful?</text>
+<text id="77701410">We cats are born beautiful, of course.
 Hee hee...</text>
-<text id="77701820">The only thing he's good for now... Is a few tidbits on covenants.</text>
-<text id="77701830">Covenants are a type of, well,
-contract, you might say.</text>
-<text id="77701840">You give something, to gain something.
-That's the way humans like it, right?</text>
-<text id="77701850">It might be just the thing you need.
-But what does a cat know?
+<text id="77701420">The human ego...how many ugly iron castles has it erected?</text>
+<text id="77701430">And they don't even see the folly of their ways.</text>
+<text id="77701440">But that's what makes watching
+humankind so delightful.</text>
+<text id="77701450">It reminds me of someone who lived long ago.</text>
+<text id="77701460">A vainglorious liar who ended up hurling himself into the flames.</text>
+<text id="77701470">Now he's Ichorous Earth, if I'm not mistaken.</text>
+<text>#0Menu-Choose "Talk" 3rd time, after defeating 4 Old Ones</text>
+<text id="77701500">You've seen that gaping hole here?</text>
+<text id="77701510">Well, there's nasty little vermin down there.</text>
+<text id="77701520">Although who you seek is even further below.</text>
+<text id="77701530">And has been down there for a very, very long time.</text>
+<text id="77701540">He's plumb Rotten by now, I'm sure!
 Hee hee hee...</text>
-<text id="77701900">Did you see that oddly-formed rock behind here?</text>
-<text id="77701910">Long ago, they called it Victor's Stone, as I recall.</text>
-<text id="77701920">If you wish to face greater challenges,
-speak to the rock.</text>
-<text id="77701930">Although you'd just as well not.
+<text>#0Menu-Choose "Talk" 4th time, after defeating 4 Old Ones</text>
+<text id="77701600">Men develop the most peculiar fascinations.</text>
+<text id="77701610">Sometimes their fascinations seem to take control.</text>
+<text id="77701620">Till there's very little man left.
 Hee hee hee...</text>
+<text id="77701630">Oh, it's like that awful traitor long ago.</text>
+<text id="77701640">He coveted what he did not have, and it drove him mad.</text>
+<text id="77701650">What a curious conundrum.
+Hee hee hee...</text>
+<text id="77701660">The Writhing Ruin keeps searching as we speak.</text>
+<text id="77701670">Searching for its heart's desire.</text>
+<text>#0Talk-After encountering Nashandra in Drangleic Castle</text>
 <text id="77702000">Oh, it's you.</text>
 <text id="77702010">What're you doing here?</text>
 <text id="77702020">Have you lost your way?
 Hee hee hee...</text>
 <text id="77702030">I believe you're in search of the King.</text>
 <text id="77702040">Well, he's keeping company with the dead.</text>
+<text>#0Talk-After acquiring the King's Ring</text>
 <text id="77702100">You'll find a great creature far to the east.</text>
 <text id="77702110">A colossal thing, with the strength to match its size.</text>
 <text id="77702120">Or something playing the part at least.</text>
@@ -121,31 +135,150 @@ Hee hee hee...</text>
 and venture inside,
 and you'll soon smell
 even lovelier.</text>
+<text>#0Talk-After acquiring the Ashen Mist Heart</text>
 <text id="77702200">Trespassing into their dreams?</text>
 <text id="77702210">Of the ones who crossed the sea,
 lavishing ruin upon the land?</text>
 <text id="77702220">How they savour their visions...
 Of glorious deeds in battle.</text>
 <text id="77702230">Hee hee hee hee hee...</text>
+<text>#0Talk-After acquiring the Giant's Kinship</text>
 <text id="77702300">It seems that we must now part.</text>
 <text id="77702310">Why now? I don't see how it should matter.</text>
 <text id="77702320">Just because, because I'm a cat.
 Hee hee...</text>
+<text>#0Menu-Choose "Talk" after acquiring the Giant's Kinship</text>
 <text id="77702330">Honourable Sovereign,
 take your throne.</text>
 <text id="77702340">And do great things,
 if it please.</text>
-<text id="77702700">Hoh hoh! What's happened to you?</text>
-<text id="77702710">You have that glint in your eyes.</text>
-<text id="77702720">And the scent...
-of one with quite the catalogue of sins...</text>
-<text id="77702730">Oh, don't feel bad.
-I'm sure your mother's still proud...
-Hee hee!</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="77700200">Nothing suited you, I presume?</text>
+<text id="77700210">Well, that's dismaying.
+Hee hee hee...</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="77700100">Satisfied?</text>
+<text id="77700110">I'll be around,
+if you ever come back.</text>
+<text>#0After leaving abruptly</text>
+<text id="77700300">Oh my, haste makes waste.
+Hee hee hee...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="77705030">Oh what now? Hmph!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="77705040">Ooh,
 keep trying. </text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="77705050">Oh,
 spare me, please. </text>
 <text id="77705070">##Tee hee! Tee hee hee...</text>
+<text id="77700100">##...</text>
+<text id="77700110">##...</text>
+<text id="77700120">##...</text>
+<text id="77700130">##...</text>
+<text id="77700200">##...
+...</text>
+<text id="77700210">##...</text>
+<text id="77700300">##...
+...</text>
+<text id="77700310">##...
+...</text>
+<text id="77700400">##...
+...</text>
+<text id="77700410">##...</text>
+<text id="77700500">##...
+...</text>
+<text id="77700510">##...</text>
+<text id="77700520">##...
+...</text>
+<text id="77700600">##...</text>
+<text id="77700610">##...
+...</text>
+<text id="77700620">##...
+...</text>
+<text id="77700700">##...
+...</text>
+<text id="77700710">##...</text>
+<text id="77700720">##...
+...</text>
+<text id="77700800">##...</text>
+<text id="77700810">##...</text>
+<text id="77700820">##...
+...</text>
+<text id="77700830">##...
+...</text>
+<text id="77700900">##...
+...</text>
+<text id="77700910">##...
+...</text>
+<text id="77700920">##...
+...</text>
+<text id="77700930">##...</text>
+<text id="77700940">##...
+...</text>
+<text id="77701000">##...</text>
+<text id="77701010">##...
+...</text>
+<text id="77701020">##...</text>
+<text id="77701030">##...
+...</text>
+<text id="77701100">##...
+...</text>
+<text id="77701110">##...</text>
+<text id="77701120">##...</text>
+<text id="77701130">##...</text>
+<text id="77701140">##...
+...</text>
+<text id="77701150">##...</text>
+<text id="77701200">##...
+...</text>
+<text id="77701210">##...</text>
+<text id="77701220">##...
+...</text>
+<text id="77701230">##...</text>
+<text id="77701300">##...
+...</text>
+<text id="77701310">##...
+...</text>
+<text id="77701400">##...</text>
+<text id="77701410">##...
+...</text>
+<text id="77701420">##...</text>
+<text id="77701430">##...
+...</text>
+<text id="77701500">##...
+...</text>
+<text id="77701510">##...
+...</text>
+<text id="77701520">##...
+...</text>
+<text id="77701600">##...
+...</text>
+<text id="77701610">##...</text>
+<text id="77701700">##...
+...</text>
+<text id="77701710">##...</text>
+<text id="77701720">##...
+...</text>
+<text id="77701800">##...
+...</text>
+<text id="77701810">##...
+...</text>
+<text id="77701820">##...</text>
+<text id="77701900">##...
+...</text>
+<text id="77701910">##...
+...</text>
+<text id="77702000">##...</text>
+<text id="77702010">##...
+...</text>
+<text id="77702020">##...
+...</text>
+<text id="77702100">##...</text>
+<text id="77702110">##...
+...</text>
+<text id="77702120">##...
+...</text>
+<text id="77702130">##...
+...</text>
 </entries>

@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="75900260">你这个不敬者!!……</text>
-<text id="75900410">你……将不断污秽下去……</text>
+<text>#0第1次进入雾门，开始战斗前</text>
 <text id="75900500">哼……你与污秽真是匹配啊……</text>
+<text>#0主角死亡或离开，再次进入雾门，开始战斗前</text>
+<text id="75900410">你……将不断污秽下去……</text>
+<text id="75900260">##你这个不敬者!!……</text>
 </entries>

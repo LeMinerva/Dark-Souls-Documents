@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After opening to door to their abode</text>
 <text id="70500000">Heh heh heh...
 What seems to be the ruckus?</text>
 <text id="70500010">Ooh, my! Your face.</text>
@@ -7,48 +8,38 @@ What seems to be the ruckus?</text>
 <text id="70500030">It's an Undead.</text>
 <text id="70500040">An Undead has come to play.
 Heh heh...</text>
-<text id="70500050">##You've seen the mark upon your flesh.</text>
-<text id="70500060">##The sign of the Undead...symbol of the accursed.</text>
 <text id="70500070">They all end up here,
 all the ones like you.</text>
 <text id="70500080">You spoke to that kind old dear, 
-didn't you? 
-Heh heh...</text>
+didn't you?  Heh heh...</text>
 <text id="70500100">You're finished.</text>
-<text id="70500110">##Your flesh will decay, your mind will fade.
-But you won't ever die.</text>
 <text id="70500120">You'll go Hollow.</text>
 <text id="70500130">Yes, you will become one of them.</text>
 <text id="70500140">Hollows prey upon men,
 feast upon their souls.</text>
 <text id="70500150">This is the fate of the cursed. Heh heh heh...</text>
 <text id="70500170">What is your name?</text>
-<text id="70500180">##Surely you can tell me your name.</text>
-<text id="70500190">##If you remember it, that is.
-Heh heh...</text>
+<text>#0After the protagonist enters their name</text>
 <text id="70500200">At least you know your own name.</text>
 <text id="70500210">Here's your reward for sharing.</text>
 <text id="70500220">It's a Human Effigy.</text>
 <text id="70500230">Take a closer look...</text>
 <text id="70500240">Who do you think it's supposed to be?</text>
-<text id="70500250">##It's somebody that
-you know very well.</text>
-<text id="70500260">##Go on, look closer, closer still.</text>
 <text id="70500270">Think back, deep into your past.</text>
 <text id="70500280">Yes, it's an effigy of you.</text>
+<text>#0After the protagonist finalizes their true self</text>
 <text id="70500290">All people come here for the same reason.</text>
 <text id="70500300">To break the curse.</text>
 <text id="70500310">You're no different, I should think?</text>
 <text id="70500320">Hmm...
 doesn't stand a chance.</text>
 <text id="70500330">Well, you never know!</text>
-<text id="70500350">##Now, it's just about our bedtime.</text>
 <text id="70500360">Go through the door and trot along to the kingdom.</text>
-<text id="70500370">##Go on, out the door.</text>
 <text id="70500380">But remember, hold on to your souls.</text>
 <text id="70500390">They're all that keep you from going Hollow.</text>
 <text id="70500400">Oh, I'll fool you no longer...</text>
 <text id="70500410">You'll lose your souls... All of them. Over and over again.</text>
+<text>#0Talk-1st time</text>
 <text id="70501000">You must go, on a journey without rest.</text>
 <text id="70501010">Well...I suppose,
 if you find yourself at an impasse...</text>
@@ -56,35 +47,105 @@ if you find yourself at an impasse...</text>
 then you may return here.</text>
 <text id="70501030">To start again, with a clean slate...</text>
 <text id="70501040">Hah hah hah...</text>
+<text>#0Talk-2nd time</text>
 <text id="70501100">Now, go along, go along...
 Heh heh...</text>
+<text>#0Talk-After the protagonist has leveled up their character in Majula</text>
 <text id="70501200">Still determined as ever, I see...
 Heh heh...</text>
 <text id="70501210">Do you wish to start all over again?</text>
-<text id="70501300">No, of course not.</text>
-<text id="70501310">Now, go along then...
-Heh heh...</text>
-<text id="70501400">Oh, but you don't have what's needed.</text>
-<text id="70501410">Well, that won't do at all!</text>
-<text id="70501420">Go along, then.
-Old hags don't bargain, dearie...
-Heh heh...</text>
-<text id="70501500">Now, go along.</text>
-<text id="70501510">On a journey without rest.
-Heh heh...</text>
-<text id="70501600">...</text>
-<text id="70505000">A touch under the weather,
-are we?</text>
-<text id="70505010">Hah hah hah...</text>
-<text id="70505030">Hah hah...</text>
-<text id="70505040">##Be nice...</text>
-<text id="70505050">Tisn't easy
-being old...</text>
-<text id="70505070">Hah hah hah...</text>
-<text id="70506000">Hah hah hah...</text>
+<text>#0Menu-Choose "Talk" after acquiring the King's Ring</text>
 <text id="70507000">Still holding up, are you?</text>
 <text id="70507010">Go on, take these.
 Heh heh...</text>
+<text>#0Menu-Choose "Reallocate points" without having acquired a Soul Vessel</text>
+<text id="70501400">Oh, but you don't have what's needed.</text>
+<text id="70501410">Well, that won't do at all!</text>
+<text id="70501420">Go along, then.
+Old hags don't bargain, dearie... Heh heh...</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="70501300">No, of course not.</text>
+<text id="70501310">Now, go along then...
+Heh heh...</text>
+<text>#0Menu-Choose "Leave" after using a Soul Vessel through "Reallocate points"</text>
+<text id="70501500">Now, go along.</text>
+<text id="70501510">On a journey without rest.
+Heh heh...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="70505010">Hah hah hah...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="70505030">Hah hah...</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="70505050">Tisn't easy
+being old...</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="70505000">A touch under the weather,
+are we?</text>
+<text>#0After approaching her while hostile, after the protagonist leaves &amp; returns</text>
+<text id="70505070">Hah hah hah...</text>
+<text>#0Upon dying</text>
 <text id="70511000">Hah hah hah...</text>
-<text id="70511100">...</text>
+<text id="70500050">##You've seen the mark upon your flesh.</text>
+<text id="70500060">##The sign of the Undead...symbol of the accursed.</text>
+<text id="70500110">##Your flesh will decay, your mind will fade.
+But you won't ever die.</text>
+<text id="70500180">##Surely you can tell me your name.</text>
+<text id="70500190">##If you remember it, that is.
+Heh heh...</text>
+<text id="70500250">##It's somebody that
+you know very well.</text>
+<text id="70500260">##Go on, look closer, closer still.</text>
+<text id="70500350">##Now, it's just about our bedtime.</text>
+<text id="70500370">##Go on, out the door.</text>
+<text id="70501600">##...</text>
+<text id="70505040">##Be nice...</text>
+<text id="70506000">##Hah hah hah...</text>
+<text id="70511100">##...</text>
+<text id="70510100">##Did you notice any letters
+on the ground on the way here?</text>
+<text id="70510110">##These are messages that have
+jumped the fissures between worlds.</text>
+<text id="70510120">##The flow of time is convoluted, unstable.
+Things shift and waver, twist and turn.</text>
+<text id="70510130">##Poignant wishes, dashed dreams...
+The messages convey our very inner thoughts.</text>
+<text id="70510140">##If your will to soldier on falters, try leaving a message.
+Somebody out there is sure to listen?</text>
+<text id="70510150">##Or never be noticed.
+Hah hah hah hah</text>
+<text id="70510200">##Speak with that kind old dear.
+It's a rare opportunity to learn.</text>
+<text id="70510300">##Ideas across the fissures between worlds.
+Try it.</text>
+<text id="70519000">##Do you have...already...</text>
+<text id="70519010">##What happend.</text>
+<text id="70519020">##W...what?</text>
+<text id="70519030">##What's wrong!</text>
+<text id="70519040">##Stop it!</text>
+<text id="70519050">##Ah...
+already Hollowed!?</text>
+<text id="70519060">##Back again.
+Such a truble.</text>
+<text id="70519070">##Who brought that thing in!</text>
+<text id="70519080">##I am old enough...</text>
+<text id="70519090">##Why do I have to die here...</text>
+<text id="70530100">##...You may notice symbols that appear upon the ground.
+These are summon signatures...</text>
+<text id="70530110">##They call upon spirits from other worlds through schisms in time.</text>
+<text id="70530120">##If you fear Hollows,
+find summon signatures to call upon spirits to help you.</text>
+<text id="70530200">##Speak with that kind old dear.
+There is nothing to lose by the lesson.</text>
+<text id="70530300">##Find summon signature.
+Call upon spirits to help you.</text>
+<text id="70539000">##All of a sudden!</text>
+<text id="70539010">##Already lose your mind?</text>
+<text id="70539020">##Hey, you!?</text>
+<text id="70539030">##Ah, what do you want!</text>
+<text id="70539040">##Do not kidding me!</text>
+<text id="70539050">##What...already Hollowed.</text>
+<text id="70539060">##Get out, tsk!</text>
+<text id="70539070">##Well...</text>
+<text id="70539080">##Done...everyone is done...</text>
+<text id="70539090">##Such a waste...</text>
 </entries>

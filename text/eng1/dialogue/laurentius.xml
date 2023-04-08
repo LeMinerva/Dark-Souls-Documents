@@ -1,39 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="23000000">##...Hrr...rrgg...</text>
-<text id="23000001">##...somebody...</text>
-<text id="23000002">##...please...help me...</text>
-<text id="23000003">##...please...</text>
-<text id="23000004">##...before she eats me...</text>
+<text>#0After approaching Laurentius' location</text>
 <text id="23000020">...You</text>
 <text id="23000021">...Yes, you!</text>
 <text id="23000022">...Here, over here!</text>
 <text id="23000023">...Please...</text>
 <text id="23000024">...You must help me...</text>
+<text>#0Talk-Before breaking the barrel to free him</text>
 <text id="23000040">...Oh, there you are...</text>
 <text id="23000041">...You must help me...</text>
-<text id="23000042">##...Break the urn...</text>
 <text id="23000043">...Or else...</text>
 <text id="23000044">...She'll have me for lunch!</text>
 <text id="23000045">...You're my only hope...</text>
 <text id="23000046">...Oh, please...</text>
+<text>#0Talk-1st time after breaking the barrel to free him</text>
 <text id="23000100">...Th-thank you.</text>
 <text id="23000101">I would have been her supper without you.</text>
 <text id="23000102">Being eaten alive! I shudder to think...</text>
 <text id="23000103">Thank you, thank you dearly.</text>
 <text id="23000104">I am Laurentius, of the Great Swamp.</text>
 <text id="23000105">I will not forget my debt to you.</text>
+<text>#0Talk-2nd time after breaking the barrel to free him</text>
 <text id="23000200">Oh, hello there.</text>
 <text id="23000201">I'm fine, thanks to you.</text>
-<text id="23000202">##I'm heading back to the Undead Asylum.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="23000300">Whoa!</text>
-<text id="23000320">What are you doing?!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="23000340">It is I, Laurentius!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="23000320">What are you doing?!</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="23000360">I have no bone to pick with you!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="23000400">Curse the heavens! Are you mad!</text>
 <text id="23000401">I owe my life to you!</text>
 <text id="23000402">This is wrong! You were my friend!</text>
+<text>#0Upon dying</text>
 <text id="23000500">Curses...</text>
+<text>#0Talk-1st time</text>
 <text id="23010000">Well, I see you made it out!</text>
 <text id="23010001">Yeah, I made it out safely, too.</text>
 <text id="23010002">I have my Pyromancy of the Great Swamp,
@@ -42,58 +46,53 @@ so I can usually manage, with a bit of care.</text>
 <text id="23010004">I think you have a knack for it. All you need are the materials.</text>
 <text id="23010005">I'd be pleased to help you.</text>
 <text id="23010006">...Ah, unless you find the magics unsavoury?</text>
+<text>#0Choose "Yes" to the 1st query</text>
+<text id="23010040">Oh, really...Well, that's a shame.</text>
+<text id="23010041">But it is your choice.</text>
+<text id="23010042">I'm on the fringe; yeah, I know.
+Undead or not, that's who I am.</text>
+<text id="23010043">I only wish that I could have repaid you somehow.</text>
+<text>#0Talk-After choosing "Yes" to the 1st query, or "No" after "Yes" to the 2nd</text>
+<text id="23010120">Oh, hello, there.</text>
+<text id="23010121">I am pleased to see you safe.</text>
+<text id="23010122">Oh, and er...if by chance you've had a change of heart,</text>
+<text id="23010123">I'll be pleased to assist you
+by sharing my spells.</text>
+<text>#0Choose "No" to the 1st query</text>
 <text id="23010020">Yeah, wonderful!</text>
 <text id="23010021">I'm sure they'll be of some use, some assistance.</text>
 <text id="23010022">Here, first, take this.</text>
 <text id="23010023">A flame from the Great Swamp.
 Now you're a fully-fledged pyromancer.</text>
 <text id="23010024">Why, let's get started right now.</text>
-<text id="23010040">Oh, really...Well, that's a shame.</text>
-<text id="23010041">But it is your choice.</text>
-<text id="23010042">I'm on the fringe; yeah, I know.
-Undead or not, that's who I am.</text>
-<text id="23010043">I only wish that I could have repaid you somehow.</text>
+<text>#0Talk-After choosing "No" to the 1st query, or "Yes" after "No" to the 2nd</text>
 <text id="23010100">Oh, hello, there.</text>
 <text id="23010101">I am pleased to see you safe.</text>
 <text id="23010102">As always, if you provide the materials,
 I can teach you pyromancy.</text>
-<text id="23010120">Oh, hello, there.</text>
-<text id="23010121">I am pleased to see you safe.</text>
-<text id="23010122">Oh, and er...if by chance you've had a change of heart,</text>
-<text id="23010123">I'll be pleased to assist you
-by sharing my spells.</text>
-<text id="23010250">##Oh, hello there.</text>
-<text id="23010251">##I'm pleased to see you safe.</text>
-<text id="23010252">##I have decided to rest here for a while.</text>
-<text id="23010253">##It's not as if we'll be dying anytime soon.</text>
-<text id="23010300">Good-bye, then.</text>
-<text id="23010301">Be safe, friend.</text>
-<text id="23010302">Don't you dare go Hollow.</text>
-<text id="23010400">Good-bye, then.</text>
-<text id="23010401">Come back if you find anything new.</text>
-<text id="23010500">Wait, friend!</text>
-<text id="23010501">Where are you off to?</text>
-<text id="23010600">That was rather abrupt.</text>
-<text id="23010601">You are an odd one.</text>
-<text id="23010602">Hah hah hah hah.</text>
-<text id="23010700">Whoa!</text>
-<text id="23010720">What's wrong with you!</text>
-<text id="23010740">Stop that, please!</text>
-<text id="23010800">You detest my pyromancy! That must be it!</text>
-<text id="23010801">Then, I'll give you a taste of it!</text>
-<text id="23010802">And it will not be pleasant, I assure you!</text>
-<text id="23010900">Aaahhhh...</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="23011000">Pyromancy is the art of casting fire.</text>
 <text id="23011001">Produce flame, then channel it; just as our ancestors did.</text>
 <text id="23011002">A pyromancer must be in tune with nature herself.</text>
 <text id="23011003">My home, the Great Swamp, is an abundant store of nature.</text>
 <text id="23011004">You will understand, one day; it only takes time.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="23011100">Pyromancy has a, well, rather primitive aspect to it.</text>
 <text id="23011101">It meshes poorly with advanced culture,</text>
 <text id="23011102">and pyromancers are considered rather unsavoury.</text>
 <text id="23011103">Which is fine, as I never got along with anybody anyway.</text>
 <text id="23011104">So, for me, turning Undead didn't change a thing!</text>
 <text id="23011105">Hah hah hah hah.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
+<text id="23011700">A pyromancer's flame is a part of his own body.</text>
+<text id="23011701">The flame develops right along with his skill.</text>
+<text id="23011740">When I gave you that flame, I gave you a part of myself.</text>
+<text id="23011741">Please take good care of it.</text>
+<text>#0Menu-Choose "Talk" 3rd time, if chosen the Pyromancer class</text>
+<text id="23011700">A pyromancer's flame is a part of his own body.</text>
+<text id="23011701">The flame develops right along with his skill.</text>
+<text id="23011720">...Sorry. You're a pyromancer yourself. You already know this.</text>
+<text>#0Menu-Choose "Talk" 4rd time</text>
 <text id="23011200">My teacher, whom I imagine still resides in the Great Swamp,</text>
 <text id="23011201">had a funny way of putting it.</text>
 <text id="23011202">He said that "Pyromancy is the ultimate fantasy....</text>
@@ -103,27 +102,63 @@ but this Fire we cannot touch."</text>
 learn to hold it in their own hand."</text>
 <text id="23011205">He rather had a way with words,
 the old withering frog!</text>
+<text>#0Menu-Choose "Talk" 5th time</text>
 <text id="23011300">In this land, pyromancers earn a certain respect.</text>
 <text id="23011301">The Witch of Izalith, one of the legendary Lords,</text>
 <text id="23011302">is the godmother of pyromancy.</text>
 <text id="23011303">So, the day I became Undead, I was ecstatic.</text>
 <text id="23011304">I felt as if I'd been chosen to attune myself to the ancient arts.</text>
 <text id="23011305">...Of course, it wasn't all that romantic in the end...</text>
+<text>#0Talk-After attained a pyromancy Laurentius don't have</text>
 <text id="23011400">Ah, hello, there.</text>
 <text id="23011401">You've been a stranger these days.</text>
 <text id="23011402">Why, what spectacular pyromancy.</text>
 <text id="23011403">Tell me about it. I have never seen anything like it.</text>
-<text id="23011500">Why, yes, of course!</text>
-<text id="23011501">Thank you for sharing.</text>
-<text id="23011502">I'm still an able pyromancer. I shall locate her myself.</text>
-<text id="23011503">I am in your debt, once again.</text>
+<text>#0Choose "No" to the 3rd query</text>
 <text id="23011600">...I see. I suppose I was mistaken.</text>
 <text id="23011601">In any case, I definitely trust you.</text>
 <text id="23011602">Apologies, my friend.</text>
 <text id="23011603">Forget that I said anything.</text>
-<text id="23011700">A pyromancer's flame is a part of his own body.</text>
-<text id="23011701">The flame develops right along with his skill.</text>
-<text id="23011720">...Sorry. You're a pyromancer yourself. You already know this.</text>
-<text id="23011740">When I gave you that flame, I gave you a part of myself.</text>
-<text id="23011741">Please take good care of it.</text>
+<text>#0Choose "Yes" to the 3rd query</text>
+<text id="23011500">Why, yes, of course!</text>
+<text id="23011501">Thank you for sharing.</text>
+<text id="23011502">I'm still an able pyromancer. I shall locate her myself.</text>
+<text id="23011503">I am in your debt, once again.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="23010300">Good-bye, then.</text>
+<text id="23010301">Be safe, friend.</text>
+<text id="23010302">Don't you dare go Hollow.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="23010400">Good-bye, then.</text>
+<text id="23010401">Come back if you find anything new.</text>
+<text>#0After leaving abruptly</text>
+<text id="23010500">Wait, friend!</text>
+<text id="23010501">Where are you off to?</text>
+<text>#0Talk-After leaving abruptly</text>
+<text id="23010600">That was rather abrupt.</text>
+<text id="23010601">You are an odd one.</text>
+<text id="23010602">Hah hah hah hah.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="23010700">Whoa!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="23010720">What's wrong with you!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="23010740">Stop that, please!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="23010800">You detest my pyromancy! That must be it!</text>
+<text id="23010801">Then, I'll give you a taste of it!</text>
+<text id="23010802">And it will not be pleasant, I assure you!</text>
+<text>#0Upon dying</text>
+<text id="23010900">Aaahhhh...</text>
+<text id="23000000">##...Hrr...rrgg...</text>
+<text id="23000001">##...somebody...</text>
+<text id="23000002">##...please...help me...</text>
+<text id="23000003">##...please...</text>
+<text id="23000004">##...before she eats me...</text>
+<text id="23000042">##...Break the urn...</text>
+<text id="23000202">##I'm heading back to the Undead Asylum.</text>
+<text id="23010250">##Oh, hello there.</text>
+<text id="23010251">##I'm pleased to see you safe.</text>
+<text id="23010252">##I have decided to rest here for a while.</text>
+<text id="23010253">##It's not as if we'll be dying anytime soon.</text>
 </entries>

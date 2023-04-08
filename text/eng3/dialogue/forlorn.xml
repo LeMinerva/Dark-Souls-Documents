@@ -1,37 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="54000000">Hmm, well, there's nothing forlorn about you.</text>
 <text id="54000001">You must be the other Ash, I suppose?</text>
+<text>#0Choose "I am not Ash" to the query</text>
+<text id="54000400">Well, that's a rotten shame.</text>
+<text id="54000401">I've been very patient, you see.</text>
+<text id="54000402">The tales tell of two Ashes, who'll burn Ariandel away.</text>
+<text id="54000403">And we need only one more...</text>
+<text>#0Talk-1st time after choosing "I am not Ash" to the query</text>
+<text id="54000500">Ahh, yes, well...</text>
+<text id="54000501">I was hoping you might be the other Ash, you see...</text>
+<text>#0Choose "I am Ash" to the query</text>
 <text id="54000100">Ohh, ohh, finally, you've come!</text>
 <text id="54000101">Oh wondrous Ash, grant us our wish.</text>
 <text id="54000102">Make the tales true, and burn this world away.</text>
 <text id="54000103">My Lady must see flame, and you have only to show her.</text>
 <text id="54000104">You are Ash, are you not? Is it not fire that you seek?</text>
+<text>#0Talk-2nd time after choosing "I am Ash" to the query</text>
 <text id="54000200">Surely you've seen. The rot that afflicts our world.</text>
 <text id="54000201">But that witch fooled the good Father, and buried the flame.</text>
 <text id="54000202">After we had all made up our minds, too.</text>
 <text id="54000203">So, please, grant us one wish.</text>
 <text id="54000204">Make the tales true, and burn this world away.</text>
 <text id="54000205">My Lady must see flame, and you have only to show her.</text>
+<text>#0Talk-3rd time after choosing "I am Ash" to the query</text>
 <text id="54000300">Oh, please, it must be you.</text>
 <text id="54000301">I'm so terribly frightened, of timidly rotting away...</text>
 <text id="54000302">Like those... Like those fools on the outside.</text>
-<text id="54000400">Well, that's a rotten shame.</text>
-<text id="54000401">I've been very patient, you see.</text>
-<text id="54000402">The tales tell of two Ashes, who'll burn Ariandel away.</text>
-<text id="54000403">And we need only one more...</text>
-<text id="54000500">Ahh, yes, well...</text>
-<text id="54000501">I was hoping you might be the other Ash, you see...</text>
+<text>#0Talk-1st time after defeating Blackflame Friede</text>
 <text id="54000600">Ohhh, my, thank you.</text>
 <text id="54000601">I can hear the crackling from here.</text>
 <text id="54000602">The sound of my home, the painting of Ariandel, burning away...</text>
+<text>#0Talk-2nd time after defeating Blackflame Friede</text>
 <text id="54000700">When the world rots, we set it afire. For the sake of the next world.</text>
 <text id="54000701">It's the one thing we do right, unlike those fools on the outside.</text>
 <text id="54000702">...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="54000801">...</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="54000802">...</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="54000803">...</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="54000804">...</text>
+<text>#0Upon dying</text>
 <text id="54001000">Yes, of course, as a burner of worlds should...</text>
 <text id="54001001">Set fire to Ariandel...</text>
 <text id="54001002">Set fire to the rot...</text>

@@ -1,15 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After appraching their location for the 1st time</text>
 <text id="55000000">You, you.</text>
 <text id="55000001">Give me, warm.</text>
 <text id="55000002">Give me, soft.</text>
+<text>#0After appraching their location for the 2nd time</text>
 <text id="55000100">You! You!</text>
 <text id="55000101">Give me! Warm!</text>
 <text id="55000102">Give me! Soft!</text>
+<text>#0After dropping a non-exchangeable item</text>
 <text id="55000200">No, no.</text>
 <text id="55000201">That, no.</text>
 <text id="55000202">That no warm.</text>
 <text id="55000203">That no soft.</text>
+<text>#0After dropping a previously exchanged item</text>
 <text id="55000300">No, no.</text>
 <text id="55000301">Not that one.</text>
 <text id="55000302">Enough, enough.</text>

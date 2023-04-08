@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After approaching his location for the 1st time</text>
 <text id="50600000">Halt.</text>
 <text id="50600010">Human.
 Put that light out.</text>
@@ -7,15 +8,18 @@ Put that light out.</text>
 Do not produce light.</text>
 <text id="50600030">Light, and all those who bear it,
 are unwelcome in this place.</text>
+<text>#0After approaching his location for the 1st time with an ignited torch</text>
 <text id="50600100">I warned you.</text>
 <text id="50600110">You offend the dead.
 And now, you will join them.</text>
+<text>#0Talk-1st time</text>
 <text id="50600200">I am Agdayne.
 Guardian of the crypt.</text>
 <text id="50600210">Countless dead rest here in peace.
 Cradled by the comfort of dark.</text>
 <text id="50600220">Light only agitates.
 We have no need for it here.</text>
+<text>#0Talk-2nd time</text>
 <text id="50600300">I am a Fenito.
 We weave death, and watch over the dead.</text>
 <text id="50600310">This task was granted to me
@@ -24,6 +28,7 @@ by the one who gave us the first death.</text>
 Some of them from ages long ago.</text>
 <text id="50600330">Some were rich, others poor.
 Some wise, some dull, but now, they are all just dead.</text>
+<text>#0Talk-3rd time</text>
 <text id="50600400">Did you come for him?
 The one called Vendrick. </text>
 <text id="50600410">You will find him deeper inside.</text>
@@ -32,38 +37,53 @@ have come to fetch their lord.</text>
 <text id="50600440">But they rest here now,
 put to death by the King's own guards.</text>
 <text id="50600450">Perhaps he's not in the mood for company.</text>
+<text>#0Talk-4th time</text>
 <text id="50600500">In the past, humans were one with the dark.</text>
 <text id="50600510">The former King of Light...
 He feared humans.
 Feared that they would usher in an age of dark.</text>
 <text id="50600520">How queer, you humans.
 How you go on, never separating truth from fiction.</text>
+<text>#0Talk-5th time</text>
 <text id="50600600">This place is welcome to all,
 provided due reverence is shown.</text>
 <text id="50600610">Death is equitable, accepting.
 We will all, one day, be welcomed by her embrace.</text>
 <text id="50600620">Tell me what you desire.
 Show me reverence, and I will lend you my hand.</text>
+<text>#0Talk-6th time</text>
 <text id="50600700">What do you require, human?</text>
-<text id="50600800">Going so soon?</text>
-<text id="50600810">We will meet again, eventually.</text>
-<text id="50600900">Farewell, human.</text>
-<text id="50601000">Crude human, do as you please.</text>
-<text id="50601100">...</text>
-<text id="50605000">Crude human, know your place!</text>
-<text id="50605010">The insolent will be punished.</text>
-<text id="50605020">Now, where shall we bury this one?</text>
-<text id="50605030">Hmph...</text>
-<text id="50605040">What are you doing.</text>
-<text id="50605050">Are you mad, human?</text>
-<text id="50605060">The impunity...</text>
-<text id="50605070">Hah hah... You fool.</text>
-<text id="50606000">##A long rest awaits me.
-Farewell, human.</text>
+<text>#0Menu-Choose "Talk" after acquiring King's Ring</text>
 <text id="50607000">You've met the King, have you?</text>
 <text id="50607010">Life is never easy, never fair.
 Even more so, on this path you've chosen.</text>
 <text id="50607020">May you find your peace one day.</text>
 <text id="50607030">Take these with you.
 You may need them, as proof of your visit here.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="50601000">Crude human, do as you please.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="50600900">Farewell, human.</text>
+<text>#0After leaving abruptly</text>
+<text id="50600800">Going so soon?</text>
+<text id="50600810">We will meet again, eventually.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="50605030">Hmph...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="50605040">What are you doing.</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="50605050">Are you mad, human?</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="50605000">Crude human, know your place!</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="50605010">The insolent will be punished.</text>
+<text>#0Upon killing the protagonist</text>
+<text id="50605020">Now, where shall we bury this one?</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="50605060">The impunity...</text>
+<text>#0Upon dying</text>
+<text id="50605070">Hah hah... You fool.</text>
+<text id="50601100">##...</text>
+<text id="50606000">##A long rest awaits me.
+Farewell, human.</text>
 </entries>

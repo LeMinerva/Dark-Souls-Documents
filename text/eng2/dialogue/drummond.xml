@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="72400000">What are you doing here?</text>
 <text id="72400010">You are not one of our soldiers.
 And I don't take you for a mercenary.</text>
 <text id="72400020">Whoever you are, this is no battle to involve yourself in.</text>
 <text id="72400030">Whether you are guided by bravery,
 or brashness, this is no place for you. </text>
+<text>#0Talk-2nd time</text>
 <text id="72400100">I am Drummond,
 and the Lord has placed this fort in my hands.</text>
 <text id="72400110">Whoever you are, I forgive your trespass.
@@ -13,12 +15,14 @@ But leave this place immediately.</text>
 <text id="72400120">Just mention my name, and no man will challenge your exit.</text>
 <text id="72400130">And even if you don't, by now,
 my men have not the will to resist.</text>
+<text>#0Talk-3rd time</text>
 <text id="72400200">Soon, the Giants will descend upon this fort.</text>
 <text id="72400210">It is revenge,
 for the Kingdom's misguided barbarism.</text>
 <text id="72400220">The venerable Lord built this kingdom
 to bring prosperity to His subjects.</text>
 <text id="72400230">What has transformed him so, I can not imagine.</text>
+<text>#0Talk-4th time</text>
 <text id="72400300">Long ago, the King crossed the seas,
 pillaged the land of Giants, and brought back a "prize".</text>
 <text id="72400310">It was then that the golems materialised.</text>
@@ -29,6 +33,7 @@ both fought the Giants on this very land.</text>
 <text id="72400340">The Giants have wills of steel.</text>
 <text id="72400350">They cannot find it within themselves...
 To forgive the misdeeds of our lord.</text>
+<text>#0Talk-5th time</text>
 <text id="72400400">Did you see him? That towering monster among them.</text>
 <text id="72400410">That is most certainly their King.</text>
 <text id="72400420">He will be a thing to topple,
@@ -37,19 +42,29 @@ hah hah hah hah, even if I should die trying!</text>
 but my will shall never be broken.</text>
 <text id="72400440">Those who live by the sword will die by it,
 and I, Drummond, won't go down without drawing mine!</text>
+<text>#0Talk-6th time</text>
 <text id="72400500">Be gone with you, this fort will soon fall.</text>
 <text id="72400510">Be gone, before the Giants are entirely upon us.</text>
-<text id="72405000">You dare to mock me!</text>
-<text id="72405010">Are you determined to die?</text>
-<text id="72405020">What a waste.</text>
-<text id="72405030">Erg!</text>
-<text id="72405040">How dare you!</text>
-<text id="72405050">Enough with this madness!</text>
-<text id="72405060">Hmph! How very sporting!</text>
-<text id="72405070">I..I am...bested...</text>
-<text id="72406000">##Matters are settled...</text>
+<text>#0Talk-After defeating the Giant Lord</text>
 <text id="72407000">Take these.
 I think you may just need them.</text>
 <text id="72407010">Don't ask me why.
 I just do.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="72405030">Erg!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="72405040">How dare you!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="72405050">Enough with this madness!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="72405000">You dare to mock me!</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="72405010">Are you determined to die?</text>
+<text>#0Upon killing the protagonist</text>
+<text id="72405020">What a waste.</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="72405060">Hmph! How very sporting!</text>
+<text>#0Upon dying</text>
+<text id="72405070">I..I am...bested...</text>
+<text id="72406000">##Matters are settled...</text>
 </entries>

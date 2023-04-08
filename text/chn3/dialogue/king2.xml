@@ -1,14 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0靠近小人王时</text>
+<text id="77000900">……啊啊，费莲诺尔，救命……</text>
+<text id="77000901">被红头巾吃了……</text>
+<text id="77000902">我们的黑暗灵魂，被吃了……</text>
+<text>#0爬行靠近费莲诺尔教堂，或被击杀时</text>
+<text id="77001000">……救命啊，费莲诺尔……</text>
 <text id="77000600">##……啊啊，救命……</text>
 <text id="77000601">##被红头巾吃了……</text>
 <text id="77000602">##我们的黑暗灵魂，被吃了……</text>
 <text id="77000700">##……</text>
 <text id="77000701">##……</text>
 <text id="77000702">##……</text>
-<text id="77000703">……</text>
-<text id="77000900">……啊啊，费莲诺尔，救命……</text>
-<text id="77000901">被红头巾吃了……</text>
-<text id="77000902">我们的黑暗灵魂，被吃了……</text>
-<text id="77001000">……救命啊，费莲诺尔……</text>
+<text id="77000703">##……</text>
 </entries>

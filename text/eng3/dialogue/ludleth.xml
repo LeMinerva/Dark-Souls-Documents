@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="3000000">Oh, thou'rt unkindled, and a seeker of Lords.</text>
 <text id="3000001">I am Ludleth of Courland.</text>
 <text id="3000002">Look not in bewilderment as I say...
@@ -8,28 +9,10 @@ I linked the fire long ago, becoming a Lord of Cinder.</text>
 set thine eyes upon my charred corse.</text>
 <text id="3000004">This sad cadav'r.
 No need to be coy, have a closer look.</text>
-<text id="3000005">(laugh)</text>
+<text>#0Talk-2nd time</text>
 <text id="3000100">Fret not, fret not, my feet are here firmly planted.</text>
 <text id="3000101">For I am a Lord, and this is my throne.</text>
-<text id="3000102">(laugh)</text>
-<text id="3000200">Ahh, beg pardon. I must have dozed a while.</text>
-<text id="3000201">Fret not, fret not, my feet are here firmly planted.</text>
-<text id="3000202">For I am a Lord, and this is my throne.</text>
-<text id="3000203">(laugh)</text>
-<text id="3000300">Ah-hah, thou'rt returned. And a fine day it is.</text>
-<text id="3000301">So, happened upon any twisted souls?</text>
-<text id="3000400">Ahh, beg pardon. I must have dozed a while.</text>
-<text id="3000401">So, happened upon any twisted souls?</text>
-<text id="3000500">Ahh, well met. All is as planned, is it not?</text>
-<text id="3000501">Five lords for five thrones...</text>
-<text id="3000502">Glory be, my Lord-slaying Champion. It is all thy doing.</text>
-<text id="3000503">The stage is set for me to play my part as Lord, too.</text>
-<text id="3000504">Go. Speak with the Fire Keeper.</text>
-<text id="3000505">##She awaiteth thee.</text>
-<text id="3000506">##...She hath waited a long time indeed...</text>
-<text id="3000507">##(laugh)</text>
-<text id="3000600">Now, now, do not be away overlong.</text>
-<text id="3000601">(laugh)</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="3000700">Knowest thou of our purpose?</text>
 <text id="3000701">Five thrones will take five Lords,
 as kindling for the linking of the fire.</text>
@@ -37,7 +20,11 @@ as kindling for the linking of the fire.</text>
 <text id="3000703">A re-enactment of the first linking of the fire.</text>
 <text id="3000704">So it is I became a Lord of Cinder.</text>
 <text id="3000705">I may be but small, but I will die a colossus.</text>
-<text id="3000706">(laugh)</text>
+<text>#0Talk-If he is sleeping</text>
+<text id="3000200">Ahh, beg pardon. I must have dozed a while.</text>
+<text id="3000201">Fret not, fret not, my feet are here firmly planted.</text>
+<text id="3000202">For I am a Lord, and this is my throne.</text>
+<text>#0Menu-Choose "Talk" after entering the Undead Settlement</text>
 <text id="3000800">Listen, this might pique thine interest.</text>
 <text id="3000801">Before I was a Lord of Cinder, I was a student of transposition.</text>
 <text id="3000802">The process of extracting, and coalescing, the essence of a soul.</text>
@@ -46,7 +33,7 @@ as kindling for the linking of the fire.</text>
 <text id="3000805">Most transposing kilns were lost with Courland,
 but this place is a crossing for all manner of cursed objects.</text>
 <text id="3000806">If thou happen'st 'pon a transposing kiln, bring it to me, quick.</text>
-<text id="3000807">(laugh)</text>
+<text>#0Menu-Choose "Talk" after the protagonist defeats their 1st Lord of Cinder</text>
 <text id="3000900">Ahh, most illustrious Lordseeker.
 Or should I say, Lord-slayer?</text>
 <text id="3000901">Fine kindling for the thrones,
@@ -57,8 +44,7 @@ To bind them to their thrones, even in death.</text>
 For as we are to our thrones, thou art to thy duty.</text>
 <text id="3000904">In fact, methinks thou'st helped
 these poor Lords along their rightful path.</text>
-<text id="3000905">...</text>
-<text id="3000906">(laugh)</text>
+<text>#0Menu-Choose "Talk" after giving him the Transposing Kiln</text>
 <text id="3001000">Oh, belike it is...a transposing kiln in thy possession.</text>
 <text id="3001001">Seen better days, but, methinks it shall suffice.</text>
 <text id="3001002">Now, bring to me a twisted soul.</text>
@@ -68,20 +54,21 @@ and coalescing, the essence of a soul.</text>
 its true power transferreth to thee.</text>
 <text id="3001005">Thy purpose is to seek Lords, and slay them.
 What's to fear in a little transposition, now?</text>
-<text id="3001006">(laugh)</text>
-<text id="3001100">See ye not? I am a Lord...</text>
-<text id="3001101">A wee flame, belike, but I shoulder the world...</text>
-<text id="3001102">Forgive me. Oh, please...</text>
-<text id="3001103">I am not to blame, I'm not...</text>
-<text id="3001200">Ahh, it singeth, to the bone, it hurts...</text>
-<text id="3001201">Please, help me. Be done with me...</text>
-<text id="3001202">No, gods, no, I cannot bear it...</text>
-<text id="3001203">It burns, burns, help me...</text>
-<text id="3001300">...</text>
-<text id="3001301">...</text>
-<text id="3001400">...</text>
-<text id="3001402">##Lord-slayer, do not fail us now...</text>
-<text id="3001403">##Five Lords, for five thrones...</text>
+<text>#0Talk-After giving him the Transposing Kiln</text>
+<text id="3000300">Ah-hah, thou'rt returned. And a fine day it is.</text>
+<text id="3000301">So, happened upon any twisted souls?</text>
+<text>#0Talk-After giving him the Transposing Kiln, if he is sleeping</text>
+<text id="3000400">Ahh, beg pardon. I must have dozed a while.</text>
+<text id="3000401">So, happened upon any twisted souls?</text>
+<text>#0Menu-Choose "Talk" with "Lothric's Holy Sword" &amp; "Lorian's Greatsword"</text>
+<text id="3002300">Ahh, thou'st two most peculiar swords discover'd.</text>
+<text id="3002301">A curse once bound them together, such that they served as one.</text>
+<text id="3002302">A transposing kiln should restore their rightful form.</text>
+<text id="3002303">But before thou should'st act, think well upon the matter.</text>
+<text id="3002304">As thou knowest, they are but newly rent apart.</text>
+<text>#0Menu-Choose "Leave", or abruptly leave</text>
+<text id="3000600">Now, now, do not be away overlong.</text>
+<text>#0Talk-After acquiring the Eyes of a Fire Keeper</text>
 <text id="3001500">Ahh, found her, did we?</text>
 <text id="3001501">And the black eyes that shimmer within, I see?</text>
 <text id="3001502">Tis as if it were but yesterday.</text>
@@ -93,51 +80,87 @@ to the eyeless Fire Keeper.</text>
 <text id="3001507">Scenes of betrayal,
 things never intended for her ken, visions of...</text>
 <text id="3001508">...this age's end...</text>
-<text id="3001509">(laugh)</text>
-<text id="3001600">##Well well, what peculiar things thou keep'st on thy person...</text>
-<text id="3001601">##Those I have seen before. Black eyes, if I am not mistaken?</text>
-<text id="3001700">Ahh, well met. Thou'rt at last returned.</text>
-<text id="3001701">Knowest thou the name, Anri of Astora?</text>
-<text id="3001702">The brave girl left this, as thanks.</text>
-<text id="3001703">The brave lad left this, as thanks.</text>
-<text id="3001704">Though gave no elucidation...</text>
-<text id="3001705">So. Happened upon any twisted souls?</text>
-<text id="3001800">Ahh, well met. All is as planned, is it not?</text>
-<text id="3001801">Five lords for five thrones...</text>
-<text id="3001802">To think others might ne'er be raised...</text>
-<text id="3001803">And I, of the Last Lords, a rather little lord,
-most undeserving of the honour.</text>
-<text id="3001805">Speak with the Fire Keeper.</text>
-<text id="3001806">##She awaiteth thee.</text>
-<text id="3001807">##...She hath waited a long time indeed...</text>
-<text id="3001900">Treat the Fire Keeper not with discourtesy.</text>
-<text id="3001901">She is much like thee. Prisoners, both, kept to link the fire.</text>
-<text id="3001902">(laugh)</text>
-<text id="3002000">I took the mantle of Lord of Cinder of mine own volition.
-I speak these words with pride.</text>
-<text id="3002001">Choose thy fate alone. Seize it with thine own hands.</text>
-<text id="3002002">All the more, should thy fate entail such foul betrayal... </text>
-<text id="3002003">(laugh)</text>
-<text id="3002100">Now, heed this little warning, from this little lord.</text>
-<text id="3002101">Seek not the girl.</text>
-<text id="3002102">Seek not the boy.</text>
-<text id="3002103">She knoweth her fate.
-What will become of her upon her duty's end.</text>
-<text id="3002104">She would not wish thee follow her.</text>
-<text id="3002105">(laugh)</text>
-<text id="3002153">He knoweth his fate.
-What will become of him upon his duty's end.</text>
-<text id="3002154">He would not wish thee follow him.</text>
+<text>#0Menu-Choose "Talk" after acquiring the Eyes of a Fire Keeper</text>
 <text id="3002200">The eyes shew a world destitute of fire,
 a barren plane of endless darkness.</text>
 <text id="3002201">A place born of betrayal.</text>
 <text id="3002202">So I will'd myself Lord, to link the fire,
 to paint a new vision.</text>
 <text id="3002203">What is thine intent?</text>
-<text id="3002204">(laugh)</text>
-<text id="3002300">Ahh, thou'st two most peculiar swords discover'd.</text>
-<text id="3002301">A curse once bound them together, such that they served as one.</text>
-<text id="3002302">A transposing kiln should restore their rightful form.</text>
-<text id="3002303">But before thou should'st act, think well upon the matter.</text>
-<text id="3002304">As thou knowest, they are but newly rent apart.</text>
+<text>#0Menu-Choose "Leave", or abruptly leave after giving the Eyes of a Fire Keeper</text>
+<text id="3002000">I took the mantle of Lord of Cinder of mine own volition.
+I speak these words with pride.</text>
+<text id="3002001">Choose thy fate alone. Seize it with thine own hands.</text>
+<text id="3002002">All the more, should thy fate entail such foul betrayal... </text>
+<text>#0Talk-After helping Anri defeat Aldrich</text>
+<text id="3001700">Ahh, well met. Thou'rt at last returned.</text>
+<text id="3001701">Knowest thou the name, Anri of Astora?</text>
+<text id="3001702">The brave girl left this, as thanks.</text>
+<text id="3001703">The brave lad left this, as thanks.</text>
+<text id="3001704">Though gave no elucidation...</text>
+<text id="3001705">So. Happened upon any twisted souls?</text>
+<text>#00Menu-Choose "Leave", or abruptly leave after helping Anri defeat Aldrich</text>
+<text id="3002100">Now, heed this little warning, from this little lord.</text>
+<text id="3002101">Seek not the girl.</text>
+<text id="3002102">Seek not the boy.</text>
+<text id="3002103">She knoweth her fate.
+What will become of her upon her duty's end.</text>
+<text id="3002153">He knoweth his fate.
+What will become of him upon his duty's end.</text>
+<text id="3002104">She would not wish thee follow her.</text>
+<text id="3002154">He would not wish thee follow him.</text>
+<text>#0After offering all Cinders of a Lord</text>
+<text id="3000500">Ahh, well met. All is as planned, is it not?</text>
+<text id="3000501">Five lords for five thrones...</text>
+<text id="3000502">Glory be, my Lord-slaying Champion. It is all thy doing.</text>
+<text id="3000503">The stage is set for me to play my part as Lord, too.</text>
+<text id="3000504">Go. Speak with the Fire Keeper.</text>
+<text>#0After offering all Cinders of a Lord, after "Wish for a world without flame"</text>
+<text id="3001800">Ahh, well met. All is as planned, is it not?</text>
+<text id="3001801">Five lords for five thrones...</text>
+<text id="3001802">To think others might ne'er be raised...</text>
+<text id="3001803">And I, of the Last Lords, a rather little lord,
+most undeserving of the honour.</text>
+<text id="3001805">Speak with the Fire Keeper.</text>
+<text id="3001900">Treat the Fire Keeper not with discourtesy.</text>
+<text id="3001901">She is much like thee. Prisoners, both, kept to link the fire.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="3001300">...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="3001301">...</text>
+<text>#0Upon dying</text>
+<text id="3001400">...</text>
+<text>#0After approaching him once he has revived from being killed-1st time</text>
+<text id="3001200">Ahh, it singeth, to the bone, it hurts...</text>
+<text id="3001201">Please, help me. Be done with me...</text>
+<text id="3001202">No, gods, no, I cannot bear it...</text>
+<text id="3001203">It burns, burns, help me...</text>
+<text>#0After approaching him once he has revived from being killed-2nd time</text>
+<text id="3001100">See ye not? I am a Lord...</text>
+<text id="3001101">A wee flame, belike, but I shoulder the world...</text>
+<text id="3001102">Forgive me. Oh, please...</text>
+<text id="3001103">I am not to blame, I'm not...</text>
+<text id="3000005">##(laugh)</text>
+<text id="3000102">##(laugh)</text>
+<text id="3000203">##(laugh)</text>
+<text id="3000505">##She awaiteth thee.</text>
+<text id="3000506">##...She hath waited a long time indeed...</text>
+<text id="3000507">##(laugh)</text>
+<text id="3000601">##(laugh)</text>
+<text id="3000706">##(laugh)</text>
+<text id="3000807">##(laugh)</text>
+<text id="3000905">##...</text>
+<text id="3000906">##(laugh)</text>
+<text id="3001006">##(laugh)</text>
+<text id="3001402">##Lord-slayer, do not fail us now...</text>
+<text id="3001403">##Five Lords, for five thrones...</text>
+<text id="3001509">##(laugh)</text>
+<text id="3001600">##Well well, what peculiar things thou keep'st on thy person...</text>
+<text id="3001601">##Those I have seen before. Black eyes, if I am not mistaken?</text>
+<text id="3001806">##She awaiteth thee.</text>
+<text id="3001807">##...She hath waited a long time indeed...</text>
+<text id="3001902">##(laugh)</text>
+<text id="3002003">##(laugh)</text>
+<text id="3002105">##(laugh)</text>
+<text id="3002204">##(laugh)</text>
 </entries>

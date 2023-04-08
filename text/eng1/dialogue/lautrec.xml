@@ -1,63 +1,79 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time before using the Mystery Key to open his cell</text>
 <text id="40000000">Oh? Still human, are you?</text>
 <text id="40000001">Then I am in luck. Could you help me?</text>
 <text id="40000002">As you can see I am stuck, without recourse.</text>
-<text id="40000020">##I entreat you. Have pity on this powerless knight.</text>
-<text id="40000021">##Surely you can imagine the depth of such dejection?</text>
+<text>#0Talk-2nd time before using the Mystery Key to open his cell</text>
 <text id="40000040">Please, I have duties to fulfil, and I will reward you handsomely.</text>
 <text id="40000041">Well? I am certain you stand to benefit.</text>
+<text>#0After leaving abruptly</text>
 <text id="40000060">Why! You!</text>
 <text id="40000061">Do not run away! Hear me out!</text>
+<text>#0Talk-After leaving abruptly</text>
 <text id="40000080">Ahh, you have come back.</text>
 <text id="40000081">I beg of you. Help me.</text>
+<text>#0Talk-1st time after using the Mystery Key to open his cell</text>
 <text id="40000100">Thank you, yes, sincerely.</text>
 <text id="40000101">I am Knight Lautrec of Carim.</text>
 <text id="40000102">I truly appreciate this, and I guarantee a reward, only later.</text>
+<text>#0Talk-2nd time after using the Mystery Key to open his cell</text>
 <text id="40000200">Yes, very sorry, your reward will have to wait.</text>
 <text id="40000201">I have just been freed. Allow me some time.</text>
+<text>#0Talk-3rd time after using the Mystery Key to open his cell</text>
 <text id="40000220">I am free. Now I can get back to work...</text>
 <text id="40000221">Keh heh heh heh...</text>
-<text id="40000340">Well, what have we here?</text>
-<text id="40000360">Keh keh keh. Are you sure about this?</text>
-<text id="40000400">You leave me no choice.</text>
-<text id="40000401">I was once grateful to you,</text>
-<text id="40000402">But if this is our fate, so be it!</text>
-<text id="40000500">You despicable...</text>
-<text id="40000501">...Curses...How could I...</text>
+<text>#0Talk-1st time without talking in the Undead Parish, or freeing him before</text>
+<text id="40010160">Hello...I don't think we've met.</text>
+<text id="40010161">I am Knight Lautrec of Carim.</text>
+<text id="40010162">We are both Undead. Perhaps we can help one another.</text>
+<text id="40010163">Keh heh heh heh...</text>
+<text>#0Talk-2nd time without talking in the Undead Parish, or freeing him before</text>
+<text id="40010180">Hmm, what business do you have?</text>
+<text id="40010181">If you have none, then stay silent.</text>
+<text>#0Talk-1st time after talking in the Undead Parish, without freeing him before</text>
+<text id="40010140">...You...</text>
+<text id="40010141">How dare you come prancing about!</text>
+<text id="40010142">I have nothing to say. Be gone from my sight.</text>
+<text>#0Talk-2nd time after talking in the Undead Parish, without freeing him before</text>
+<text id="40010142">I have nothing to say. Be gone from my sight.</text>
+<text>#0Talk-1st time after using the Mystery Key to open his cell</text>
 <text id="40010000">Ahh, hello there.</text>
 <text id="40010001">I have your reward. Please accept it.</text>
 <text id="40010002">I am grateful to you. For freeing me...</text>
 <text id="40010003">Keh heh heh heh...</text>
 <text id="40010004">...Not enough for you? Well, let's not be greedy, now...</text>
 <text id="40010005">Keh heh heh heh...</text>
+<text>#0Talk-2nd time after using the Mystery Key to open his cell</text>
+<text id="40010100">Hm, you again? What is it?</text>
+<text id="40010102">Our futures are murky. Let's not be too friendly, now.</text>
+<text>#0Talk-1st time</text>
+<text id="40010080">Well, where have you been?</text>
+<text id="40010081">I am glad to see you are safe.</text>
+<text>#0Talk-2nd time</text>
+<text id="40020400">Have you heard of Trusty Patches?</text>
+<text id="40020401">If ever a man has rubbed me up the wrong way, ugh!</text>
+<text id="40020402">If he ever comes around again, I swear, I'll have his hide.</text>
+<text>#0Talk-As a Hollow</text>
 <text id="40010020">By the Lords...Your face...</text>
-<text id="40010021">##By the Lords...Your voice...</text>
 <text id="40010022">Hmmm... Your humanity is really slipping.</text>
 <text id="40010023">But there are methods.
 Most fools have more humanity than they know what to do with.</text>
 <text id="40010024">Now, who do you imagine
 will make the best use of it, hmm?</text>
-<text id="40010080">Well, where have you been?</text>
-<text id="40010081">I am glad to see you are safe.</text>
-<text id="40010100">Hm, you again? What is it?</text>
-<text id="40010102">Our futures are murky. Let's not be too friendly, now.</text>
+<text>#0Talk-After ringing 1st Bell of Awakening</text>
 <text id="40010120">Oh, hello.</text>
 <text id="40010121">I'm considering a change of location...</text>
 <text id="40010122">I have a rather, pressing matter to attend to up above.</text>
 <text id="40010123">That Keeper has served me well, but...enough with her...</text>
 <text id="40010124">Keh heh heh heh...</text>
-<text id="40010140">...You...</text>
-<text id="40010141">How dare you come prancing about!</text>
-<text id="40010142">I have nothing to say. Be gone from my sight.</text>
-<text id="40010160">Hello...I don't think we've met.</text>
-<text id="40010161">I am Knight Lautrec of Carim.</text>
-<text id="40010162">We are both Undead. Perhaps we can help one another.</text>
-<text id="40010163">Keh heh heh heh...</text>
-<text id="40010180">Hmm, what business do you have?</text>
-<text id="40010181">If you have none, then stay silent.</text>
+<text>#0Talk-After Petrus returned to Firelink Shrine</text>
 <text id="40010200">Ahh, you certainly are keeping busy.</text>
 <text id="40010201">Care to pay for a useful tip?</text>
+<text>#0Choose "No" to spending souls</text>
+<text id="40010240">Oh, really?</text>
+<text id="40010241">Well, suit yourself. Only trying to help.</text>
+<text>#0Choose "Yes" to spending souls</text>
 <text id="40010220">A wise choice, indeed.</text>
 <text id="40010221">Maiden Thorolund and her followers
 recently arrived in this land,</text>
@@ -66,12 +82,37 @@ recently arrived in this land,</text>
 Leaving Maiden Thorolund all alone.</text>
 <text id="40010224">Not a bad tip, huh?
 A nubile cleric would be replete with humanity...</text>
-<text id="40010240">Oh, really?</text>
-<text id="40010241">Well, suit yourself. Only trying to help.</text>
+<text>#0Talk-After buying the tip</text>
 <text id="40010260">Hm? That tip I gave you?</text>
 <text id="40010261">Ahh, I heard it from a fleeing old man.</text>
 <text id="40010262">That poor bastard! All his robes and trinkets won't help him now!</text>
 <text id="40010263">Kwah hah hah hah hah!</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="40000340">Well, what have we here?</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="40000360">Keh keh keh. Are you sure about this?</text>
+<text>#0Upon being attacked &amp; made hostile after freeing Lautrec from his cell</text>
+<text id="40000400">You leave me no choice.</text>
+<text id="40000402">But if this is our fate, so be it!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="40000400">You leave me no choice.</text>
+<text id="40000401">I was once grateful to you,</text>
+<text id="40000402">But if this is our fate, so be it!</text>
+<text>#0Upon dying</text>
+<text id="40000500">You despicable...</text>
+<text id="40000501">...Curses...How could I...</text>
+<text>#0After using Black Eye Orb to invade him and approaching him-1st time</text>
+<text id="40020201">Well, look at you.</text>
+<text id="40020202">I thought you were wiser, but I thought wrong!</text>
+<text id="40020203">Tis a terrible pity. Like a moth flittering towards a flame.</text>
+<text id="40020204">You fellows? No? Don't you agree?</text>
+<text>#0After using Black Eye Orb to invade him and approaching him-2nd time</text>
+<text id="40020300">So, here we go again!</text>
+<text id="40020302">How many times will these lambs rush to slaughter?</text>
+<text id="40020303">Well, let's get it over with.</text>
+<text id="40000020">##I entreat you. Have pity on this powerless knight.</text>
+<text id="40000021">##Surely you can imagine the depth of such dejection?</text>
+<text id="40010021">##By the Lords...Your voice...</text>
 <text id="40020000">##Why, you...How far will you come?!</text>
 <text id="40020001">##...Please, leave me alone...</text>
 <text id="40020002">##What have I done to you?</text>
@@ -82,15 +123,5 @@ A nubile cleric would be replete with humanity...</text>
 <text id="40020103">##How dare you insult Lautrec the Embraced!</text>
 <text id="40020104">##May the Goddess have Mercy upon you.</text>
 <text id="40020200">##Well! You again?</text>
-<text id="40020201">Well, look at you.</text>
-<text id="40020202">I thought you were wiser, but I thought wrong!</text>
-<text id="40020203">Tis a terrible pity. Like a moth flittering towards a flame.</text>
-<text id="40020204">You fellows? No? Don't you agree?</text>
-<text id="40020300">So, here we go again!</text>
 <text id="40020301">##Oh, look, another one!</text>
-<text id="40020302">How many times will these lambs rush to slaughter?</text>
-<text id="40020303">Well, let's get it over with.</text>
-<text id="40020400">Have you heard of Trusty Patches?</text>
-<text id="40020401">If ever a man has rubbed me up the wrong way, ugh!</text>
-<text id="40020402">If he ever comes around again, I swear, I'll have his hide.</text>
 </entries>

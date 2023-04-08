@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time, at 1st location</text>
 <text id="72500000">Ahh, look how far this Undead has wandered.</text>
 <text id="72500010">And a very fit Undead you are.</text>
 <text id="72500020">A bit too alive, but with a darkish shadow.
@@ -8,14 +9,18 @@ Yet still unprepared. For a deeper Dark.</text>
 <text id="72500040">Ooh, my, don't mind me.
 I'm just talking amongst myself.</text>
 <text id="72500050">But if you find a need for a truer Dark, then meet again, we shall.</text>
+<text>#0Talk-2nd time, at 1st location</text>
 <text id="72500100">The Dark is still nascent within you.
 May the Dark shine your way...</text>
+<text>#0Talk-1st time, at 2nd location</text>
 <text id="72500200">Young Undead, don't let this curse weigh upon you.</text>
 <text id="72500210">We meet a second time.
 Perhaps you will yet traverse the Dark.</text>
 <text id="72500220">Young Undead, if you truly seek the Dark,
 then we will surely meet again.</text>
+<text>#0Talk-2nd time, at 2nd location</text>
 <text id="72500300">May we meet again, somewhere, some time...</text>
+<text>#0Talk-1st time, at 3rd location</text>
 <text id="72500400">We meet again,
 young Undead.</text>
 <text id="72500410">You have the look of a true seeker.</text>
@@ -24,31 +29,40 @@ seeker of Dark, giver of Dark.</text>
 <text id="72500430">If you seek true Dark, I will grant it to you.
 As much as you desire.</text>
 <text id="72500440">Well, then... Is Dark what you wish for?</text>
-<text id="72500500">There you are, you are now a Pilgrim of Dark.</text>
-<text id="72500510">The Dark Chasm beckons you.</text>
-<text id="72500520">Those drawn to the Dark are destined to seek it.</text>
+<text>#0Choose "No" to the 1st query</text>
 <text id="72500800">Hmm... Perhaps I was wrong.</text>
 <text id="72500810">No, no, just ignore me.</text>
 <text id="72500820">Young Undead, may the Dark shine your way.</text>
+<text>#0Talk-After choosing "No" to the 1st query</text>
 <text id="72500900">We meet again,
 young Undead.</text>
 <text id="72500910">Do you wish to be guided by Dark?</text>
+<text>#0Choose "No" to the 2nd query</text>
 <text id="72501000">Then choose your own path.</text>
-<text id="72501100">As you wish, yes, as you wish.</text>
+<text>#0Choose "Yes" to either the 1st or 2nd query</text>
+<text id="72500500">There you are, you are now a Pilgrim of Dark.</text>
+<text id="72500510">The Dark Chasm beckons you.</text>
+<text id="72500520">Those drawn to the Dark are destined to seek it.</text>
+<text>#0Talk-After choosing "Yes" to the 1st query, 1st time</text>
 <text id="72502000">Finally, you are here, young Undead.</text>
 <text id="72502010">Now, open the depths of darkness.</text>
 <text id="72502020">Young Undead, the Dark awaits you.</text>
+<text>#0Talk-After choosing "Yes" to the 1st query, 2nd time</text>
 <text id="72502100">Young Undead, what do you desire?</text>
-<text id="72502200">May the Dark shine your way.</text>
+<text>#0Menu-Choose "Give Humany Effigy"</text>
 <text id="72502400">The mouth to the Dark Chasm is not normally open.</text>
 <text id="72502410">If you seek the Dark, young Undead,
 you must offer a human effigy.</text>
-<text id="72502500">Young Undead,
-may the Dark shine your way.</text>
+<text>#0Choose "No" to the 3rd query</text>
 <text id="72502600">Yes, very well,
 as you wish.</text>
+<text>#0Choose "Yes" to the 3rd query</text>
+<text id="72502500">Young Undead,
+may the Dark shine your way.</text>
+<text>#0Menu-Choose "Talk" after offering him a Human Effigy</text>
 <text id="72502700">The embrace of the Dark is gentle.
 Let it absorb your sorrows, forever.</text>
+<text>#0Talk-After reaching rank +1 as a member of the Pilgrims of Dark Covenant</text>
 <text id="72503000">Young Undead,
 the Dark beset upon you runs deeper than I had imagined.</text>
 <text id="72503010">Let us see just how much
@@ -57,18 +71,28 @@ Dark you can endure.</text>
 <text id="72503030">What once was a great void of darkness became but fragments.</text>
 <text id="72503040">But slowly, the scattered fragments grew, absorbing all things.</text>
 <text id="72503050">It is we who will be pilgrims to these sacred sites.</text>
+<text>#0Talk-After reaching rank +2 as a member of the Pilgrims of Dark Covenant</text>
 <text id="72503100">I knew that you were special.</text>
 <text id="72503110">You are a true Pilgrim of Dark.</text>
 <text id="72503120">There is more Dark within you than even you know.</text>
 <text id="72503130">Dark is the mother of all. All things were born from it.</text>
+<text>#0Talk-After reaching rank +3 as a member of the Pilgrims of Dark Covenant</text>
 <text id="72503200">Young Undead, you've discovered the truest Dark within you.</text>
 <text id="72503210">A deep, deep Dark it is.</text>
 <text id="72503220">The Dark that we must all face.</text>
 <text id="72503230">We need the Abyss, more now than ever.</text>
-<text id="72505000">Young Undead, do you expect me to just keel over?</text>
-<text id="72505020">The Dark within you is faded and pale...</text>
-<text id="72505070">The Dark...how could you...</text>
-<text id="72506000">##Young Undead, my work is done...</text>
+<text>#0Menu-Choose "Talk" after defeating the Darklurker</text>
 <text id="72507000">I bequeath these to you.
 Take them on your pilgrimage...</text>
+<text>#0Menu-Choose "Leave"</text>
+<text id="72502200">May the Dark shine your way.</text>
+<text>#0After leaving abruptly</text>
+<text id="72501100">As you wish, yes, as you wish.</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="72505000">Young Undead, do you expect me to just keel over?</text>
+<text>#0Upon killing the protagonist</text>
+<text id="72505020">The Dark within you is faded and pale...</text>
+<text>#0Upon dying</text>
+<text id="72505070">The Dark...how could you...</text>
+<text id="72506000">##Young Undead, my work is done...</text>
 </entries>

@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="23000000">Ahh, the wait has been long, Unkindled One.</text>
 <text id="23000001">I am Emma, High Priestess of Lothric Castle.</text>
 <text id="23000002">Allow me to speak frankly.</text>
@@ -8,31 +9,41 @@
 <text id="23000005">To their churning homes, converging at the base of this castle.</text>
 <text id="23000006">Head to the bottom of the High Wall.</text>
 <text id="23000007">Forge on through the great gate, and raise this banner to proceed.</text>
-<text id="23000100">Unkindled One. Head to the High Wall's base.</text>
-<text id="23000101">Go through the great gate, and raise this banner to proceed.</text>
-<text id="23000102">But beware. The dog keeps a close eye on things.</text>
-<text id="23000103">The vile watchdog of the Boreal Valley.</text>
-<text id="23000200">What is wrong, Unkindled One?</text>
-<text id="23000201">Are you not a Lordseeker?
-Head to the base of the High Wall and seek the Lords of Cinder.</text>
-<text id="23000202">Is this not the calling of your kind, since ages past?</text>
-<text id="23000300">Ahh, Unkindled One.</text>
-<text id="23000301">The fire fades, and awaits its one last Lord.</text>
-<text id="23000302">Please, take this...</text>
-<text id="23000303">Prince Lothric is in your hands...</text>
-<text id="23000304">Please, save his soul.</text>
-<text id="23000305">Tell him what he must be. A Lord...</text>
-<text id="23000400">...</text>
-<text id="23000402">A Lord, he must be...</text>
-<text id="23000403">My dear Prince...Lothric...</text>
+<text>#0Talk-2nd time</text>
 <text id="23000500">This farewell gift is for you.</text>
 <text id="23000501">It is the insignia of an old covenant.</text>
 <text id="23000502">If you fear tresspassers, dark spirits drawn by the embers.</text>
 <text id="23000503">Then etch this upon your heart.</text>
 <text id="23000504">And the old concord will beckon
 noble Blue Sentinels to hunt these foul spirits.</text>
-<text id="23000600">...</text>
-<text id="23000601">...</text>
+<text>#0Talk-3rd time</text>
+<text id="23000100">Unkindled One. Head to the High Wall's base.</text>
+<text id="23000101">Go through the great gate, and raise this banner to proceed.</text>
+<text id="23000102">But beware. The dog keeps a close eye on things.</text>
+<text id="23000103">The vile watchdog of the Boreal Valley.</text>
+<text>#0Talk-After defeating Vordt of the Boreal Valley</text>
+<text id="23000200">What is wrong, Unkindled One?</text>
+<text id="23000201">Are you not a Lordseeker?
+Head to the base of the High Wall and seek the Lords of Cinder.</text>
+<text id="23000202">Is this not the calling of your kind, since ages past?</text>
+<text>#0After defeating 3 Lords of Cinder</text>
+<text id="23000300">Ahh, Unkindled One.</text>
+<text id="23000301">The fire fades, and awaits its one last Lord.</text>
+<text id="23000302">Please, take this...</text>
+<text id="23000303">Prince Lothric is in your hands...</text>
+<text id="23000304">Please, save his soul.</text>
+<text>#0Talk-After defeating 3 Lords of Cinder &amp; being teleported to the Lothric Castle</text>
+<text id="23000303">Prince Lothric is in your hands...</text>
+<text id="23000304">Please, save his soul.</text>
+<text id="23000305">Tell him what he must be. A Lord...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="23000603">What on earth?</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="23000604">Whatever is this about?</text>
+<text>#0Upon dying</text>
+<text id="23000400">...</text>
+<text id="23000402">A Lord, he must be...</text>
+<text id="23000403">My dear Prince...Lothric...</text>
+<text id="23000600">##...</text>
+<text id="23000601">##...</text>
 </entries>

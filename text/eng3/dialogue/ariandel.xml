@@ -1,17 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After entering the passageway leading to his location</text>
 <text id="56000000">I see flame. Flame, flickering, once again.</text>
 <text id="56000001">Not enough blood yet shed.</text>
-<text id="56000002">##Ahh, Friede, Friede, gentle Friede...</text>
 <text id="56000003">My flail... Bring me my flail.</text>
 <text id="56000004">Ahh, Friede. What stops thine ears?</text>
 <text id="56000005">Please, my flail, right away...</text>
+<text>#0Initiate the boss fight</text>
 <text id="56000100">Ahh, oh. Bring Friede to me, please.</text>
 <text id="56000101">Canst thou not see? The flame, flickering once again.</text>
 <text id="56000102">Soon will it surge, I can see it, feel it...</text>
-<text id="56000200">##Ahh, ahh, gentle Friede...</text>
-<text id="56000201">##Just let it burn, every bit of it...</text>
+<text>#0After completing the 2nd phase of the boss fight</text>
 <text id="56000202">"When the Ashes are two, a flame alighteth."</text>
 <text id="56000203">Thou'rt Ash, and fire befits thee, of course...</text>
+<text id="56000002">##Ahh, Friede, Friede, gentle Friede...</text>
+<text id="56000200">##Ahh, ahh, gentle Friede...</text>
+<text id="56000201">##Just let it burn, every bit of it...</text>
 <text id="56000204">##Ohhhh, ohhhhh... Ohhhhh</text>
 </entries>

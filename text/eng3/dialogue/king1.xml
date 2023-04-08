@@ -1,7 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="77000000">Hark! They brought thee here, did they not?</text>
 <text id="77000001">Dost thou the gods serve? Or merely that role affect?</text>
+<text>#0Choose "Just pretending" to the query</text>
+<text id="77000200">Yes, yes, of course.
+How wouldst one such as thee do service to the gods?</text>
+<text id="77000201">I have intimate knowledge of thy kind. I know thy want.</text>
+<text id="77000202">...The dark soul, is it not?</text>
+<text id="77000203">Why else wouldst one deign to visit this dung heap?</text>
+<text id="77000204">Give rest to thy falsity, I would be an ally to thee.</text>
+<text id="77000205">...</text>
+<text>#0Choose "I serve the Gods" to the query</text>
 <text id="77000100">...</text>
 <text id="77000101">A lie, a wretched lie!
 How wouldst one such as thee do service to the gods?</text>
@@ -10,29 +20,34 @@ How wouldst one such as thee do service to the gods?</text>
 <text id="77000104">Why else wouldst one deign to visit this dung heap?</text>
 <text id="77000105">Give rest to thy falsity, I would be an ally to thee.</text>
 <text id="77000106">...</text>
-<text id="77000200">Yes, yes, of course.
-How wouldst one such as thee do service to the gods?</text>
-<text id="77000201">I have intimate knowledge of thy kind. I know thy want.</text>
-<text id="77000202">...The dark soul, is it not?</text>
-<text id="77000203">Why else wouldst one deign to visit this dung heap?</text>
-<text id="77000204">Give rest to thy falsity, I would be an ally to thee.</text>
-<text id="77000205">...</text>
+<text>#0Talk-2nd time</text>
 <text id="77000300">If it is the dark soul thou desirest...</text>
 <text id="77000301">Then seek Filianore's church, at the base of the cliff.</text>
 <text id="77000302">There wilt thou the sleeping Princess waken.</text>
 <text id="77000303">...Her slumber is a deceit...</text>
 <text id="77000304">A lid covering an overgrown privy;
 a prop to keep thee from the dark soul of thine desire.</text>
+<text>#0Talk-3rd time</text>
 <text id="77000400">...</text>
 <text id="77000401">Worry not, I am a true friend to thee.</text>
 <text id="77000402">If thou'rt yet human, the urge will soon begin to swell.</text>
 <text id="77000403">To curse the gods,
 and bring ruin upon this accursed heap of dung.</text>
 <text id="77000404">...</text>
+<text>#0Talk-4th time</text>
 <text id="77000500">Now, yarely to Filianore's church at the base of the cliff,
 to rouse the sleeping Princess.</text>
 <text id="77000501">If thou yet the dark soul desirest...</text>
 <text id="77000502">...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="77000700">...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="77000701">...</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="77000702">...</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="77000703">...</text>
+<text>#0Upon dying</text>
 <text id="77000800">...</text>
 <text id="77000801">May the Abyss's curse take the gods....</text>
 </entries>

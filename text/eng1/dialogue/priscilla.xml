@@ -1,19 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="46000000">Who art thou?</text>
 <text id="46000001">One of us, thou art not.</text>
 <text id="46000002">If thou hast misstepped into this world,</text>
 <text id="46000003">plunge down from the plank, and hurry home.</text>
 <text id="46000004">If thou seekest I,</text>
 <text id="46000005">thine desires shall be requited not.</text>
+<text>#0Talk-2nd time</text>
 <text id="46000100">Thou must returneth whence thou came.</text>
 <text id="46000101">This land is peaceful, its inhabitants kind,
 but thou dost not belong.</text>
 <text id="46000102">I beg of thee, plunge down from the plank, and hurry home.</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="46000200">I expected as much from thee.</text>
 <text id="46000201">Why dost thee hurry toward thine death?</text>
-<text id="46000300">Ahh...</text>
-<text id="46000301">But, why...What seeketh thee?</text>
+<text>#0Upon killing the protagonist</text>
 <text id="46000400">Why could thou not let us be?</text>
 <text id="46000401">Didst thou not see why Ariamis created this world?</text>
+<text>#0Upon dying</text>
+<text id="46000300">Ahh...</text>
+<text id="46000301">But, why...What seeketh thee?</text>
 </entries>

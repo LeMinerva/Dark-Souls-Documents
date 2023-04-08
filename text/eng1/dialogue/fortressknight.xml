@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="35000000">##...Hrrg...</text>
-<text id="35000001">##...Rrgggg...</text>
-<text id="35000002">##...Rrrrrgggg...</text>
-<text id="35000003">##...Hrrrggaaaagghhh...</text>
-<text id="35000004">##...think, think...remember...remember</text>
-<text id="35000005">##...remember...count, count...yeah count...count</text>
-<text id="35000006">##...one, two, three, four, five, six, seven...argh...hrgggg</text>
-<text id="35000007">##...Hrrgggggggg!!</text>
+<text>#0Talk-1st time</text>
 <text id="35000100">...</text>
 <text id="35000101">Ah, what? What? Who are you?</text>
 <text id="35000102">Ahh, another Undead, eh? I took on Sen's Fortress alone...</text>
@@ -16,39 +9,20 @@ I was driven by conceit...</text>
 <text id="35000104">Ahh, you think you're different? That you can handle it?</text>
 <text id="35000105">Yes, I remember that feeling. For I was the same.</text>
 <text id="35000106">...So, let me help you out. With your soul-searching.</text>
-<text id="35000200">...</text>
-<text id="35000201">Hm...Oh, yes, it's you.</text>
-<text id="35000202">What is it? Still something you need, eh, anything at all?</text>
-<text id="35000203">##What is it?</text>
+<text>#0Talk-2nd time</text>
 <text id="35000220">...</text>
 <text id="35000221">Hm, ah, oh you?</text>
 <text id="35000222">Still alive? That's a surprise.</text>
 <text id="35000223">Anything you want? What's mine is yours, but at a price!</text>
-<text id="35000300">Nothing at all?</text>
-<text id="35000301">Fine then, rush in like a naked babe, and be skinned alive!</text>
-<text id="35000320">So, you're that good? Don't need a thing?</text>
-<text id="35000321">Bah. It won't be long, before you're begging for mercy.</text>
-<text id="35000400">Go along, try and make something of yourself.</text>
-<text id="35000401">But nothing will come of it. And I should know!</text>
-<text id="35000420">There you go, another brave soul.</text>
-<text id="35000421">But soon you shall see...You and I are no different...</text>
-<text id="35000422">Yes, yes, you soon shall see...</text>
-<text id="35000423">...the putrid fate we both share...</text>
-<text id="35000500">...Hmm?</text>
-<text id="35000600">...Hm, fine, fine. I understand.</text>
-<text id="35000601">I have my head about me.</text>
-<text id="35000700">Hrgro!</text>
-<text id="35000720">Hrgrah!</text>
-<text id="35000740">Hrgroah!</text>
-<text id="35000760">Hrgaw!</text>
-<text id="35000800">What the devil's got into you!</text>
-<text id="35000801">Hrrgrrrroooggh!</text>
-<text id="35000802">You hrggraaaghh!</text>
-<text id="35000900">Hrrggahh...</text>
-<text id="35000901">Ahhh...help me...</text>
+<text>#0Talk-3rd time</text>
+<text id="35000200">...</text>
+<text id="35000201">Hm...Oh, yes, it's you.</text>
+<text id="35000202">What is it? Still something you need, eh, anything at all?</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="35001000">There's nothing more to say.</text>
 <text id="35001001">I'm finished. We're both on the brink, you see?</text>
 <text id="35001002">End of story. You bloody fool.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="35001100">Let me give you a nibble of advice.</text>
 <text id="35001101">Don't even consider visiting Anor Londo. Not in your state.</text>
 <text id="35001102">For a century, they have tried, and failed.</text>
@@ -57,6 +31,7 @@ and even Logan himself.</text>
 <text id="35001104">You won't stand a chance. You'll be eaten alive.</text>
 <text id="35001105">But, go along, if you wish.
 If only to deepen your despair!</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="35001200">Where do I get all my things?</text>
 <text id="35001201">Stripped off the corpses
 of fools like yourself.</text>
@@ -65,4 +40,47 @@ I have to catch them just before they go Hollow.</text>
 <text id="35001203">Don't worry. I'll be there to claim your trinkets.
 Gazing at your final twisted grimace!</text>
 <text id="35001204">Gee hee hee hee hee!</text>
+<text>#0Menu-Choose "Leave" 1st time without purchasing something</text>
+<text id="35000300">Nothing at all?</text>
+<text id="35000301">Fine then, rush in like a naked babe, and be skinned alive!</text>
+<text>#0Menu-Choose "Leave" 2nd time without purchasing something</text>
+<text id="35000320">So, you're that good? Don't need a thing?</text>
+<text id="35000321">Bah. It won't be long, before you're begging for mercy.</text>
+<text>#0Menu-Choose "Leave" 1st time after purchasing something</text>
+<text id="35000400">Go along, try and make something of yourself.</text>
+<text id="35000401">But nothing will come of it. And I should know!</text>
+<text>#0Menu-Choose "Leave" 2nd time after purchasing something</text>
+<text id="35000420">There you go, another brave soul.</text>
+<text id="35000421">But soon you shall see...You and I are no different...</text>
+<text id="35000422">Yes, yes, you soon shall see...</text>
+<text id="35000423">...the putrid fate we both share...</text>
+<text>#0After leaving abruptly</text>
+<text id="35000500">...Hmm?</text>
+<text>#0Talk-After leaving abruptly</text>
+<text id="35000600">...Hm, fine, fine. I understand.</text>
+<text id="35000601">I have my head about me.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="35000700">Hrgro!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="35000720">Hrgrah!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="35000740">Hrgroah!</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="35000760">Hrgaw!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="35000800">What the devil's got into you!</text>
+<text id="35000801">Hrrgrrrroooggh!</text>
+<text id="35000802">You hrggraaaghh!</text>
+<text>#0Upon dying</text>
+<text id="35000900">Hrrggahh...</text>
+<text id="35000901">Ahhh...help me...</text>
+<text id="35000000">##...Hrrg...</text>
+<text id="35000001">##...Rrgggg...</text>
+<text id="35000002">##...Rrrrrgggg...</text>
+<text id="35000003">##...Hrrrggaaaagghhh...</text>
+<text id="35000004">##...think, think...remember...remember</text>
+<text id="35000005">##...remember...count, count...yeah count...count</text>
+<text id="35000006">##...one, two, three, four, five, six, seven...argh...hrgggg</text>
+<text id="35000007">##...Hrrgggggggg!!</text>
+<text id="35000203">##What is it?</text>
 </entries>

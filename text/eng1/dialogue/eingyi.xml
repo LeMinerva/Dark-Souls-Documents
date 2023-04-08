@@ -1,80 +1,112 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="26000000">...Oh dear...What have we here? Are you a new servant?</text>
+<text>#0Choose "No" to the query</text>
+<text id="26000040">Then you shall not pass. Away with you!</text>
+<text>#0Talk-After choosing "No" to the query</text>
+<text id="26000200">The nerve of you! Be gone, be gone at once!</text>
+<text>#0Choose "Yes" to the query</text>
 <text id="26000020">...Hmph. But you have no eggs?</text>
 <text id="26000021">Bah, no matter. Go along and have audience with Our Fair Lady.</text>
 <text id="26000022">I pray that you will mind your manners!</text>
-<text id="26000040">Then you shall not pass. Away with you!</text>
+<text>#0Talk-After choosing "Yes" to the query, before talking to Daughter of Chaos</text>
 <text id="26000100">What is it? Go along, and meet Our Fair Lady.</text>
-<text id="26000200">The nerve of you! Be gone, be gone at once!</text>
+<text>#0Talk-2nd time</text>
+<text id="26000400">Are you prepared to dedicate yourself to Our Fair Lady?</text>
+<text id="26000401">Then I will make available whatever you require.</text>
+<text id="26000402">If you need something, ask me first.</text>
+<text>#0Talk-3rd time</text>
+<text id="26000500">You again...</text>
+<text>#0Talk-4th time</text>
+<text id="26000600">Are you in need already?</text>
+<text id="26000601">Well, anything for the Fair Lady...What do you want?</text>
+<text>#0Talk-With the Old Witch's Ring equipped</text>
 <text id="26000300">...You, you speak the tongue of the Fair Lady?</text>
 <text id="26000301">...</text>
 <text id="26000302">Well, do not be rash with your pride.
 You have yet to earn my trust.</text>
 <text id="26000303">If you try anything funny with the Fair Lady,
 there will be hell to pay.</text>
-<text id="26000400">Are you prepared to dedicate yourself to Our Fair Lady?</text>
-<text id="26000401">Then I will make available whatever you require.</text>
-<text id="26000402">If you need something, ask me first.</text>
-<text id="26000500">You again...</text>
-<text id="26000600">Are you in need already?</text>
-<text id="26000601">Well, anything for the Fair Lady...What do you want?</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="26000700">There is no time for idle chat.</text>
 <text id="26000701">Think only of Our Fair Lady, and what she may need.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="26000800">...There is nothing to say to you...</text>
 <text id="26000801">Except...If you lay a hand on the Fair Lady,</text>
 <text id="26000802">you should be prepared to face my wrath.</text>
+<text>#0Talk-1st time after already having hatched an egg</text>
 <text id="26000900">Well!</text>
 <text id="26000901">...Now...you're just like me...</text>
 <text id="26000902">Your dedication is fully apparent.
 Only, well...Your head looks awful...</text>
 <text id="26000903">Why not try this?
 I've no use for it any longer.</text>
-<text id="26001000">Well!</text>
-<text id="26001001">That head of yours...Nothing seems to help, does it?</text>
-<text id="26001002">I still have medicine. Go ahead and use it.</text>
-<text id="26001003">Now, now, no need to fret about it.</text>
-<text id="26001004">Things will be fine, one day...</text>
+<text>#0Talk-2nd time after already having hatched an egg</text>
 <text id="26001100">Oh, hello.</text>
 <text id="26001101">What is it that you need?</text>
-<text id="26001200">Oh, hello...A pleasure to see you again.</text>
-<text id="26001201">But don't neglect the Fair Lady.
-She needs some company.</text>
+<text>#0Menu-Choose "Talk" 1st time after hatching an egg &amp; resting at a Bonfire</text>
+<text id="26001900">Below us lies the ruins of the legendary city of Izalith.</text>
+<text id="26001901">There, the Molten Giant watches over the Flame of Chaos.</text>
+<text id="26001902">Our Fair Lady, and Mistress Quelaag, fled from the ruins.</text>
+<text id="26001903">I do not know the details...And I do not ask...</text>
+<text>#0Menu-Choose "Talk" 2nd time after hatching an egg &amp; resting at a Bonfire</text>
+<text id="26002000">Have you heard of Lost Quelana?</text>
+<text id="26002001">An inhuman witch, who wanders the Poison Swamp.</text>
+<text id="26002002">Only no one has ever seen her, so who really knows?</text>
+<text id="26002003">But what if she is another of the Quelaag sisters?</text>
+<text id="26002004">Our Fair Lady would be greatly comforted by her presence.</text>
+<text>#0Menu-Choose "Talk" after hatching an egg &amp; talking to Daughter of Chaos</text>
 <text id="26001300">In all honesty, I am envious.</text>
 <text id="26001301">What comfort can I offer,
 without speaking her tongue?</text>
+<text>#0Talk-After talking to Daughter of Chaos hatched an egg &amp; resting at a Bonfire</text>
+<text id="26001200">Oh, hello...A pleasure to see you again.</text>
+<text id="26001201">But don't neglect the Fair Lady.
+She needs some company.</text>
+<text>#0Menu-Choose "Talk" 1st time after hatching an egg</text>
+<text id="26002100">Incidentally, do you have an interest in pyromancy?</text>
+<text id="26002102">If you have, I shall share my flame with you.</text>
+<text>#0Choose "No" to either the 2nd or 3rd query</text>
+<text id="26002300">...Well, fine. I will not force you.</text>
+<text>#0Menu-Choose "Talk" after choosing "No" to either the 2nd or 3rd query</text>
+<text id="26002101">Have you developed an interest in pyromancy?</text>
+<text id="26002102">If you have, I shall share my flame with you.</text>
+<text>#0Choose "Yes" to either the 2nd or 3rd query</text>
+<text id="26002200">You have served our Fair Lady well.</text>
+<text id="26002201">Now, let this strength be yours.</text>
+<text>#0Menu-Choose "Talk" 2nd time after hatching an egg</text>
 <text id="26001400">Worse than Undead, we are diseased, and unwanted.</text>
 <text id="26001401">Like the grime of the Great Swamp.</text>
 <text id="26001402">But my dear, Fair Lady!
 She cried for me...</text>
 <text id="26001403">And swallowed the great Blightpus,
 despite Mistress Quelaag's orders to the contrary.</text>
+<text>#0Talk-After hatching a parasitic egg for the 2nd time</text>
+<text id="26001000">Well!</text>
+<text id="26001001">That head of yours...Nothing seems to help, does it?</text>
+<text id="26001002">I still have medicine. Go ahead and use it.</text>
+<text id="26001003">Now, now, no need to fret about it.</text>
+<text id="26001004">Things will be fine, one day...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="26001500">Hrgkt!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="26001510">Erggkt!</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="26001520">Oog!</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="26001530">Hagkt!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="26001600">I knew it! I knew it!</text>
 <text id="26001601">You will not get away with this!</text>
+<text>#0Upon being attacked after the protagonist has hatched a parasitic egg</text>
 <text id="26001650">You...you would betray us?!</text>
 <text id="26001651">I should have known!</text>
+<text>#0Upon dying</text>
 <text id="26001700">Hrg...rgggkt...</text>
 <text id="26001701">My dear Fair Lady...You are in danger...</text>
+<text>#0Upon Killing the Fair Lady</text>
 <text id="26001800">Why, youuuuu monster...!</text>
 <text id="26001801">The Fair Lady! What have you done, what have you done!</text>
 <text id="26001802">Hrggreeeeeeeeeeh!</text>
-<text id="26001900">Below us lies the ruins of the legendary city of Izalith.</text>
-<text id="26001901">There, the Molten Giant watches over the Flame of Chaos.</text>
-<text id="26001902">Our Fair Lady, and Mistress Quelaag, fled from the ruins.</text>
-<text id="26001903">I do not know the details...And I do not ask...</text>
-<text id="26002000">Have you heard of Lost Quelana?</text>
-<text id="26002001">An inhuman witch, who wanders the Poison Swamp.</text>
-<text id="26002002">Only no one has ever seen her, so who really knows?</text>
-<text id="26002003">But what if she is another of the Quelaag sisters?</text>
-<text id="26002004">Our Fair Lady would be greatly comforted by her presence.</text>
-<text id="26002100">Incidentally, do you have an interest in pyromancy?</text>
-<text id="26002101">Have you developed an interest in pyromancy?</text>
-<text id="26002102">If you have, I shall share my flame with you.</text>
-<text id="26002200">You have served our Fair Lady well.</text>
-<text id="26002201">Now, let this strength be yours.</text>
-<text id="26002300">...Well, fine. I will not force you.</text>
 </entries>

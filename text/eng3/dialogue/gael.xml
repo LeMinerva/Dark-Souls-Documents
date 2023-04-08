@@ -1,60 +1,89 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After approaching his location</text>
 <text id="51000000">Ahh, merciful goddess,
 mother of the Forlorn, who have no place to call their own...</text>
 <text id="51000001">Please, bear witness to our resolve...</text>
 <text id="51000002">Fire for Ariandel... Fire for Ariandel...</text>
 <text id="51000003">And the ash to kindle flame...</text>
 <text id="51000004">...</text>
+<text>#0Talk-1st time</text>
 <text id="51000100">Wait, you've...</text>
 <text id="51000101">You've the same scent as that woman...</text>
 <text id="51000102">Then you must be an Ashen One. You must be!</text>
 <text id="51000103">...</text>
 <text id="51000104">You don't know how long I've searched!</text>
 <text id="51000105">...</text>
+<text>#0Talk-2nd time</text>
 <text id="51000200">Ohh, ohh...don't mind me, didn't mean to fall apart.</text>
 <text id="51000201">Now, Ashen One, I have a kindness to ask of you.</text>
 <text id="51000202">My lady lives in the cold land of Ariandel.</text>
 <text id="51000203">I need you to show her flame.</text>
 <text id="51000204">A proper flame, that will burn the rot away.</text>
 <text id="51000205">If you truly are Ash, then it must be fire that you seek?</text>
-<text id="51000300">Ahh, thank you. They of Ash never fail.</text>
-<text id="51000301">...Just a moment, then...</text>
-<text id="51000302">The painting of Ariandel. Well, rotted scrap of it, that is.</text>
-<text id="51000303">Go on, take it, touch it...</text>
-<text id="51000305">And then, the Ashes were two.</text>
+<text>#0Choose "Rufuse" to either 1st or 2nd query</text>
 <text id="51000400">Oh. Are you certain of that?</text>
 <text id="51000401">Hogwash, hogwash. What Ash does not seek fire?</text>
 <text id="51000402">...</text>
+<text>#0Talk-After choosing "Rufuse" to either 1st or 2nd query</text>
 <text id="51000500">Ahh, you again, I knew it.</text>
 <text id="51000501">As any Ash seeks fire, you will surely help me!</text>
 <text id="51000502">My lady lives in the cold land of Ariandel.</text>
 <text id="51000503">I need you to show her flame.</text>
 <text id="51000504">A proper flame, that will burn the rot away.</text>
 <text id="51000505">You will thank me when it's done...</text>
+<text>#0Choose "Accept" to either 1st or 2nd query</text>
+<text id="51000300">Ahh, thank you. They of Ash never fail.</text>
+<text id="51000301">...Just a moment, then...</text>
+<text id="51000302">The painting of Ariandel. Well, rotted scrap of it, that is.</text>
+<text id="51000303">Go on, take it, touch it...</text>
+<text id="51000305">And then, the Ashes were two.</text>
+<text>#0Upon being attacked before the first talk-1st time</text>
 <text id="51000700">Please, stop...</text>
 <text id="51000701">I beg of you, please, stop.</text>
+<text>#0Upon being attacked before the first talk-2nd time</text>
 <text id="51000702">My work is not yet done.</text>
 <text id="51000703">I am no foe of yours... Please, stop...</text>
-<text id="51000800">What in blazes...</text>
-<text id="51000801">Well, I suppose you are Ash...</text>
-<text id="51000803">Yes, of course, as all Ash should be!</text>
+<text>#0Upon dying before the first talk</text>
 <text id="51001000">Ahh, fire for Ariandel...</text>
 <text id="51001001">Show my lady...flame...</text>
 <text id="51001002">...</text>
-<text id="51001100">If you truly are Ash, you will seek fire...</text>
-<text id="51001101">To set Ariandel ablaze...</text>
-<text id="51001102">...</text>
+<text>#0Talk-1st time once he has revived after being killed by the protagonist</text>
 <text id="51001200">Dear me, why would you do such a thing?</text>
 <text id="51001201">Oh...the scent of that woman...</text>
+<text id="51000102">Then you must be an Ashen One. You must be!</text>
+<text id="51000103">...</text>
+<text id="51000104">You don't know how long I've searched!</text>
+<text id="51000105">...</text>
+<text>#0Talk-2nd time once he has revived after being killed by the protagonist</text>
 <text id="51001300">Dear me, why would you do such a thing?</text>
 <text id="51001301">No matter, it's hardly the first time.</text>
 <text id="51001302">More importantly, I've a service to ask of you, Ashen One...</text>
+<text id="51000502">My lady lives in the cold land of Ariandel.</text>
+<text id="51000503">I need you to show her flame.</text>
+<text id="51000504">A proper flame, that will burn the rot away.</text>
+<text id="51000505">You will thank me when it's done...</text>
+<text>#0Upon being attacked after talking-1st time</text>
+<text id="51000800">What in blazes...</text>
+<text id="51000801">Well, I suppose you are Ash...</text>
+<text>#0Upon being attacked after talking-2nd time</text>
+<text id="51000803">Yes, of course, as all Ash should be!</text>
+<text>#0Upon dying after talking</text>
+<text id="51001100">If you truly are Ash, you will seek fire...</text>
+<text id="51001101">To set Ariandel ablaze...</text>
+<text id="51001102">...</text>
+<text>#0After approaching his location, once he has revived after being killed</text>
 <text id="51001400">Dear me, why would you do such a thing?</text>
 <text id="51001401">Dreadful Ash, through and through...</text>
+<text id="51000502">My lady lives in the cold land of Ariandel.</text>
+<text id="51000503">I need you to show her flame.</text>
+<text id="51000504">A proper flame, that will burn the rot away.</text>
+<text id="51000505">You will thank me when it's done...</text>
+<text>#0After approaching his location</text>
 <text id="71000000">What, still here?</text>
 <text id="71000001">Hand it over. That thing, your dark soul.</text>
 <text id="71000002">For my lady's painting.</text>
+<text>#0After he has reached 65% health or lower</text>
 <text id="71000100">Ahh, is this the blood?</text>
 <text id="71000101">The blood of the dark soul?</text>
 </entries>

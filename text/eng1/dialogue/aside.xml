@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Prologue</text>
 <text id="100">In the Age of Ancients,</text>
 <text id="101">the world was unformed, shrouded by fog.</text>
 <text id="102">A land of grey crags, archtrees, and everlasting dragons.</text>
@@ -25,11 +26,13 @@
 <text id="320">Even now, there are only embers,</text>
 <text id="321">and man sees not light, but only endless nights.</text>
 <text id="322">And amongst the living are seen, carriers of the accursed Darksign.</text>
+<text>#0Northern Undead Asylum</text>
 <text id="1000">Yes, indeed. The Darksign brands the Undead.</text>
 <text id="1001">And in this land,</text>
 <text id="1002">the Undead are corralled and led to the north,</text>
 <text id="1003">where they are locked away, to await the end of the world.</text>
 <text id="1004">...This is your fate.</text>
+<text>#0Leaving Undead Asylum</text>
 <text id="2000">Only, in the ancient legends it is stated,</text>
 <text id="2001">that one day an Undead shall be chosen</text>
 <text id="2002">to leave the Undead Asylum, in pilgrimage,</text>

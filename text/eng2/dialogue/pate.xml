@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="74400000">Hello there.
 Travelling all alone in these treacherous times?</text>
 <text id="74400010">Well, I hope you have a very good reason.</text>
@@ -10,6 +11,7 @@ On a sort of...
 ...treasure hunt, you might call it.</text>
 <text id="74400050">Be careful out there. There's talk of unsavoury bandits
 who prey upon travellers like yourself.</text>
+<text>#0Talk-2nd time</text>
 <text id="74400100">Oh yes,
 you be cautious if you go any farther.</text>
 <text id="74400110">There's treasure in there, for certain,
@@ -22,24 +24,16 @@ and he insisted that he go inside first.</text>
 but it trapped him inside.</text>
 <text id="74400150">I still have the gent's ring.
 I do hope he wasn't harmed.</text>
+<text>#0Talk-3rd time</text>
 <text id="74400200">I'll leave this one to you.
 I'm worried about what might be inside.</text>
+<text>#0Talk-1st time after the gate trap has been activated</text>
 <text id="74400300">Well, I see you managed to escape.</text>
 <text id="74400310">I hope that brave warrior didn't come a cropper either.</text>
 <text id="74400320">Be careful out there. There's talk of unsavoury bandits
 who prey upon travellers like yourself.</text>
-<text id="74400330">##There's a right foul creature lurking this way.
-I'd say, why disturb the thing?</text>
-<text id="74400340">##But if you must go on, I'm not one to stop you.</text>
-<text id="74400350">Oh, but you should take this.</text>
-<text id="74400360">It allows Undead to call out for help to one another,
-across the fissures between worlds.</text>
-<text id="74400370">With luck,
-somebody will lend you a hand.</text>
-<text id="74400380">##I wish I were more help myself,
-but I haven't much bravery in me.
-Heh heh...</text>
-<text id="74400500">##Well, that was a close call! Heh heh...</text>
+<text>#0Talk-1st time after the gate trap has been activated, before talking to him</text>
+<text id="74400500">Well, that was a close call! Heh heh...</text>
 <text id="74400510">I wanted to warn you of the trap down the way,
 but you walked right past me.</text>
 <text id="74400520">My name is Pate.</text>
@@ -48,23 +42,45 @@ On a sort of...
 ...treasure hunt, you might call it.</text>
 <text id="74400540">Be careful out there. There's talk of unsavoury bandits
 who prey upon travellers like yourself.</text>
+<text>#0Talk-2nd time after the gate trap has been activated</text>
+<text id="74400350">Oh, but you should take this.</text>
+<text id="74400360">It allows Undead to call out for help to one another,
+across the fissures between worlds.</text>
+<text id="74400370">With luck,
+somebody will lend you a hand.</text>
+<text>#0Talk-3rd time after the gate trap has been activated</text>
 <text id="74400700">Good to see you safe.</text>
+<text>#0Talk-Summoning as White Phantom successfully defeating The Last Giant</text>
+<text id="74407000">We went through a lot together.
+Take these, as a token of our friendship.</text>
+<text id="74407010">Don't be shy,
+they were meant for you...
+Heh heh...</text>
+<text>#0Talk-1st time</text>
 <text id="74400800">Well, we meet again.</text>
 <text id="74400810">There's treasure this way...
 But I've a bad feeling about it.</text>
 <text id="74400830">I don't quite have the guts myself! Hah hah...</text>
+<text>#0Talk-1st time after acquiring the Great Heavy Soul Arrow scorcery</text>
 <text id="74400900">Well, good to see that you survived.</text>
 <text id="74400910">Perhaps you're more rugged than I thought.</text>
 <text id="74400920">In any case, the treasure is yours.
 Since you went ahead, and took the leap.</text>
+<text>#0Talk-2nd time after acquiring the Great Heavy Soul Arrow scorcery</text>
 <text id="74401000">I prefer a more cautious approach.
 It's hard to know who to even trust these days.</text>
 <text id="74401010">For instance, I've heard that a man is out for my life.</text>
 <text id="74401020">Now, what misunderstanding could have ever led to that?</text>
 <text id="74401030">The poor bloke must have quite an imagination. Heh...</text>
+<text>#0Talk-3rd time after acquiring the Great Heavy Soul Arrow scorcery</text>
 <text id="74401100">You be careful, too, my friend.
 For trust can be a dangerous thing.</text>
+<text>#0Talk-After approaching him &amp; Creighton while they are fighting</text>
 <text id="74401200">He swung at me! Please, lend me a hand!</text>
+<text>#0Talk-Without having assisting him in killing Creighton</text>
+<text id="74401500">What was he thinking?</text>
+<text id="74401510">I haven't done a thing.</text>
+<text>#0Talk-1st time after assisting him in killing Creighton</text>
 <text id="74401300">What misunderstanding could have caused this?</text>
 <text id="74401310">Well. Thank you.
 I owe you my life.</text>
@@ -72,22 +88,71 @@ I owe you my life.</text>
 <text id="74401330">You'll find some of my treasures there.
 Help yourself to those that suit you.</text>
 <text id="74401340">Here, use this key.</text>
+<text>#0Talk-2nd time after assisting him in killing Creighton</text>
 <text id="74401400">Be cautious on your travels.</text>
-<text id="74401500">What was he thinking?</text>
-<text id="74401510">I haven't done a thing.</text>
+<text>#0After opening the trapped chest</text>
 <text id="74401600">Ooh, that'll leave a nice scar!</text>
-<text id="74405000">Oh, I can scrimmage, my friend.</text>
-<text id="74405010">You again? Oh, heavens...</text>
-<text id="74405020">Heh heh heh...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="74405030">Eek!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="74405040">What the devil's...!</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="74405050">Now, stop that!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="74405000">Oh, I can scrimmage, my friend.</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="74405010">You again? Oh, heavens...</text>
+<text>#0Upon killing the protagonist</text>
+<text id="74405020">Heh heh heh...</text>
+<text>#0After reducing his health to 50% or lower</text>
 <text id="74405060">Not too shabby... Heh heh...</text>
+<text>#0Upon dying</text>
 <text id="74405070">Aiieeegh!</text>
-<text id="74406000">Heh heh heh...</text>
-<text id="74407000">We went through a lot together.
-Take these, as a token of our friendship.</text>
-<text id="74407010">Don't be shy,
-they were meant for you...
+<text id="74400330">##There's a right foul creature lurking this way.
+I'd say, why disturb the thing?</text>
+<text id="74400340">##But if you must go on, I'm not one to stop you.</text>
+<text id="74400380">##I wish I were more help myself,
+but I haven't much bravery in me.
 Heh heh...</text>
+<text id="74406000">##Heh heh heh...</text>
+<text id="74400100">##Hey. You haven't lost your mind yet hugh?</text>
+<text id="74400110">##I'm Pait. Since we're both sane, why don't we get along?</text>
+<text id="74400200">##Oh, it's you. Long time no see.</text>
+<text id="74400300">##Oh, yes. Here, I'll tell you a secret. 
+There seem to be a treasure hidden over there. </text>
+<text id="74400310">##Of course I want it for my own,
+but I smell something uneasy.</text>
+<text id="74400320">##You know? I'm a weak timid man. If there's a strong hollow,
+I will be dead before I even wet my pants.</text>
+<text id="74400330">##I know you're strong, so you can handle any hollows, right?
+ So this time, I'll give you the chance. </text>
+<text id="74400340">##Come on, If there is something awful, run back here.
+I'm a man. In that case, I will help you.</text>
+<text id="74400400">##What are you waiting for? 
+Come on, I'm giving you the treasure. Now go.</text>
+<text id="74400500">##Oh…. It's you. 
+What's the matter? You surly look stern.</text>
+<text id="74400510">##I accidently touched that device. 
+Did..did it cause you any trouble?</text>
+<text id="74400520">##No, it wasn't on purpose! Of course not!</text>
+<text id="74400530">##In fact, you're here just ok.
+ It wasn't a big deal right? </text>
+<text id="74400540">##Here take this as an apology.  It's such an harsh world,
+we should help each other, don't you think?</text>
+<text id="74400600">##Come on don't give me that face now. 
+We're friends, right?</text>
+<text id="74400700">##Huh? Hey, is that the treasure you have there!?</text>
+<text id="74400710">##W…Well, that's nice! Ha ha ha.</text>
+<text id="74400800">##What? You already got the treasure,
+what more are you looking for?</text>
+<text id="74400810">##Now go already.</text>
+<text id="74409000">##What? Ouch!</text>
+<text id="74409010">##Hey! Stop that!</text>
+<text id="74409020">##Stop it!</text>
+<text id="74409030">##P…Please, calm down!</text>
+<text id="74409040">##All right, all right, if that is what you want!</text>
+<text id="74409050">##I have no other choice! God, how unlucky can I be!</text>
+<text id="74409060">##Shit, just die already!</text>
+<text id="74409070">##Shit, how can it be?</text>
+<text id="74409080">##Huh, well that was close.</text>
 </entries>

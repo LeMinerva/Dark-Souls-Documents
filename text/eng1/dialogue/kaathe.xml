@@ -1,36 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time after defeating the Four Kings, after obtaining Lordvessel</text>
 <text id="44000000">Greetings, Undead warrior.</text>
 <text id="44000001">I am the primordial serpent Darkstalker Kaathe.</text>
 <text id="44000002">I can guide thee, and illuminate the truth.</text>
 <text id="44000003">Undead Warrior, conqueror of the Four Kings;
 is this not your wish?</text>
 <text id="44000004">To know the truth of men, and the Undead?</text>
+<text>#0Choose "No" to either the 1st or 2nd query</text>
+<text id="44000400">...</text>
+<text id="44000401">...Very well.</text>
+<text id="44000402">Warriors as yourself are few. I will be patient.</text>
+<text id="44000403">But I cannot wait forever...</text>
+<text>#0Talk-After choosing "No" to either the 1st or 2nd query</text>
+<text id="44000700">What is it?</text>
+<text id="44000701">Perhaps you have changed your mind?</text>
+<text>#0Choose "Yes" to either the 1st or 2nd query</text>
 <text id="44000100">A wise choice, Undead warrior.</text>
 <text id="44000101">Prove you must,
 that the truth becomes you.</text>
 <text id="44000102">Seek Anor Londo.</text>
 <text id="44000103">And claim Gwyn's heirloom, the Lordvessel.</text>
-<text id="44000104">##I will open Sen's Fortress, which leads to Anor Londo.</text>
-<text id="44000105">##Hraaaoogggh!</text>
-<text id="44000106">##Hraaaoogggh!</text>
 <text id="44000107">Now go, Undead warrior.</text>
 <text id="44000108">Show the world that the truth becomes you.</text>
-<text id="44000400">...</text>
-<text id="44000401">...Very well.</text>
-<text id="44000402">Warriors as yourself are few. I will be patient.</text>
-<text id="44000403">But I cannot wait forever...</text>
+<text>#0Talk-2nd time</text>
 <text id="44000500">Ahh...</text>
 <text id="44000501">If you wish, I shall grant the art of Lifedrain,</text>
 <text id="44000502">the legendary power of the Dark Lord.</text>
 <text id="44000503">It can preserve your humanity while Undead,</text>
 <text id="44000504">and cast off the shackles placed upon your brethren.</text>
+<text>#0Talk-3rd time</text>
 <text id="44000600">What is it?</text>
 <text id="44000601">I am your guardian.</text>
 <text id="44000602">Go on, state your wish.</text>
-<text id="44000700">What is it?</text>
-<text id="44000701">Perhaps you have changed your mind?</text>
-<text id="44000800">Farewell.</text>
+<text>#0Menu-Choose "Talk" before obtaining the Lordvessel</text>
+<text id="44001800">Undead warrior,</text>
+<text id="44001801">To speak now is premature.</text>
+<text id="44001802">It begins with your retrieval of the Lordvessel.</text>
+<text>#0Talk-After obtaining the Lordvessel</text>
 <text id="44000900">Hmm...You are astonishing.</text>
 <text id="44000901">The truth I shall share, without sentiment.</text>
 <text id="44000902">After the advent of Fire, the ancient Lords found the three souls. </text>
@@ -59,12 +66,55 @@ and befriended Lord Gwyn.</text>
 who has coddled Fire and resisted nature,</text>
 <text id="44000921">and become the Fourth Lord,
 so that you may usher in an Age of Dark!</text>
+<text>#0Talk-1st time after defeating the Four Kings, after obtaining Lordvessel</text>
+<text id="44000000">Greetings, Undead warrior.</text>
+<text id="44000001">I am the primordial serpent Darkstalker Kaathe.</text>
+<text id="44000002">I can guide thee, and illuminate the truth.</text>
+<text id="44000901">The truth I shall share, without sentiment.</text>
+<text id="44000902">After the advent of Fire, the ancient Lords found the three souls. </text>
+<text id="44000903">But your progenitor found a fourth, unique soul.</text>
+<text id="44000904">The Dark Soul.</text>
+<text id="44000905">Your ancestor claimed the Dark Soul,
+and waited for Fire to subside.</text>
+<text id="44000906">And soon, the flames did fade, and only Dark remained.</text>
+<text id="44000907">Thus began the age of men, the Age of Dark.</text>
+<text id="44000908">However...</text>
+<text id="44000909">Lord Gwyn trembled at the Dark.</text>
+<text id="44000910">Clinging to his Age of Fire, and in dire fear of humans,</text>
+<text id="44000911">and the Dark Lord who would one day be born amongst them,</text>
+<text id="44000912">Lord Gwyn resisted the course of nature.</text>
+<text id="44000913">By sacrificing himself to link the Fire,
+and commanding his children to shepherd the humans,</text>
+<text id="44000914">Gwyn has blurred your past,
+to prevent the birth of the Dark Lord.</text>
+<text id="44000915">I am the primordial serpent.</text>
+<text id="44000916">I seek to right the wrongs of the past, to discover our true Lord.</text>
+<text id="44000917">But the other serpent, Frampt, lost his sense,
+and befriended Lord Gwyn.</text>
+<text id="44000918">Undead Warrior, we stand at a crossroads.</text>
+<text id="44000919">Only I know the truth about your fate.</text>
+<text id="44000920">You must destroy the fading Lord Gwyn,
+who has coddled Fire and resisted nature,</text>
+<text id="44000921">and become the Fourth Lord,
+so that you may usher in an Age of Dark!</text>
+<text>#0Choose "No" to the 3rd query</text>
+<text id="44001300">Nonsense!</text>
+<text id="44001301">Are you mad! This is deplorable!</text>
+<text id="44001302">You would rather be a slave? Does the truth mean nothing to you?</text>
+<text id="44001303">This is unacceptable! Impossible! Unthinkable!</text>
+<text id="44001304">...</text>
+<text id="44001305">...Oh, enough with you.</text>
+<text id="44001306">Farewell, pitiful, unknowing fool.</text>
+<text id="44001307">I shall return to the Abyss, and await the true Lord of Men.</text>
+<text>#0Choose "Yes" to the 3rd query</text>
 <text id="44001000">Very well!</text>
 <text id="44001001">I shall now guide you to Gwyn's prison.</text>
 <text id="44001002">Be still. Entrust thine flesh to me.</text>
 <text id="44001003">This is Gwyn's prison.</text>
 <text id="44001004">Now, place the Lordvessel upon the altar.</text>
+<text>#0Talk-Before placing Lordvessel in his presence</text>
 <text id="44001100">What is it? Place the Lordvessel upon the altar.</text>
+<text>#0Talk-After placing Lordvessel in his presence</text>
 <text id="44001200">Very well.</text>
 <text id="44001201">Once the vessel is filled with souls, the gate to Gwyn shall open.</text>
 <text id="44001202">Seek Gravelord Nito, the Witch of Izalith,
@@ -74,18 +124,11 @@ and the traitor Seath the Scaleless.</text>
 <text id="44001205">...</text>
 <text id="44001206">Are you ready?</text>
 <text id="44001207">Then, let us return to the Abyss. Entrust thine flesh to me.</text>
-<text id="44001300">Nonsense!</text>
-<text id="44001301">Are you mad! This is deplorable!</text>
-<text id="44001302">You would rather be a slave? Does the truth mean nothing to you?</text>
-<text id="44001303">This is unacceptable! Impossible! Unthinkable!</text>
-<text id="44001304">...</text>
-<text id="44001305">...Oh, enough with you.</text>
-<text id="44001306">Farewell, pitiful, unknowing fool.</text>
-<text id="44001307">I shall return to the Abyss, and await the true Lord of Men.</text>
-<text id="44001400">Very well.</text>
-<text id="44001401">Be still. Entrust thy flesh to me.</text>
-<text id="44001500">Are you ready?</text>
-<text id="44001501">Then, let us return to the Abyss. Entrust thine flesh to me.</text>
+<text>#0Menu-Choose "Talk" after placing the Lordvessel</text>
+<text id="44001900">They failed me, every last one of them.</text>
+<text id="44001901">They were strong, but saw not the truth.</text>
+<text id="44001902">...I am certain that you will prove different.</text>
+<text>#0Talk-After filling Lordvessel in his presence</text>
 <text id="44001600">Magnificent.</text>
 <text id="44001601">You have followed my teachings faithfully.</text>
 <text id="44001602">You are the true lord of men, the Dark Lord.</text>
@@ -93,25 +136,38 @@ and the traitor Seath the Scaleless.</text>
 <text id="44001604">I, Kaathe, shall await you here.</text>
 <text id="44001605">When you return, I shall serve you, in the imminent Age of Dark.</text>
 <text id="44001606">I shall serve you, in the imminent Age of Dark.</text>
+<text>#0Menu-Choose "Warp" to be taken to the Abyss</text>
+<text id="44001500">Are you ready?</text>
+<text id="44001501">Then, let us return to the Abyss. Entrust thine flesh to me.</text>
+<text>#0Menu-Choose "Warp" to be taken to the Firelink Altar</text>
+<text id="44001400">Very well.</text>
+<text id="44001401">Be still. Entrust thy flesh to me.</text>
+<text>#0Menu-Choose "Leave"</text>
+<text id="44000800">Farewell.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="44002000">Hmg!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="44002001">Hrg!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="44002002">Agh!</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="44002003">Ooph!</text>
+<text>#0Upon being attacked-5th time</text>
+<text id="44002004">Stop!</text>
+<text>#0Upon being attacked-6th time</text>
+<text id="44002005">Enough!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="44002006">Fool!</text>
+<text id="44002007">Fool...You could not be the Dark Lord.</text>
+<text id="44002008">Enough of this...and farewell to you.</text>
+<text id="44002009">I shall return to the Abyss, and await the true Lord of Men.</text>
+<text>#0Leaving Kiln of the First Flame after defeating Gwyn</text>
 <text id="44001700">My Lord, bless thy safe return.</text>
 <text id="44001701">Let Kaathe, and Frampt, serve Your Highness.</text>
 <text id="44001702">We are here to serve Your Highness.</text>
 <text id="44001703">Let true Dark be cast upon the world.</text>
 <text id="44001704">Our Lord hath returned'st...</text>
-<text id="44001800">Undead warrior,</text>
-<text id="44001801">To speak now is premature.</text>
-<text id="44001802">It begins with your retrieval of the Lordvessel.</text>
-<text id="44001900">They failed me, every last one of them.</text>
-<text id="44001901">They were strong, but saw not the truth.</text>
-<text id="44001902">...I am certain that you will prove different.</text>
-<text id="44002000">Hmg!</text>
-<text id="44002001">Hrg!</text>
-<text id="44002002">Agh!</text>
-<text id="44002003">Ooph!</text>
-<text id="44002004">Stop!</text>
-<text id="44002005">Enough!</text>
-<text id="44002006">Fool!</text>
-<text id="44002007">Fool...You could not be the Dark Lord.</text>
-<text id="44002008">Enough of this...and farewell to you.</text>
-<text id="44002009">I shall return to the Abyss, and await the true Lord of Men.</text>
+<text id="44000104">##I will open Sen's Fortress, which leads to Anor Londo.</text>
+<text id="44000105">##Hraaaoogggh!</text>
+<text id="44000106">##Hraaaoogggh!</text>
 </entries>

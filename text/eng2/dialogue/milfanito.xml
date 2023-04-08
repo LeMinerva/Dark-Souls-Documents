@@ -1,56 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="76000000">We knew you were coming...</text>
 <text id="76000010">And stopped singing...</text>
+<text>#0Talk-2nd time</text>
 <text id="76000100">We are Milfanito.</text>
 <text id="76000110">We are here to sing to those bound
 by death and Dark.</text>
+<text>#0Talk-3rd time</text>
 <text id="76000200">We will sing here, forever,
 as we always have, from long, long ago.</text>
 <text id="76000210">We know nothing of the world outside.</text>
 <text id="76000220">And why should we?
 For we will never leave.</text>
+<text>#0Talk-4th time</text>
 <text id="76000300">Do you seek King Vendrick?</text>
 <text id="76000310">But what is a king, after all?</text>
 <text id="76000320">We know nothing of the world outside.</text>
 <text id="76000330">For we will never leave here.</text>
+<text>#0Talk-5th time</text>
 <text id="76000400">When we sing, the little ones dance.</text>
 <text id="76000410">The little ones
 grant comfort to those
 who bear death and Dark.</text>
 <text id="76000420">This is what we were taught.</text>
+<text>#0Talk-6th time</text>
 <text id="76000500">Is there anything wrong?</text>
 <text id="76000510">Perhaps this will help.</text>
 <text id="76000520">This is all that we can do.</text>
+<text>#0Talk-After defeating the Demon of Song</text>
+<text id="76007000">You quelled that cursed singing.</text>
+<text id="76007010">They may be of no use outside,
+but please take these.</text>
+<text>#0Talk-After unlocking the Imprisoned Milfanito's cell</text>
 <text id="76000600">We hear a song in the distance.</text>
 <text id="76000610">You rescued a Milfanito
 who was taken from us.</text>
 <text id="76000620">Take this... We Milfanito thank you.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="76005030">Oh!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="76005040">Ah!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="76005050">What...</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="76005000">What did we ever do...</text>
+<text>#0After approaching her while hostile, after the protagonist leaves &amp; returns</text>
 <text id="76005010">Are you never satisfied...
 Aren't you ever satisfied...</text>
-<text id="76005030">Oh!</text>
-<text id="76005040">Ah!</text>
-<text id="76005050">What...</text>
-<text id="76006000">##All we can do...is sing...</text>
-<text id="76007000">You quelled that cursed singing.</text>
-<text id="76007010">They may be of no use outside,
-but please take these.</text>
-<text id="76010500">We hear a song in the distance.</text>
-<text id="76010510">You rescued a Milfanito
-who was taken from us.</text>
-<text id="76010520">Take this... We Milfanito thank you.</text>
+<text>#0Talk-1st time</text>
 <text id="76010000">Who are you...</text>
 <text id="76010010">And what do you want from us?</text>
+<text>#0Talk-2nd time</text>
 <text id="76010100">Milfanito, that is what we are called.</text>
 <text id="76010110">My name?</text>
 <text id="76010120">Do you mean our name?</text>
 <text id="76010130">We know nothing of the outside world...</text>
+<text>#0Talk-3rd time</text>
 <text id="76010200">We sing eternally for those who
 bear death and Dark within themselves.</text>
 <text id="76010210">We have been here forever.</text>
 <text id="76010220">We know nothing of the outside world,
 and we do not need to.</text>
+<text>#0Talk-4th time</text>
 <text id="76010300">The little ones were born
 from the Great Dead One.</text>
 <text id="76010310">And the Great Dead One
@@ -58,22 +70,41 @@ taught us song.</text>
 <text id="76010320">We have sung ever since.
 To comfort those bound by death and Dark.</text>
 <text id="76010330">This is what we were taught.</text>
+<text>#0Talk-5th time</text>
 <text id="76010400">Do you seek comfort, too?</text>
 <text id="76010410">You poor thing...</text>
 <text id="76010420">Take this, at the very least.</text>
 <text id="76010430">This is all that we can do.</text>
-<text id="76015000">What...will you do to us?</text>
-<text id="76015010">Why are you here?</text>
-<text id="76015030">Oh!</text>
-<text id="76015040">Ah!</text>
-<text id="76015050">We never...</text>
-<text id="76016000">##We exist...to sing...</text>
+<text>#0Talk-After defeating the Demon of Song</text>
 <text id="76017000">You silenced that cursed singing.</text>
 <text id="76017010">Please accept these as a thank-you.</text>
+<text>#0Talk-After unlocking the Imprisoned Milfanito's cell</text>
+<text id="76010500">We hear a song in the distance.</text>
+<text id="76010510">You rescued a Milfanito
+who was taken from us.</text>
+<text id="76010520">Take this... We Milfanito thank you.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="76015030">Oh!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="76015040">Ah!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="76015050">We never...</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="76015000">What...will you do to us?</text>
+<text>#0After approaching her while hostile, after the protagonist leaves &amp; returns</text>
+<text id="76015010">Why are you here?</text>
+<text>#0Talk</text>
 <text id="76020200">Ah...Ahh...</text>
-<text id="76020300">Ahh...Ah...</text>
-<text id="76025000">Ahh...Ahhh...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="76025030">Oh!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="76025040">Ah...Ahh...</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="76020300">Ahh...Ah...</text>
+<text>#0After approaching her while hostile, after the protagonist leaves &amp; returns</text>
+<text id="76025000">Ahh...Ahhh...</text>
+<text>#0Upon dying</text>
 <text id="76025050">Ah...Ah...</text>
+<text id="76006000">##All we can do...is sing...</text>
+<text id="76016000">##We exist...to sing...</text>
 </entries>

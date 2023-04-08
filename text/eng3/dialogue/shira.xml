@@ -1,7 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
+<text id="74000000">...</text>
+<text>#0Talk-2nd time</text>
 <text id="74000100">Speak thee the name of God.</text>
 <text id="74000101">Thine own god, if thou canst recall.</text>
+<text>#0Choose "I do not know" to either the 1st or 2nd query</text>
+<text id="74000700">As I thought. Such memories were lost by thy kind, long ago.</text>
+<text id="74000701">And so it is ye...who yearn for darkness.</text>
+<text>#0Talk-After choosing "I do not know" to either the 1st or 2nd query</text>
+<text id="74000800">Give thy memory a nudge.</text>
+<text id="74000801">And name thee thy God.</text>
+<text>#0Choose "Gwyn" to either the 1st or 2nd query</text>
 <text id="74000200">Ahh, then thou'st not forgotten.</text>
 <text id="74000201">Perhaps 'tis why we may converse.</text>
 <text id="74000202">I am known as Shira,
@@ -10,9 +20,11 @@ servant to the Princess Filianore, matriarch of the church.</text>
 are surely ken to the terrors of the dark.</text>
 <text id="74000204">Please, I bid thee take not from the Princess her peace or rest.</text>
 <text id="74000205">As the fire waneth, does she lie by the dark, all for the sake of Man.</text>
+<text>#0Talk-2nd time after choosing "Gwyn" to either the 1st or 2nd query</text>
 <text id="74000300">Thou'st a kind heart.</text>
 <text id="74000301">To speak to a captive such as I.</text>
 <text id="74000302">It is no surprise thou rememb'rest our God.</text>
+<text>#0Talk-3rd time after choosing "Gwyn" to either the 1st or 2nd query</text>
 <text id="74000400">May I ask thee a kindness?</text>
 <text id="74000401">Perhaps thou'st beheld the lone dragon
 that inhabiteth this city?</text>
@@ -22,31 +34,34 @@ Now here, returned, he remaineth.</text>
 <text id="74000404">To watch over the sleeping Princess, true to the old accord.</text>
 <text id="74000405">...And yet, I would have thee put the dragon to rest.</text>
 <text id="74000406">Afore the dark consumeth him, and his vows are forgot.</text>
+<text>#0Choose "Refuse" to the 3rd query, or "No, it's nothing" to the 4th</text>
+<text id="74000900">Very well. Then hasten on thy journey.</text>
+<text id="74000901">Only, disturb not the sleeping Princess.</text>
+<text id="74000902">As the fire waneth, does she lie by the dark, all for the sake of Man.</text>
+<text>#0Talk-After choosing "Refuse" to the 3rd query, or "No, it's nothing" to the 4th</text>
+<text id="74001000">Carest thou to speak thy peace?</text>
+<text id="74001001">Hast thou mine entreaty reconsidered?</text>
+<text>#0Choose "Accept the request" to either the 3rd or 4th query</text>
 <text id="74000500">I offer my sincerest gratitude, thou who art ken to God's name.</text>
 <text id="74000501">Please, take this.</text>
 <text id="74000502">I have asked a thing most terrible of thee.
 May this token of thanks be of aid.</text>
+<text>#0Talk-After choosing "Accept the request" to either the 3rd or 4th query</text>
 <text id="74000600">I beg of thee, put the great dragon to rest.</text>
 <text id="74000601">Afore the dark consumeth him, and his vows are forgot.</text>
-<text id="74000700">As I thought. Such memories were lost by thy kind, long ago.</text>
-<text id="74000701">And so it is ye...who yearn for darkness.</text>
-<text id="74000800">Give thy memory a nudge.</text>
-<text id="74000801">And name thee thy God.</text>
-<text id="74000900">Very well. Then hasten on thy journey.</text>
-<text id="74000901">Only, disturb not the sleeping Princess.</text>
-<text id="74000902">As the fire waneth, does she lie by the dark, all for the sake of Man.</text>
-<text id="74001000">Carest thou to speak thy peace?</text>
-<text id="74001001">Hast thou mine entreaty reconsidered?</text>
+<text>#0Talk-1st time after initially defeating Darkeater Midir on the bridge</text>
 <text id="74001100">So, Midir hath into the chasm fallen.</text>
 <text id="74001101">Still, his voice I hear. The dark grieveth him yet.</text>
 <text id="74001102">I prithee, put him to rest.</text>
 <text id="74001103">Afore the dark consumeth him, and his vows are forgot.</text>
+<text>#0Talk-2nd time after initially defeating Darkeater Midir on the bridge</text>
 <text id="74001200">Just afore the church of the Princess standeth a tower,
 honouring ancient knights.</text>
 <text id="74001201">There lieth a small shrine,
 behind the sculpted knight which beareth no arms.</text>
 <text id="74001202">Tis from there one may descend the chasm of darkness.</text>
 <text id="74001203">I prithee, put the great dragon to rest.</text>
+<text>#0Talk-3rd time after initially defeating Darkeater Midir on the bridge</text>
 <text id="74001300">I know, I have asked of thee a thing most terrible.</text>
 <text id="74001301">Forgive me, thou wert but mine only hope.</text>
 <text id="74001304">Just afore the church of the Princess standeth a tower
@@ -56,6 +71,7 @@ Behind the sculpted knight which beareth no arms,</text>
 from which one may descend the chasm of darkness.</text>
 <text id="74001302">I prithee, put the great dragon to rest.</text>
 <text id="74001303">Afore the dark consumeth him, and his vows are forgot.</text>
+<text>#0Talk-1st time after defeating Darkeater Midir</text>
 <text id="74001400">My most humble thanks.</text>
 <text id="74001401">Tis thanks to thee the dragon erred not from his vows.</text>
 <text id="74001402">Please, take this.
@@ -63,10 +79,12 @@ A final gift of thanks.</text>
 <text id="74001403">Now, hasten on thy journey,
 but wake not the slumbering Princess.</text>
 <text id="74001404">As the fire waneth, does she lie by the dark, all for the sake of Man.</text>
+<text>#0Talk-2nd time after defeating Darkeater Midir</text>
 <text id="74001500">My humblest thanks.</text>
 <text id="74001501">Now, hasten on thy journey,
 but wake not the slumbering Princess.</text>
 <text id="74001502">As the fire waneth, does she lie by the dark, all for the sake of Man.</text>
+<text>#0Talk-1st time after reaching rank 1 as a Spear of the Church</text>
 <text id="74001600">Oh! Thou'rt now a spear of the church!</text>
 <text id="74001601">What a wonderful, blessed day this is.</text>
 <text id="74001602">With a spear such as thee,
@@ -75,19 +93,23 @@ and Midir's vows will be honoured.</text>
 <text id="74001603">I must thank thee,
 as a servant of the Princess, and a dear friend to Midir.</text>
 <text id="74001604">May thy travels be resplendent with glory.</text>
+<text>#0Talk-2nd time after reaching rank 1 as a Spear of the Church</text>
 <text id="74001700">As the fire waneth, does she lie by the dark,
 but now with thee to shelter her sleep.</text>
 <text id="74001701">Bless ye spears of the church.
 May thy travels be resplendent with glory.</text>
+<text>#0Talk-1st time after reaching rank 2 as a Spear of the Church</text>
 <text id="74001800">Ah, thou'st... A Divine Spear become!</text>
 <text id="74001801">An honour once bestowed in the time of the Gods,
 nearly unheard of in this age of waning fire.</text>
 <text id="74001802">As a servant of the Princess, and friend to Midir...</text>
 <text id="74001803">I am honoured to have met thee.</text>
+<text>#0Talk-2nd time after reaching rank 2 as a Spear of the Church</text>
 <text id="74001900">As the fire waneth, does she lie by the dark,
 but now with thee to shelter her sleep.</text>
 <text id="74001901">Bless ye divine spears.
 May thy travels be resplendent with glory.</text>
+<text>#0Upon appearing in the ruins, after the protagonist touches the embraced shell</text>
 <text id="74002000">I've searched for thee, dark-stricken creature.</text>
 <text id="74002001">I am Shira, daughter of the Duke, descendant of gods,
 and trusted friend to Midir.</text>
@@ -95,13 +117,16 @@ and trusted friend to Midir.</text>
 the glory of fire, and the fear of the dark.</text>
 <text id="74002003">Thou shalt not go unpunished.</text>
 <text id="74002004">For thy treachery, thy profanity, and thy shameless yearning!</text>
+<text>#0Upon killing the protagonist</text>
 <text id="74002100">Remember this, creature.</text>
 <text id="74002101">Ne'er will I forgive thy kind.</text>
+<text>#0Upon killing the protagonist, after reaching rank 1 as a Spear of the Church</text>
 <text id="74002200">Try again, to remember.</text>
 <text id="74002201">The great honour it was to be a spear.</text>
+<text>#0Upon dying</text>
 <text id="74002400">...</text>
-<text id="74002500">##Ahh, but why...</text>
-<text id="74002501">##Art thou to bed with the dark?</text>
 <text id="74002600">Never would I ever...</text>
 <text id="74002601">...forgive thy lowly kind...</text>
+<text id="74002500">##Ahh, but why...</text>
+<text id="74002501">##Art thou to bed with the dark?</text>
 </entries>

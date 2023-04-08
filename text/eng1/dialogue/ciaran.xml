@@ -1,5 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
+<text id="60000600">...Are you human?</text>
+<text id="60000610">...I forgive you.</text>
+<text id="60000620">I am here to pay respects to a dear friend.</text>
+<text id="60000630">Please, allow me a moment alone.</text>
+<text>#0Talk-1st time holding the Soul of Artorias</text>
+<text id="60000700">...You, is that not...</text>
+<text id="60000710">The soul of the man who fell on this spot?</text>
+<text id="60000720">He was a dear friend.
+I wish to pay proper respect, with that soul.</text>
+<text id="60000730">Would you be willing to part with it?</text>
+<text>#0Choose "No" to the 1st query</text>
+<text id="60000300">Yes, of course...</text>
+<text id="60000310">...</text>
+<text id="60000320">...I must not be presumptuous.</text>
+<text id="60000330">Artorias would not have approved.</text>
+<text>#0Talk-2nd time after choosing "No" to the 1st query</text>
+<text id="60000400">What is it? Something else?</text>
+<text id="60000410">Have you changed your mind?</text>
+<text>#0Choose "No" after choosing "No" to the 1st query</text>
+<text id="60000500">...Then you have no business with me...</text>
+<text>#0Choose "Yes" to the 1st query</text>
+<text id="60000200">Thank you. You are very kind.</text>
+<text id="60000210">Please take this. I no longer need it.</text>
+<text id="60000220">May the Lord guide thee.</text>
+<text>#0Talk-2nd time after choosing "Yes" to the 1st or 2nd query</text>
+<text id="60000220">May the Lord guide thee.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="60005100">Hrk!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="60005110">Erg!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="60005120">Ooh!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="60005000">Hmph, you humans...</text>
+<text id="60005010">...always taking what you please. Then, I shall do the same.</text>
+<text>#0Upon killing the protagonist</text>
+<text id="60005200">Hmph, such conceit...</text>
+<text id="60005210">How did you imagine that the Lord's Blade would not reach you?</text>
+<text>#0Upon dying</text>
+<text id="60005300">But, how...</text>
+<text id="60005310">You humans...</text>
 <text id="60000000">##...Human...</text>
 <text id="60000010">##...Why have you the ring of Artorias?</text>
 <text id="60000011">##...Why have you the soul of Artorias?</text>
@@ -11,33 +53,5 @@
 <text id="60000140">##He was a dear companion,
 and I wish to return the ring to his grave.</text>
 <text id="60000150">##Would you be willing to part with it?</text>
-<text id="60000200">Thank you. You are very kind.</text>
-<text id="60000210">Please take this. I no longer need it.</text>
-<text id="60000220">May the Lord guide thee.</text>
-<text id="60000300">Yes, of course...</text>
-<text id="60000310">...</text>
-<text id="60000320">...I must not be presumptuous.</text>
-<text id="60000330">Artorias would not have approved.</text>
-<text id="60000400">What is it? Something else?</text>
-<text id="60000410">Have you changed your mind?</text>
-<text id="60000500">...Then you have no business with me...</text>
-<text id="60000600">...Are you human?</text>
-<text id="60000610">...I forgive you.</text>
-<text id="60000620">I am here to pay respects to a dear friend.</text>
-<text id="60000630">Please, allow me a moment alone.</text>
-<text id="60000700">...You, is that not...</text>
-<text id="60000710">The soul of the man who fell on this spot?</text>
-<text id="60000720">He was a dear friend.
-I wish to pay proper respect, with that soul.</text>
-<text id="60000730">Would you be willing to part with it?</text>
-<text id="60005000">Hmph, you humans...</text>
-<text id="60005010">...always taking what you please. Then, I shall do the same.</text>
 <text id="60005011">##...always resorting to force. Then, I shall do the same.</text>
-<text id="60005100">Hrk!</text>
-<text id="60005110">Erg!</text>
-<text id="60005120">Ooh!</text>
-<text id="60005200">Hmph, such conceit...</text>
-<text id="60005210">How did you imagine that the Lord's Blade would not reach you?</text>
-<text id="60005300">But, how...</text>
-<text id="60005310">You humans...</text>
 </entries>

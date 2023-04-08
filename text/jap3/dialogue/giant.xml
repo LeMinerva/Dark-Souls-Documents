@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0話しかけた</text>
 <text id="50000000">あんた、誰？</text>
+<text>#0話しかけた:選択肢【友情を示す】</text>
 <text id="50000100">いつでもばんぜん</text>
 </entries>

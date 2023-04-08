@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="28000000">Well, this is a surprise.
 I don't get many visitors, except for ghosts.</text>
 <text id="28000001">Do you have some business here?</text>
 <text id="28000002">My name is Ingward.</text>
 <text id="28000003">I'm an old man, bound to these parts.</text>
 <text id="28000004">But I don't mind a chat. I may even be of some help.</text>
+<text>#0Talk-1st time while Cursed</text>
 <text id="28000100">Well, this is a surprise.
 I don't get many visitors, except ghosts.</text>
 <text id="28000101">Oh, cursed, are you? Is that what brings you to me?</text>
@@ -15,49 +17,124 @@ I don't get many visitors, except ghosts.</text>
 <text id="28000105">But cleansing your curses; that I can do.</text>
 <text id="28000106">The breaking of curses is the territory of deities.
 You must be prepared to give some of yourself.</text>
+<text>#0Talk-2nd time</text>
+<text id="28002000">I am the Guardian of the Seal.</text>
+<text id="28002001">I watch over the Four Kings, the masters of the Darkwraiths.</text>
+<text id="28002002">The Darkwraiths are the enemies of man,
+and any living thing that has a soul.</text>
+<text id="28002003">They were born in New Londo, and that is where they perished;
+the entire city was sacrificed to contain them.</text>
+<text id="28002004">...For that is how great a threat they were...</text>
+<text>#0Talk-Meeting after receiving the Lordvessel</text>
+<text id="28001600">Well, this is a surprise.
+I get few visitors, save for ghosts.</text>
+<text id="28001601">You have...the Lordvessel.</text>
+<text id="28001502">I know exactly what your intentions are.</text>
+<text id="28001503">You seek the Four Kings whom I guard over.</text>
+<text id="28001902">This is the key to the seal.</text>
+<text id="28001903">The Four Kings slumber in the deepest chamber of the ruins.</text>
+<text id="28001904">Use this key to break the seal and open the floodgates.</text>
+<text id="28001905">...Oh, and do not forget...</text>
+<text id="28001906">The Darkwraiths reside in a dark void called the Abyss.</text>
+<text id="28001907">But the Abyss is no place for ordinary mortals.</text>
+<text id="28001908">Although long ago, the knight Artorias traversed the Abyss.</text>
+<text id="28001909">If you can find him, and learn from him,
+the Abyss may prove surmountable.</text>
+<text>#0Talk-2nd time after receiving the Lordvessel</text>
+<text id="28000900">Hello there. What is it?</text>
+<text id="28000901">The key to the seal is now in your hands.
+I will help you in any way possible.</text>
+<text>#0Talk-3nd time</text>
 <text id="28000200">Hello again. How are you?</text>
+<text>#0Talk-3nd time after meeting while Cursed</text>
 <text id="28000201">Oh, hello there. How are you?</text>
 <text id="28000202">I don't mind a chat. I may even be of some help.</text>
+<text>#0Talk-After leaving the New Londo Ruins and returning</text>
 <text id="28000300">Hello, there. Where have you been? I'm glad to see you well.</text>
 <text id="28000301">How can I be of assistance?</text>
+<text>#0Menu-Choose "Talk"</text>
+<text id="28002100">New Londo was sacrificed to contain the Darkwraiths.</text>
+<text id="28002101">Mark my words. The Darkwraiths are the enemies of man,
+and any living thing that has a soul.</text>
+<text id="28002102">They were never meant to roam again.</text>
+<text>#0Talk-While Cursed for the 1st time after meeting previously</text>
 <text id="28000400">Well, hello there. Have you been cursed?</text>
 <text id="28000401">That can be quite onerous. But not to worry.</text>
 <text id="28000402">Such cleansing, I am happy to administer.</text>
 <text id="28000403">But the breaking of curses is the territory of deities.
 You must be prepared for sacrifice.</text>
+<text>#0Talk-While Cursed a 2nd time after meeting previously</text>
 <text id="28000500">Hello, there. Cursed again?</text>
 <text id="28000501">I do not know whether you are brave, or just foolish,
 but you do seem to find your share of trouble.</text>
-<text id="28000502">##How do you manage to find so much trouble?</text>
-<text id="28000900">Hello there. What is it?</text>
-<text id="28000901">The key to the seal is now in your hands.
-I will help you in any way possible.</text>
+<text>#0Talk-After receiving the Lordvessel from the illusion of Gwynevere</text>
+<text id="28001500">Oh, hello. You've acquired the Lordvessel, have you?</text>
+<text id="28001501">Very impressive.</text>
+<text id="28001502">I know exactly what your intentions are.</text>
+<text id="28001503">You seek the Four Kings whom I guard over.</text>
+<text id="28001902">This is the key to the seal.</text>
+<text id="28001903">The Four Kings slumber in the deepest chamber of the ruins.</text>
+<text id="28001904">Use this key to break the seal and open the floodgates.</text>
+<text id="28001905">...Oh, and do not forget...</text>
+<text id="28001906">The Darkwraiths reside in a dark void called the Abyss.</text>
+<text id="28001907">But the Abyss is no place for ordinary mortals.</text>
+<text id="28001908">Although long ago, the knight Artorias traversed the Abyss.</text>
+<text id="28001909">If you can find him, and learn from him,
+the Abyss may prove surmountable.</text>
+<text>#0Talk-After opening the Seal, after placing the Lordvessel in Frampt's presence</text>
 <text id="28001000">...You've broken the seal, have you?...</text>
 <text id="28001001">...</text>
 <text id="28001002">No, I have no regrets.
 My trust lies with you, and Frampt.</text>
+<text id="28001004">But you cannot proceed without being able to traverse the Abyss.</text>
+<text>#0Talk-After opening the Seal, if Lordvessel wasn't placed  in Frampt's presence</text>
+<text id="28001000">...You've broken the seal, have you?...</text>
+<text id="28001001">...</text>
 <text id="28001003">No, I have no regrets. For I trust in you.</text>
 <text id="28001004">But you cannot proceed without being able to traverse the Abyss.</text>
+<text>#0Menu-Choose "Talk" 1st time after opening the Seal</text>
+<text id="28002200">Long ago, the Four Kings were powerful men.
+Only, their hearts were weak.</text>
+<text id="28002201">When an evil serpent dangled
+the art of Lifedrain before them,</text>
+<text id="28002202">they were unable to resist, and became pawns of evil.</text>
+<text>#0Menu-Choose "Talk" 2nd time after opening the Seal</text>
 <text id="28001100">According to legend,
 the knight Artorias crossed the Abyss,</text>
 <text id="28001101">and annihilatedthe atrocious Darkwraiths.</text>
 <text id="28001102">If you can find him, and learn from him,
 the Abyss may prove surmountable.</text>
+<text>#0Talk-After defeating the Four Kings</text>
 <text id="28001200">...Magnificent. You defeated the Four Kings.</text>
 <text id="28001201">Impressive, even for a bearer of the Lordvessel.</text>
 <text id="28001202">And with this, my purpose is exhausted.</text>
 <text id="28001203">I have not seen the sun for a long time.</text>
 <text id="28001204">Perhaps I could do with a change...</text>
+<text>#0Talk-1st time</text>
 <text id="28001300">Oh, hello.</text>
 <text id="28001301">The sunlight made me wince,
 and now I've come back to this dark hole!</text>
 <text id="28001302">So, what brings you here? I will help you in any way I can.</text>
+<text>#0Talk-2nd time</text>
 <text id="28001400">Oh, hello.</text>
 <text id="28001401">What is it? I will help you in any way that I can.</text>
-<text id="28001500">Oh, hello. You've acquired the Lordvessel, have you?</text>
-<text id="28001501">Very impressive.</text>
-<text id="28001502">I know exactly what your intentions are.</text>
-<text id="28001503">You seek the Four Kings whom I guard over.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="28002300">What! No!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="28002301">What are you doing!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="28002302">Cease!</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="28002303">Stop that!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="28002304">Sigh...</text>
+<text id="28002305">You are no different from the rest...</text>
+<text id="28002306">So be it! I am Ingward, the guardian of the seal.</text>
+<text id="28002307">Prepare to meet your doom!</text>
+<text>#0Upon dying</text>
+<text id="28002308">Ohh...ogghh...How could I allow this...</text>
+<text id="28002309">Forgive me...my countrymen...</text>
+<text id="28000502">##How do you manage to find so much trouble?</text>
 <text id="28001504">##And yes, I do have the key to the seal.</text>
 <text id="28001505">##But before I give it up, there is something I must ask.</text>
 <text id="28001506">##Do you see the great hall that stands before you?</text>
@@ -69,48 +146,10 @@ a servant of the Four Kings.</text>
 you will be no match for the Four Kings.</text>
 <text id="28001511">##Even if Frampt has chosen you.</text>
 <text id="28001512">##Even if you are the bearer of the Lordvessel.</text>
-<text id="28001600">Well, this is a surprise.
-I get few visitors, save for ghosts.</text>
-<text id="28001601">You have...the Lordvessel.</text>
 <text id="28001800">##Hate to ask, really.</text>
 <text id="28001801">##But I am the Guardian of the Seal.
 I have seen too many lives wasted over the eons.</text>
 <text id="28001802">##So, I had no choice but to test your mettle.</text>
 <text id="28001900">##You, you have defeated the Darkwraith!</text>
 <text id="28001901">##Very good, indeed. I can certainly trust you.</text>
-<text id="28001902">This is the key to the seal.</text>
-<text id="28001903">The Four Kings slumber in the deepest chamber of the ruins.</text>
-<text id="28001904">Use this key to break the seal and open the floodgates.</text>
-<text id="28001905">...Oh, and do not forget...</text>
-<text id="28001906">The Darkwraiths reside in a dark void called the Abyss.</text>
-<text id="28001907">But the Abyss is no place for ordinary mortals.</text>
-<text id="28001908">Although long ago, the knight Artorias traversed the Abyss.</text>
-<text id="28001909">If you can find him, and learn from him,
-the Abyss may prove surmountable.</text>
-<text id="28002000">I am the Guardian of the Seal.</text>
-<text id="28002001">I watch over the Four Kings, the masters of the Darkwraiths.</text>
-<text id="28002002">The Darkwraiths are the enemies of man,
-and any living thing that has a soul.</text>
-<text id="28002003">They were born in New Londo, and that is where they perished;
-the entire city was sacrificed to contain them.</text>
-<text id="28002004">...For that is how great a threat they were...</text>
-<text id="28002100">New Londo was sacrificed to contain the Darkwraiths.</text>
-<text id="28002101">Mark my words. The Darkwraiths are the enemies of man,
-and any living thing that has a soul.</text>
-<text id="28002102">They were never meant to roam again.</text>
-<text id="28002200">Long ago, the Four Kings were powerful men.
-Only, their hearts were weak.</text>
-<text id="28002201">When an evil serpent dangled
-the art of Lifedrain before them,</text>
-<text id="28002202">they were unable to resist, and became pawns of evil.</text>
-<text id="28002300">What! No!</text>
-<text id="28002301">What are you doing!</text>
-<text id="28002302">Cease!</text>
-<text id="28002303">Stop that!</text>
-<text id="28002304">Sigh...</text>
-<text id="28002305">You are no different from the rest...</text>
-<text id="28002306">So be it! I am Ingward, the guardian of the seal.</text>
-<text id="28002307">Prepare to meet your doom!</text>
-<text id="28002308">Ohh...ogghh...How could I allow this...</text>
-<text id="28002309">Forgive me...my countrymen...</text>
 </entries>

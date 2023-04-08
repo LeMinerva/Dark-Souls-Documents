@@ -1,8 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="6000000">Name thyself, stranger.</text>
 <text id="6000001">I am Yorshka. Captain of the Darkmoon Knights.</text>
 <text id="6000002">What beckoned thee to such a place?</text>
+<text>#0Choose "Do Nothing" to the 1st query</text>
+<text id="6000200">If thou'st come stumbling here in error,
+I bid thee leave anon.</text>
+<text id="6000201">This tower is a prison.
+Thy presence shall invoke the ire of the tyrant, Sulyvahn.</text>
+<text id="6000202">Though 'twas a rare delight to converse with another.
+My thanks, strange visitor.</text>
+<text id="6000203">May the Darkmoon watch over thee.</text>
+<text>#0Talk-After choosing "Do Nothing" to the 1st query</text>
+<text id="6000300">Thou think'st to remain?</text>
+<text id="6000301">This tower is a prison.
+Thy presence shall invoke the ire of the tyrant, Sulyvahn.</text>
+<text id="6000302">I bid thee leave, anon.</text>
+<text id="6000303">May the Darkmoon watch over thee.</text>
+<text>#0Choose "Perform Darkmoon Loyalty" to either the 1st or 2nd query</text>
 <text id="6000100">Thou think'st to-</text>
 <text id="6000101">Very well. Captain to this knightless company, I remain.</text>
 <text id="6000102">I will grant thee purpose.</text>
@@ -15,27 +31,10 @@ and the power, of the Darkmoon.</text>
 <text id="6000108">Thou'rt now a Blade of the Darkmoon.</text>
 <text id="6000109">The only knight of our company.</text>
 <text id="6000110">Swear this oath, and face thy solemn duty.</text>
-<text id="6000200">If thou'st come stumbling here in error,
-I bid thee leave anon.</text>
-<text id="6000201">This tower is a prison.
-Thy presence shall invoke the ire of the tyrant, Sulyvahn.</text>
-<text id="6000202">Though 'twas a rare delight to converse with another.
-My thanks, strange visitor.</text>
-<text id="6000203">May the Darkmoon watch over thee.</text>
-<text id="6000300">Thou think'st to remain?</text>
-<text id="6000301">This tower is a prison.
-Thy presence shall invoke the ire of the tyrant, Sulyvahn.</text>
-<text id="6000302">I bid thee leave, anon.</text>
-<text id="6000303">May the Darkmoon watch over thee.</text>
-<text id="6000400">Thou art return'd?</text>
-<text id="6000401">This tower is a prison.
-Thy presence shall invoke the ire of the tyrant, Sulyvahn.</text>
-<text id="6000402">I bid thee leave, anon.</text>
-<text id="6000403">May the Darkmoon watch over thee.</text>
+<text>#0Kneel-After joining the Blade of the Darkmoon Covenant</text>
 <text id="6000500">Oh, good Blade of the Darkmoon, welcome home.</text>
 <text id="6000501">If I can provide thee succour, only tell me how.</text>
-<text id="6000600">Off so soon?</text>
-<text id="6000601">May the Darkmoon watch over thee.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="6000700">Long ago, our father Gwyn,
 lamenting the waning of the fire, became cinder of his own will.</text>
 <text id="6000701">Now, the fire is linked by the champions
@@ -47,19 +46,23 @@ to watch over those who link the fire.</text>
 <text id="6000704">Only its covenant was preserved, to this day,
 until the time of thy visit.</text>
 <text id="6000705">Heirdom taketh many forms, indeed.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="6000800">May I pose thee a question?</text>
 <text id="6000801">This tower, this prison, stands tall and solitary,
 the contraption bridging its lower reaches long unmoving.</text>
 <text id="6000802">So...by what path didst thou here ascend?</text>
 <text id="6000803">Art thou a creature of the air, or other winged thing?</text>
+<text>#0Choose "No, I can't fly" to the 3rd query</text>
+<text id="6001000">No, of course not.</text>
+<text id="6001001">Forgive my prying. Think no more on mine asking.</text>
+<text id="6001002">I am ashamed to say, I know very little, of anything...</text>
+<text>#0Choose "Yes, I can fly" to the 3rd query</text>
 <text id="6000900">Oh, my! I imagined it might be so.</text>
 <text id="6000901">Then thou'rt a dragon, or perhaps a crow?</text>
 <text id="6000902">Well, whatever thou beest, thou'rt wondrous strange,
 yet strangely familiar, visitor.</text>
 <text id="6000903">...</text>
-<text id="6001000">No, of course not.</text>
-<text id="6001001">Forgive my prying. Think no more on mine asking.</text>
-<text id="6001002">I am ashamed to say, I know very little, of anything...</text>
+<text>#0Menu-Choose "Talk" after deeping Blades of Darkmoon</text>
 <text id="6001100">The Darkmoon Knights were once led by my elder brother,
 the Dark Sun Gwyndolin.</text>
 <text id="6001101">But he was stricken by illness,
@@ -70,29 +73,7 @@ and took me prisoner.</text>
 <text id="6001104">If only he were here, I would be most pleased for ye both to meet.</text>
 <text id="6001105">As, most assuredly, would he.</text>
 <text id="6001106">...</text>
-<text id="6001200">##Oh, this is...my brother's...finger.</text>
-<text id="6001201">##How it has thinned and withered...</text>
-<text id="6001300">##Oh, my thanks.
-I'm certain thou'st given my brother peace.</text>
-<text id="6001301">##It is not much, but take this ring.</text>
-<text id="6001302">##It is not much, but please take this.</text>
-<text id="6001303">##As my thanks, not as a captain,
-but as sister to the Dark Sun Gwyndolin.</text>
-<text id="6001304">##...Thou'st granted me my brother's touch, one last time...</text>
-<text id="6001400">...</text>
-<text id="6001401">...</text>
-<text id="6001500">...</text>
-<text id="6001502">Dear brother, forgive me...</text>
-<text id="6001503">##There is no one left...</text>
-<text id="6001600">...</text>
-<text id="6001601">...</text>
-<text id="6001603">Please, stop this!</text>
-<text id="6001604">Thou'rt no true knight!</text>
-<text id="6001700">...</text>
-<text id="6001702">##Dear brother, forgive me...</text>
-<text id="6001703">##I have been deceived...</text>
-<text id="6001704">##This man is a grave threat...</text>
-<text id="6001705">##This woman is a grave threat...</text>
+<text>#0Menu-Choose "Talk" after deeping Blades of Darkmoon to rank 1</text>
 <text id="6001800">My Blade of the Darkmoon, thy deeds merit great worship.</text>
 <text id="6001801">As Captain,
 'tis my duty to honour knights of great accomplishment.</text>
@@ -101,6 +82,7 @@ but as sister to the Dark Sun Gwyndolin.</text>
 and Sister Gwynevere,</text>
 <text id="6001805">Persevere in thy knightly duty,
 hunting down the gods' would-be foes.</text>
+<text>#0Menu-Choose "Talk" after deeping Blades of Darkmoon to rank 2</text>
 <text id="6001900">My Blade of the Darkmoon, thy deeds merit great worship.</text>
 <text id="6001901">I, Yorshka, captain of this company, hereby recognise thy service.</text>
 <text id="6001802">This is a wonder of the Darkmoon,
@@ -114,4 +96,43 @@ hunting down the gods' would-be foes.</text>
 Of the shining new hope that joined our dear company.</text>
 <text id="6001906">I speak of thee, of course.</text>
 <text id="6001907">...</text>
+<text>#0Menu-Choose "Leave", or abruptly leave</text>
+<text id="6000600">Off so soon?</text>
+<text id="6000601">May the Darkmoon watch over thee.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="6001400">...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="6001401">...</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="6001500">...</text>
+<text>#0Upon being attacked-1st time, after joining the Blade of the Darkmoon</text>
+<text id="6001600">...</text>
+<text>#0Upon being attacked-2nd time, after joining the Blade of the Darkmoon</text>
+<text id="6001601">...</text>
+<text>#0Upon being attacked-3rd time, after joining the Blade of the Darkmoon</text>
+<text id="6001603">Please, stop this!</text>
+<text>#0Upon being attacked-4th time, after joining the Blade of the Darkmoon</text>
+<text id="6001604">Thou'rt no true knight!</text>
+<text>#0Upon dying</text>
+<text id="6001502">Dear brother, forgive me...</text>
+<text id="6000400">##Thou art return'd?</text>
+<text id="6000401">##This tower is a prison.
+Thy presence shall invoke the ire of the tyrant, Sulyvahn.</text>
+<text id="6000402">##I bid thee leave, anon.</text>
+<text id="6000403">##May the Darkmoon watch over thee.</text>
+<text id="6001700">##...</text>
+<text id="6001200">##Oh, this is...my brother's...finger.</text>
+<text id="6001201">##How it has thinned and withered...</text>
+<text id="6001300">##Oh, my thanks.
+I'm certain thou'st given my brother peace.</text>
+<text id="6001301">##It is not much, but take this ring.</text>
+<text id="6001302">##It is not much, but please take this.</text>
+<text id="6001303">##As my thanks, not as a captain,
+but as sister to the Dark Sun Gwyndolin.</text>
+<text id="6001304">##...Thou'st granted me my brother's touch, one last time...</text>
+<text id="6001503">##There is no one left...</text>
+<text id="6001702">##Dear brother, forgive me...</text>
+<text id="6001703">##I have been deceived...</text>
+<text id="6001704">##This man is a grave threat...</text>
+<text id="6001705">##This woman is a grave threat...</text>
 </entries>

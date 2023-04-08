@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="48000000">Is it not so that thou art new.</text>
 <text id="48000001">Thou fared well to find me.</text>
 <text id="48000002">But cometh thee not for
@@ -9,6 +10,11 @@ the grave of Sir Artorias?</text>
 <text id="48000005">...Traversing the dark? 'Tis but a fairy tale.</text>
 <text id="48000006">Have thine own respect,
 go not yonder knocking for nothing, I say!</text>
+<text>#0Choose "No" to the 1st query</text>
+<text id="48000700">Hmm, I see. A result most heathenish and gross.</text>
+<text id="48000701">Then there is nothing more to say about this tedious reckoning.</text>
+<text id="48000702">Be gone from here. Pernicious caitiff.</text>
+<text>#0Choose "Yes" to the 1st query</text>
 <text id="48000100">Well indeed, thou art a strange one!
 Nevertheless, I feel some liking for thee.</text>
 <text id="48000101">I'm Alvina of the Darkroot Wood.</text>
@@ -16,6 +22,16 @@ Nevertheless, I feel some liking for thee.</text>
 who track down defilers of the forest graves.</text>
 <text id="48000103">What dost thou say? Wilt thou not join us?</text>
 <text id="48000104">Oh yes, I believe we would suit thee well.</text>
+<text>#0Choose "No" to the 2nd or 3rd query</text>
+<text id="48000500">Oh, I see. 'Tis a pity indeed.</text>
+<text id="48000501">But this is thine stubborn choice alone.
+I cannot enforce it upon thee.</text>
+<text id="48000502">If thine mind should be alter'd,
+forsooth speak to me once more.</text>
+<text>#0Talk- After choosing "No" to the 2nd or 3rd query</text>
+<text id="48000600">Oh, thou art here.</text>
+<text id="48000601">Tell me thou hast thought on't once more and will join us?</text>
+<text>#0Choose "Yes" to the 2nd or 3rd query</text>
 <text id="48000200">I am very glad!</text>
 <text id="48000201">And now thou art one of us! Let us establish a Covenant.</text>
 <text id="48000202">And here, taketh this ring.</text>
@@ -31,11 +47,14 @@ and whatsoever ye shall pillage will be thine own.</text>
 <text id="48000210">The clan is thine own family. To thine kinsmen forever stay true.</text>
 <text id="48000211">Dare'st not in any attempt to double-cross.
 Have no doubt, such wretchedness, never will we tolerate.</text>
+<text>#0Talk-As A member of the Forest Hunters Covenant</text>
 <text id="48000300">Ah, thou dost cometh. How fares ye?</text>
 <text id="48000301">My hopes for thee are of the highest.
 Do not such a hope shatter with foul disproportion.</text>
+<text>#0Talk-After vanquishing first Forest Invader as a Forest Hunters Member</text>
 <text id="48000302">Ah yes, here is thine reward. It is for thee, take it!</text>
 <text id="48000303">Make no attempt to show thineself as Hollow!</text>
+<text>#0Talk-After vanquishing 3 Forest Invader as a Forest Hunters Member</text>
 <text id="48000400">Oh, thou art present!</text>
 <text id="48000401">Shiva hath spoken of thee. I like that which I hear!</text>
 <text id="48000402">I have heard murmuring about thee. I like that which I hear!</text>
@@ -43,25 +62,7 @@ Do not such a hope shatter with foul disproportion.</text>
 <text id="48000404">The very moment mine eyes first set upon thee.</text>
 <text id="48000405">Here's a precious reward. It is for thee, take it.</text>
 <text id="48000406">May thine skill earn thee many more!</text>
-<text id="48000500">Oh, I see. 'Tis a pity indeed.</text>
-<text id="48000501">But this is thine stubborn choice alone.
-I cannot enforce it upon thee.</text>
-<text id="48000502">If thine mind should be alter'd,
-forsooth speak to me once more.</text>
-<text id="48000600">Oh, thou art here.</text>
-<text id="48000601">Tell me thou hast thought on't once more and will join us?</text>
-<text id="48000700">Hmm, I see. A result most heathenish and gross.</text>
-<text id="48000701">Then there is nothing more to say about this tedious reckoning.</text>
-<text id="48000702">Be gone from here. Pernicious caitiff.</text>
-<text id="48000800">Dee hee hee, dee hee hee!</text>
-<text id="48000801">What a fool we have, what a wretched fool we have!</text>
-<text id="48000900">Oh, it is thee...</text>
-<text id="48000901">Thine kinsmen are betrayed by thee. This doth bode most badly. </text>
-<text id="48000902">No rest will ease thy rotten soul
-whilst there is one clansman living...</text>
-<text id="48000903">Forever tormented thou shalt be by our very howls...</text>
-<text id="48000904">Hellish villain, thou hast used us most foully, thine own family...</text>
-<text id="48000905">For thee, no mercy shall be shown.</text>
+<text>#0Talk-After vanquishing 4 Forest Invader as a Forest Hunters Member</text>
 <text id="48001000">Perchance...</text>
 <text id="48001001">Hast thou met Shiva?</text>
 <text id="48001002">A lad cometh from the far East, strong of arm;
@@ -72,4 +73,15 @@ now a clan leader of ours.</text>
 Yet on guard we must stay.</text>
 <text id="48001006">And that man that clingeth to Shiva like some shadow...
 ensure thou dost treat him with the same caution.</text>
+<text>#0After becoming hostile after betraying the Forest Hunters Covenant</text>
+<text id="48000900">Oh, it is thee...</text>
+<text id="48000901">Thine kinsmen are betrayed by thee. This doth bode most badly. </text>
+<text id="48000902">No rest will ease thy rotten soul
+whilst there is one clansman living...</text>
+<text id="48000903">Forever tormented thou shalt be by our very howls...</text>
+<text id="48000904">Hellish villain, thou hast used us most foully, thine own family...</text>
+<text id="48000905">For thee, no mercy shall be shown.</text>
+<text>#0Upon being attacked</text>
+<text id="48000800">Dee hee hee, dee hee hee!</text>
+<text id="48000801">What a fool we have, what a wretched fool we have!</text>
 </entries>

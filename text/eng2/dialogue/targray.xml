@@ -1,15 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="78500000">Transient being.</text>
 <text id="78500010">This is no place for one such as you.</text>
 <text id="78500020">Be gone.
 You are not needed.</text>
+<text>#0Talk-2nd time</text>
 <text id="78500100">Transient being,
 nothing has changed.</text>
 <text id="78500110">You would never make a Knight of the Blue,
 and I have nothing more to say.</text>
 <text id="78500120">Be gone.
 You are not needed.</text>
+<text>#0Talk-After acquiring a Token of Fidelity</text>
 <text id="78500200">Transient being.</text>
 <text id="78500210">You have obtained proof, you are worthy of joining our Order.</text>
 <text id="78500220">You may call yourself one of us,
@@ -18,6 +21,17 @@ and are free to plant your roots in this garden of the gods.</text>
 I, Targray, do proclaim,
 from this day, you are a Knight of the Blue.</text>
 <text id="78500250">Rejoice, and bask in your new honour.</text>
+<text>#0Choose "No" to the 1st query</text>
+<text id="78500400">Do my ears deceive me?</text>
+<text id="78500410">Who would refuse such magnificence?</text>
+<text id="78500420">Gods, have mercy...on this halfwit.
+He knows not what he speaks.</text>
+<text>#0Talk-After choosing "No" to the 1st query</text>
+<text id="78500500">You are a wandering transient.</text>
+<text id="78500510">Do you rescind your ways, and seek honour as an apostle of blue?</text>
+<text>#0Choose "No" to the 2nd query</text>
+<text id="78500600">Ohh Gods...have mercy...</text>
+<text>#0Choose "Yes" to either the 1st or 2nd query</text>
 <text id="78500300">You are no longer a mere vagabond.
 You are now a guardian, a Knight of the Blue.</text>
 <text id="78500310">Proud knight, take this.</text>
@@ -28,26 +42,22 @@ You are now a guardian, a Knight of the Blue.</text>
 the way they elevate themselves to a higher plane.</text>
 <text id="78500360">I'll provide what you need.
 You may visit me at any time.</text>
-<text id="78500400">Do my ears deceive me?</text>
-<text id="78500410">Who would refuse such magnificence?</text>
-<text id="78500420">Gods, have mercy...
-on this halfwit.
-He knows not what he speaks.</text>
-<text id="78500500">You are a wandering transient.</text>
-<text id="78500510">Do you rescind your ways, and seek honour as an apostle of blue?</text>
-<text id="78500600">Ohh Gods...have mercy...</text>
+<text>#0Talk-After choosing "Yes" to either the 1st or 2nd query</text>
 <text id="78500700">Proud knight, you may come to me,
 Targray, for help.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="78500800">We Knights of the Blue must rely upon
 one another to achieve our greater goal.</text>
 <text id="78500810">Present your Token of Fidelity.</text>
 <text id="78500820">Take your Token of Fidelity, and stand there.</text>
 <text id="78500830">...to test your strength against other knights.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="78500900">Proud knight,
 aim high in all things.</text>
 <text id="78500910">We knights must protect the apostles of blue.</text>
 <text id="78500920">Never forget this fact,
 and by your honour, never eschew your training.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="78501000">There are others in this forsaken place
 who have only a lust for blood.</text>
 <text id="78501010">They conspire to ambush blue apostles on the road.</text>
@@ -56,34 +66,46 @@ from these bloodthirsty brigands.</text>
 <text id="78501030">Take pride in your duty as a Blue Knight.</text>
 <text id="78501040">Work hard,
 and pursue a higher plane.</text>
-<text id="78501100">##Ooh... Ooooh... Unthinkable...</text>
-<text id="78501110">##Be gone... And be forever transient.</text>
-<text id="78501200">##Be gone... There is no mercy for your kind.</text>
-<text id="78501300">Pursue your work,
-Knight of the Blue.</text>
-<text id="78501400">Do your work, and I will lend you strength.</text>
-<text id="78501500">Go,
-and be proud.</text>
+<text>#0Talk-After reaching rank +1 as a member of the Blue Sentinels Covenant</text>
 <text id="78501700">You've achieved much, and approached a higher plane.</text>
 <text id="78501710">But our path is long and arduous.</text>
 <text id="78501720">We must always seek
 further challenges.</text>
+<text>#0Talk-After reaching rank +2 as a member of the Blue Sentinels Covenant</text>
 <text id="78501800">Knight of the Blue,
 you have accomplished much.</text>
 <text id="78501810">You are closer still
 to a higher plane.</text>
 <text id="78501820">You will continue to lead the weak and misguided.</text>
 <text id="78501830">May you always stand proud.</text>
+<text>#0Talk-After reaching rank +3 as a member of the Blue Sentinels Covenant</text>
 <text id="78501900">We walk along an endless path.</text>
 <text id="78501910">Along the way, we see glimpses of a higher plane.</text>
 <text id="78501920">We challenge ourselves,
 until we breathe our last breath.</text>
-<text id="78505000">You are my greatest challenge.</text>
-<text id="78505010">Welcome back, my greatest challenge.</text>
-<text id="78505020">By my knight's honour...</text>
-<text id="78505060">This is the ultimate challenge...</text>
-<text id="78505070">Great Sentinel...lead me home...</text>
-<text id="78506000">Brave knight...be proud.</text>
+<text>#0Menu-Choose "Talk" As a rank +3 member of the Blue Sentinels Covenant</text>
 <text id="78507000">Take these.</text>
 <text id="78507010">May you achieve great things.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="78501400">Do your work, and I will lend you strength.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="78501300">Pursue your work,
+Knight of the Blue.</text>
+<text>#0After leaving abruptly</text>
+<text id="78501500">Go,
+and be proud.</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="78505000">You are my greatest challenge.</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="78505010">Welcome back, my greatest challenge.</text>
+<text>#0Upon killing the protagonist</text>
+<text id="78505020">By my knight's honour...</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="78505060">This is the ultimate challenge...</text>
+<text>#0Upon dying</text>
+<text id="78505070">Great Sentinel...lead me home...</text>
+<text id="78501100">##Ooh... Ooooh... Unthinkable...</text>
+<text id="78501110">##Be gone... And be forever transient.</text>
+<text id="78501200">##Be gone... There is no mercy for your kind.</text>
+<text id="78506000">##Brave knight...be proud.</text>
 </entries>

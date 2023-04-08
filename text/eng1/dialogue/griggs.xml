@@ -1,34 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After approaching the door of the building he is trapped in</text>
 <text id="14000000">Somebody! Please, let me out of here!</text>
 <text id="14000001">Somebody, anybody!</text>
 <text id="14000002">Help me! Unlock the door!</text>
 <text id="14000003">...Damn...</text>
 <text id="14000004">...I'm finished...</text>
 <text id="14000005">How did this ever happen...</text>
-<text id="14000020">##Hello! Hello!</text>
-<text id="14000021">##You, yes! You! I'm here, here!</text>
-<text id="14000022">##I'm trapped! Please! I require assistance!</text>
-<text id="14000023">##Try and open the door!</text>
-<text id="14000024">##...</text>
+<text>#0Talk-1st time after using the Residence Key to open the door he is locked</text>
 <text id="14000040">Brilliant! You opened the door for me!</text>
 <text id="14000041">Thank you; I am saved. I thought I might never escape.</text>
 <text id="14000042">I am Griggs of Vinheim. A sorcerer of the school.</text>
 <text id="14000043">I am much obliged for your assistance.</text>
 <text id="14000044">Thanks to you, I may now resume my travels.</text>
+<text>#0Talk-2nd time after using the Residence Key to open the door he is locked</text>
 <text id="14000100">Oh, hello.</text>
 <text id="14000101">I am fine. I will rest a while, then return to Firelink Shrine.</text>
 <text id="14000102">I have my sorcery. And I will be more cautious next time.</text>
 <text id="14000103">Besides, I have an important task at hand.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="14000200">Ooph!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="14000220">Eeg!</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="14000240">What on Earth are you...!</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="14000260">Cease! I implore you!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="14000300">Curses, you leave me no choice!</text>
 <text id="14000301">You aren't yourself any more.</text>
 <text id="14000302">Forgive me!</text>
+<text>#0Upon dying</text>
 <text id="14000400">Rrrg...</text>
 <text id="14000401">How could this...</text>
+<text>#0Talk-With less than 10 Intelligence</text>
+<text id="14010300">Oh, hello.</text>
+<text id="14010301">Terrific to see us both in one piece.</text>
+<text id="14010302">And pray that you never go Hollow! </text>
+<text>#0Talk-1st time with 10 Intelligence or more</text>
 <text id="14010000">Oh, hello.</text>
 <text id="14010001">I regret meeting you under such compromising circumstances.</text>
 <text id="14010002">At least we both made it back unscathed.</text>
@@ -36,28 +45,23 @@
 <text id="14010004">You're clearly talented, and besides, I owe you.</text>
 <text id="14010005">Of course, we will require some materials, but I am happy to
 teach you some elementary spells. Are you interested?</text>
-<text id="14010020">Splendid! Very well!</text>
-<text id="14010021">I am pleased to have a chance to give something back.</text>
-<text id="14010022">Well, then let's get started straight away.</text>
+<text>#0Choose "No" after talking with 10 Intelligence or more</text>
 <text id="14010040">Yes, I see...</text>
 <text id="14010041">It is regrettable, but to each his own.</text>
 <text id="14010042">If you change your mind, do not be bashful.</text>
-<text id="14010200">Oh, hello.</text>
-<text id="14010201">Well, you certainly are keeping at it.</text>
-<text id="14010202">Myself? I am fine. Let's get started straight away.</text>
+<text>#0Talk-After choosing "No"</text>
 <text id="14010220">Oh, hello.</text>
 <text id="14010221">What is it? Have you changed your mind?</text>
 <text id="14010222">I am praying that you will. For, I owe you my life.</text>
-<text id="14010300">Oh, hello.</text>
-<text id="14010301">Terrific to see us both in one piece.</text>
-<text id="14010302">And pray that you never go Hollow! </text>
-<text id="14010400">Good-bye, then.</text>
-<text id="14010401">Do stay safe.</text>
-<text id="14010500">All right. That'll do it.</text>
-<text id="14010501">That should help you on your journey.</text>
-<text id="14010502">May we meet again.</text>
-<text id="14010600">Hm? What's that?</text>
-<text id="14010700">No matter. Let us continue.</text>
+<text>#0Choose "Yes" after talking with 10 Intelligence or more</text>
+<text id="14010020">Splendid! Very well!</text>
+<text id="14010021">I am pleased to have a chance to give something back.</text>
+<text id="14010022">Well, then let's get started straight away.</text>
+<text>#0Talk-After choosing "Yes"</text>
+<text id="14010200">Oh, hello.</text>
+<text id="14010201">Well, you certainly are keeping at it.</text>
+<text id="14010202">Myself? I am fine. Let's get started straight away.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="14010800">Have you heard of Big Hat Logan?</text>
 <text id="14010801">Master Logan is a great sorcerer, and my teacher.</text>
 <text id="14010802">Both of us came to this land, as Undead.</text>
@@ -66,6 +70,7 @@ teach you some elementary spells. Are you interested?</text>
 <text id="14010805">But where does that leave me?</text>
 <text id="14010806">I have dedicated myself to sorcery.</text>
 <text id="14010807">But Master Logan could find no use for me...</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="14010900">Ahh, yes, the note that Master Logan left?</text>
 <text id="14010901">It only said he would travel to Anor Londo,
 by way of Sen's Fortress.</text>
@@ -76,6 +81,13 @@ he seeks the Regal Archives.</text>
 <text id="14010905">When the curse turned him Undead, I am certain that he only felt
 it was the perfect chance to visit this land.</text>
 <text id="14010906">I only wish that I had his courage...</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
+<text id="14012600">Two things are required for sorcery.</text>
+<text id="14012601">First, you must equip a wand.</text>
+<text id="14012602">Second, you must attune a sorcery.</text>
+<text id="14012603">Then you will be ready to fire away.</text>
+<text id="14012604">Oh and don't forget to aim!</text>
+<text>#0Menu-Choose "Talk" 4th time after resting at a Bonfire</text>
 <text id="14011000">I wish to do what I can to locate Master Logan.</text>
 <text id="14011001">I am aware of my shortcomings,
 but I cannot very well just sit around here and rot.</text>
@@ -84,21 +96,33 @@ but I cannot very well just sit around here and rot.</text>
 all the sorceries that I know.</text>
 <text id="14011004">I shall count myself lucky if I manage to locate Logan,
 or even return here in one piece.</text>
+<text>#0Talk-After Rhea &amp; company have arrived in Firelink Shrine</text>
+<text id="14012500">Did you see them?</text>
+<text id="14012501">The three young clerics...</text>
+<text id="14012502">headed for the Catacombs,
+to seek Kindling.</text>
+<text id="14012503">Kindling is the art of feeding bonfires.</text>
+<text id="14012504">The poor young girl, sent down into a tomb.</text>
+<text id="14012505">What a terrible mission she is burdened with.</text>
+<text>#0Talk-1st time after Logan has arrived at Firelink Shrine</text>
 <text id="14011200">Oh, hello again!</text>
 <text id="14011201">I was waiting to tell you...Master Logan has returned!</text>
 <text id="14011202">And he tells me that he has you to thank!</text>
 <text id="14011203">Well, we are both in your debt, now. Thank you, sincerely.</text>
 <text id="14011204">He's just over there. Go along and have a chat.</text>
+<text>#0Talk-2nd time after Logan has arrived at Firelink Shrine</text>
 <text id="14011300">Oh, hello.</text>
 <text id="14011301">I appreciate the attention,
 but you really should speak to Master Logan.</text>
 <text id="14011302">That will certainly do you more good.</text>
+<text>#0Menu-Choose "Talk" before buying sorceries from Logan</text>
 <text id="14011400">Have you spoken to Master Logan?</text>
 <text id="14011401">He is an accomplished scholar. The arts of sorcery
 would never have come this far without his contributions.</text>
 <text id="14011402">And he has the nerve to go risking life and limb!
 What a stubborn old fellow.</text>
 <text id="14011403">Hah hah hah hah!</text>
+<text>#0Menu-Choose "Talk" after buying sorceries from Logan</text>
 <text id="14011500">Have you ever cast one of Logan's spells?</text>
 <text id="14011501">Isn't it exhilarating?</text>
 <text id="14011502">As he sees it, there are no gods, no transcendence,
@@ -107,11 +131,13 @@ only truth, and Logan only wishes to elucidate it.</text>
 allowed Logan to advance sorcery to the point that he has.</text>
 <text id="14011504">In a word, he is a hero. Despite the awful rumours.</text>
 <text id="14011505">Time will tell. The annals of history will prove dispassionate!</text>
+<text>#0Talk-After Logan has left for the Duke's Archives</text>
 <text id="14011600">Oh, there you are! Just so you know...</text>
 <text id="14011601">Master Logan has left on his own again.</text>
 <text id="14011602">It seems that he is still determined
 to find the famed Regal Archives in Anor Londo.</text>
 <text id="14011603">And I have decided that I must search for him.</text>
+<text>#0Talk-1st time with 15 Intelligence or more after Logan has left</text>
 <text id="14011604">I intend to search for him.
 Only, before I leave, there is one thing I wish to do.</text>
 <text id="14011605">You see, Master Logan has left most of his books.</text>
@@ -119,46 +145,61 @@ Only, before I leave, there is one thing I wish to do.</text>
 <text id="14011607">...You have done much to assist me.</text>
 <text id="14011608">Before I leave on this journey,
 I will teach you all that Logan has to share.</text>
+<text>#0Talk-2nd time with 15 Intelligence or more after Logan has left</text>
 <text id="14011700">Oh, hello, you made it!</text>
 <text id="14011701">Then, let us begin.</text>
 <text id="14011702">As promised, I shall bequeath Master Logan's sorcery to you.</text>
+<text>#0Menu-Choose "Talk" after Logan has left for the Duke's Archives</text>
 <text id="14011800">It's not that I am concerned for Master Logan's welfare.</text>
 <text id="14011801">Even in this treacherous land, Logan's skills are unmatched.
 He is a true hero.</text>
 <text id="14011802">...No, the reason I seek Logan is...</text>
 <text id="14011803">...Well, it's really my own conceit, now isn't it?</text>
+<text>#0Talk-1st time after freeing Logan from Archive Tower</text>
 <text id="14011900">Ohh! Master Logan is at the Archives?!</text>
 <text id="14011901">Thank the heavens; finally his wish has been granted.</text>
 <text id="14011902">I suppose he has his head buried in those tomes?</text>
 <text id="14011903">That is always what made Master Logan happiest...</text>
 <text id="14011904">Ahh, I can just imagine him now!</text>
+<text>#0Talk-2nd time after freeing Logan from Archive Tower</text>
 <text id="14012000">Oh, hello.</text>
 <text id="14012001">Why, of course I don't mind teaching you sorceries...</text>
 <text id="14012002">But now that you've located Master Logan,</text>
 <text id="14012003">I can't imagine that I can be of much help.</text>
+<text>#0Talk-3rd time after freeing Logan from Archive Tower purchased all Griggs' items</text>
 <text id="14012100">I have decided to seek the Regal Archives.</text>
 <text id="14012101">I realize that I may never make it.</text>
 <text id="14012102">But I would feel worthless if I did not at least try.</text>
 <text id="14012103">What other choice do I have to earn Logan's recognition?</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="14010400">Good-bye, then.</text>
+<text id="14010401">Do stay safe.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="14010500">All right. That'll do it.</text>
+<text id="14010501">That should help you on your journey.</text>
+<text id="14010502">May we meet again.</text>
+<text>#0After leaving abruptly</text>
+<text id="14010600">Hm? What's that?</text>
+<text>#0Talk-After leaving abruptly</text>
+<text id="14010700">No matter. Let us continue.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="14012200">Uwwah!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="14012220">Heavens!</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="14012240">In the name of sanity!</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="14012260">Cease! Have you gone mad!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="14012300">Damn...you've lost it, haven't you?</text>
 <text id="14012301">Then I have no choice.</text>
 <text id="14012302">Prepare yourself!</text>
+<text>#0Upon dying</text>
 <text id="14012400">Rrrg...</text>
 <text id="14012401">Master Logan...</text>
-<text id="14012500">Did you see them?</text>
-<text id="14012501">The three young clerics...</text>
-<text id="14012502">headed for the Catacombs,
-to seek Kindling.</text>
-<text id="14012503">Kindling is the art of feeding bonfires.</text>
-<text id="14012504">The poor young girl, sent down into a tomb.</text>
-<text id="14012505">What a terrible mission she is burdened with.</text>
-<text id="14012600">Two things are required for sorcery.</text>
-<text id="14012601">First, you must equip a wand.</text>
-<text id="14012602">Second, you must attune a sorcery.</text>
-<text id="14012603">Then you will be ready to fire away.</text>
-<text id="14012604">Oh and don't forget to aim!</text>
+<text id="14000020">##Hello! Hello!</text>
+<text id="14000021">##You, yes! You! I'm here, here!</text>
+<text id="14000022">##I'm trapped! Please! I require assistance!</text>
+<text id="14000023">##Try and open the door!</text>
+<text id="14000024">##...</text>
 </entries>

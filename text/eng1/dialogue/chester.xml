@@ -1,52 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="59000000">Hm...Oh, let me guess...</text>
 <text id="59000010">Snatched by a shadowy limb, and dragged off to the past?</text>
-<text id="59000100">Yes, of course. Exactly what happened to me.</text>
-<text id="59000110">We are both strangers in this strange land.</text>
-<text id="59000120">But, at least now there are two of us.</text>
+<text>#0Choose "No" to his query</text>
 <text id="59000200">Oh, well, my mistake...</text>
 <text id="59000210">But we are both travellers.</text>
 <text id="59000220">We ought to help one another out.</text>
+<text>#0Choose "Yes" to his query</text>
+<text id="59000100">Yes, of course. Exactly what happened to me.</text>
+<text id="59000110">We are both strangers in this strange land.</text>
+<text id="59000120">But, at least now there are two of us.</text>
+<text>#0Talk-2nd time</text>
 <text id="59000300">Oh, still alive, are you?</text>
 <text id="59000310">Think of anything that you might need?</text>
+<text>#0Talk-3rd time</text>
 <text id="59000400">Oh, for Juniper's sake.</text>
 <text id="59000410">Put some spring into your step!</text>
 <text id="59000420">Mwah hah hah!</text>
-<text id="59000500">Oh, you again...</text>
-<text id="59000510">What ever's the matter? No, I can tell.  You need me more than ever.</text>
-<text id="59000520">Mwah hah hah!</text>
-<text id="59000600">So long.</text>
-<text id="59000700">So long.</text>
-<text id="59000710">...We'll be seeing each other...</text>
-<text id="59000720">Gee hee hee!</text>
+<text>#0Menu-Choose "Talk" before defeating Artorias</text>
 <text id="59000800">Did you happen across Knight Artorias?</text>
 <text id="59000810">The legendary Abysswalker, from the old tales.</text>
 <text id="59000820">...Well, if you haven't, it's just as well...</text>
 <text id="59000830">He's a colourless sort, if you ask me.</text>
 <text id="59000840">Mwah hah hah!</text>
+<text>#0Menu-Choose "Talk" after accepting Elizabeth's query</text>
+<text id="59001000">So, what did that giant mushroom make you do?</text>
+<text id="59001010">Not that I care. It's none of my business.</text>
+<text id="59001020">But I do wonder about those sorceries of hers...</text>
+<text id="59001030">Heh heh heh...</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
+<text id="59001100">Hm? I've little to talk about, really.</text>
+<text id="59001110">Oh, you know me. What do I know?</text>
+<text id="59001120">Heh heh!</text>
+<text>#0Menu-Choose "Talk" 1st time after defeating Artorias</text>
 <text id="59000900">Did you really slay Knight Artorias?</text>
 <text id="59000910">I'd heard the Abyss found him first, but even still...</text>
 <text id="59000920">That's absolutely treacherous.</text>
 <text id="59000930">Yes, magnificently so!</text>
 <text id="59000940">Mwah hah hah!</text>
-<text id="59001000">So, what did that giant mushroom make you do?</text>
-<text id="59001010">Not that I care. It's none of my business.</text>
-<text id="59001020">But I do wonder about those sorceries of hers...</text>
-<text id="59001030">Heh heh heh...</text>
-<text id="59001100">Hm? I've little to talk about, really.</text>
-<text id="59001110">Oh, you know me. What do I know?</text>
-<text id="59001120">Heh heh!</text>
-<text id="59001200">What? If you've something to say, then say it!</text>
-<text id="59001210">Just don't say the wrong thing...</text>
-<text id="59001220">Heh heh heh!</text>
-<text id="59001300">...Oh, you!</text>
-<text id="59001310">You have quite some nerve. Or are you just thick?</text>
-<text id="59001320">Fine, then. What is it that you need?</text>
-<text id="59001400">I'll be seeing you.</text>
-<text id="59001410">If you survive your travels...</text>
-<text id="59001500">...Well, you've quite the nerve!</text>
-<text id="59001510">I've had enough of you!</text>
+<text>#0Menu-Choose "Talk" 2nd time after defeating Artorias</text>
 <text id="59001600">Believe it or not,</text>
 <text id="59001610">Oolacile has brought the Abyss upon itself.</text>
 <text id="59001620">Fooled by that toothy serpent, they upturned the grave
@@ -55,24 +48,58 @@ of primeval man, and incited his ornery wrath.</text>
 <text id="59001640">But to you and I, it's all ancient history.</text>
 <text id="59001650">You have to ask yourself. Does it really matter?</text>
 <text id="59001660">Heh heh heh...</text>
+<text>#0Talk-After he invades the protagonist in the Oolacile Township</text>
+<text id="59000500">Oh, you again...</text>
+<text id="59000510">What ever's the matter? No, I can tell. You need me more than ever.</text>
+<text id="59000520">Mwah hah hah!</text>
+<text>#0Talk-After vanquishing his Dark Phantom in the Oolacile Township</text>
+<text id="59001300">...Oh, you!</text>
+<text id="59001310">You have quite some nerve. Or are you just thick?</text>
+<text id="59001320">Fine, then. What is it that you need?</text>
+<text>#0Menu-Choose "Talk" after he invaded as Dark Phantom, but not vanquished</text>
+<text id="59001200">What? If you've something to say, then say it!</text>
+<text id="59001210">Just don't say the wrong thing...</text>
+<text id="59001220">Heh heh heh!</text>
+<text>#0Menu-Choose "Talk" after vanquishing his Dark Phantom</text>
+<text id="59001500">...Well, you've quite the nerve!</text>
+<text id="59001510">I've had enough of you!</text>
+<text>#0Menu-Choose "Leave"</text>
+<text id="59000600">So long.</text>
+<text>#0Menu-Choose "Leave" after he invaded as Dark Phantom, but not vanquished</text>
+<text id="59000700">So long.</text>
+<text id="59000710">...We'll be seeing each other...</text>
+<text id="59000720">Gee hee hee!</text>
+<text>#0Menu-Choose "Leave" after vanquishing his Dark Phantom</text>
+<text id="59001400">I'll be seeing you.</text>
+<text id="59001410">If you survive your travels...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="59005200">Ooph!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="59005210">Erg!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="59005220">Oww!</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="59005230">That bloody hurts!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
 <text id="59005000">Oh! It's come to blows, has it?</text>
 <text id="59005010">Fine, then. I've had enough of you, anyway!</text>
+<text>#0Upon being attacked &amp; made hostile, after he invaded in Oolacile Township</text>
 <text id="59005100">What now? You think this my fault?</text>
 <text id="59005110">How very, very petty of you!</text>
 <text id="59005120">Very petty, indeed!</text>
-<text id="59005200">Ooph!</text>
-<text id="59005210">Erg!</text>
-<text id="59005220">Oww!</text>
-<text id="59005230">That bloody hurts!</text>
+<text>#0While attacking the protagonist</text>
 <text id="59005300">There!</text>
 <text id="59005310">Ah-hah, there!</text>
+<text>#0After reducing the protagonist's health to below 11%</text>
 <text id="59005400">What? Now you're feeling the heat?</text>
 <text id="59005410">You should have thought long and hard...</text>
-<text id="59005420">##Before you sided with a bloody mushroom!</text>
 <text id="59005430">Nyah hah hah hah hah!</text>
+<text>#0Upon killing the protagonist in his hostile, non-Dark Phantom state</text>
 <text id="59005500">You damn fool.</text>
 <text id="59005510">I am Marvellous Chester! What did you expect?</text>
+<text>#0Upon dying</text>
 <text id="59005600">Hrrg...</text>
 <text id="59005610">You win...please...</text>
 <text id="59005620">Oh, please...have mercy...</text>
+<text id="59005420">##Before you sided with a bloody mushroom!</text>
 </entries>

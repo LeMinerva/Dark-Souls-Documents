@@ -1,26 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After approaching the location he sleeps after ringing 1st Bell of Awakening</text>
 <text id="43000000">Hmgg...Hmgg...</text>
+<text>#0Talk-1st time</text>
 <text id="43000100">Ahh, hello. Was it you who rang the Bell of Awakening?</text>
 <text id="43000101">I am the primordial serpent, Kingseeker Frampt,
 close friend of the Great Lord Gwyn.</text>
 <text id="43000102">Chosen Undead, who has rung the Bell of Awakening.</text>
 <text id="43000103">I wish to elucidate your fate,</text>
-<text id="43000104">##and the very reason your kind have appeared.</text>
 <text id="43000105">Do you seek such enlightenment?</text>
-<text id="43000120">Very well. Then I am pleased to share.</text>
-<text id="43000121">Chosen Undead. Your fate...is to succeed the Great Lord Gwyn.</text>
-<text id="43000122">So that you may link the Fire,
-cast away the Dark, and undo the curse of the Undead.</text>
-<text id="43000123">To this end, you must visit Anor Londo,
-and acquire the Lordvessel.</text>
-<text id="43000124">##Now that you are ready,</text>
-<text id="43000125">##I shall open Sen's Fortress,
-which leads to Anor Londo.</text>
-<text id="43000126">##Hraaaoogggh!</text>
-<text id="43000127">##Hraaaoogggh!</text>
-<text id="43000128">##The arduous path of honour is open.
-Go forth, and seize your Undead destiny.</text>
+<text>#0Choose "No" to either the 1st or 2nd query</text>
 <text id="43000140">By the Lords...Are you certain?</text>
 <text id="43000141">Well, perhaps I was wrong.</text>
 <text id="43000142">There can be only one chosen Undead.
@@ -28,27 +17,25 @@ I will continue my search...You are freed from duty.</text>
 <text id="43000143">But then again, you did ring the Bell of Awakening.</text>
 <text id="43000144">I will stay here a while.
 Speak with me if you should change your mind.</text>
-<text id="43000200">##Ahh, one other thing.</text>
-<text id="43000201">##You will require humanity to remain yourself while Undead.</text>
-<text id="43000202">##This I can provide you,</text>
-<text id="43000203">##but only in trade for souls.</text>
-<text id="43000300">I am pleased to see you well.</text>
-<text id="43000301">Is it something urgent?</text>
-<text id="43000400">Hmgg...Hmgg...</text>
-<text id="43000500">...Hm? No, no, I'm fine, I'm fine.</text>
-<text id="43000501">Well and wide awake!</text>
-<text id="43000502">Do not treat me like an old withering snake.</text>
-<text id="43000600">##What brings you here?</text>
-<text id="43000601">##By the Lords, you may as well be a Hollow.</text>
-<text id="43000602">##This will not do. Your humanity requires replenishment.</text>
+<text>#0Talk-After choosing "No" to either the 1st or 2nd query</text>
 <text id="43000700">What brings you here?</text>
 <text id="43000701">Had a change of heart about your fate as an Undead?</text>
+<text>#0Choose "Yes" to either the 1st or 2nd query</text>
+<text id="43000120">Very well. Then I am pleased to share.</text>
+<text id="43000121">Chosen Undead. Your fate...is to succeed the Great Lord Gwyn.</text>
+<text id="43000122">So that you may link the Fire,
+cast away the Dark, and undo the curse of the Undead.</text>
+<text id="43000123">To this end, you must visit Anor Londo,
+and acquire the Lordvessel.</text>
+<text>#0Talk-2st time</text>
+<text id="43000300">I am pleased to see you well.</text>
+<text id="43000301">Is it something urgent?</text>
+<text>#0Menu-Choose "Talk"</text>
 <text id="43000800">Those who seek the Realm of Lords
 must brave Sen's Fortress, a deadly house of traps.</text>
 <text id="43000801">Many have gone before you, but none have returned.</text>
 <text id="43000802">Fate has chosen you, but proceed with caution.</text>
-<text id="43000900">Farewell.</text>
-<text id="43000901">Chosen Undead. I remain here, and await thee.</text>
+<text>#0Talk-After receiving Lordvessel from the illusion of Gwynevere</text>
 <text id="43001000">Heavens! You have done it! You have retrieved the Lordvessel!</text>
 <text id="43001001">After a thousand years! It is you, it is really you!</text>
 <text id="43001002">Hraaaoogggh!</text>
@@ -57,10 +44,13 @@ must brave Sen's Fortress, a deadly house of traps.</text>
 <text id="43001005">Forgive me. I really should calm down.</text>
 <text id="43001006">Now, let us take that vessel on a journey.</text>
 <text id="43001007">I assume that you are ready. Now, be still!</text>
+<text>#0After Frampt warps into the Firelink Altar for the 1st time</text>
 <text id="43001008">This is the Firelink Chamber, for the successor of Lord Gwyn.</text>
 <text id="43001009">Now, place the Lordvessel on the altar.</text>
+<text>#0Talk-Before placing the Lordvessel in his presence</text>
 <text id="43001100">What is it? Place the Lordvessel on the altar.</text>
 <text id="43001101">No reason for pause at this point.</text>
+<text>#0Talk-After placing the Lordvessel in his presence</text>
 <text id="43001200">Very well.</text>
 <text id="43001201">As Kingseeker, I shall now instruct you,
 the Lord's successor, in your next task.</text>
@@ -77,15 +67,13 @@ who inherited the shards of Gwyn's soul...</text>
 <text id="43001209">...</text>
 <text id="43001210">Are you ready?</text>
 <text id="43001211">Then we shall return. Stay still for a moment!</text>
+<text>#0Menu-Choose "Talk" after placing the Lordvessel in his presence</text>
 <text id="43001300">The beings who possess these souls have
 outlived their usefulness, or have chosen the path of the wicked.</text>
 <text id="43001301">As the primordial serpent,
 I implore you to defeat them, and claim their souls.</text>
 <text id="43001302">Let there be no guilt; let there be no vacillation.</text>
-<text id="43001400">Very well.</text>
-<text id="43001401">Then, stay still for a moment!</text>
-<text id="43001500">Are you ready?</text>
-<text id="43001501">Then we shall return. Stay still, then!</text>
+<text>#0Talk-After filling the Lordvessel</text>
 <text id="43001600">Ahh...ohh!</text>
 <text id="43001601">The Lordvessel is satiated...</text>
 <text id="43001602">Magnificent...You are the righteous successor to Gwyn,
@@ -95,13 +83,48 @@ the new Great Lord.</text>
 <text id="43001605">I must admit, I am fond of you humans.</text>
 <text id="43001606">May you enjoy serendipity,</text>
 <text id="43001607">And may the Age of Fire perpetuate.</text>
+<text>#0Menu-Choose "Warp" from Firelink Shrine to the Firelink Altar</text>
+<text id="43001400">Very well.</text>
+<text id="43001401">Then, stay still for a moment!</text>
+<text>#0Menu-Choose "Warp" from Firelink Altar to the Firelink Shrine</text>
+<text id="43001500">Are you ready?</text>
+<text id="43001501">Then we shall return. Stay still, then!</text>
+<text>#0Menu-Choose "Leave", or abruptly leave</text>
+<text id="43000900">Farewell.</text>
+<text id="43000901">Chosen Undead. I remain here, and await thee.</text>
+<text>#0After approaching his location while he is sleeping</text>
+<text id="43000400">Hmgg...Hmgg...</text>
+<text>#0After being attacked while sleeping to wake him</text>
+<text id="43000500">...Hm? No, no, I'm fine, I'm fine.</text>
+<text id="43000501">Well and wide awake!</text>
+<text id="43000502">Do not treat me like an old withering snake.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="43001700">Hmg!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="43001701">Hrg!</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="43001702">Agh!</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="43001703">Ooph!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="43001707">You sorry fool...You could not be the Chosen one.</text>
+<text id="43001708">Enough...I shall slumber, until I am awakened again...</text>
+<text id="43000104">##and the very reason your kind have appeared.</text>
+<text id="43000124">##Now that you are ready,</text>
+<text id="43000125">##I shall open Sen's Fortress,
+which leads to Anor Londo.</text>
+<text id="43000126">##Hraaaoogggh!</text>
+<text id="43000127">##Hraaaoogggh!</text>
+<text id="43000128">##The arduous path of honour is open.
+Go forth, and seize your Undead destiny.</text>
+<text id="43000200">##Ahh, one other thing.</text>
+<text id="43000201">##You will require humanity to remain yourself while Undead.</text>
+<text id="43000202">##This I can provide you,</text>
+<text id="43000203">##but only in trade for souls.</text>
+<text id="43000600">##What brings you here?</text>
+<text id="43000601">##By the Lords, you may as well be a Hollow.</text>
+<text id="43000602">##This will not do. Your humanity requires replenishment.</text>
 <text id="43001704">##Cease.</text>
 <text id="43001705">##Enough.</text>
 <text id="43001706">##Infidel.</text>
-<text id="43001707">You sorry fool...You could not be the Chosen one.</text>
-<text id="43001708">Enough...I shall slumber, until I am awakened again...</text>
 </entries>

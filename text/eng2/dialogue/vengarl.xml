@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="30700000">Leave me be.</text>
 <text id="30700010">I like it quiet.
 Leave me be.</text>
+<text>#0Talk-2nd time</text>
 <text id="30700100">What business have you here, traveller?</text>
 <text id="30700110">You may call me Vengarl.
 If I deserve a name, in this sorry state.</text>
 <text id="30700120">'Tis rare to flap these gums.
 This is pleasant. </text>
+<text>#0Talk-3rd time</text>
 <text id="30700200">Long ago, I was hired to defend the kingdom.</text>
 <text id="30700210">I remember a long, brutal fight, and then...
 Somebody killed me. Or so I thought...</text>
@@ -18,6 +21,7 @@ but it's not so bad, really.</text>
 thinking of the finer things, far removed from war.</text>
 <text id="30700250">I'd grown weary of battle,
 but did not realise it until now.</text>
+<text>#0Talk-4th time</text>
 <text id="30700300">I know not what brings you on this journey,
 nor will I deign to ask.</text>
 <text id="30700310">You may bear a great burden, but don't we all?
@@ -30,27 +34,17 @@ raging without me.</text>
 a sword forged only to kill.</text>
 <text id="30700350">My body will show no mercy.
 If you see the wretched thing, stay far away.</text>
+<text>#0Talk-5th time</text>
 <text id="30700400">I learn new things every day.
 Things never learned in battle.</text>
 <text id="30700410">And, thanks to you,
 I've recalled the joy of conversation.</text>
 <text id="30700420">If I can help you,
 if you require something, do speak up.</text>
-<text id="30700500">Farewell.
-May we meet again, one day soon.</text>
-<text id="30700600">Farewell.
-I will retire to my silence.</text>
-<text id="30700700">Safe travels, then...</text>
+<text>#0Talk-6th time and above</text>
 <text id="30700800">Back again?
 Well, this is a pleasant surprise.</text>
-<text id="30700900">Ah, it was you,
-who vanquished my body.</text>
-<text id="30700910">It is my body, you see,
-and I can sense what happens to it.</text>
-<text id="30700920">I do not mourn for it.
-Good riddance! </text>
-<text id="30700930">If you wish for help, summon me.
-I am rusty in battle, but will fight by your side.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="30701000">I cannot lie.
 Sometimes I wonder what's become of the kingdom.</text>
 <text id="30701010">I was a hired hand, yes,
@@ -59,6 +53,7 @@ but we soldiers stared death in the eye together.</text>
 I am afraid...</text>
 <text id="30701030">But, perhaps it is for the best.
 We knew not what we fought for.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="30701100">I was born in Forossa.
 It's a land in the distant east.</text>
 <text id="30701110">When I was born,
@@ -67,18 +62,44 @@ we were already mired in prolonged conflict with our neighbours.</text>
 <text id="30701130">I've been a sellsword ever since.</text>
 <text id="30701140">All I ever knew was war, and I can imagine no other way to live.</text>
 <text id="30701150">What a fool I was.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="30701200">I am grateful for these peaceful days.</text>
 <text id="30701210">But such contentment lies only in the here and now.</text>
 <text id="30701220">Why must life be so confounding...</text>
-<text id="30705000">You fiend!</text>
-<text id="30705010">There you are...!</text>
-<text id="30705030">Hrgoah!</text>
-<text id="30705040">How dare you!</text>
-<text id="30705050">A murderer now, are you?</text>
-<text id="30705060">As you wish.</text>
-<text id="30705070">Life goes on...</text>
-<text id="30706000">##I like quiet. It's all I ever wished for.</text>
+<text>#0Menu-Choose "Talk" after exhausting his dialogue</text>
 <text id="30707000">Thank you, for lending an ear to my ramblings.</text>
 <text id="30707010">Here, take these. I have no use for them.</text>
 <text id="30707020">Go along, and resume your journey.</text>
+<text>#0Menu-Choose "Talk" after defeating Vengarl's body</text>
+<text id="30700900">Ah, it was you,
+who vanquished my body.</text>
+<text id="30700910">It is my body, you see,
+and I can sense what happens to it.</text>
+<text id="30700920">I do not mourn for it.
+Good riddance! </text>
+<text id="30700930">If you wish for help, summon me.
+I am rusty in battle, but will fight by your side.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="30700600">Farewell.
+I will retire to my silence.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="30700500">Farewell.
+May we meet again, one day soon.</text>
+<text>#0After leaving abruptly</text>
+<text id="30700700">Safe travels, then...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="30705030">Hrgoah!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="30705040">How dare you!</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="30705050">A murderer now, are you?</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="30705000">You fiend!</text>
+<text>#0After approaching him while hostiled, after the protagonist leaves &amp; returns</text>
+<text id="30705010">There you are...!</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="30705060">As you wish.</text>
+<text>#0Upon dying</text>
+<text id="30705070">Life goes on...</text>
+<text id="30706000">##I like quiet. It's all I ever wished for.</text>
 </entries>

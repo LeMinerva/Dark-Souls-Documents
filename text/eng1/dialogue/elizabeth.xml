@@ -1,22 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="61000000">Well, look at this one.</text>
 <text id="61000010">From what far-away age hast thou come?
 Thy scent is very human, indeed.</text>
 <text id="61000020">...But, not intolerable...</text>
 <text id="61000030">Ah, Princess Dusk's saviour.
 Thine aura is precisely as she described.</text>
+<text id="61000040">I thank thee deeply, for rescuing Her Highness.</text>
+<text id="61000050">But Princess Dusk is here no longer...</text>
+<text id="61000060">...snatched away by that horrifying primeval human.</text>
+<text id="61000070">And so I must ask... Couldst thou once more play the saviour?</text>
+<text>#0Talk-1st time, after talking with Dusk and exhausting her dialogue</text>
+<text id="61000000">Well, look at this one.</text>
+<text id="61000010">From what far-away age hast thou come?
+Thy scent is very human, indeed.</text>
+<text id="61000020">...But, not intolerable...</text>
 <text id="61000031">Princess Dusk has spoken of thee.
 Thy aura is precisely as she described.</text>
 <text id="61000040">I thank thee deeply, for rescuing Her Highness.</text>
 <text id="61000050">But Princess Dusk is here no longer...</text>
 <text id="61000060">...snatched away by that horrifying primeval human.</text>
 <text id="61000070">And so I must ask... Couldst thou once more play the saviour?</text>
-<text id="61000100">Thank you.</text>
-<text id="61000110">I am Elizabeth, guardian of this sanctuary.</text>
-<text id="61000120">Something of a godmother to Princess Dusk.</text>
-<text id="61000130">I shall assist thee, to my utmost.</text>
-<text id="61000140">For I am one with the sorceries of Oolacile.</text>
+<text>#0Choose "No" to the 1st query</text>
 <text id="61000200">Yes, I understand.</text>
 <text id="61000210">We care dearly for Princess Dusk,
 and are apt to blur our boundaries.</text>
@@ -24,21 +30,25 @@ and are apt to blur our boundaries.</text>
 <text id="61000230">But should thine heart be changed, speak to me again.</text>
 <text id="61000240">This sanctuary, and the sorceries of Oolacile, are my domain.</text>
 <text id="61000250">My strength could surely assist thee in thy travels.</text>
+<text>#0Talk-2nd time after choosing "No" to the 1st query</text>
 <text id="61000300">Hast thou reconsidered?</text>
 <text id="61000310">Such that thou might rescue dear Dusk?</text>
+<text>#0Choose "No" to the 2st query</text>
 <text id="61000400">Yes, yes, of course.</text>
 <text id="61000410">But shouldst thine heart be changed, speak to me again.</text>
+<text>#0Choose "Yes" to the 1st query</text>
+<text id="61000100">Thank you.</text>
+<text id="61000110">I am Elizabeth, guardian of this sanctuary.</text>
+<text id="61000120">Something of a godmother to Princess Dusk.</text>
+<text id="61000130">I shall assist thee, to my utmost.</text>
+<text id="61000140">For I am one with the sorceries of Oolacile.</text>
+<text>#0Talk-After accepting the 1st or 2nd query</text>
 <text id="61000500">Thank goodness thou art safe.</text>
 <text id="61000510">What is thy wish? I offer thee my all.</text>
+<text>#0Talk-After accepting the 1st or 2nd query while the protagonist is hollow</text>
 <text id="61000600">Struggling, are we?</text>
 <text id="61000610">If there is anything I can do, never hesitate to ask.</text>
-<text id="61000700">I have awaited thee. Thou hast rescued Princess Dusk,</text>
-<text id="61000710">...and rid us of that terrible primeval human.
-Even halting the spread of the Abyss!</text>
-<text id="61000720">I salute the grandeur of thine enterprise.</text>
-<text id="61000730">Please, allow me to express my gratitude.</text>
-<text id="61000740">I thank thee... as do we all.</text>
-<text id="61000800">May the flames guide thee.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="61000900">Thou shalt see further on.</text>
 <text id="61000910">An abyss was begat of the ancient beast,
 and threatens to swallow the whole of Oolacile.</text>
@@ -48,30 +58,50 @@ but such a hero has nary a murmur of Dark.</text>
 overcome by its utter blackness.</text>
 <text id="61000940">...Indeed, the Abyss may be unstoppable...</text>
 <text id="61000950">Still I have faith, that Princess Dusk  may be rescued yet...</text>
+<text>#0Menu-Choose "Talk" 1st time after resting at a Bonfire</text>
 <text id="61001000">Thou art from a time far, far ahead.</text>
 <text id="61001010">There are many things I wish to ask.</text>
 <text id="61001020">...But I know that I must not.</text>
 <text id="61001030">The perils of our time are overwhelming enough.</text>
+<text>#0Menu-Choose "Talk" 2nd time after resting at a Bonfire</text>
 <text id="61001100">Hah hah...Was thine eye, glancing hither?</text>
 <text id="61001110">Thou needst not hide thy wonder.</text>
 <text id="61001120">I am a mushroom, after all.</text>
 <text id="61001130">Hee hee hee...</text>
+<text>#0Menu-Choose "Talk" 3rd time after resting at a Bonfire</text>
 <text id="61001200">Not long ago, I had another visitor.</text>
 <text id="61001210">A human like thineself, from a far-away time.</text>
 <text id="61001220">Only, he was dreadfully odious...</text>
 <text id="61001230">And I am afraid that he is still amongst us.</text>
 <text id="61001240">He wore a hat and a long black coat...</text>
+<text>#0Talk-After defeating Manus</text>
+<text id="61000700">I have awaited thee. Thou hast rescued Princess Dusk,</text>
+<text id="61000710">...and rid us of that terrible primeval human.
+Even halting the spread of the Abyss!</text>
+<text id="61000720">I salute the grandeur of thine enterprise.</text>
+<text id="61000730">Please, allow me to express my gratitude.</text>
+<text id="61000740">I thank thee... as do we all.</text>
+<text>#0Menu-Choose "Talk" after defeating Manus</text>
 <text id="61001300">I will remember thee, but I will keep thy story to myself.</text>
 <text id="61001310">This is the best way, for thou art come from a time far ahead.</text>
 <text id="61001320">No-one will sing thy praises,
 but yet thy greatness shall live on.</text>
 <text id="61001330">For it shall be my purpose, to remember all thou hast done for us.</text>
+<text>#0Menu-Choose "Leave"</text>
+<text id="61000800">May the flames guide thee.</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="61005000">Ah!</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="61005010">Ooh!</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="61005020">Aaah!</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="61005030">Stop that!</text>
+<text>#0Upon being attacked-5th time</text>
 <text id="61005040">Please, no!</text>
+<text>#0Upon being attacked-6th time</text>
 <text id="61005050">Stop!</text>
+<text>#0Upon dying</text>
 <text id="61005100">Aiieeek!</text>
 <text id="61005110">Aiieeegh!</text>
 <text id="61005120">Ooh...aah...</text>

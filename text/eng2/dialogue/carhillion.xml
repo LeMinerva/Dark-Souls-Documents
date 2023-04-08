@@ -1,39 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time with less than 8 Intelligence</text>
+<text id="76600100">Hmm...</text>
+<text id="76600110">I see light, but it remains dim...</text>
+<text id="76600120">I am Carhillion, and I've no interest in the magic-impaired.</text>
+<text>#0Talk-1st time with 8 or more Intelligence</text>
 <text id="76600000">Hmm...I sense power...</text>
 <text id="76600010">Very well. From this day, you shall be my new pupil.</text>
 <text id="76600020">I am Carhillion. Carhillion of the Fold.
 Surely you've heard the name?</text>
 <text id="76600030">Now, now, do not be afraid.
 Let us explore the limits of sorcery.</text>
-<text id="76600100">Hmm...</text>
-<text id="76600110">I see light, but it remains dim...</text>
-<text id="76600120">I am Carhillion, and I've no interest in the magic-impaired.</text>
+<text>#0Talk-2nd time with 8 or more Intelligence</text>
 <text id="76601000">Do you seek my teachings?
 Very well, very well.</text>
+<text>#0Talk-3rd time with 8 or more Intelligence</text>
 <text id="76601100">Back already?
 Your diligence is commendable.</text>
+<text>#0Talk-1st time after resting at a Bonfire</text>
 <text id="76601200">Your visit is welcome.
 I trust you've kept up your studies.</text>
+<text>#0Talk-2nd time after resting at a Bonfire</text>
 <text id="76601300">Oh, there you are.
 Do you seek my teachings?</text>
-<text id="76601400">Young pupil, do not take my teachings lightly.</text>
-<text id="76601500">One day, my teachings will save you.</text>
-<text id="76601600">Young pupil, may we meet again, in Majula.</text>
-<text id="76601700">The path is yet long, young pupil.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="76602000">The forces of magic, and souls, lie dormant in this land.</text>
 <text id="76602010">It is a fitting place to hone my sorceries.</text>
 <text id="76602020">I suspect that I may even conjure up new spells here.</text>
 <text id="76602030">Sorcery is yet a mystery, even to me.
 Let us mature together, young pupil.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="76602100">Use scrolls to unleash the power of sorceries.</text>
 <text id="76602110">But the power of each scroll
 is reliant on that of its owner.</text>
 <text id="76602120">The untrained cannot wield a scroll to its proper potential.</text>
 <text id="76602130">Never forget, young pupil...
 There are no shortcuts to mastery.</text>
+<text>#0Menu-Choose "Leave" after defeating the Flexile Sentry</text>
+<text id="76601600">Young pupil, may we meet again, in Majula.</text>
+<text>#0Talk-1st time</text>
 <text id="76603000">Oh, so you've finally decided to join us?</text>
 <text id="76603010">Let us resume our exploration of sorcery.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
+<text id="76603400">I sense a dark power here.</text>
+<text id="76603410">Something akin to sorcery...
+Only more...primordial...</text>
+<text id="76603420">I wish to find out more about it, but as we see, this place is in ruins.</text>
+<text id="76603430">Just what happened here?</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
+<text id="76603500">Sorcery was created long, long ago.</text>
+<text id="76603510">Some say it was originated by the great pale being...</text>
+<text id="76603520">But we've no way of knowing if such claims are true.</text>
+<text id="76603530">Many sorceries were lost over the ages.</text>
+<text id="76603540">Before pyromancy, there were fire sorceries,
+but they are long forgotten.</text>
+<text>#0Menu-Choose "Talk" before encountering Rosabeth of Melfia</text>
+<text id="76603200">On my trip here,
+I met a strange girl once or twice.</text>
+<text id="76603210">After a time, I never saw her again.
+I wonder where she went off to.</text>
+<text id="76603220">We spoke only a few times, but...
+A fair lass, if a bit clumsy.</text>
+<text id="76603230">I hope that she is safe.</text>
+<text>#0Menu-Choose "Talk" 1st time after Rosabeth of Melfia has arrived in Majula</text>
 <text id="76603100">Sorcery and pyromancy thrive in Melfia.
 I've spent much time there, trying to perfect my art.</text>
 <text id="76603110">But staying was a mistake.
@@ -42,34 +71,112 @@ had no interest in truth.</text>
 <text id="76603120">Their ambitions were paltry, and their smiles cloying.
 I was sick to the back teeth of their petty squabbles.</text>
 <text id="76603130">There was nothing for me in that forsaken land.</text>
-<text id="76603200">On my trip here,
-I met a strange girl once or twice.</text>
-<text id="76603210">After a time, I never saw her again.
-I wonder where she went off to.</text>
-<text id="76603220">We spoke only a few times, but...
-A fair lass, if a bit clumsy.</text>
-<text id="76603230">I hope that she is safe.</text>
-<text id="76603400">I sense a dark power here.</text>
-<text id="76603410">Something akin to sorcery...
-Only more...primordial...</text>
-<text id="76603420">I wish to find out more about it, but as we see, this place is in ruins.</text>
-<text id="76603430">Just what happened here?</text>
-<text id="76603500">Sorcery was created long, long ago.</text>
-<text id="76603510">Some say it was originated by the great pale being...</text>
-<text id="76603520">But we've no way of knowing if such claims are true.</text>
-<text id="76603530">Many sorceries were lost over the ages.</text>
-<text id="76603540">Before pyromancy, there were fire sorceries,
-but they are long forgotten.</text>
+<text>#0Menu-Choose "Talk" 2nd time after Rosabeth of Melfia has arrived in Majula</text>
 <text id="76603600">So, the girl's been here too.</text>
 <text id="76603610">I'm glad to see her safe, whatever that's worth.</text>
-<text id="76605000">The arrogance of the young!</text>
-<text id="76605010">Behold my true power.</text>
-<text id="76605020">How very tragic...</text>
-<text id="76605030">Stop that!</text>
-<text id="76605040">Have you lost your head?</text>
-<text id="76605050">Damn, you bloody fool!</text>
-<text id="76606000">##Do not neglect your studies, dear pupil.</text>
+<text>#0Menu-Choose "Talk" after attaining 30 Intelligence</text>
 <text id="76607000">Ah, here, a fitting gift for you.</text>
 <text id="76607010">Seek higher planes,
 young pupil.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="76601500">One day, my teachings will save you.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="76601400">Young pupil, do not take my teachings lightly.</text>
+<text>#0After leaving abruptly</text>
+<text id="76601700">The path is yet long, young pupil.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="76605030">Stop that!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="76605040">Have you lost your head?</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="76605000">The arrogance of the young!</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="76605010">Behold my true power.</text>
+<text>#0Upon killing the protagonist</text>
+<text id="76605020">How very tragic...</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="76605050">Damn, you bloody fool!</text>
+<text id="76606000">##Do not neglect your studies, dear pupil.</text>
+<text id="76600100">##…Oh, a guest.</text>
+<text id="76600110">##Indeed. I am the great wizard,
+the Karion of the Darkness</text>
+<text id="76600120">##You seem talented. I usually don't take disciples, 
+but I will specially give you a lesson. </text>
+<text id="76600130">##The result will depend on your effort. 
+Now let us start.</text>
+<text id="76600200">##What is it?  Don't you know I'm Busy?</text>
+<text id="76600210">##If you want to learn from me then first,
+you must understand the reason of the spells.
+Though, it seems to be a little early for your head.</text>
+<text id="76600300">##You want the scroll?  Good.</text>
+<text id="76600310">##You again.  Do you want the new scroll?</text>
+<text id="76600320">##I knew it was about the time you come.
+So, do you want my lesson?</text>
+<text id="76600330">##It's you. Well, I shouldn't turn my disciple down. 
+Which scroll do you want?</text>
+<text id="76600400">##Oh, there you are.</text>
+<text id="76600410">##Thanks for your help.
+What will happen if get caught...</text>
+<text id="76600420">##It's a thank you gift. I usually don't take disciples, 
+but I will specially give you a lesson. </text>
+<text id="76600430">##The result will depend on your effort. 
+Now let us start.</text>
+<text id="76600600">##It will be up to you to control the new power you mastered. 
+Work hard.</text>
+<text id="76600610">##Come again when you truly need me.</text>
+<text id="76600620">##The next time we meet, it will be at Madula. 
+You should be looking forward for the new spell to be completed.</text>
+<text id="76600900">##The spell will be released by unsealing the power inside the letters.</text>
+<text id="76600910">##If you have the “scroll” with power sealed in it,
+ it will be easy to release the spell.</text>
+<text id="76600920">##But its power will be week
+if the sourcerer is not grounded.</text>
+<text id="76600930">##If you want to handle the spell, improve yourself.</text>
+<text id="76601000">##If you want to use the power of spell,
+you need to store the scrolls in the spell book. </text>
+<text id="76601010">##Spell book is an item that
+will meditate your power to the scroll.</text>
+<text id="76601020">##A poor book won't store that much spells.
+If you want to master the spells,
+keep your eye on the book's quality.</text>
+<text id="76601100">##Once, I had another disciple. </text>
+<text id="76601110">##She handled the spells well,
+but was always afraid of something.</text>
+<text id="76601120">##She said she wanted to be independent, so I sent her off…
+but never heard from har since then. </text>
+<text id="76601130">##I wander what she is doing now.</text>
+<text id="76601500">##You're a modest one.
+You saved me, and ask for nothing.</text>
+<text id="76601510">##Thanks for your help.
+What will happen if get caught...</text>
+<text id="76601600">##This land is a good place for collecting magic. 
+Maybe the vestige of the old battle is giving the power.</text>
+<text id="76601610">##I use the power to seal the new spell… however, 
+the souls are slightly lacking, so it is not working well</text>
+<text id="76601620">##So… won't you provide some souls for me?</text>
+<text id="76601630">##I will promise you to present the completed scroll as a return. 
+What do you think? </text>
+<text id="76601700">##Good, good…
+well then, let me start finishing it right now. </text>
+<text id="76601710">##After I finish this work, I will head to Madula.　
+That land also generates great power once in a while. </text>
+<text id="76601720">##The next time we meet, it will be at Madula. 
+You should be looking forward for the new spell to be completed.</text>
+<text id="76601800">##Hmm… well that's a sever treatment for a troubled old man.
+Well, fine.</text>
+<text id="76601810">##Come back any time if you change your mind</text>
+<text id="76601900">##There is no way this will be enough</text>
+<text id="76601910">##I'm sorry but won't you collect more souls? Thank you</text>
+<text id="76602000">##Stop! Let me defeat you with magic!</text>
+<text id="76602100">##What? Done already?</text>
+<text id="76609000">##What!? </text>
+<text id="76609010">##Stop it all ready! </text>
+<text id="76609020">##why!? </text>
+<text id="76609030">##Have you gone insane!?</text>
+<text id="76609040">##How dear you! Take my magic!</text>
+<text id="76609050">##Not enough? Don't you think that I will forgive you!</text>
+<text id="76609060">##Not bad…</text>
+<text id="76609070">##This is over! </text>
+<text id="76609080">##How…. could this happen…</text>
+<text id="76609090">##How fool of you to fight me.</text>
 </entries>

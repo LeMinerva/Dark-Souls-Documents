@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="76100000">Err, oh, hello there!</text>
 <text id="76100010">W-welcome, to my shop. I-I'm Maughlin, and I sell armour.</text>
 <text id="76100020">Oh, sorry, I... Please, do have a look at my wares.</text>
 <text id="76100030">I could really use the business...
 If you'd be so kind...</text>
+<text>#0Talk-2nd time</text>
 <text id="76100100">Well, thank you, for coming back! Do take a look at my wares.</text>
+<text>#0Talk-After resting at a Bonfire</text>
 <text id="76100200">Oh, hello again.
 I-I hope you find something of use.</text>
-<text id="76100400">Thanks very much.
-And, do please come again.</text>
-<text id="76100500">Well, I, I do hope I see you again.</text>
-<text id="76100600">Oh, is something wrong?</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="76100900">I came from the west, from Volgen.</text>
 <text id="76100910">Have you been there? It's a lively place, vibrant with trade.</text>
 <text id="76100920">Very competitive, of course.
@@ -24,33 +24,35 @@ well I've made very little headway...hah hah</text>
 <text id="76100950">I don't even know why I'm still here...</text>
 <text id="76100960">Everything's all run-down and dying...
 It's t-terrible for business, really...</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="76101000">A group calling themselves the Blue Sentinels
 have gained much power in Volgen.</text>
 <text id="76101010">You can't even run a shop without their blessing.</text>
 <text id="76101020">They claim to be working for the greater good,
 oh...but it's absolute hogwash.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="76101100">Hmm...</text>
 <text id="76101110">Oh, by the gods...Why the hell am I here? </text>
-<text id="76101500">##Oh, there you are!
-I-I now offer buybacks.</text>
-<text id="76101510">##I-I'll purchase almost anything,
-for the appropriate price.</text>
-<text id="76101520">##I've managed to save a good deal,
-so I-I can afford to risk of a new venture.</text>
-<text id="76101530">##At the very worst, I'll just suffer a wee loss. Hmph.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="76100500">Well, I, I do hope I see you again.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="76100400">Thanks very much.
+And, do please come again.</text>
+<text>#0After leaving abruptly</text>
+<text id="76100600">Oh, is something wrong?</text>
+<text>#0Talk-1st time, after previous spending 1000 souls</text>
 <text id="76101600">Oh, I was hoping that you would come.</text>
 <text id="76101610">I've stocked some new things,
 and I thought you might be interested.</text>
 <text id="76101620">They've been selling rather well,
 and I may step up operations soon.</text>
 <text id="76101630">I'm...well I'm surprising even myself, to be honest.</text>
+<text>#0Talk-2nd time, after previous spending 1000 souls</text>
 <text id="76101700">Forget to buy something? Go ahead, take your time.</text>
+<text>#0Talk-3rd time, after previous spending 1000 souls</text>
 <text id="76101800">I'm glad to see you safe.
 Take...take a look at my wares.</text>
-<text id="76102000">Thanks very much.
-Do come again!</text>
-<text id="76102100">Always open for business.</text>
-<text id="76102200">Finished already?</text>
+<text>#0Menu-Choose "Talk" 1st time, after previous spending 1000 souls</text>
 <text id="76102400">Did I mention before that I'm not from these parts?</text>
 <text id="76102410">I was on a journey...
 And somehow ended up here...</text>
@@ -61,6 +63,7 @@ But over time, things started to turn my way.</text>
 and quite willing to pay a premium.</text>
 <text id="76102450">Sadly, some of them never come back.
 But I try not to think about it.</text>
+<text>#0Menu-Choose "Talk" 2nd time, after previous spending 1000 souls</text>
 <text id="76102500">Have you seen that warrior
 lugging that giant blue sword about?</text>
 <text id="76102510">I'm no expert, but that appears to be a fine specimen.</text>
@@ -70,6 +73,13 @@ quite unlike anything found in Volgen.</text>
 would you ask him if he won't sell it?</text>
 <text id="76102540">I'd have to take another look,
 but I'm confident I could offer quite a price.</text>
+<text>#0Menu-Choose "Talk" 3rd time, after previous spending 1000 souls</text>
+<text id="76102700">I considered returning to my homeland,
+but I've decided to stay a while longer.</text>
+<text id="76102710">I've started to turn a handsome profit now,
+and I can't bear to give it up.
+Heh.</text>
+<text>#0Menu-Choose "Talk" after acquireing the Bluemoon Greatsword</text>
 <text id="76102600">That sword that you've got...
 May I, um, have a look at it?</text>
 <text id="76102610">Hmm, it's...yeah...it's interesting, it's...</text>
@@ -77,38 +87,61 @@ May I, um, have a look at it?</text>
 It's not worth much at all.</text>
 <text id="76102630">The original must be somewhere,
 I would imagine.</text>
-<text id="76102700">I considered returning to my homeland,
-but I've decided to stay a while longer.</text>
-<text id="76102710">I've started to turn a handsome profit now,
-and I can't bear to give it up.
-Heh.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="76102100">Always open for business.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="76102000">Thanks very much.
+Do come again!</text>
+<text>#0After leaving abruptly</text>
+<text id="76102200">Finished already?</text>
+<text>#0Talk-1st time, after previous spending 15000 souls</text>
+<text id="76103100">Um, sorry, have we met?
+Oh sorry, it's just I've been awfully busy lately.</text>
+<text id="76103110">Care to look over my wares? Please, be my guest.</text>
+<text id="76103120">I upgraded my stock recently.
+Although it may be a bit out of your reach...</text>
+<text>#0Talk-2nd time, after previous spending 15000 souls</text>
+<text id="76103200">Looking for armour? Everything I offer is quite dependable.</text>
+<text>#0Talk-3rd time, after previous spending 15000 souls</text>
+<text id="76103300">You need armour? Go ahead, see what I'm offering.</text>
+<text>#0Menu-Choose "Talk" after previous spending 15000 souls</text>
+<text id="76103800">I'm rich, I'm rich... Mwa hah hah!</text>
+<text id="76103810">I don't need to go home anymore! </text>
+<text id="76103820">Home...home...? Where...where is home...?</text>
+<text>#0Menu-Choose "Talk" after spending 15000 souls, but currently holding none</text>
+<text id="76107000">In a spot of bother are we?</text>
+<text id="76107010">Here, take this.
+My compliments.</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="76103600">Are you sure? Well...I may sell out while you're away.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="76103500">Thanks for the purchase. Do come again.</text>
+<text>#0After leaving abruptly</text>
+<text id="76103700">Now, have some patience!</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="76105030">Eek!</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="76105040">Who...what the?!</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="76105000">C-curses upon you! Enough of this!</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="76105010">Oh it's y-you again?</text>
+<text>#0Upon killing the protagonist</text>
+<text id="76105020">I-I did it...</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="76105050">Y-you won't get me!</text>
+<text id="76101500">##Oh, there you are!
+I-I now offer buybacks.</text>
+<text id="76101510">##I-I'll purchase almost anything,
+for the appropriate price.</text>
+<text id="76101520">##I've managed to save a good deal,
+so I-I can afford to risk of a new venture.</text>
+<text id="76101530">##At the very worst, I'll just suffer a wee loss. Hmph.</text>
 <text id="76103000">##Do I know you? Sorry...apologies,
 I've been quite busy these days...</text>
 <text id="76103010">##Yeah...well...I'm now offering buybacks.
 This service is available at anytime.</text>
 <text id="76103020">##I offer fair prices
 for quality items.</text>
-<text id="76103100">Um, sorry, have we met?
-Oh sorry, it's just I've been awfully busy lately.</text>
-<text id="76103110">Care to look over my wares? Please, be my guest.</text>
-<text id="76103120">I upgraded my stock recently.
-Although it may be a bit out of your reach...</text>
-<text id="76103200">Looking for armour? Everything I offer is quite dependable.</text>
-<text id="76103300">You need armour? Go ahead, see what I'm offering.</text>
-<text id="76103500">Thanks for the purchase. Do come again.</text>
-<text id="76103600">Are you sure? Well...I may sell out while you're away.</text>
-<text id="76103700">Now, have some patience!</text>
-<text id="76103800">I'm rich, I'm rich... Mwa hah hah!</text>
-<text id="76103810">I don't need to go home anymore! </text>
-<text id="76103820">Home...home...? Where...where is home...?</text>
-<text id="76105000">C-curses upon you! Enough of this!</text>
-<text id="76105010">Oh it's y-you again?</text>
-<text id="76105020">I-I did it...</text>
-<text id="76105030">Eek!</text>
-<text id="76105040">Who...what the?!</text>
-<text id="76105050">Y-you won't get me!</text>
 <text id="76106000">##Did I mention I was...rich?</text>
-<text id="76107000">In a spot of bother are we?</text>
-<text id="76107010">Here, take this.
-My compliments.</text>
 </entries>

@@ -1,27 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time with lower than either / or 8 Intelligence &amp; Faith</text>
 <text id="77000000">I don't know who you are...But leave me be.</text>
 <text id="77000010">The frailty...of the weak... Disrupts the Dark...</text>
+<text>#0Talk-2nd time with lower than either / or 8 Intelligence &amp; Faith</text>
 <text id="77000100">Leave me alone.</text>
 <text id="77000110">I am interested in one thing. Dark.
 You haven't the gift.</text>
+<text>#0Talk-1st time with both 8 more Intelligence &amp; Faith</text>
 <text id="77000200">The Dark stirs...</text>
 <text id="77000210">I see...The Dark has sparked within you...</text>
 <text id="77000220">My name is Felkin.</text>
 <text id="77000230">I will trade with you.
 What do you need?</text>
+<text>#0Talk-2nd time with both 8 more Intelligence &amp; Faith</text>
 <text id="77000400">You are...always welcome...yes...?</text>
+<text>#0Talk-3rd time with both 8 more Intelligence &amp; Faith</text>
 <text id="77000500">The Dark...watches over you...</text>
-<text id="77000600">Come again...as you like...</text>
-<text id="77000610">The Dark...Is always within you...</text>
-<text id="77000700">No matter...
-the time will come...</text>
-<text id="77000800">Till we meet again.</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="77000900">This land...lies closest to the Dark...
 Th-that is...that is why I came here.</text>
 <text id="77000910">This kingdom...collapsed long ago.</text>
 <text id="77000920">All that are left... Are either Undead or Hollow...</text>
 <text id="77000930">Save a few misfits like myself...hah hah.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="77001000">I w-went...I went...I went to a great school...in the south...
 But neither sorcery nor pyromancy appealed...I...</text>
 <text id="77001010">I-I learned nothing...nothing at all...
@@ -29,27 +31,46 @@ I-it was there that I happened upon the Dark.</text>
 <text id="77001020">It drew me in... The nebulous Dark...</text>
 <text id="77001030">Soon, I was drawn to this land,
 where Dark runs deeper than anywhere else.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="77001100">Hexes originated in...ancient times.</text>
 <text id="77001110">They were once...a form of sorcery.
 But the practice was lost...then later rediscovered.</text>
 <text id="77001120">Those devoted to hexes are a lonely lot...
 But nevertheless...they give their lives to their art.</text>
 <text id="77001130">Such is the fate...of we practitioners of Dark...</text>
+<text>#0Menu-Choose "Talk" 4th time</text>
 <text id="77001200">What drew me to the Dark...I...I...I do not know.</text>
 <text id="77001210">Hexes ar...are more than mere tools to me...</text>
 <text id="77001220">I feel affinity...and warmth...
 Something universal, nostalgia...even...</text>
 <text id="77001230">Those who discover Dark...realise this...
 And...they never come back.</text>
-<text id="77005000">You've let Dark...take control...</text>
-<text id="77005010">I cannot...let you have this.</text>
-<text id="77005020">One day...I will share your fate.</text>
-<text id="77005030">Hrk...</text>
-<text id="77005040">What are you doing?</text>
-<text id="77005050">Stop this.</text>
-<text id="77005060">Ahhhh...ahh...my...my...Dark </text>
-<text id="77005070">Look...the Dark...I see it...I see it...</text>
-<text id="77006000">##Dark...deliver me...</text>
+<text>#0Menu-Choose "Talk" after attaining 20 Intelligence &amp; Faith</text>
 <text id="77007000">These...are for you...</text>
 <text id="77007010">Together, into the Dark...</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="77000700">No matter...
+the time will come...</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="77000600">Come again...as you like...</text>
+<text id="77000610">The Dark...Is always within you...</text>
+<text>#0After leaving abruptly</text>
+<text id="77000800">Till we meet again.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="77005030">Hrk...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="77005040">What are you doing?</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="77005050">Stop this.</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="77005000">You've let Dark...take control...</text>
+<text>#0Upon approaching him, after he has previously killed the protagonist</text>
+<text id="77005010">I cannot...let you have this.</text>
+<text>#0Upon killing the protagonist</text>
+<text id="77005020">One day...I will share your fate.</text>
+<text>#0After reducing his health to 50% or lower</text>
+<text id="77005060">Ahhhh...ahh...my...my...Dark </text>
+<text>#0Upon dying</text>
+<text id="77005070">Look...the Dark...I see it...I see it...</text>
+<text id="77006000">##Dark...deliver me...</text>
 </entries>

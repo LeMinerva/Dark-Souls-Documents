@@ -1,24 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="76000000">Oh, your head's square on your shoulders, is it?</text>
 <text id="76000001">I thought that clamouring tin can was the last,
 but here we go again.</text>
 <text id="76000002">What is it you want from this old stone-humped hag?</text>
 <text id="76000003">I've nothing for you, not a smithereen.
 I just like to stand here, and take in the view.</text>
+<text>#0Choose "No business in particular" to the query</text>
+<text id="76000800">Keep your marbles intact, love.</text>
+<text id="76000801">At least until I lose mine.</text>
+<text>#0Talk-After choosing "No business in particular" to the query</text>
+<text id="76000003">I've nothing for you, not a smithereen.
+I just like to stand here, and take in the view.</text>
+<text>#0Choose "I have business with you" to the query</text>
 <text id="76000100">Well, that came out of nowhere.</text>
 <text id="76000101">You think an old stone-humped hag
 would be brimming with goodies?</text>
 <text id="76000102">I've none of that, not a smithereen.</text>
+<text>#0Talk-After choosing "I have business with you" to the query</text>
 <text id="76000200">Strange little lad, you are.</text>
 <text id="76000201">Strange little lass, you are.</text>
 <text id="76000202">What on earth do you see in me?</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="76000300">At the close of the Age of Fire,
 all lands meet at the end of the earth.</text>
 <text id="76000301">Great kingdoms and anaemic townships will be one and the same.
 The great tide of human enterprise, all for naught.</text>
 <text id="76000302">That's why I'm so taken by this grand sight.</text>
 <text id="76000303">This must be what it's like to be a god.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="76000400">Oh, if you just can't stop yourself, at least hear this.</text>
 <text id="76000401">Far below, there's a deep, dark hole carved out of a tree.</text>
 <text id="76000402">...From time to time,
@@ -26,6 +37,7 @@ voices brim from the depths of the cavity even now.</text>
 <text id="76000403">Mutterings of the very demon that Prince Lorian spoke of,
 I'm sure.</text>
 <text id="76000404">Horrible sounds, of an afflicted thing yet cursing men.</text>
+<text>#0Menu-Choose "Inquire of the Ringed City" after talking with Lapp</text>
 <text id="76000500">Why, where did you hear that name, love?</text>
 <text id="76000501">Oh, it doesn't matter. I'll tell you what I know.</text>
 <text id="76000502">The Ringed City is said to be at world's end.</text>
@@ -34,27 +46,35 @@ I'm sure.</text>
 <text id="76000505">The forsaken Ringed City was walled off
 by the gods to contain the pygmies.</text>
 <text id="76000506">...and the dark soul is better left well alone...</text>
+<text>#0Menu-Choose "Talk" after choosing "Inquire of the Ringed City"</text>
+<text id="76000700">You're not willing to reconsider, are you?</text>
+<text id="76000701">Well, that's just fine. It's a rare thing, to have a true duty.</text>
+<text id="76000702">Don't go and take it for granted, I suppose.</text>
+<text id="76000703">Won't do any better than this, not you or that poor tin can.</text>
+<text>#0Menu-Choose "Leave", or after leaving abruptly</text>
+<text id="76000800">Keep your marbles intact, love.</text>
+<text id="76000801">At least until I lose mine.</text>
+<text>#0Menu-Choose "Leave",  after choosing "Inquire of the Ringed City"</text>
+<text id="76001000">Don't run off and die, love.</text>
+<text id="76001001">It's a nicer view with you in it.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="76001100">...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="76001101">...</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="76001102">...</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="76001103">...</text>
+<text>#0Upon dying</text>
+<text id="76001200">...</text>
+<text id="76001300">My time has come, has it?</text>
+<text id="76001301">Well, maybe I'll get to see an angel.</text>
 <text id="76000600">##Ahh, yes, it's just what you'd guess.</text>
 <text id="76000601">##Legend says that the Ringed City lies at the end of the earth.</text>
 <text id="76000602">##This heap of everything, you're looking right at it.</text>
 <text id="76000603">##But be warned.</text>
 <text id="76000604">##The pygmies were exiled to the Ringed City.
 And no one should go near the dark soul.</text>
-<text id="76000700">You're not willing to reconsider, are you?</text>
-<text id="76000701">Well, that's just fine. It's a rare thing, to have a true duty.</text>
-<text id="76000702">Don't go and take it for granted, I suppose.</text>
-<text id="76000703">Won't do any better than this, not you or that poor tin can.</text>
-<text id="76000800">Keep your marbles intact, love.</text>
-<text id="76000801">At least until I lose mine.</text>
 <text id="76000900">##When you see that tin can, pass the word along.</text>
 <text id="76000901">##I'm afraid he's a little too brave for his own good.</text>
-<text id="76001000">Don't run off and die, love.</text>
-<text id="76001001">It's a nicer view with you in it.</text>
-<text id="76001100">...</text>
-<text id="76001101">...</text>
-<text id="76001102">...</text>
-<text id="76001103">...</text>
-<text id="76001200">...</text>
-<text id="76001300">My time has come, has it?</text>
-<text id="76001301">Well, maybe I'll get to see an angel.</text>
 </entries>

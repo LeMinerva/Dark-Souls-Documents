@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="50000000">Who are you?</text>
+<text>#0Choose "Make peace" to the query, &amp; subsequently talking after</text>
 <text id="50000100">I help anytime.</text>
 </entries>

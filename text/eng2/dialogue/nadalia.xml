@@ -1,21 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="76010010">How kind...you've come to me...</text>
-<text id="76010011">Come to me...come quickly...</text>
+<text>#0Destroys the ashen idol-1st time</text>
+<text id="76010010">How kind...you've come...</text>
+<text id="76010011">Come to me...Come, quickly...</text>
+<text>#0Destroys the ashen idol-2nd time</text>
 <text id="76010020">Let me surround you...</text>
 <text id="76010021">Let me surround you...</text>
-<text id="76010022">Oh please, don't go...</text>
+<text id="76010022">Please, don't go...</text>
+<text>#0Destroys the ashen idol-3rd time</text>
 <text id="76010030">I've waited so very long for you...</text>
 <text id="76010031">It's unbearable my dear...</text>
 <text id="76010032">Where were you?</text>
-<text id="76010033">Oh it doesn't matter...as long as you're here...</text>
+<text id="76010033">Oh it doesn't matter...As long as you're here...</text>
+<text>#0Destroys the ashen idol-4th time</text>
 <text id="76010040">Don't be fooled...</text>
 <text id="76010041">By the enchanting bride Nadalia...</text>
 <text id="76010042">Get to leave...at once...</text>
+<text>#0Destroys the ashen idol-5th time</text>
 <text id="76010050">You've ruined us...</text>
 <text id="76010051">My dear sisters were gone...</text>
-<text id="76010052">I require your souls...I require them needly...</text>
-<text id="76010060">Ahh...but why?</text>
-<text id="76010061">You fool...</text>
-<text id="76010062">You are mine now...</text>
+<text id="76010052">I require your strenth...</text>
+<text id="76010053">I require from you...</text>
+<text>#0Destroys the ashen idol-6th time</text>
+<text id="76010070">After all that...</text>
+<text id="76010071">What for...?</text>
+<text id="76010072">You are mine, now...</text>
+<text id="76010060">##You've finally come...</text>
+<text id="76010061">##I will never let you go...</text>
+<text id="76010062">##I need your souls...Give them to me...</text>
 </entries>

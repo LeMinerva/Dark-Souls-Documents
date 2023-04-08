@@ -1,33 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="13000000">Mm, you seem quite lucid! A rare thing in these times.</text>
 <text id="13000001">I am Logan. I'm a bit cooped up, as you can see.</text>
 <text id="13000002">I have a bright idea. Suppose you set me free?</text>
 <text id="13000003">I'm old and empty-handed,
 but I could repay you with knowledge, and sorcery.</text>
 <text id="13000004">This place is melting my mind. The inactivity is repressive!</text>
+<text>#0Talk-2nd time, after opening his cage using the Cage Key</text>
 <text id="13000100">Oh, heavens, thank you. I'm saved.</text>
 <text id="13000101">And, I'd love to resume my travels,</text>
 <text id="13000102">but I must log a few things first, and I owe you a favour.
 I will return to Firelink Shrine.</text>
 <text id="13000103">Speak with me there, so that I may impart my sorcery.</text>
+<text>#0Talk-3rd time</text>
 <text id="13000200">Oh, hello. Don't mind me. Go on ahead.</text>
 <text id="13000201">I'll be along later.
 Phoo-hah-hah, I'll be just fine, young one.</text>
-<text id="13000400">I fail to see your design,</text>
-<text id="13000401">but if you think I'm too old to defend myself,</text>
-<text id="13000402">perhaps some sorcery will change your mind!</text>
-<text id="13000500">Heavens...the folly of youth...</text>
-<text id="13000501">...I'm too old for this...</text>
-<text id="13010000">There you are. I was expecting you.</text>
-<text id="13010001">As promised, I will share my sorceries.</text>
-<text id="13010100">Hello there. You really are very diligent.</text>
-<text id="13010101">I quite understand. Study is invigorating!</text>
-<text id="13010200">Hello there.</text>
-<text id="13010201">Very well indeed. I'm pleased to share my sorceries.</text>
-<text id="13010300">Hello there. What have you been up to?</text>
-<text id="13010301">I thought that perhaps you'd gone Hollow on me.</text>
-<text id="13010302">So, have you come to further your study of sorcery?</text>
+<text>#0Talk-1st time with less than 15 Intelligence</text>
 <text id="13010400">Hello there. I was expecting you.</text>
 <text id="13010401">As promised, I will share my sorceries.</text>
 <text id="13010402">...</text>
@@ -36,22 +26,42 @@ Phoo-hah-hah, I'll be just fine, young one.</text>
 <text id="13010405">Oh, do not fret. Life isn't all about sorcery.
 You will find your own way.</text>
 <text id="13010406">Don't frown with regret; peer forward with your head high.</text>
+<text>#0Talk-2nd time with less than 15 Intelligence</text>
 <text id="13010500">Hello there. Glad to see you alive.</text>
+<text>#0Talk-2nd time with 15 Intelligence or more after previously not enough</text>
 <text id="13010600">Hello there. Glad to see you alive.</text>
 <text id="13010601">Hmm...</text>
 <text id="13010602">It seems you've come quite a way...</text>
 <text id="13010603">Excellent. You are certainly ready.
 I shall teach you sorceries.</text>
-<text id="13010700">I will stay here for the time being.</text>
-<text id="13010701">Speak to me again to further your knowledge.</text>
+<text>#0Talk-With 15 Intelligence or more-1st time</text>
+<text id="13010000">There you are. I was expecting you.</text>
+<text id="13010001">As promised, I will share my sorceries.</text>
+<text>#0Talk-With 15 Intelligence or more-2nd time</text>
+<text id="13010100">Hello there. You really are very diligent.</text>
+<text id="13010101">I quite understand. Study is invigorating!</text>
+<text>#0Talk-With 15 Intelligence or more-3rd time</text>
+<text id="13010200">Hello there.</text>
+<text id="13010201">Very well indeed. I'm pleased to share my sorceries.</text>
+<text>#0Talk-With 15 Intelligence or more-4th time</text>
+<text id="13010300">Hello there. What have you been up to?</text>
+<text id="13010301">I thought that perhaps you'd gone Hollow on me.</text>
+<text id="13010302">So, have you come to further your study of sorcery?</text>
+<text>#0Menu-Choose "Leave"-1st time without purchasing something</text>
 <text id="13010800">No results, eh...</text>
 <text id="13010801">Well, the way of sorceries is a long, hard road.
 Take it slowly.</text>
+<text>#0Menu-Choose "Leave"-2nd time without purchasing something</text>
 <text id="13010900">Farewell.</text>
+<text>#0Menu-Choose "Leave" after purchasing something</text>
+<text id="13010700">I will stay here for the time being.</text>
+<text id="13010701">Speak to me again to further your knowledge.</text>
+<text>#0Menu-Choose "Leave" after attaining the Lordvessel</text>
 <text id="13011000">Heading out, are you?</text>
 <text id="13011001">I, too, will leave soon.
 Undead or no, I shan't stay here forever.</text>
 <text id="13011002">...You have great potential. Don't go and die over nothing.</text>
+<text>#0Talk-Before opening his cell with the Archive Tower Giant Cell Key</text>
 <text id="13020000">Hello again! What a chance meeting this is!</text>
 <text id="13020001">Alas, I'm imprisoned once again.
 I don't suppose you could stage me a getaway?</text>
@@ -59,34 +69,29 @@ I don't suppose you could stage me a getaway?</text>
 So close, but just out of reach!</text>
 <text id="13020003">The thought offends me so, I could simply die!</text>
 <text id="13020004">As a student of the arts, you understand me, yes?</text>
+<text>#0Talk-1st time after opening his cell with the Archive Tower Giant Cell Key</text>
 <text id="13020100">Oh, thank you very much. I'm saved.</text>
 <text id="13020101">That makes twice. I must be sure to repay you.</text>
 <text id="13020102">I will visit the Archives.
 If I discover any new spells, I shall share them with you.</text>
 <text id="13020103">Prepare to be impressed, by the onward march of sorcery!</text>
+<text>#0Talk-2nd time after opening his cell with the Archive Tower Giant Cell Key</text>
 <text id="13020200">Hello. Don't mind me. Go on ahead.</text>
 <text id="13020201">I'll head out soon.
 I wish to lay down my plans before I visit the Archives.</text>
+<text>#0Talk-1st time</text>
 <text id="13020600">Hello there. I was expecting you.</text>
 <text id="13020601">This place is truly magnificent, more than expected, even.</text>
 <text id="13020602">As promised, I shall share the new sorceries with you.</text>
 <text id="13020603">And, the secret of Seath's immortality.</text>
+<text>#0Talk-2nd time</text>
 <text id="13020700">Hello there. You really are very diligent.</text>
 <text id="13020701">Oh, I understand.
 We are in the midst of a revolution!</text>
+<text>#0Talk-After resting at a Bonfire</text>
 <text id="13020702">Oh, hello there. Where have you been?</text>
 <text id="13020703">Time is a resource. Let's delve in promptly.</text>
-<text id="13020800">Oh, there you are, it has been a while.</text>
-<text id="13020801">Or, were you just here?</text>
-<text id="13020802">This fascinating place defeats my sense of time...</text>
-<text id="13020900">Come again.</text>
-<text id="13020901">The knowledge here is limitless.
-I will absorb it, then share it with you.</text>
-<text id="13021000">Come again, any time you please.</text>
-<text id="13021001">For I too, learn, whilst teaching a student.</text>
-<text id="13021100">Farewell.</text>
-<text id="13021200">Mm...mm...</text>
-<text id="13021201">Mm...mm...</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="13021300">Ah, the secret of Seath's immortality?</text>
 <text id="13021301">If you have fought him, and were imprisoned, you must know that
 Seath is a true Undead, different from ourselves.</text>
@@ -98,6 +103,7 @@ pillaged by Seath when he turned upon the ancient dragons.</text>
 can you so much as scratch his hide.</text>
 <text id="13021305">And it so happens, the Primordial Crystal is
 in the inner garden of these very archives, the Crystal Forest.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="13021400">The tomes stored in these Archives are truly magnificent.</text>
 <text id="13021401">A great pool of knowledge, the fruits of
 superior wisdom and an unquenchable desire for the truth.</text>
@@ -106,8 +112,32 @@ superior wisdom and an unquenchable desire for the truth.</text>
 <text id="13021403">All progress demands sacrifice.</text>
 <text id="13021404">And I certainly bear no antipathy
 for that wonderful scaleless beast.</text>
+<text>#0Talk-After defeating Seath the Scaleless</text>
+<text id="13020800">Oh, there you are, it has been a while.</text>
+<text id="13020801">Or, were you just here?</text>
+<text id="13020802">This fascinating place defeats my sense of time...</text>
+<text>#0Menu-Choose "Talk" after defeating Seath</text>
+<text id="13021200">Mm...mm...</text>
+<text id="13021201">Mm...mm...</text>
+<text>#0Menu-Choose "Talk" after purchasing all of his spells &amp; defeating Seath</text>
 <text id="13021500">...Who are you...</text>
 <text id="13021501">...Stay clear...stay clear of my work...</text>
 <text id="13021502">...Curses upon you!</text>
 <text id="13021503">...How dare you disturb me!</text>
+<text>#0Menu-Choose "Leave" without purchasing something</text>
+<text id="13021100">Farewell.</text>
+<text>#0Menu-Choose "Leave"-1st time after purchasing something</text>
+<text id="13020900">Come again.</text>
+<text id="13020901">The knowledge here is limitless.
+I will absorb it, then share it with you.</text>
+<text>#0Menu-Choose "Leave"-2nd time after purchasing something</text>
+<text id="13021000">Come again, any time you please.</text>
+<text id="13021001">For I too, learn, whilst teaching a student.</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="13000400">I fail to see your design,</text>
+<text id="13000401">but if you think I'm too old to defend myself,</text>
+<text id="13000402">perhaps some sorcery will change your mind!</text>
+<text>#0Upon dying</text>
+<text id="13000500">Heavens...the folly of youth...</text>
+<text id="13000501">...I'm too old for this...</text>
 </entries>

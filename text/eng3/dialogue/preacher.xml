@@ -1,11 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0After approaching his location, or talking a 2nd time</text>
 <text id="75000000">Many of us are by the fire forsaken.</text>
 <text id="75000001">I speak of thine kind, and mine.</text>
 <text id="75000002">Behold this city!
 We are kindred, belike two eyes which gaze upon the other.</text>
 <text id="75000003">Fear not, the dark, my friend.</text>
 <text id="75000004">And let the feast begin.</text>
+<text>#0Talk-1st time </text>
+<text id="75000300">One was a wayfaring knight, on an endless, forbidden search.</text>
+<text id="75000301">Only the Abyss granted closure,
+if not reunion with his beloved.</text>
+<text id="75000302">Fear not, the dark, my friend.</text>
+<text id="75000303">And let the feast begin.</text>
+<text>#0After approaching his location, or talking a 2nd time</text>
 <text id="75000100">One met the dark with learning.
 But in the end, learned his knowledge was wanting.</text>
 <text id="75000101">The world began without knowledge,
@@ -13,42 +21,48 @@ and without knowledge will it end.</text>
 <text id="75000102">Dost not this ring clear and true?</text>
 <text id="75000103">Fear not, the dark, my friend.</text>
 <text id="75000104">And let the feast begin.</text>
+<text>#0Talk-1st time </text>
 <text id="75000200">One poor girl slew her own kin,
 but even so, was embraced, enveloped by the Abyss.</text>
 <text id="75000201">Twas a comfort that neither
 moon nor sunless sky afforded her before.</text>
 <text id="75000202">Fear not, the dark, my friend.</text>
 <text id="75000203">And let the feast begin.</text>
-<text id="75000300">One was a wayfaring knight, on an endless, forbidden search.</text>
-<text id="75000301">Only the Abyss granted closure,
-if not reunion with his beloved.</text>
-<text id="75000302">Fear not, the dark, my friend.</text>
-<text id="75000303">And let the feast begin.</text>
+<text>#0After approaching his location, or talking a 2nd time</text>
 <text id="75000400">And so, she lived in fear. Of the dark,
 of the things that gnawed at her flesh.</text>
 <text id="75000401">And yet! The Abyss hath yet to produce any such creature!</text>
 <text id="75000402">Fear not, the dark, my friend.</text>
 <text id="75000403">And let the feast begin.</text>
+<text>#0Talk-1st time </text>
 <text id="75000500">And so, despite his weighty armour, he lived in fear.
 Of a delicate thing, little more than a girl.</text>
 <text id="75000501">Where fire resideth, shadows twist and shrivel.
 But in the Abyss, there are shadows none.</text>
 <text id="75000502">Fear not, the dark, my friend.</text>
 <text id="75000503">And let the feast begin.</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="75001000">...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="75001001">...</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="75001002">...</text>
+<text>#0Upon being attacked-4th time</text>
+<text id="75001003">...</text>
+<text>#0Upon being attacked &amp; made hostile</text>
+<text id="75000700">Ahh, yes, yes, I remember now!</text>
+<text id="75000701">Let the feast begin.</text>
+<text id="75000702">Let the feast begin.</text>
+<text>#0Upon initiating a feasting grab attack</text>
+<text id="75000800">I shall partake!</text>
+<text>#0Upon killing the protagonist</text>
+<text id="75001200">Search thine own self. Fear not the dark.</text>
+<text id="75001201">And let the feast begin.</text>
+<text>#0Upon dying</text>
+<text id="75001100">...</text>
 <text id="75000600">##Of all the Fingers, he alone was embraced by the Abyss.</text>
 <text id="75000601">##For he was human, and ne'er a grub.</text>
 <text id="75000602">##Fear not, the dark, my friend.</text>
 <text id="75000603">##And let the feast begin.</text>
-<text id="75000700">Ahh, yes, yes, I remember now!</text>
-<text id="75000701">Let the feast begin.</text>
-<text id="75000702">Let the feast begin.</text>
-<text id="75000800">I shall partake!</text>
-<text id="75000900">...</text>
-<text id="75001000">...</text>
-<text id="75001001">...</text>
-<text id="75001002">...</text>
-<text id="75001003">...</text>
-<text id="75001100">...</text>
-<text id="75001200">Search thine own self. Fear not the dark.</text>
-<text id="75001201">And let the feast begin.</text>
+<text id="75000900">##...</text>
 </entries>

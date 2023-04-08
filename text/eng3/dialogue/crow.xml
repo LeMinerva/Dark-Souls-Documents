@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="59000000">##Ahh, Lady Friede, such is why it's warm...</text>
-<text id="59000001">##My very own home, now...</text>
-<text id="59000002">##...</text>
+<text>#01st time stepped into The Painted World of Ariandel</text>
 <text id="59000100">...</text>
+<text>#0Talk-1st time</text>
 <text id="59000200">...</text>
 <text id="59000201">Ahh, have you just arrived?</text>
 <text id="59000202">How very unusual. Just how long has it been!</text>
@@ -12,17 +11,28 @@ For this is a true haven of the Forlorn.</text>
 <text id="59000204">The cold and gentle painted world of Ariandel.</text>
 <text id="59000205">Quick, go along, find one for yourself.</text>
 <text id="59000206">A sweetly rotting bed to lie upon...</text>
+<text>#0Talk-2nd time</text>
 <text id="59000300">Ahh, ahh, yes, of course.</text>
 <text id="59000301">You're no exception. We've all seen terrible things.</text>
 <text id="59000302">But you're safe now. Let it ease your burden.</text>
 <text id="59000303">Ariandel will make a fine home for you.</text>
 <text id="59000304">So, go on ahead, find one for yourself.</text>
 <text id="59000305">A sweetly rotting bed to lie upon...</text>
+<text>#0Talk-3rd time</text>
 <text id="59000400">Quick! Go along, find one for yourself.</text>
 <text id="59000401">A sweetly rotting bed to lie upon...</text>
+<text>#0Talk-After the protagonist leaves &amp; returns</text>
+<text id="59000001">My very own home, now...</text>
+<text id="59000002">...</text>
+<text>#0Upon being attacked-1st time</text>
 <text id="59000501">...</text>
+<text>#0Upon being attacked-2nd time</text>
 <text id="59000502">...</text>
+<text>#0Upon being attacked-3rd time</text>
 <text id="59000503">...</text>
+<text>#0Upon being attacked-4th time</text>
 <text id="59000504">...</text>
+<text>#0Upon dying</text>
 <text id="59000600">...</text>
+<text id="59000000">##Ahh, Lady Friede, such is why it's warm...</text>
 </entries>

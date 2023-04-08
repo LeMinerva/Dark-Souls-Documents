@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0序幕</text>
 <text id="100">在远古时代</text>
 <text id="101">世界还未分化，笼罩在大雾之中</text>
 <text id="102">四处都是灰色的岩石，高耸的大树及不朽古龙</text>
@@ -25,11 +26,13 @@
 <text id="320">现在，火即将熄灭</text>
 <text id="321">光明无法照耀人世，夜晚无止境的持续</text>
 <text id="322">而受诅咒的黑暗之环，开始出现于人群中</text>
+<text>#0北方不死院</text>
 <text id="1000">是的，黑暗之环代表了受到不死的诅咒</text>
 <text id="1001">所以，在王国里</text>
 <text id="1002">不死人全会被逮捕，送到北边</text>
 <text id="1003">关到大牢里，直到世界终了</text>
 <text id="1004">……这也是你的命运</text>
+<text>#0离开不死院</text>
 <text id="2000">不过，根据古老的传说</text>
 <text id="2001">有极少数被选上的不死人</text>
 <text id="2002">可以离开不死院，前往远土巡礼</text>

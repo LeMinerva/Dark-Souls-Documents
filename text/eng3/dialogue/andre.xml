@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0Talk-1st time</text>
 <text id="10000000">Well, a newcomer I see.</text>
 <text id="10000001">I am Andre. I serve at this shrine.</text>
 <text id="10000002">As a humble smith, forging weapons.</text>
@@ -7,15 +8,11 @@
 <text id="10000004">A toilsome journey I'd wager. You'll require good arms.</text>
 <text id="10000005">Let me smith y' weapons.</text>
 <text id="10000006">I am a smith, such is my purpose.</text>
+<text>#0Talk-2nd time</text>
 <text id="10000100">Ahh, well met.</text>
 <text id="10000101">Tis good to see y' in good health.</text>
 <text id="10000102">What needs smithing this day?</text>
-<text id="10000200">...</text>
-<text id="10000201">...</text>
-<text id="10000202">...</text>
-<text id="10000300">Prithee, be careful.</text>
-<text id="10000301">I don't want to see m' work squandered!</text>
-<text id="10000302">...</text>
+<text>#0Menu-Choose "Talk" 1st time</text>
 <text id="10000400">Weapons and protection are sturdy enough, by and large.</text>
 <text id="10000401">But when overused, they'll eventually break.</text>
 <text id="10000402">When their durability is low, repair becomes a necessity.</text>
@@ -25,6 +22,7 @@ bring them me.</text>
 <text id="10000405">I'll hammer 'em back into shape.</text>
 <text id="10000406">They take no pleasure in breaking, I assure y'.</text>
 <text id="10000407">So, handle them with care, if y' would.</text>
+<text>#0Menu-Choose "Talk" 2nd time</text>
 <text id="10000500">There are two ways to smith weapons.</text>
 <text id="10000501">Simple reinforcement is one, and infusion the other.</text>
 <text id="10000502">Reinforcement is straight forward.
@@ -37,6 +35,7 @@ and infusion requires gems.</text>
 <text id="10000506">It's m' purpose, after all!</text>
 <text id="10000507">In battle, y' weapons are yer only friends.
  Forge them well, and they won't let y' down.</text>
+<text>#0Menu-Choose "Talk" 3rd time</text>
 <text id="10000600">Ahh, another matter.</text>
 <text id="10000601">Infusing weapons with gems requires a special kind of coal.</text>
 <text id="10000602">My humble coals won't be any use infusing more unusual gems.</text>
@@ -44,40 +43,7 @@ and infusion requires gems.</text>
 <text id="10000604">Oh, please, don't give me that look.</text>
 <text id="10000605">Believe it or not, I'm quite thin-skinned.</text>
 <text id="10000606">...</text>
-<text id="10000700">Oh, my...this coal is from the Undead Legion...</text>
-<text id="10000701">Used to forge the weapons of Farron's Abyss Watchers. </text>
-<text id="10000702">A fine prize. I'm honoured to be endued with it.</text>
-<text id="10000703">Now I'll be equipped to infuse special gems.</text>
-<text id="10000704">Praise the gods, eh. Time to put this brawn to use!</text>
-<text id="10000705">...</text>
-<text id="10000800">My, my... The coal of that peaceable giant.</text>
-<text id="10000801">Seems like ages past. I imagine his passing was long ago.</text>
-<text id="10000802">I miss the old bugger, I do.</text>
-<text id="10000803">My thanks. I'll be sure this coal is put to good use.</text>
-<text id="10000804">I'll be smithing weapons never afore seen by the likes of y'!</text>
-<text id="10000805">It's but a small service, to pay my humble respects.</text>
-<text id="10000806">...</text>
-<text id="10000900">Lords... Where didye hap'n upon this coal?</text>
-<text id="10000901">This is much too dark. I see the Abyss in it...</text>
-<text id="10000902">Yet, a smith I remain. I won't turn down a request.</text>
-<text id="10000903">But forget not,</text>
-<text id="10000904">Your fight is for the flame, and for y' fellow kin. Just like mine.</text>
-<text id="10000905">A cursed fate this may be,
-but hope remains, does it not?</text>
-<text id="10001000">Oh, you've returned. I was hoping to see y'.</text>
-<text id="10001001">That crestfallen arse Hawkwood, he handed me this.</text>
-<text id="10001002">He's changed a great deal since he left this place.</text>
-<text id="10001003">Graven of face, he asked me to give it y'.</text>
-<text id="10001004">Well, now that that task is concluded...</text>
-<text id="10001005">What would y' ha' me smith today?</text>
-<text id="10001100">...</text>
-<text id="10001101">...</text>
-<text id="10001103">Enough of that!</text>
-<text id="10001200">...</text>
-<text id="10001202">Beshrew your heart...</text>
-<text id="10001300">Overstep not yer bounds, cousin.</text>
-<text id="10001301">I may serve, but I'm no slave.</text>
-<text id="10001302">I have business I must attend. Be gone.</text>
+<text>#0Menu-Choose "Talk" 4th time</text>
 <text id="10001400">Oh, by the by.</text>
 <text id="10001401">If you find any Estus Shards,
 bring 'em 'ere.</text>
@@ -85,6 +51,21 @@ bring 'em 'ere.</text>
 <text id="10001403">Without those flasks, you'd want for life or focus.</text>
 <text id="10001404">And they'll always stay with y'. Why not treat 'em well?</text>
 <text id="10001405">...</text>
+<text>#0Talk-After protagonist has obtained the Dragon Torso Stone</text>
+<text id="10001000">Oh, you've returned. I was hoping to see y'.</text>
+<text id="10001001">That crestfallen arse Hawkwood, he handed me this.</text>
+<text id="10001002">He's changed a great deal since he left this place.</text>
+<text id="10001003">Graven of face, he asked me to give it y'.</text>
+<text id="10001004">Well, now that that task is concluded...</text>
+<text id="10001005">What would y' ha' me smith today?</text>
+<text>#0Menu-Choose "Give Coal" &amp; choose "Give Farron Coal"</text>
+<text id="10000700">Oh, my...this coal is from the Undead Legion...</text>
+<text id="10000701">Used to forge the weapons of Farron's Abyss Watchers. </text>
+<text id="10000702">A fine prize. I'm honoured to be endued with it.</text>
+<text id="10000703">Now I'll be equipped to infuse special gems.</text>
+<text id="10000704">Praise the gods, eh. Time to put this brawn to use!</text>
+<text id="10000705">...</text>
+<text>#0Menu-Choose "Give Coal" &amp; choose "Give Sage's Coal"</text>
 <text id="10001500">Well, well... What's the Undead Legion
 doing with a coal such as this?</text>
 <text id="10001501">I'd heard one of the Crystal Sages
@@ -94,4 +75,40 @@ had sided with Farron's Abyss Watchers.</text>
 First one I've ever seen.</text>
 <text id="10001504">Hardly a surprise is it? I've never been one for books or wise men.</text>
 <text id="10001505">...</text>
+<text>#0Menu-Choose "Give Coal" &amp; choose "Give Giant's Coal"</text>
+<text id="10000800">My, my... The coal of that peaceable giant.</text>
+<text id="10000801">Seems like ages past. I imagine his passing was long ago.</text>
+<text id="10000802">I miss the old bugger, I do.</text>
+<text id="10000803">My thanks. I'll be sure this coal is put to good use.</text>
+<text id="10000804">I'll be smithing weapons never afore seen by the likes of y'!</text>
+<text id="10000805">It's but a small service, to pay my humble respects.</text>
+<text id="10000806">...</text>
+<text>#0Menu-Choose "Give Coal" &amp; choose "Give Profaned Coal"</text>
+<text id="10000900">Lords... Where didye hap'n upon this coal?</text>
+<text id="10000901">This is much too dark. I see the Abyss in it...</text>
+<text id="10000902">Yet, a smith I remain. I won't turn down a request.</text>
+<text id="10000903">But forget not,</text>
+<text id="10000904">Your fight is for the flame, and for y' fellow kin. Just like mine.</text>
+<text id="10000905">A cursed fate this may be,
+but hope remains, does it not?</text>
+<text>#0Menu-Choose "Leave", or abruptly leave</text>
+<text id="10000300">Prithee, be careful.</text>
+<text id="10000301">I don't want to see m' work squandered!</text>
+<text id="10000302">...</text>
+<text>#0Upon being attacked-1st time</text>
+<text id="10001100">...</text>
+<text>#0Upon being attacked-2nd time</text>
+<text id="10001101">...</text>
+<text>#0Upon being attacked-3rd time</text>
+<text id="10001103">Enough of that!</text>
+<text>#0Upon dying</text>
+<text id="10001200">...</text>
+<text id="10001202">Beshrew your heart...</text>
+<text>#0Talk-Once he's been revived after dying</text>
+<text id="10001300">Overstep not yer bounds, cousin.</text>
+<text id="10001301">I may serve, but I'm no slave.</text>
+<text id="10001302">I have business I must attend. Be gone.</text>
+<text id="10000200">##...</text>
+<text id="10000201">##...</text>
+<text id="10000202">##...</text>
 </entries>

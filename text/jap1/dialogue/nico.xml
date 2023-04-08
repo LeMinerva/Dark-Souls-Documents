@@ -1,13 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
+<text>#0話しかけた:1回目</text>
 <text id="20000000">むーん…</text>
+<text>#0話しかけた:2回目</text>
 <text id="20000100">むーん…</text>
+<text>#0話しかけた:3回目</text>
 <text id="20000200">むーん…</text>
+<text>#0攻撃した</text>
 <text id="20000300">むーん…</text>
+<text>#0敵対状態になった</text>
 <text id="20000400">むーん…</text>
+<text>#0殺害した</text>
 <text id="20000500">むーん…</text>
-<text id="20000600">むーん…</text>
-<text id="20000700">むーん…</text>
-<text id="20000800">むーん…</text>
-<text id="20000900">むーん…</text>
+<text id="20000600">##むーん…</text>
+<text id="20000700">##むーん…</text>
+<text id="20000800">##むーん…</text>
+<text id="20000900">##むーん…</text>
 </entries>

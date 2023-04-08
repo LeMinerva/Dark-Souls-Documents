@@ -1,32 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
-<text id="22000000">Thou that tarnisheth the Godmother's image.</text>
-<text id="22000001">I am Gwyndolin.</text>
-<text id="22000002">And thy transgression shall not go unpunished.</text>
-<text id="22000003">Thou shalt perish in the twilight of Anor Londo.</text>
-<text id="22000100">Heretic...</text>
-<text id="22000101">First thou offendeth the Godmother,
-and now thou see fit to trample upon the tomb of the Great Lord.</text>
-<text id="22000102">I am the Dark Sun, Gwyndolin!</text>
-<text id="22000103">Let the atonement for thy felonies commenceth!</text>
-<text id="22000200">O Heretic, swathed in Dark...</text>
-<text id="22000201">An eternal curse upon thee...</text>
+<text>#0After approaching the Fog Gate before the tomb of Gwyn</text>
 <text id="22000300">Halt!</text>
 <text id="22000301">This is the tomb of the Great Lord Gwyn.</text>
 <text id="22000302">Tarnished, it shall not be, by the feet of men.</text>
 <text id="22000303">If thou art a true disciple of the Dark Sun, cast aside thine ire, </text>
 <text id="22000304">hear the voice of mineself, Gwyndolin, and kneel before me.</text>
-<text id="22000500">Welcome back, Blade of the Darkmoon.</text>
-<text id="22000501">If mine power be need'st, I shall assist thee.</text>
-<text id="22000600">Very well, Blade of the Darkmoon.</text>
-<text id="22000601">Please state thy wish.</text>
-<text id="22000800">What foolishness...</text>
-<text id="22000801">Why trespasseth upon the Great Lord's tomb,
-whilst thou art a disciple of the Dark Sun?</text>
-<text id="22000802">Why would a Blade of the Darkmoon
-trespasseth upon the Great Lord's tomb?</text>
-<text id="22000803">Mark the words of mineself, Gwyndolin!</text>
-<text id="22000804">Thou shalt not go unpunished!</text>
+<text>#0Kneel-1st time</text>
 <text id="22000900">O Disciple of the Dark Sun.</text>
 <text id="22000901">Thou hast journeyed far; hear my voice.</text>
 <text id="22000902">If thou shalt swear by the Covenant, to become</text>
@@ -34,9 +14,43 @@ trespasseth upon the Great Lord's tomb?</text>
 <text id="22000904">A blade that shall hunt the foes of our Lords;</text>
 <text id="22000905">Then I shalt protect thee,
 safeguarding thy person with the power of the Darkmoon.</text>
-<text id="22001000">Very well. Now thou art a Blade of the Darkmoon.</text>
-<text id="22001001">Hunteth the enemies of the Lords, by the power of the Dark Sun.</text>
+<text>#0Choose "No" to join Covenant</text>
 <text id="22001100">Very well.</text>
 <text id="22001101">We shall not need speech.</text>
 <text id="22001102">Exit here, and follow thine own design.</text>
+<text>#0Choose "Yes" to join Covenant</text>
+<text id="22001000">Very well. Now thou art a Blade of the Darkmoon.</text>
+<text id="22001001">Hunteth the enemies of the Lords, by the power of the Dark Sun.</text>
+<text>#0Kneel-1st time after joining the Blade of the Darkmoon Covenant</text>
+<text id="22000500">Welcome back, Blade of the Darkmoon.</text>
+<text id="22000501">If mine power be need'st, I shall assist thee.</text>
+<text>#0Kneel-2nd time after joining the Blade of the Darkmoon Covenant</text>
+<text id="22000600">Very well, Blade of the Darkmoon.</text>
+<text id="22000601">Please state thy wish.</text>
+<text>#0After traversing the Fog Gate</text>
+<text id="22000800">What foolishness...</text>
+<text id="22000801">Why trespasseth upon the Great Lord's tomb,
+whilst thou art a disciple of the Dark Sun?</text>
+<text id="22000803">Mark the words of mineself, Gwyndolin!</text>
+<text id="22000804">Thou shalt not go unpunished!</text>
+<text>#0After traversing the Fog Gate after joining the Blade of the Darkmoon</text>
+<text id="22000800">What foolishness...</text>
+<text id="22000802">Why would a Blade of the Darkmoon
+trespasseth upon the Great Lord's tomb?</text>
+<text id="22000803">Mark the words of mineself, Gwyndolin!</text>
+<text id="22000804">Thou shalt not go unpunished!</text>
+<text>#0After killing illusion of Gwynevere</text>
+<text id="22000000">Thou that tarnisheth the Godmother's image.</text>
+<text id="22000001">I am Gwyndolin.</text>
+<text id="22000002">And thy transgression shall not go unpunished.</text>
+<text id="22000003">Thou shalt perish in the twilight of Anor Londo.</text>
+<text>#0After killing illusion of Gwynevere &amp; traversing the Fog Gate</text>
+<text id="22000100">Heretic...</text>
+<text id="22000101">First thou offendeth the Godmother,
+and now thou see fit to trample upon the tomb of the Great Lord.</text>
+<text id="22000102">I am the Dark Sun, Gwyndolin!</text>
+<text id="22000103">Let the atonement for thy felonies commenceth!</text>
+<text>#0Upon dying</text>
+<text id="22000200">O Heretic, swathed in Dark...</text>
+<text id="22000201">An eternal curse upon thee...</text>
 </entries>
