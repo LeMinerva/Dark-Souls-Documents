@@ -54,6 +54,7 @@ a.icon:nth-child(9),a.icon:nth-child(24),a.icon:nth-child(39){margin-left:7em}
 @media screen and (max-width:1000px){
 hr{height:6em}
 .content,.contentd{width:100%;overflow:auto}
+.content.game3 .icon img{margin-left:-30%;max-width:25em}
 .menu{width:100%}
 .submenu a,.submenu p{font:8px/2.5 微软雅黑}
 .frame{font:8px/1.5 仿宋;margin:0 0 10em}
@@ -62,7 +63,7 @@ hr{height:6em}
 .icon img{transform:translateY(0);margin:0}
 .desc{height:38em}
 .desfrm{margin:19em 0}
-.desfrm p{min-height:2.5em}
+.desfrm p{min-height:2.5em;font-size:1em}
 .remk p{transform:translateY(0);margin:0}
 .contentd div img{width:60%}
 a.icon,a.icon:nth-child(9),a.icon:nth-child(24),a.icon:nth-child(39){margin:5em 0;float:left}
