@@ -15,72 +15,71 @@ window.onload=()=>{
     document.getElementById("menu").innerHTML=m;
     document.getElementById([mt]+[game]).setAttribute("class","mainitm")
   })});
+  var xr=new window.XMLHttpRequest();
   if(rmk==2){
     document.title="黑暗之魂"+[game]+"对话";
     document.getElementsByClassName("icon")[0].firstChild.setAttribute("src","icons/dialogue"+game+"/"+type+".jpg");
     document.getElementsByClassName("title")[0].firstChild.innerHTML=title;
-    var xmlhttp=new window.XMLHttpRequest();
-    xmlhttp.open("get","text/chn"+[game]+"/dialogue/"+[type]+".xml",false);xmlhttp.send();
-    xmlc=xmlhttp.responseXML;
-    xmlhttp.open("get","text/jap"+[game]+"/dialogue/"+[type]+".xml",false);xmlhttp.send();
-    xmlj=xmlhttp.responseXML;
-    xmlhttp.open("get","text/eng"+[game]+"/dialogue/"+[type]+".xml",false);xmlhttp.send();
-    xmle=xmlhttp.responseXML;
+    xr.open("get","text/chn"+[game]+"/dialogue/"+[type]+".xml",false);xr.send();
+    xmlc=xr.responseXML;
+    xr.open("get","text/jap"+[game]+"/dialogue/"+[type]+".xml",false);xr.send();
+    xmlj=xr.responseXML;
+    xr.open("get","text/eng"+[game]+"/dialogue/"+[type]+".xml",false);xr.send();
+    xmle=xr.responseXML;
     var nline=document.createElement("p");
     for(var i=0;i<[lines];i++){
       var bmsgc=xmlc.getElementsByTagName("text")[i].childNodes[0].nodeValue;
       var descc=bmsgc.replace(/(\n|#1|#2|#3|##|#0)/g,($0, $1)=>{return{"\n":"<br>","#1":'<span class="cgb">',"#2":'<span class="cgd">',"#3":"</span>","##":"","#0":""}[$1]});
       var printc=document.getElementsByClassName("chn")[0].childNodes[1].appendChild(nline.cloneNode(true));
-      if(bmsgc.indexOf("##")!==-1){printc.setAttribute("class","uud")}
-      if(bmsgc.indexOf("#0")!==-1){printc.setAttribute("class","dtt")}
+      if(bmsgc.indexOf("##")!==-1){printc.setAttribute("class","uud")};
+      if(bmsgc.indexOf("#0")!==-1){printc.setAttribute("class","dtt")};
       printc.innerHTML=descc;
       var bmsgj=xmlj.getElementsByTagName("text")[i].childNodes[0].nodeValue;
       var descj=bmsgj.replace(/\n/g,"<br>").replace(/(##|#0)/g,"");
       var printj=document.getElementsByClassName("jap")[0].childNodes[1].appendChild(nline.cloneNode(true));
-      if(bmsgj.indexOf("##")!==-1){printj.setAttribute("class","uud")}
-      if(bmsgj.indexOf("#0")!==-1){printj.setAttribute("class","dtt")}
+      if(bmsgj.indexOf("##")!==-1){printj.setAttribute("class","uud")};
+      if(bmsgj.indexOf("#0")!==-1){printj.setAttribute("class","dtt")};
       printj.innerHTML=descj;
       var bmsge=xmle.getElementsByTagName("text")[i].childNodes[0].nodeValue;
       var desce=bmsge.replace(/\n/g,"<br>").replace(/(##|#0)/g,"");
       var printe=document.getElementsByClassName("eng")[0].childNodes[1].appendChild(nline.cloneNode(true));
-      if(bmsge.indexOf("##")!==-1){printe.setAttribute("class","uud")}
-      if(bmsge.indexOf("#0")!==-1){printe.setAttribute("class","dtt")}
+      if(bmsge.indexOf("##")!==-1){printe.setAttribute("class","uud")};
+      if(bmsge.indexOf("#0")!==-1){printe.setAttribute("class","dtt")};
       printe.innerHTML=desce;
     }
   }else{
     document.title="黑暗之魂"+[game]+[title];
-    var xmlhttp=new window.XMLHttpRequest();
-    xmlhttp.open("get","text/chn"+[game]+"/"+[type]+"_name.xml",false);xmlhttp.send();
-    xmlDoc=xmlhttp.responseXML;
+    xr.open("get","text/chn"+[game]+"/"+[type]+"_name.xml",false);xr.send();
+    xmlDoc=xr.responseXML;
     var namec=xmlDoc.getElementsByTagName("text");
-    xmlhttp.open("get","text/jap"+[game]+"/"+[type]+"_name.xml",false);xmlhttp.send();
-    xmlDoc=xmlhttp.responseXML;
+    xr.open("get","text/jap"+[game]+"/"+[type]+"_name.xml",false);xr.send();
+    xmlDoc=xr.responseXML;
     var namej=xmlDoc.getElementsByTagName("text");
-    xmlhttp.open("get","text/eng"+[game]+"/"+[type]+"_name.xml",false);xmlhttp.send();
-    xmlDoc=xmlhttp.responseXML;
+    xr.open("get","text/eng"+[game]+"/"+[type]+"_name.xml",false);xr.send();
+    xmlDoc=xr.responseXML;
     var namee=xmlDoc.getElementsByTagName("text");
-    xmlhttp.open("get","text/chn"+[game]+"/"+[type]+"_desc.xml",false);xmlhttp.send();
-    xmlDoc=xmlhttp.responseXML;
+    xr.open("get","text/chn"+[game]+"/"+[type]+"_desc.xml",false);xr.send();
+    xmlDoc=xr.responseXML;
     var descc=xmlDoc.getElementsByTagName("text");
-    xmlhttp.open("get","text/jap"+[game]+"/"+[type]+"_desc.xml",false);xmlhttp.send();
-    xmlDoc=xmlhttp.responseXML;
+    xr.open("get","text/jap"+[game]+"/"+[type]+"_desc.xml",false);xr.send();
+    xmlDoc=xr.responseXML;
     var descj=xmlDoc.getElementsByTagName("text");
-    xmlhttp.open("get","text/eng"+[game]+"/"+[type]+"_desc.xml",false);xmlhttp.send();
-    xmlDoc=xmlhttp.responseXML;
+    xr.open("get","text/eng"+[game]+"/"+[type]+"_desc.xml",false);xr.send();
+    xmlDoc=xr.responseXML;
     var desce=xmlDoc.getElementsByTagName("text");
     if(rmk==0){
       document.getElementsByClassName("chn")[0].removeChild(document.getElementsByClassName("remk")[0]);
       document.getElementsByClassName("jap")[0].removeChild(document.getElementsByClassName("remk")[0]);
       document.getElementsByClassName("eng")[0].removeChild(document.getElementsByClassName("remk")[0]);
     }else{
-      xmlhttp.open("get","text/chn"+[game]+"/"+[type]+"_remk.xml",false);xmlhttp.send();
-      xmlDoc=xmlhttp.responseXML;
+      xr.open("get","text/chn"+[game]+"/"+[type]+"_remk.xml",false);xr.send();
+      xmlDoc=xr.responseXML;
       var remkc=xmlDoc.getElementsByTagName("text");
-      xmlhttp.open("get","text/jap"+[game]+"/"+[type]+"_remk.xml",false);xmlhttp.send();
-      xmlDoc=xmlhttp.responseXML;
+      xr.open("get","text/jap"+[game]+"/"+[type]+"_remk.xml",false);xr.send();
+      xmlDoc=xr.responseXML;
       var remkj=xmlDoc.getElementsByTagName("text");
-      xmlhttp.open("get","text/eng"+[game]+"/"+[type]+"_remk.xml",false);xmlhttp.send();
-      xmlDoc=xmlhttp.responseXML;
+      xr.open("get","text/eng"+[game]+"/"+[type]+"_remk.xml",false);xr.send();
+      xmlDoc=xr.responseXML;
       var remke=xmlDoc.getElementsByTagName("text");
     }  
     frm=document.getElementsByClassName("frame")[0];
