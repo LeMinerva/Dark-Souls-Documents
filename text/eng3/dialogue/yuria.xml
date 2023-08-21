@@ -53,17 +53,17 @@ in the hidden darkmoon chamber of Anor Londo.</text>
 <text id="4001403">Lord of Hollows, may the dark sigil guide thy way.</text>
 <text>#0Menu-Choose "Tell of Orbeck's death" &amp; choose "Yes"</text>
 <text id="4001403">Lord of Hollows, may the dark sigil guide thy way.</text>
-<text>#0Talk-1st time after performing the wedding ceremony</text>
+<text>#0Talk-1st time with 8 Dark Sigils</text>
 <text id="4001500">Ahh, our Lord and Liege.</text>
 <text id="4001501">I presume thy holy vows are sworn?</text>
 <text id="4001502">Wonderful. Now thou'rt the true and deserving Lord of Hollows.</text>
 <text id="4001503">With a spouse, the strength to claim the fire is thine.</text>
 <text id="4001504">Thy Lordship, I prithee wrest the fire from its mantle.</text>
 <text id="4001505">I, Yuria, and all Londor, embrace thy impending Lordship.</text>
-<text>#0Talk-2nd time after performing the wedding ceremony</text>
+<text>#0Talk-2nd time with 8 Dark Sigils</text>
 <text id="4000200">Ahh, our Lord and rightful Liege.</text>
 <text id="4000201">Speak freely, Thy Lordship. I am at thy beck and call.</text>
-<text>#0Menu-Choose "Talk" after performing the wedding ceremony</text>
+<text>#0Menu-Choose "Talk" after with 8 Dark Sigils</text>
 <text id="4002300">Our Lord and Liege.</text>
 <text id="4002301">I prithee play the usurper.</text>
 <text id="4002302">When the moment cometh to link the fire, wrest it from its mantle.</text>
@@ -77,7 +77,7 @@ who weareth the true face of mankind.</text>
 <text id="4000300">Away to link the fire, I presume?</text>
 <text id="4000301">Think not on thy fears. The dark sigil will guide thee. </text>
 <text id="4000302">Link the fire, our Lord of Hollows.</text>
-<text>#0Talk-After offering all Cinders of a Lord, after the wedding ceremony</text>
+<text>#0Talk-After offering all Cinders of a Lord with 8 Dark Sigils</text>
 <text id="4000400">Ahh, our Lord and Liege.</text>
 <text id="4000401">Thine heart is fix'd upon the linking of the fire.</text>
 <text id="4000402">But brave usurper, I prithee, wrest the flame from its mantle.</text>
@@ -88,7 +88,7 @@ may have it for our own.</text>
 <text id="4005001">A sweet fragrance, long faded from our own bosoms.</text>
 <text id="4005002">How this came to pass I know not, but...</text>
 <text id="4005003">Take heed. Kindness can wear upon one's principles.</text>
-<text>#0Talk-Before defeating Blackflame Friede &amp; attaining 5 or more Dark Sigils</text>
+<text>#0Talk-Before defeating Blackflame Friede with 8 Dark Sigils</text>
 <text id="4005100">Ahh, our Lord and rightful Liege.</text>
 <text id="4005101">Thy scent seemeth most familiar.</text>
 <text id="4005102">A sweet fragrance, long faded from our own bosoms.</text>
@@ -104,7 +104,7 @@ surely would bring her much honour</text>
 <text id="4005204">In return, thou needst only do her a small kindness</text>
 <text id="4005205">Remember those who stayed by her to the end,
 in the shadows cast by fire...</text>
-<text>#0Talk-After defeating Blackflame Friede &amp; attaining 5 or more Dark Sigils</text>
+<text>#0Talk-After defeating Blackflame Friede with 8 Dark Sigils</text>
 <text id="4005300">Ahh, our Lord and Liege.</text>
 <text id="4005301">Twas the soul of my sister.</text>
 <text id="4005302">Elfriede...
@@ -117,12 +117,12 @@ in the shadows cast by fire...</text>
 <text>#0Menu-Choose "Leave" or after leaving abruptly</text>
 <text id="4000500">Till we meet again.</text>
 <text id="4000501">May the dark sigil guide thee.</text>
-<text>#0Menu-Choose "Leave" or after leaving abruptly, after the wedding ceremony</text>
+<text>#0Menu-Choose "Leave" or after leaving abruptly with 8 Dark Sigils</text>
 <text id="4000600">Be safe, our Lord and Liege.</text>
 <text id="4000601">I prithee wrest the flame from its mantle.</text>
 <text>#0Menu-Choose "Leave" or after leaving abruptly, with all Cinders offered</text>
 <text id="4000700">Link the fire, our Lord of Hollows.</text>
-<text>#0Menu-Choose "Leave" with all Cinders offered after the wedding ceremony</text>
+<text>#0Menu-Choose "Leave" with all Cinders offered with 8 Dark Sigils</text>
 <text id="4000800">Honourable usurper, I prithee wrest the flame from its mantle.</text>
 <text id="4000801">So that we Hollows, in most honest shape of man,
 may have it for our own.</text>
@@ -142,11 +142,11 @@ may have it for our own.</text>
 <text id="4002000">Peasant, at least thy cadavder shall a little kindling make...</text>
 <text>#0Upon dying</text>
 <text id="4001903">Kaathe, I have failed thee...</text>
-<text>#0Upon being attacked-1st time after perfomed the wedding ceremony</text>
+<text>#0Upon being attacked-1st time, while the player has 8 Dark Sigils</text>
 <text id="4002103">Thy Lordship, what is the matter?</text>
-<text>#0Upon being attacked-2nd time after perfomed the wedding ceremony</text>
+<text>#0Upon being attacked-2nd time, while the player has 8 Dark Sigils</text>
 <text id="4002104">Please, stop.</text>
-<text>#0Upon dying after perfomed the wedding ceremony</text>
+<text>#0Upon dying, while the player has 8 Dark Sigils</text>
 <text id="4002202">Brave usurper, I beseech thee claim the fire...</text>
 <text id="4000900">##Good Hollow, I prithee reflect on this knowledge.</text>
 <text id="4000901">##On the nature of the Lord of Hollows.</text>
