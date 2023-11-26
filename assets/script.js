@@ -18,7 +18,7 @@ window.onload=()=>{
   var xr=new window.XMLHttpRequest();
   if(rmk==2){
     document.title="黑暗之魂"+[game]+"对话";
-    document.getElementsByClassName("icon")[0].firstChild.setAttribute("src","icons/dialogue"+game+"/"+type+".jpg");
+    document.getElementsByClassName("icon")[0].firstChild.setAttribute("src","icons/dialogue"+game+"/"+type+".webp");
     document.getElementsByClassName("title")[0].firstChild.innerHTML=title;
     xr.open("get","text/chn"+[game]+"/dialogue/"+[type]+".xml",false);xr.send();
     xmlc=xr.responseXML;
@@ -85,7 +85,7 @@ window.onload=()=>{
     frm=document.getElementsByClassName("frame")[0];
     for(var i=0;i<[lines];i++){
       document.getElementById("content").appendChild(frm.cloneNode(true));
-      document.getElementsByClassName("icon")[i].firstChild.src="icons/"+[type]+[game]+"/"+[i]+".png";
+      document.getElementsByClassName("icon")[i].firstChild.src="icons/"+[type]+[game]+"/"+[i]+".webp";
       document.getElementsByClassName("chn")[i].childNodes[1].innerHTML=namec[i].childNodes[0].nodeValue.replace(/(#1|#2|#3|##)/g,($0, $1)=>{return{"#1":'<span class="cgb">',"#2":'<span class="cgd">',"#3":"</span>","##":"<i>未使用</i>"}[$1]});
       document.getElementsByClassName("jap")[i].childNodes[1].innerHTML=namej[i].childNodes[0].nodeValue.replace(/##/,"<i>未使用</i>");
       document.getElementsByClassName("eng")[i].childNodes[1].innerHTML=namee[i].childNodes[0].nodeValue.replace(/##/,"<i>UNUSED</i>");
