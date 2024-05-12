@@ -34,6 +34,10 @@ i{font-style:normal;font-size:.85em;color:#f00;margin:0 .5em 0 -3.5em}
 a.icon{height:11em;margin:0 1.2em}
 a.icon:nth-child(9),a.icon:nth-child(24),a.icon:nth-child(39){margin-left:7em}
 .contentd p{padding:.25em 0}
+.contentd p:before,.contentd p:after{content:"";width:1690px;height:0;display:block;position:absolute;left:0;transition:.3s}
+.contentd p:before{margin:-5px 50%;background:linear-gradient(#960,transparent);transform:translateX(-50%)}
+.contentd p:after{margin:5px 50%;background:linear-gradient(transparent,#960);transform:translate(-50%,-100%)}
+.contentd p:hover:before,.contentd p:hover:after{height:10px}
 .contentd div img{margin:3em -10% 0;width:75%;border-radius:50%;border: 2px solid #430;box-sizing:border-box}
 .contentd a img{margin:0;transform:none;opacity:.85}
 .contentd a:hover img{opacity:1;border:5px solid #531}
