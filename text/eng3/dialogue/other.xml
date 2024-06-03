@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text>#0Place Name</text>
+<text id="211100">Cemetery of Ash</text>
+<text id="211200">Firelink Shrine</text>
+<text id="211205">Iudex Gundyr</text>
+<text id="211202">Untended Graves</text>
+<text id="211206">Champion Gundyr</text>
+<text id="211101">High Wall of Lothric</text>
+<text id="211211">Tower on the Wall</text>
+<text id="211216">Vordt of the Boreal Valley</text>
+<text id="211215">Dancer of the Boreal Valley</text>
+<text id="211217">Oceiros, the Consumed King</text>
+<text id="211108">Lothric Castle</text>
+<text id="211221">Dragon Barracks</text>
+<text id="211225">Dragonslayer Armour</text>
+<text id="211222">Grand Archives</text>
+<text id="211226">Twin Princes</text>
+<text id="211102">Undead Settlement</text>
+<text id="211243">Foot of the High Wall</text>
+<text id="211241">Cliff Underside</text>
+<text id="211242">Dilapidated Bridge</text>
+<text id="211245">Pit of Hollows</text>
+<text id="211103">Road of Sacrifices</text>
+<text id="211260">Halfway Fortress</text>
+<text id="211267">Crucifixion Woods</text>
+<text id="211265">Crystal Sage</text>
+<text id="211261">Farron Keep</text>
+<text id="211262">Keep Ruins</text>
+<text id="211268">Farron Keep Perimeter</text>
+<text id="211263">Old Wolf of Farron</text>
+<text id="211275">Abyss Watchers</text>
+<text id="211104">Cathedral of the Deep</text>
+<text id="211280">Cleansing Chapel</text>
+<text id="211285">Deacons of the Deep</text>
+<text id="211286">Rosaria's Bed Chamber</text>
+<text id="211105">Catacombs of Carthus</text>
+<text id="211327">High Lord Wolnir</text>
+<text id="211320">Abandoned Tomb</text>
+<text id="211321">Old King's Antechamber</text>
+<text id="211322">Demon Ruins</text>
+<text id="211326">Old Demon King</text>
+<text id="3805">Smouldering Lake</text>
+<text id="211106">Irithyll of the Boreal Valley</text>
+<text id="211292">Central Irithyll</text>
+<text id="211290">Church of Yorshka</text>
+<text id="211293">Distant Manor</text>
+<text id="211295">Pontiff Sulyvahn</text>
+<text id="211294">Water Reserve</text>
+<text id="211291">Anor Londo</text>
+<text id="211297">Prison Tower</text>
+<text id="211305">Aldrich, Devourer of Gods</text>
+<text id="211107">Irithyll Dungeon</text>
+<text id="211331">Profaned Capital</text>
+<text id="211335">Yhorm the Giant</text>
+<text id="211109">Archdragon Peak</text>
+<text id="211252">Dragon-Kin Mausoleum</text>
+<text id="211251">Great Belfry</text>
+<text id="211255">Nameless King</text>
+<text id="211110">Kiln of the First Flame</text>
+<text id="211340">Flameless Shrine</text>
+<text id="211345">The First Flame</text>
+<text id="211111">The Painted World of Ariandel</text>
+<text id="211401">Snowfield</text>
+<text id="211402">Rope Bridge Cave</text>
+<text id="211403">Corvian Settlement</text>
+<text id="211404">Snowy Mountain Pass</text>
+<text id="211405">Ariandel Chapel</text>
+<text id="211400">Sister Friede</text>
+<text id="211407">Depths of the Painting</text>
+<text id="211406">Champion's Gravetender</text>
+<text id="211112">The Dreg Heap</text>
+<text id="211502">Earthen Peak Ruins</text>
+<text id="211503">Within the Earthen Peak Ruins</text>
+<text id="211500">The Demon Prince</text>
+<text id="211113">The Ringed City</text>
+<text id="211512">Mausoleum Lookout</text>
+<text id="211513">Ringed Inner Wall</text>
+<text id="211514">Ringed City Streets</text>
+<text id="211515">Shared Grave</text>
+<text id="211510">Church of Filianore</text>
+<text id="211511">Darkeater Midir</text>
+<text id="211521">Filianore's Rest</text>
+<text id="211520">Slave Knight Gael</text>
+<text id="4600">Grand Roof</text>
+<text id="5400">Round Plaza</text>
+<text id="5300">Dragon Ruins</text>
+<text id="4700">Kiln of Flame</text>
+<text id="211264">##Grave of a Decayed Divine Wolf</text>
+<text id="211504">##Lothric Ruins</text>
+<text>#0NPC Name</text>
+<text id="2000">Fire Keeper</text>
+<text id="3000">Ludleth of Courland</text>
+<text id="4000">Yuria of Londor</text>
+<text id="5000">Yoel of Londor</text>
+<text id="6000">Company Captain Yorshka</text>
+<text id="7000">Hawkwood the Deserter</text>
+<text id="8000">Sirris of the Sunless Realms</text>
+<text id="9000">Ringfinger Leonhard</text>
+<text id="10000">Blacksmith Andre</text>
+<text id="11000">Shrine Handmaid</text>
+<text id="12000">Greirat of the Undead Settlement</text>
+<text id="13000">Orbeck of Vinheim</text>
+<text id="14000">Cornyx of the Great Swamp</text>
+<text id="15000">Karla</text>
+<text id="16000">Irina of Carim</text>
+<text id="17000">Eygon of Carim</text>
+<text id="19000">Anri of Astora</text>
+<text id="19100">Old Woman of Londor</text>
+<text id="20000">Unbreakable Patches</text>
+<text id="21000">Siegward of Catarina</text>
+<text id="23000">High Priestess Emma</text>
+<text id="24000">Nestling</text>
+<text id="25000">Horace the Hushed</text>
+<text id="120000">Holy Knight Hodrick</text>
+<text id="150000">Rosaria, Mother of Rebirth</text>
+<text id="620000">Sword Master</text>
+<text id="630000">Yellowfinger Heysel</text>
+<text id="640000">Black Hand Gotthard</text>
+<text id="650000">Great Swamp Cuculus</text>
+<text id="680000">Londor Pale Shade</text>
+<text id="690000">Lion Knight Albert</text>
+<text id="700000">Daughter of Crystal Kriemhild</text>
+<text id="820000">Knight Slayer Tsorig</text>
+<text id="830000">Creighton the Wanderer</text>
+<text id="840000">Alva, Seeker of the Spurned</text>
+<text id="850000">Longfinger Kirk</text>
+<text id="26000">The Painter</text>
+<text id="27000">Slave Knight Gael</text>
+<text id="29000">Sir Vilhelm</text>
+<text id="30000">Champion's Gravetender</text>
+<text id="31000">Livid Pyromancer Dunnel</text>
+<text id="32000">Forlorn Corvian Settler</text>
+<text id="33000">Birch Woman</text>
+<text id="34000">Drowsy Forlorn</text>
+<text id="906010">Father Ariandel</text>
+<text id="27000">Slave Knight Gael</text>
+<text id="37000">Amnesiac Lapp</text>
+<text id="38000">Shira, Knight of Filianore</text>
+<text id="40000">Stone-humped Hag</text>
+<text id="45000">Halflight, Spear of the Church</text>
+<text id="46000">Desert Pyromancer Zoey</text>
+<text id="47000">Silver Knight Ledo</text>
+<text id="48000">Seeker of the Spurned</text>
+<text id="49000">Moaning Knight</text>
+<text id="901320">Crystal Sage</text>
+<text id="902090">Oceiros, the Consumed King</text>
+<text id="902240">Vordt of the Boreal Valley</text>
+<text id="903040">Abyss Watchers</text>
+<text id="903050">Old Demon King</text>
+<text id="903140">Ancient Wyvern</text>
+<text id="903160">Dragonslayer Armour</text>
+<text id="905010">Nameless King</text>
+<text id="905110">Iudex Gundyr</text>
+<text id="905115">Champion Gundyr</text>
+<text id="905140">Pontiff Sulyvahn</text>
+<text id="905150">Aldrich, Devourer of Gods</text>
+<text id="905160">High Lord Wolnir</text>
+<text id="905180">Curse-rotted Greatwood</text>
+<text id="905220">Deacons of the Deep</text>
+<text id="905250">Lorian, Elder Prince</text>
+<text id="905251">Lothric, Younger Prince</text>
+<text id="905260">Yhorm the Giant</text>
+<text id="905270">Dancer of the Boreal Valley</text>
+<text id="905280">Soul of Cinder</text>
+<text id="906020">Sister Friede</text>
+<text id="906021">Father Ariandel and Friede</text>
+<text id="906022">Blackflame Friede</text>
+<text id="906030">Gravetender Greatwolf</text>
+<text id="905020">Demon from Below</text>
+<text id="905021">Demon in Pain</text>
+<text id="905022">Demon Prince</text>
+<text id="906210">Darkeater Midir</text>
+<text id="900218">Spear of the Church</text>
+<text id="890000">Altar of Sunlight</text>
+<text id="890100">Sacrificial Altar</text>
+<text id="890200">Old Wolf of Farron</text>
+<text id="890300">Archdeacon McDonnell</text>
+<text id="890500">Velka, the Goddess of Sin</text>
+<text id="890600">Divine Spear Monument</text>
+<text id="890700">Purging Monument</text>
+<text id="9100">##...</text>
+<text id="39000">##...</text>
+<text id="902000">##Ancient Wolf</text>
+<text id="905120">##Evil Spirits</text>
+<text id="905252">##Dark Princes</text>
+<text>#0Gesture</text>
+<text id="301001">Beckon</text>
+<text id="301002">Point forward</text>
+<text id="301003">Hurrah!</text>
+<text id="301004">Bow</text>
+<text id="301005">Jump for joy</text>
+<text id="301007">Wave</text>
+<text id="301008">Praise the Sun</text>
+<text id="301009">Point up</text>
+<text id="301010">Point down</text>
+<text id="301013">Prostration</text>
+<text id="301014">Proper bow</text>
+<text id="301015">Prayer</text>
+<text id="301016">Duel bow</text>
+<text id="301117">My thanks!</text>
+<text id="301118">Rejoice</text>
+<text id="301119">Rest</text>
+<text id="301120">By my sword</text>
+<text id="301121">Dignified bow</text>
+<text id="301123">Curl up</text>
+<text id="301124">Stretch out</text>
+<text id="301125">Call over</text>
+<text id="301126">Collapse</text>
+<text id="301127">Quiet Resolve</text>
+<text id="301128">Patches Squat</text>
+<text id="301129">Applause</text>
+<text id="301130">Path of the Dragon</text>
+<text id="301131">Legion Etiquette</text>
+<text id="301132">Welcome</text>
+<text id="301133">Joy</text>
+<text id="301134">Darkmoon Loyalty</text>
+<text id="301137">Sleep</text>
+<text id="301138">Toast</text>
+<text id="301139">Silent Ally</text>
+<text id="301011">##Look skyward</text>
+<text id="301012">##Well! What is it!</text>
+<text id="301122">##Lord of Cinder</text>
+<text id="301136">##Unmannered bow</text>
+<text>#0Create Character</text>
+<text id="402350">【Commoner】</text>
+<text id="402350">The oh-so-plain face of a commoner.
+Everyone has imperfections,
+but a commoner without flaws is a rare creature indeed.</text>
+<text id="402351">【Northern Warrior】</text>
+<text id="402351">The face of a warrior, as if hewn from rock.
+It's been long whispered in jest
+northerners are born weathered and old.</text>
+<text id="402352">【Astora Noble】</text>
+<text id="402352">The features of a true blue blood.
+Blue of eye and fair of hair,
+a little reminder of Astora's former glory.</text>
+<text id="402353">【Dragon Academy Student】</text>
+<text id="402353">Intelligent face with fine lines,
+often ribbed for looking like a prentice.</text>
+<text id="402354">【Carim Novice】</text>
+<text id="402354">The face of a cheerless cleric of Carim.
+"Novice" is used as something of
+a derogatory term for men of the cloth.</text>
+<text id="402364">The face of a cheerless cleric of Carim.
+"Novice" is used as something of
+a derogatory term for women of the cloth.</text>
+<text id="402355">【Catarina Merrymaker】</text>
+<text id="402355">The large eyes and mouth give this face a look of jubilation.
+From Catarina, known for its zest for life and love of drink.</text>
+<text id="402356">【Serpentine Traveler】</text>
+<text id="402356">An uncommon face defined by its narrow eyes and thin lips.
+Some praise it as the visage of a true dragon.</text>
+<text id="402357">【Great Swamp Outcast】</text>
+<text id="402357">A uniquely deformed face. Or perhaps merely ugly.
+Prejudice births malcontents,
+and malcontents swarm to the Great Swamp.</text>
+<text id="402358">【Londor Shadow of Death】</text>
+<text id="402358">A lifeless face, almost that of a hollow.
+Londor is a realm of those hollow and old.</text>
+<text id="402359">【Irithyllian】</text>
+<text id="402359">The features of the old gods, as if from legend.
+They say children born like this are fated
+to be taken to the Boreal Valley.</text>
+<text id="402401">【Knight】</text>
+<text id="402401">An obscure knight of poor renown
+who collapsed roaming the land.
+Sturdy, owing to high vitality and stout armor.</text>
+<text id="402402">【Mercenary】</text>
+<text id="402402">A mercenary and veteran of the battlefield.
+High dexterity allows masterful wielding of dual scimitars.</text>
+<text id="402403">【Warrior】</text>
+<text id="402403">Descendant of northern warriors famed for their brawn.
+Utilizes high strength to wield a heavy battleaxe.</text>
+<text id="402404">【Herald】</text>
+<text id="402404">A former herald who journeyed to finish a quest undertaken.
+Wields a sturdy spear and employs a gentle restorative miracle.</text>
+<text id="402405">【Thief】</text>
+<text id="402405">A common thief and pitiful deserter.
+Wields a dagger intended for backstabs
+alongside a military-issue bow.</text>
+<text id="402406">【Assassin】</text>
+<text id="402406">An assassin who stalks their prey from the shadows.
+Favors sorceries in addition to thrusting swords.</text>
+<text id="402407">【Sorcerer】</text>
+<text id="402407">A loner who left formal academia to pursue further research.
+Commands soul sorceries using high intelligence. </text>
+<text id="402408">【Pyromancer】</text>
+<text id="402408">A pyromancer from a remote region who manipulates flame.
+Also an adept close combat warrior who wields a hand axe.</text>
+<text id="402409">【Cleric】</text>
+<text id="402409">A travelling cleric who collapsed from exhaustion.
+Channels high faith to cast many and varied miracles.</text>
+<text id="402410">【Deprived】</text>
+<text id="402410">Naked and of unknown origin.
+Either an unfathomable fool in life,
+or was stripped of possessions upon burial.</text>
+<text id="402501">【None】</text>
+<text id="402501">No sign of a burial gift or otherwise.</text>
+<text id="402502">【Life Ring】</text>
+<text id="402502">Ring set with a small red jewel.
+Raises maximum HP.</text>
+<text id="402503">【Divine Blessing】</text>
+<text id="402503">Warm, blessed holy water.
+Fully restores HP and cures ailments.</text>
+<text id="402504">【Hidden Blessing】</text>
+<text id="402504">Pure, blessed holy water.
+Fully restores FP.</text>
+<text id="402505">【Black Firebomb】</text>
+<text id="402505">Firebomb charged with a special black powder.
+An uncouth gift for the departed.</text>
+<text id="402506">【A Feast of Dung Pies】</text>
+<text id="402506">A malicious feast of dung pies.
+For one as execrable as excrement.</text>
+<text id="402507">【Fire Gem】</text>
+<text id="402507">Material used to upgrade to fire weapons.
+More appropriate for a warrior than pretty trinkets.</text>
+<text id="402508">【Sovereignless Soul 】</text>
+<text id="402508">The sovereignless soul of one who slept beside you.
+Use to acquire many souls.</text>
+<text id="402509">【Cracked Red Eye Orb】</text>
+<text id="402509">Online play item.
+One use only.
+Become a dark spirit and invade another world.</text>
+<text id="402510">【Young White Branch】</text>
+<text id="402510">Branch of a young white birch,
+perhaps an offering of peace.
+Can be used to blend into environment, but only once.</text>
+<text id="402511">【Rusted Gold Coin】</text>
+<text id="402511">Burial item for good fortune after death.
+Greatly increases item discovery for a short while.</text>
+<text id="620011">##Wandering Knight</text>
+<text id="620012">##Northern Warrior</text>
+<text id="620013">##Magic Academy Executioner</text>
+<text id="620014">##Way of White Apostle</text>
+<text>#0System</text>
+<text id="3000">Peer over the cliff, and hold up the banner</text>
+<text id="3001">Place the basin at the statue of the beheading knight</text>
+<text id="3100">Great curse-ridden tree ahead</text>
+<text id="3101">A transposing kiln lies within the belly</text>
+<text id="3102">Arrows of a giant rain down beside the white birch</text>
+<text id="3200">Plunging attack</text>
+<text id="3201">The path to the archdragons lies through meditation</text>
+<text id="3202">To travel the Path of the Dragon, do not ring the great bell</text>
+<text id="3203">Nothing will remain once the bell has tolled</text>
+<text id="3204">Try plunging attack</text>
+<text id="3205">Plunging attack!</text>
+<text id="3206">Weakness: Head</text>
+<text id="3300">Warriors slumber ahead</text>
+<text id="3301">Turn back</text>
+<text id="3310">Extinguish three flames, and open the door to Wolf's Blood</text>
+<text id="3400">Wear wax before nearing the tome</text>
+<text id="3410">Try jumping off</text>
+<text id="3700">Bring a doll to be granted passage</text>
+<text id="3710">Who treads across thin air?</text>
+<text id="3800">Suspended bridge is wearing thin</text>
+<text id="3801">Even broken, it still has a use</text>
+<text id="3900">The path to the archdragons lies through meditation</text>
+<text id="3910">Only a storm can fell a Greatwood</text>
+<text id="3911">To vanquish a giant, bring the sword that rules storms</text>
+<text id="3912">Skill</text>
+<text id="4000">Turn back!</text>
+<text id="4001">It would be wise to turn back and search,
+if you possess not an Estus Flask</text>
+<text id="4010">The bonfire will deliver thee to Lothric</text>
+<text id="4011">To soothe the dark sigil, pillage the Fire Keeper's grave</text>
+<text id="4500">Only the mighty may proceed</text>
+<text id="4501">Before one faces the painting,
+one should face the depths of Lothric Castle</text>
+<text id="5000">Take the plunge. You won’t die.</text>
+<text id="5001">Take the plunge.</text>
+<text id="5100">If only I had a mimicry...</text>
+</entries>

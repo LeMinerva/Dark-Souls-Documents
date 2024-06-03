@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text>#0地名</text>
+<text id="211100">灰烬墓地</text>
+<text id="211200">传火祭祀场</text>
+<text id="211205">“灰烬审判者”古达</text>
+<text id="211202">无主墓地</text>
+<text id="211206">英雄古达</text>
+<text id="211101">洛斯里克的高墙</text>
+<text id="211211">高墙边塔</text>
+<text id="211216">冷冽谷的玻尔多</text>
+<text id="211215">冷冽谷的舞娘</text>
+<text id="211217">妖王欧斯罗艾斯</text>
+<text id="211108">洛斯里克城</text>
+<text id="211221">龙训练场</text>
+<text id="211225">猎龙铠甲</text>
+<text id="211222">大书库</text>
+<text id="211226">孪生王子</text>
+<text id="211102">不死聚落</text>
+<text id="211243">高墙下方</text>
+<text id="211241">悬崖下地下室</text>
+<text id="211242">颓旧桥端</text>
+<text id="211245">游魂的穴屋</text>
+<text id="211103">活祭品之路</text>
+<text id="211260">路半边寨</text>
+<text id="211267">磔罚森林</text>
+<text id="211265">结晶老者</text>
+<text id="211261">法兰要塞</text>
+<text id="211262">要塞遗迹</text>
+<text id="211268">要塞外围</text>
+<text id="211263">法兰老狼</text>
+<text id="211275">深渊的监视者</text>
+<text id="211104">幽邃教堂</text>
+<text id="211280">净身小教会</text>
+<text id="211285">幽邃主教群</text>
+<text id="211286">罗莎莉亚寝室</text>
+<text id="211105">卡萨斯的地下墓地</text>
+<text id="211327">霸王沃尼尔</text>
+<text id="211320">废弃地下墓地</text>
+<text id="211321">老王门厅</text>
+<text id="211322">恶魔遗迹</text>
+<text id="211326">老恶魔王</text>
+<text id="3805">熏烟湖</text>
+<text id="211106">冷冽谷的伊鲁席尔</text>
+<text id="211292">伊鲁席尔街道</text>
+<text id="211290">幽儿希卡教会</text>
+<text id="211293">离街废屋</text>
+<text id="211295">教宗沙力万</text>
+<text id="211294">储水槽</text>
+<text id="211291">亚诺尔隆德</text>
+<text id="211297">俘虏之塔</text>
+<text id="211305">吞噬神明的艾尔德利奇</text>
+<text id="211107">伊鲁席尔地下监牢</text>
+<text id="211331">罪业之都</text>
+<text id="211335">巨人尤姆</text>
+<text id="211109">古龙顶端</text>
+<text id="211252">龙人灵庙</text>
+<text id="211251">大钟楼</text>
+<text id="211255">无名王者</text>
+<text id="211110">初始之火的火炉</text>
+<text id="211340">火已消逝的祭祀场</text>
+<text id="211345">初始之火</text>
+<text id="211111">艾雷德尔的绘画世界</text>
+<text id="211401">雪原</text>
+<text id="211402">吊桥近窟</text>
+<text id="211403">鸦村</text>
+<text id="211404">覆雪山径</text>
+<text id="211405">艾雷德尔礼拜堂</text>
+<text id="211400">芙莉德修女</text>
+<text id="211407">绘画底端</text>
+<text id="211406">王者的守墓人</text>
+<text id="211112">聚集地</text>
+<text id="211502">堆土塔残骸</text>
+<text id="211503">堆土塔残骸：内部</text>
+<text id="211500">恶魔王子</text>
+<text id="211113">环印城</text>
+<text id="211512">王庙守卫</text>
+<text id="211513">环状墙内部</text>
+<text id="211514">环印城市街</text>
+<text id="211515">公墓</text>
+<text id="211510">费莲诺尔教堂</text>
+<text id="211511">吞噬黑暗的米狄尔</text>
+<text id="211521">费莲诺尔寝房</text>
+<text id="211520">奴隶骑士盖尔</text>
+<text id="4600">大屋顶</text>
+<text id="5400">圆形舞台</text>
+<text id="5300">古龙遗迹</text>
+<text id="4700">火炉</text>
+<text id="211264">##腐朽神狼的墓碑</text>
+<text id="211504">##洛斯里克残骸</text>
+<text>#0NPC名</text>
+<text id="2000">防火女</text>
+<text id="3000">库尔兰的鲁道斯</text>
+<text id="4000">隆道尔的尤莉雅</text>
+<text id="5000">隆道尔的尤艾尔</text>
+<text id="6000">骑士团团长幽儿希卡</text>
+<text id="7000">脱逃者霍克伍德</text>
+<text id="8000">薄暮之国的希里丝</text>
+<text id="9000">无名指的李奥纳德</text>
+<text id="10000">铁匠安德烈</text>
+<text id="11000">祭祀场侍女</text>
+<text id="12000">不死聚落的葛雷瑞特</text>
+<text id="13000">彼海姆的欧贝克</text>
+<text id="14000">大沼的柯弭库斯</text>
+<text id="15000">卡露拉</text>
+<text id="16000">卡利姆的伊莉娜</text>
+<text id="17000">卡利姆的伊果</text>
+<text id="19000">亚斯特拉的安里</text>
+<text id="19100">隆道尔的老妇</text>
+<text id="20000">不屈不挠的帕奇</text>
+<text id="21000">卡塔利纳的杰克巴尔多</text>
+<text id="23000">主祭艾玛</text>
+<text id="24000">鸟巢女孩</text>
+<text id="25000">沉默骑士霍拉斯</text>
+<text id="120000">圣骑士佛多林克</text>
+<text id="150000">“重生之母”罗莎莉亚</text>
+<text id="620000">专家</text>
+<text id="630000">黄指头的海泽儿</text>
+<text id="640000">黑手的歌德希尔特</text>
+<text id="650000">大沼的喀喀路斯</text>
+<text id="680000">隆道尔的白色影子</text>
+<text id="690000">狮子骑士艾伯特</text>
+<text id="700000">“结晶的女儿”克琳姆希德</text>
+<text id="820000">猎杀骑士卓力格</text>
+<text id="830000">流浪的克雷顿</text>
+<text id="840000">探寻禁忌的亚瓦</text>
+<text id="850000">中指的寇克</text>
+<text id="26000">画家</text>
+<text id="27000">奴隶骑士盖尔</text>
+<text id="29000">骑士维赫勒</text>
+<text id="30000">王者的守墓人</text>
+<text id="31000">“尸斑咒术师”丹涅尔</text>
+<text id="32000">鸦村的禁忌者</text>
+<text id="33000">白树女</text>
+<text id="34000">酣梦禁忌者</text>
+<text id="906010">艾雷德尔神父</text>
+<text id="27000">奴隶骑士盖尔</text>
+<text id="37000">丧失记忆的拉普</text>
+<text id="38000">“费莲诺尔的骑士”希拉</text>
+<text id="40000">背盖子的老妪</text>
+<text id="45000">“教堂之枪”贺弗莱特</text>
+<text id="46000">“沙之咒术师”卓伊</text>
+<text id="47000">银骑士雷多</text>
+<text id="48000">探寻禁忌</text>
+<text id="49000">呻吟骑士</text>
+<text id="901320">结晶老者</text>
+<text id="902090">妖王欧斯罗艾斯</text>
+<text id="902240">冷冽谷的玻尔多</text>
+<text id="903040">深渊的监视者</text>
+<text id="903050">老恶魔王</text>
+<text id="903140">古老飞龙</text>
+<text id="903160">猎龙铠甲</text>
+<text id="905010">无名王者</text>
+<text id="905110">“灰烬审判者”古达</text>
+<text id="905115">英雄古达</text>
+<text id="905140">教宗沙力万</text>
+<text id="905150">吞噬神明的艾尔德利奇</text>
+<text id="905160">霸王沃尼尔</text>
+<text id="905180">咒蚀大树</text>
+<text id="905220">幽邃主教群</text>
+<text id="905250">洛里安王子</text>
+<text id="905251">洛斯里克王子</text>
+<text id="905260">巨人尤姆</text>
+<text id="905270">冷冽谷的舞娘</text>
+<text id="905280">薪王们的化身</text>
+<text id="906020">芙莉德修女</text>
+<text id="906021">艾雷德尔神父与芙莉德</text>
+<text id="906022">黑焰芙莉德</text>
+<text id="906030">守墓大狼</text>
+<text id="905020">洞底恶魔</text>
+<text id="905021">负伤恶魔</text>
+<text id="905022">恶魔王子</text>
+<text id="906210">吞噬黑暗的米狄尔</text>
+<text id="900218">教堂之枪</text>
+<text id="890000">太阳祭坛</text>
+<text id="890100">牺牲祭坛</text>
+<text id="890200">法兰老狼</text>
+<text id="890300">大主教麦克唐纳</text>
+<text id="890500">罪业女神像</text>
+<text id="890600">圣枪石碑</text>
+<text id="890700">解咒石碑</text>
+<text id="9100">##臭猪</text>
+<text id="39000">##深渊贤者</text>
+<text id="902000">##遭蚀的狼</text>
+<text id="905120">##邪灵</text>
+<text id="905252">##黑暗孪生王子　成体</text>
+<text>#0肢体动作</text>
+<text id="301001">招手</text>
+<text id="301002">指向前方</text>
+<text id="301003">欢呼</text>
+<text id="301004">鞠躬</text>
+<text id="301005">开心跳跃</text>
+<text id="301007">挥手</text>
+<text id="301008">赞美太阳</text>
+<text id="301009">向上指</text>
+<text id="301010">向下指</text>
+<text id="301013">下跪</text>
+<text id="301014">郑重道谢</text>
+<text id="301015">祈祷</text>
+<text id="301016">战前鞠躬</text>
+<text id="301117">致上谢意！</text>
+<text id="301118">高举双手狂喜</text>
+<text id="301119">休息</text>
+<text id="301120">以剑立誓</text>
+<text id="301121">贵族式鞠躬</text>
+<text id="301123">蜷曲</text>
+<text id="301124">伸展四肢</text>
+<text id="301125">呼叫</text>
+<text id="301126">失意</text>
+<text id="301127">沉静意志</text>
+<text id="301128">帕奇式坐法</text>
+<text id="301129">称赞</text>
+<text id="301130">踏上古龙道路</text>
+<text id="301131">不死队的礼仪</text>
+<text id="301132">欢迎</text>
+<text id="301133">喜悦</text>
+<text id="301134">暗月誓约鞠躬</text>
+<text id="301137">睡觉</text>
+<text id="301138">干杯</text>
+<text id="301139">密探</text>
+<text id="301011">##抬头</text>
+<text id="301012">##怎样！</text>
+<text id="301122">##薪王</text>
+<text id="301136">##蛮族鞠躬</text>
+<text>#0角色创建</text>
+<text id="402350">【平民脸型】</text>
+<text id="402350">随处可见的平民长相。
+但其实每个人都有些不对称的部分，
+有完美对称脸型的平民相当稀少。</text>
+<text id="402351">【北风战士脸型】</text>
+<text id="402351">犹如盘石般威严的北方战士长相。
+而“北方无年少，”
+恐怕就是因此而生的揶揄。</text>
+<text id="402352">【亚斯特拉贵族脸型】</text>
+<text id="402352">贵族般端正的脸庞，
+多生得金发碧眼。
+这也是没落的亚斯特拉得以连结辉煌过往的自傲之处。</text>
+<text id="402353">【龙学院书生脸型】</text>
+<text id="402353">充满知性的纤细长相。
+但称为书生脸多有嘲笑的意思。</text>
+<text id="402354">【卡利姆圣职脸型】</text>
+<text id="402354">阴森圣职之国卡利姆常见的长相。
+而称为“和尚，”
+多是对圣职的蔑称。</text>
+<text id="402364">阴森圣职之国卡利姆常见的长相。
+而称为“尼姑，”
+多是对圣职的蔑称。</text>
+<text id="402355">【卡塔利纳开朗脸型】</text>
+<text id="402355">特征是大眼和大口，充满活力的脸型。
+呈现出卡塔利纳──美酒与讴歌国度的形象。</text>
+<text id="402356">【蛇形异邦人脸型】</text>
+<text id="402356">特征是细长眼睛和薄唇的异邦人脸型。
+据说会以“龙之异邦脸”来赞美。</text>
+<text id="402357">【大沼特异脸型】</text>
+<text id="402357">与他人不同的畸形长相。丑脸。
+偏见会产生异端，
+而异端驰骋于大沼。</text>
+<text id="402358">【隆道尔濒死脸型】</text>
+<text id="402358">毫无生气，彷佛游魂般的长相。
+隆道尔是老人与游魂的国度。</text>
+<text id="402359">【伊鲁席尔特征脸型】</text>
+<text id="402359">据说偶尔会在民间出现的古代神明长相。
+不过这反而象征不吉利，
+彷佛有一天会被召去冷冽谷一般。</text>
+<text id="402401">【骑士】</text>
+<text id="402401">历经流浪而倒下的无名下级骑士。
+体力高，装备有坚硬的金属铠甲，
+能承受攻击。</text>
+<text id="402402">【佣兵】</text>
+<text id="402402">与战场共生、历经百战的佣兵。
+敏捷高，能灵活使用双曲剑。</text>
+<text id="402403">【战士】</text>
+<text id="402403">以强韧不屈闻名的北方战士后裔。 
+能以强大的力气挥舞沉重战斧。</text>
+<text id="402404">【传令者】</text>
+<text id="402404">过去受命而旅行的传令者。
+装备有坚固的枪，能使用微幅恢复的奇迹。</text>
+<text id="402405">【小偷】</text>
+<text id="402405">一般小偷，成为亡命士兵的下场。
+备有专从背后使出致命一击的短刀，
+也能活用士兵时期锻炼的弓术。</text>
+<text id="402406">【刺客】</text>
+<text id="402406">躲藏在暗处捕猎目标的刺客之一。
+备有突刺剑，且对魔法有所钻研。</text>
+<text id="402407">【魔法师】</text>
+<text id="402407">为了研究而离开学院的孤独魔法师。
+智力高，能操纵灵魂魔法。</text>
+<text id="402408">【咒术师】</text>
+<text id="402408">操纵火焰的咒术师。
+是从边境而来的旅人，也是能够挥舞手斧的战士。</text>
+<text id="402409">【圣职】</text>
+<text id="402409">旅行的圣职，在旅途中力气用尽而倒下。
+信仰高，因此能使用各种奇迹。</text>
+<text id="402410">【一无所有者】</text>
+<text id="402410">出身不明的裸体人物。
+若不是生前就是十足的愚人，
+就是埋葬时被盗走一切，才会如此吧。</text>
+<text id="402501">【无】</text>
+<text id="402501">没有任何陪葬品。</text>
+<text id="402502">【生命戒指】</text>
+<text id="402502">镶有红色宝石的老旧戒指， 
+可提升血量上限。</text>
+<text id="402503">【女神的祝福】</text>
+<text id="402503">温暖的祝福圣水。
+可完全恢复血量、治愈所有异常状态</text>
+<text id="402504">【秘藏的祝福】</text>
+<text id="402504">清澈的祝福圣水。
+可完全恢复专注值。</text>
+<text id="402505">【黑火焰壶】</text>
+<text id="402505">装满特殊火药，增强威力的“火焰壶。”
+不合礼仪的供品。</text>
+<text id="402506">【大量粪便】</text>
+<text id="402506">充满恶意的大量粪便。
+送给像粪便一样惹人厌的人。</text>
+<text id="402507">【火焰宝石】</text>
+<text id="402507">制作火焰武器的强化素材。
+对战士来说，比单纯的宝石更实用。</text>
+<text id="402508">【无主的灵魂】</text>
+<text id="402508">一同安眠的无主灵魂。
+使用后便能获得大量灵魂。</text>
+<text id="402509">【龟裂血红眼眸宝珠】</text>
+<text id="402509">联机游玩专用道具。
+仅能使用一次，
+化为暗灵入侵其他世界。</text>
+<text id="402510">【嫩白树枝】</text>
+<text id="402510">尚还幼嫩的白皮树枝。
+似乎是友谊的证明。
+蕴藏仅能使用一次的变身魔法。</text>
+<text id="402511">【锈斑金币】</text>
+<text id="402511">为死者祈求幸运的陪葬品。
+能暂时提高寻宝能力。</text>
+<text id="620011">##流浪骑士</text>
+<text id="620012">##北方战士</text>
+<text id="620013">##魔法学院行刑官</text>
+<text id="620014">##白教的传令者</text>
+<text>#0系统</text>
+<text id="3000">在崖边高举小环旗吧</text>
+<text id="3001">把水盆放在斩首骑士像上</text>
+<text id="3100">前有封印诅咒的大树</text>
+<text id="3101">内有冶炼炉</text>
+<text id="3102">靠近白树会降下巨人的箭矢</text>
+<text id="3200">落下攻击</text>
+<text id="3201">冥想为步向古龙的道路</text>
+<text id="3202">欲步向龙道者，勿敲响大钟</text>
+<text id="3203">钟响后，将无人物能残存</text>
+<text id="3204">接下来，落下攻击很有用</text>
+<text id="3205">落下攻击！</text>
+<text id="3206">弱点是头</text>
+<text id="3300">前有安眠的战士们</text>
+<text id="3301">折返吧</text>
+<text id="3310">熄灭三座火焰，通往狼血的门将为之敞开</text>
+<text id="3400">若想接近书籍，披上蜡吧</text>
+<text id="3410">接下来，跳下去很有用</text>
+<text id="3700">未持有人偶者，不得通过结界</text>
+<text id="3710">有人在空中行走……</text>
+<text id="3800">吊桥已断</text>
+<text id="3801">即使断了，仍有用途</text>
+<text id="3900">冥想为步向古龙的道路</text>
+<text id="3910">只有风暴才能击倒大树</text>
+<text id="3911">若想打倒巨人，必须有风暴剑</text>
+<text id="3912">战技</text>
+<text id="4000">折返吧！</text>
+<text id="4001">身上没有原素瓶的话，
+回头去找比较保险</text>
+<text id="4010">穿梭营火间，总有一天能抵达洛斯里克</text>
+<text id="4011">若想治愈黑暗印记，就大闹防火女的坟墓吧</text>
+<text id="4500">力有不足者，折返吧</text>
+<text id="4501">尚未挑战至洛斯里克城的深处
+就不该挑战绘画</text>
+<text id="5000">跳下去吧，不会死的</text>
+<text id="5001">跳下去吧</text>
+<text id="5100">如果有拟态的话……</text>
+</entries>

@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text>#0地名</text>
+<text id="10020000">隙間の洞</text>
+<text id="2650">火防女たちの住処</text>
+<text id="10040000">マデューラ</text>
+<text id="4650">果ての篝火</text>
+<text id="10100000">朽ちた巨人の森</text>
+<text id="10670">心折れた者の逃げ場所</text>
+<text id="10655">主塔</text>
+<text id="10660">兵の避難所</text>
+<text id="10675">誰も知らない場所</text>
+<text id="20100000">巨人ワムダの記憶</text>
+<text id="20100001">巨人ローの記憶</text>
+<text id="20100002">巨人オジェイの記憶</text>
+<text id="10300000">ハイデ大火塔</text>
+<text id="31655">ハイデの廃墟</text>
+<text id="31650">大火塔</text>
+<text id="10310001">青聖堂</text>
+<text id="10180000">隠れ港</text>
+<text id="18650">ハイデへの隠れ道</text>
+<text id="10160000">忘却の牢</text>
+<text id="16655">流刑者の牢</text>
+<text id="16670">マックダフの作業場</text>
+<text id="16675">従者の間</text>
+<text id="16650">ストレイドの牢</text>
+<text id="16660">離れの塔</text>
+<text id="10160001">罪人の塔</text>
+<text id="16685">塩の塔</text>
+<text id="10160002">月の鐘楼</text>
+<text id="16665">城壁屋上</text>
+<text id="10230000">狩猟の森</text>
+<text id="23650">不死の隠れ処</text>
+<text id="23655">橋のたもと</text>
+<text id="23660">不死牢</text>
+<text id="10230001">不死刑場</text>
+<text id="10170000">溜りの谷</text>
+<text id="17665">毒溜り</text>
+<text id="17650">採掘場</text>
+<text id="10170001">土の塔</text>
+<text id="17655">土の塔・下層</text>
+<text id="17670">土の塔・中層</text>
+<text id="17675">土の塔・上層</text>
+<text id="10190000">熔鉄城</text>
+<text id="19655">入口の橋</text>
+<text id="19650">鉄の炉の棟</text>
+<text id="19660">エギルの鉄像</text>
+<text id="10190001">陽の鐘楼</text>
+<text id="19665">陽の鐘楼前</text>
+<text id="50360000">黒霧の塔</text>
+<text id="36650">玉座の層</text>
+<text id="36660">上層</text>
+<text id="36655">中心部</text>
+<text id="36670">最下層</text>
+<text id="36675">熔鉄の玉座</text>
+<text id="50360002">鉄の古王の記憶</text>
+<text id="50360001">鉄の回廊</text>
+<text id="36665">鉄の回廊・入口</text>
+<text id="10320000">虚ろの影の森</text>
+<text id="29650">魔女がいた場所</text>
+<text id="32655">分岐路の遺跡</text>
+<text id="32660">虚ろの遺跡</text>
+<text id="10330000">ファロスの扉道</text>
+<text id="33655">ゲルムの憩いの場</text>
+<text id="33660">試練の休息所</text>
+<text id="10140000">輝石街ジェルドラ</text>
+<text id="14655">王兵の野営地</text>
+<text id="14660">礼拝堂前</text>
+<text id="14650">輝石街・下層</text>
+<text id="10140001">ジェルドラ公の隠し部屋</text>
+<text id="20260000">古竜の記憶</text>
+<text id="10320001">冬の祠</text>
+<text id="50370000">凍てついたエス・ロイエス</text>
+<text id="37650">壁の終端</text>
+<text id="37660">無人の廃屋</text>
+<text id="37685">城壁内部</text>
+<text id="37665">旧騎士街・下層</text>
+<text id="37675">追放の間</text>
+<text id="37670">主聖堂</text>
+<text id="50370005">古き混沌</text>
+<text id="50370004">壁外の雪原</text>
+<text id="10340000">聖人墓所</text>
+<text id="34655">聖職者ハクバルの最期の地</text>
+<text id="34650">墓所入口</text>
+<text id="10250000">クズ底</text>
+<text id="25665">クズ底・上層</text>
+<text id="25655">クズ底・中層</text>
+<text id="10250001">黒渓谷</text>
+<text id="25650">黒渓谷・入口</text>
+<text id="25660">隠し部屋</text>
+<text id="50350000">聖壁の都 サルヴァ</text>
+<text id="35685">祈りの塔</text>
+<text id="35650">聖壁への道</text>
+<text id="35655">巫女の間</text>
+<text id="50350004">死者の洞</text>
+<text id="50350001">竜の聖壁</text>
+<text id="35670">聖壁の隠し部屋</text>
+<text id="35675">なりそこないの住処</text>
+<text id="35680">聖壁内部</text>
+<text id="50350002">眠り竜の褥</text>
+<text id="35665">聖壁底部</text>
+<text id="20210000">王城ドラングレイグ</text>
+<text id="21650">王の扉前</text>
+<text id="21660">忘れられた部屋</text>
+<text id="21665">王城・地下</text>
+<text id="21655">王城・中層</text>
+<text id="20210001">王の回廊</text>
+<text id="20110000">アマナの祭壇</text>
+<text id="11650">祈りの塔</text>
+<text id="11655">崩れた遺跡</text>
+<text id="11660">探索者ロイの最期の地</text>
+<text id="11670">死者の塔</text>
+<text id="20240000">不死廟</text>
+<text id="24655">不死廟・入口</text>
+<text id="24650">死者の捨て場</text>
+<text id="50380000">王の記憶</text>
+<text id="10150000">アン・ディールの館</text>
+<text id="15650">前庭</text>
+<text id="15655">秘儀の棟</text>
+<text id="10270000">護り竜の巣</text>
+<text id="10270001">祭祀場</text>
+<text id="27655">祭祀場・入口</text>
+<text id="20210002">渇望の玉座</text>
+<text id="40030000">古き闇の穴</text>
+<text id="19670">##エギルの祭壇</text>
+<text id="25670">##捨てられた者たちの聖域</text>
+<text id="30650">##放浪騎士アルバの最期の地</text>
+<text id="37655">##旧騎士街・入口</text>
+<text id="37680">##旧騎士街・地下</text>
+<text id="10280000">##火継ぎの玉座</text>
+<text>#0NPC名</text>
+<text id="3070">ヴァンガルの首</text>
+<text id="5020">蠍のターク</text>
+<text id="5060">墓守アガドゥラン</text>
+<text id="5140">ヴァンクラッド</text>
+<text id="6940">喪失者</text>
+<text id="7000">緑衣の巡礼</text>
+<text id="7020">デュナシャンドラ</text>
+<text id="7040">渡し屋ギリガン</text>
+<text id="7050">ストロアン</text>
+<text id="7051">グリアント</text>
+<text id="7053">モル</text>
+<text id="7210">宰相の霊ベラガー</text>
+<text id="7230">ミリベス</text>
+<text id="7240">王国隊長ドラモンド</text>
+<text id="7250">闇潜りのグランダル</text>
+<text id="7260">孤独なガヴァラン</text>
+<text id="7410">心を失くしたソダン</text>
+<text id="7420">放浪のクレイトン</text>
+<text id="7430">ウーゴのバンホルト</text>
+<text id="7440">親切なペイト</text>
+<text id="7510">地図書きケイル</text>
+<text id="7520">ミラのルカティエル</text>
+<text id="7530">鐘守</text>
+<text id="7540">行商メレンティラ</text>
+<text id="7560">ネズミの王</text>
+<text id="7570">煤の花嫁ナドラ</text>
+<text id="7580">沈黙の巫女アルシュナ</text>
+<text id="7590">穢れの女王エレナ</text>
+<text id="7600">ミルファニト</text>
+<text id="7602">虜囚のミルファニト</text>
+<text id="7610">防具屋マフミュラン</text>
+<text id="7620">石売りのクロアーナ</text>
+<text id="7630">メルヴィアのロザベナ</text>
+<text id="7640">鍛冶屋レニガッツ</text>
+<text id="7643">熟練のマックダフ</text>
+<text id="7660">晦冥のカリオン</text>
+<text id="7680">オラフィスのストレイド</text>
+<text id="7690">リンデルトのリーシュ</text>
+<text id="7700">破門のフェルキン</text>
+<text id="7710">宮廷魔術師ナヴァーラン</text>
+<text id="7720">ラル・カナルのマグヘラルド</text>
+<text id="7760">武器屋オルニフェクス</text>
+<text id="7770">愛しいシャラゴア</text>
+<text id="7830">小さなグレネイン</text>
+<text id="7840">教戒師クロムウェル</text>
+<text id="7850">青の騎士ガラインドーク</text>
+<text id="7860">ドネ＆ティロ</text>
+<text id="8100">放浪騎士グレンコル</text>
+<text id="8110">孤独な狩人シュミット</text>
+<text id="8120">巡礼者ベルクレア</text>
+<text id="8130">勇猛なるフェリーシア</text>
+<text id="8140">肉断ちのマリダ</text>
+<text id="8200">罪人フォーゲル</text>
+<text id="8210">無慈悲なリュース</text>
+<text id="8220">奇妙なキンドロ</text>
+<text id="8230">竜の牙ウィアード</text>
+<text id="8240">ミラのアズラティエル</text>
+<text id="8490">無名の簒奪者</text>
+<text id="8491">道化のトーマス</text>
+<text id="8492">探索者ロイ</text>
+<text id="8530">射手のガイラム</text>
+<text id="8531">灰の騎士ヴォイド</text>
+<text id="8600">鉄壁のバルド</text>
+<text id="8650">修行者フィーヴァ</text>
+<text id="8660">落ちぶれたアヴリス</text>
+<text id="8670">鋼のエリー</text>
+<text id="8680">超越者エディラ</text>
+<text id="8690">欲深いアンドレア</text>
+<text id="8700">剣士レイチェル</text>
+<text id="8710">暗殺者マルドロ</text>
+<text id="8740">晦冥のカリオン</text>
+<text id="8750">不屈のローリ</text>
+<text id="8760">放浪剣士エイドル</text>
+<text id="8770">追放術師ドナ</text>
+<text id="8780">闇術師ニコラ</text>
+<text id="8790">神聖騎士オルハイム</text>
+<text id="8840">痩身のシェイ</text>
+<text id="8870">クズ底の住人</text>
+<text id="8910">傭兵ルート</text>
+<text id="8915">献身のスカーレット</text>
+<text id="8920">人狩りのオハラ</text>
+<text id="8925">人見知りのレイ</text>
+<text id="8930">古兵ブラッドリー</text>
+<text id="8960">森の子ヴィクター</text>
+<text id="8965">森の子ガリー</text>
+<text id="8970">剣闘士シャロン</text>
+<text id="8975">武器屋デニス</text>
+<text id="8980">収集家オリヴァー</text>
+<text id="8400">覇者の石碑</text>
+<text id="8410">太陽の神殿</text>
+<text id="1370">彷徨い術師</text>
+<text id="1540">スケルトンの王</text>
+<text id="2120">護り竜</text>
+<text id="2235">ネズミの王の試練</text>
+<text id="2261">ネズミの王の尖兵</text>
+<text id="3033">流罪の執行者</text>
+<text id="3050">熔鉄デーモン</text>
+<text id="3096">最後の巨人</text>
+<text id="3097">巨人の王</text>
+<text id="3180">呪縛者</text>
+<text id="3240">鐘守のガーゴイル</text>
+<text id="3251">虚ろの衛兵　レギム</text>
+<text id="3252">虚ろの衛兵　ルカ</text>
+<text id="3253">虚ろの衛兵　アレサンドラ</text>
+<text id="3260">腐れ</text>
+<text id="3320">玉座の守護者</text>
+<text id="3330">王盾ヴェルスタッド</text>
+<text id="3340">玉座の監視者</text>
+<text id="5000">貪りデーモン</text>
+<text id="5010">毒の妃ミダ</text>
+<text id="5030">蠍のナジカ</text>
+<text id="5040">鏡の騎士</text>
+<text id="5061">闇潜み</text>
+<text id="5146">ヴァンクラッド</text>
+<text id="6000">古の竜</text>
+<text id="6020">唄うデーモン</text>
+<text id="6030">公のフレイディア</text>
+<text id="6070">鉄の古王</text>
+<text id="6110">竜騎兵</text>
+<text id="6191">刑吏のチャリオット</text>
+<text id="6250">古い竜狩り</text>
+<text id="6260">忘れられた罪人</text>
+<text id="6270">デュナシャンドラ</text>
+<text id="6750">煙の騎士</text>
+<text id="6790">王の仔アーヴァ</text>
+<text id="6791">王の仔ザレン</text>
+<text id="6792">王の仔ラド</text>
+<text id="6800">騎士アーロン</text>
+<text id="6810">眠り竜シン</text>
+<text id="6820">穢れのエレナ</text>
+<text id="6900">灼けた白王</text>
+<text id="6920">原罪の探究者 アン・ディール</text>
+<text id="9000">信心者たち</text>
+<text id="9010">古い探索者セラ</text>
+<text id="9011">古い戦士ウォーグ</text>
+<text id="9012">冒された盗掘者</text>
+<text id="8630">##探索者スチュワート</text>
+<text id="8640">##探索者コウ</text>
+<text id="8711">##臆病者のダン</text>
+<text id="8720">##伝道者の末裔ワズロー</text>
+<text id="8730">##冒険者マテヤス</text>
+<text id="8800">##竜血騎士ロンダ</text>
+<text>#0ジェスチャー</text>
+<text id="63000000">指差し</text>
+<text id="63001000">おいで</text>
+<text id="63002000">丁寧な一礼</text>
+<text id="63003000">一礼</text>
+<text id="63004000">歓迎</text>
+<text id="63005000">開戦礼</text>
+<text id="63006000">手を振る</text>
+<text id="63007000">よし、やった！</text>
+<text id="63008000">歓喜</text>
+<text id="63009000">雄たけび</text>
+<text id="63010000">肩慣らし</text>
+<text id="63011000">エイエイオー</text>
+<text id="63012000">了解</text>
+<text id="63013000">否定</text>
+<text id="63014000">私だ！</text>
+<text id="63015000">命乞い</text>
+<text id="63016000">土下座</text>
+<text id="63017000">首斬り</text>
+<text id="63018000">ガッツポーズ</text>
+<text id="63019000">馬鹿にする</text>
+<text id="63021000">太陽賛美</text>
+<text>#0キャラクター作成</text>
+<text id="11010001">【戦士】</text>
+<text id="11090300">戦いに生きる戦士
+筋力、技量が高く
+武器の扱いに長ける</text>
+<text id="11010002">【騎士】</text>
+<text id="11090310">旅の騎士
+生命力や適応力が高く
+打たれ強い</text>
+<text id="11010004">【野盗】</text>
+<text id="11090330">無慈悲な盗賊
+技量に長け弓を扱える
+遠近ともに対応可能</text>
+<text id="11010006">【聖職者】</text>
+<text id="11090350">巡礼の聖職者
+高い信仰による奇跡で
+道を切り拓く</text>
+<text id="11010007">【魔術師】</text>
+<text id="11090360">知に長けた魔術師
+高い理力と記憶力で
+魔術を操る</text>
+<text id="11010008">【探索者】</text>
+<text id="11090370">各地を巡る探索者
+秀でた力は持たないが
+アイテムを沢山持つ</text>
+<text id="11010009">【剣士】</text>
+<text id="11090380">技を磨いた剣士
+両手に強化武器を持ち
+鮮やかに戦う</text>
+<text id="11010010">【持たざるもの】</text>
+<text id="11090390">素性の知れぬ裸の人
+何も持たずに戦う
+この体こそが生の証</text>
+<text id="11010500">【なし 】</text>
+<text id="11090500">おくりものなど何もなかった</text>
+<text id="11010510">【生命の指輪】</text>
+<text id="11090510">古い古い指輪
+ＨＰが少しだけ増える</text>
+<text id="11010520">【人の像】</text>
+<text id="11090520">何かに見える像
+亡者から生者に戻る</text>
+<text id="11010530">【治癒の品々】</text>
+<text id="11090530">回復や毒の解除に使う品々
+この地の旅人には必携</text>
+<text id="11010540">【帰還の骨片】</text>
+<text id="11090540">最後に休息した篝火に戻る
+持っていると安心だが
+安全な旅などない</text>
+<text id="11010550">【巨人の木の実の種】</text>
+<text id="11090550">巨人の木から成ったもの
+食べられない</text>
+<text id="11010560">【篝火の探究者】</text>
+<text id="11090560">篝火に注ぐと周囲の敵が強くなる
+高みを求める者でなければ不要</text>
+<text id="11010570">【何かの化石】</text>
+<text id="11090570">ただの石の塊
+何かの役には立つかもしれない</text>
+<text>#0システム</text>
+<text id="2000">王の証を示せ</text>
+<text id="2002">強いソウルを求めよ</text>
+<text id="2004">古いソウルの残滓を感じる</text>
+<text id="2011">記憶の世界には、長く留まり続けることはできない</text>
+<text id="2012">灰の霧が薄れてきた…</text>
+<text id="2013">灰の霧が失われていく…</text>
+<text id="2022">はじまりの篝火が、火を取り戻した</text>
+<text id="2100">潰れた瞳が蠢いている</text>
+<text id="5300">古き王の冠を手に入れた</text>
+<text id="5310">古き王の冠は、微かな熱を帯びている</text>
+<text id="5400">ここより禁域
+古き王の地へと至る道</text>
+<text id="5410">深い底の王
+その都は竜とともに眠る</text>
+<text id="5420">水は枯れ、すでに道はなし
+邪な誘いは絶たれた</text>
+<text id="5430">禁域を侵す者
+王たる者に等しい苦難が待つ</text>
+<text id="5510">鉄の古王　彼が造りし鉄の塔には
+今や闇の子が棲まう</text>
+<text id="5610">白の王の地　エス・ロイエス
+一切の熱もなくただ凍てついている</text>
+<text id="5700">ナドラの残滓が消えていく…</text>
+<text id="5710">ナドラの残滓は消え去り、真のナドラのソウルを得た</text>
+<text id="5830">アルシュナの封印は解かれ、エス・ロイエスの風が止んだ</text>
+<text id="5840">ロイエスの騎士は混沌へと向かう…</text>
+<text id="5900">王たちの冠は、熱を帯びている</text>
+<text id="9100">光が暴かれるなら、影もまた…</text>
+<text id="4021">ゴーレムはソウルを求めている
+近くに…</text>
+<text id="4022">墓に祈りソウルを捧げれば、死者との対話ができる</text>
+<text id="4023">盾があれば…</text>
+<text id="4024">灯りがあれば…</text>
+<text id="4025">この先は危険</text>
+<text id="4026">音を立てるな</text>
+<text id="4027">逃げろ！</text>
+<text id="4028">走れ！</text>
+<text id="4029">慎重に進め</text>
+<text id="4030">この先は険しき道</text>
+<text id="4031">ここからが本当の戦いだ</text>
+<text id="4040">新たな性に変化した</text>
+<text id="5000">閉ざされている</text>
+<text id="5100">竜は眠っている</text>
+<text id="5200">ここで書かれたサインは
+どこか遠くに転送される</text>
+</entries>

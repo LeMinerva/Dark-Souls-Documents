@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text>#0Place Name</text>
+<text id="10020000">Things Betwixt</text>
+<text id="2650">Fire Keepers' Dwelling</text>
+<text id="10040000">Majula</text>
+<text id="4650">The Far Fire</text>
+<text id="10100000">Forest of Fallen Giants</text>
+<text id="10670">The Crestfallen's Retreat</text>
+<text id="10655">Cardinal Tower</text>
+<text id="10660">Soldiers' Rest</text>
+<text id="10675">The Place Unbeknownst</text>
+<text id="20100000">Memory of Vammar</text>
+<text id="20100001">Memory of Orro</text>
+<text id="20100002">Memory of Jeigh</text>
+<text id="10300000">Heide's Tower of Flame</text>
+<text id="10310001">Cathedral of Blue</text>
+<text id="31655">Heide's Ruin</text>
+<text id="31650">Tower of Flame</text>
+<text id="10180000">No-man's Wharf</text>
+<text id="18650">Unseen Path to Heide</text>
+<text id="10160000">The Lost Bastille</text>
+<text id="16655">Exile Holding Cells</text>
+<text id="16670">McDuff's Workshop</text>
+<text id="16675">Servants' Quarters</text>
+<text id="16650">Straid's Cell</text>
+<text id="16660">The Tower Apart</text>
+<text id="10160001">Sinners' Rise</text>
+<text id="16685">The Saltfort</text>
+<text id="10160002">Belfry Luna</text>
+<text id="16665">Upper Ramparts</text>
+<text id="10230000">Huntsman's Copse</text>
+<text id="23650">Undead Refuge</text>
+<text id="23655">Bridge Approach</text>
+<text id="23660">Undead Lockaway</text>
+<text id="10230001">Undead Purgatory</text>
+<text id="10170000">Harvest Valley</text>
+<text id="17665">Poison Pool</text>
+<text id="17650">The Mines</text>
+<text id="10170001">Earthen Peak</text>
+<text id="17655">Lower Earthen Peak</text>
+<text id="17670">Central Earthen Peak</text>
+<text id="17675">Upper Earthen Peak</text>
+<text id="10190000">Iron Keep</text>
+<text id="19655">Threshold Bridge</text>
+<text id="19650">Ironhearth Hall</text>
+<text id="19660">Eygil's Idol</text>
+<text id="10190001">Belfry Sol</text>
+<text id="19665">Belfry Sol Approach</text>
+<text id="50360000">Brume Tower</text>
+<text id="36650">Throne Floor</text>
+<text id="36660">Upper Floor</text>
+<text id="36655">Foyer</text>
+<text id="36670">Lowermost Floor</text>
+<text id="36675">The Smelter Throne</text>
+<text id="50360002">Memory of the Old Iron King</text>
+<text id="50360001">Iron Passage</text>
+<text id="36665">Iron Hallway Entrance</text>
+<text id="10320000">Shaded Woods</text>
+<text id="29650">Old Akelarre</text>
+<text id="32655">Ruined Fork Road</text>
+<text id="32660">Shaded Ruins</text>
+<text id="10330000">Doors of Pharros</text>
+<text id="33655">Gyrm's Respite</text>
+<text id="33660">Ordeal's End</text>
+<text id="10140000">Brightstone Cove Tseldora</text>
+<text id="14655">Royal Army Campsite</text>
+<text id="14660">Chapel Threshold</text>
+<text id="14650">Lower Brightstone Cove</text>
+<text id="10140001">Lord's Private Chamber</text>
+<text id="20260000">Dragon Memories</text>
+<text id="10320001">Shrine of Winter</text>
+<text id="50370000">Frozen Eleum Loyce </text>
+<text id="37650">Outer Wall</text>
+<text id="37660">Abandoned Dwelling</text>
+<text id="37685">Inner Wall</text>
+<text id="37665">Lower Garrison</text>
+<text id="37675">Expulsion Chamber</text>
+<text id="50370001">Grand Cathedral</text>
+<text id="50370005">The Old Chaos</text>
+<text id="50370004">Frigid Outskirts</text>
+<text id="10340000">Grave of Saints</text>
+<text id="34655">Harval's Resting Place</text>
+<text id="34650">Grave Entrance</text>
+<text id="10250000">The Gutter</text>
+<text id="25665">Upper Gutter</text>
+<text id="25655">Central Gutter</text>
+<text id="10250001">Black Gulch</text>
+<text id="25650">Black Gulch Mouth</text>
+<text id="25660">Hidden Chamber</text>
+<text id="50350000">Shulva, Sanctum City</text>
+<text id="35685">Tower of Prayer</text>
+<text id="35650">Sanctum Walk</text>
+<text id="35655">Priestess' Chamber</text>
+<text id="50350004">Cave of the Dead</text>
+<text id="50350001">Dragon's Sanctum</text>
+<text id="35670">Hidden Sanctum Chamber</text>
+<text id="35675">Lair of the Imperfect</text>
+<text id="35680">Sanctum Interior</text>
+<text id="50350002">Dragon's Rest</text>
+<text id="35665">Sanctum Nadir</text>
+<text id="20210000">Drangleic Castle</text>
+<text id="21650">King's Gate</text>
+<text id="21660">Forgotten Chamber</text>
+<text id="21665">Under Castle Drangleic</text>
+<text id="21655">Central Castle Drangleic</text>
+<text id="20210001">King's Passage</text>
+<text id="20110000">Shrine of Amana</text>
+<text id="11650">Tower of Prayer</text>
+<text id="11655">Crumbled Ruins</text>
+<text id="11660">Rhoy's Resting Place</text>
+<text id="11670">Rise of the Dead</text>
+<text id="20240000">Undead Crypt</text>
+<text id="24655">Undead Crypt Entrance</text>
+<text id="24650">Undead Ditch</text>
+<text id="50380000">Memory of the King</text>
+<text id="10150000">Aldia's Keep</text>
+<text id="15650">Foregarden</text>
+<text id="15655">Ritual Site</text>
+<text id="10270000">Dragon Aerie</text>
+<text id="10270001">Dragon Shrine</text>
+<text id="27655">Shrine Entrance</text>
+<text id="20210002">Throne of Want</text>
+<text id="40030000">Dark Chasm of Old</text>
+<text id="19670">##Eygil's Altar</text>
+<text id="25670">##Sanctum of the Scorned</text>
+<text id="30650">##Alva's Resting Place</text>
+<text id="37655">##Garrison Entrance</text>
+<text id="37680">##Garrison Underground</text>
+<text id="10280000">##Firelink Throne</text>
+<text>#0NPC Name</text>
+<text id="3070">Head of Vengarl</text>
+<text id="5020">Manscorpion Tark</text>
+<text id="5060">Grave Warden Agdayne</text>
+<text id="5140">Vendrick</text>
+<text id="6940">Forlorn</text>
+<text id="7000">Emerald Herald</text>
+<text id="7020">Nashandra</text>
+<text id="7040">Laddersmith Gilligan</text>
+<text id="7050">Strowen</text>
+<text id="7051">Griant</text>
+<text id="7053">Morrel</text>
+<text id="7210">Chancellor Wellager</text>
+<text id="7230">Milibeth</text>
+<text id="7240">Captain Drummond</text>
+<text id="7250">Darkdiver Grandahl</text>
+<text id="7260">Lonesome Gavlan</text>
+<text id="7410">Crestfallen Saulden</text>
+<text id="7420">Creighton the Wanderer</text>
+<text id="7430">Benhart of Jugo</text>
+<text id="7440">Mild-mannered Pate</text>
+<text id="7510">Cartographer Cale</text>
+<text id="7520">Lucatiel of Mirrah</text>
+<text id="7530">Bell Keeper</text>
+<text id="7540">Merchant Hag Melentia</text>
+<text id="7560">The Rat King</text>
+<text id="7570">Nadalia, Bride of Ash</text>
+<text id="7580">Alsanna, Silent Oracle</text>
+<text id="7590">Elana, Queen of Ruin</text>
+<text id="7600">Milfanito</text>
+<text id="7602">Imprisoned Milfanito</text>
+<text id="7610">Maughlin the Armourer</text>
+<text id="7620">Stone Trader Chloanne</text>
+<text id="7630">Rosabeth of Melfia</text>
+<text id="7640">Blacksmith Lenigrast</text>
+<text id="7643">Steady Hand McDuff</text>
+<text id="7660">Carhillion of the Fold</text>
+<text id="7680">Straid of Olaphis</text>
+<text id="7690">Licia of Lindeldt</text>
+<text id="7700">Felkin the Outcast</text>
+<text id="7710">Royal Sorcerer Navlaan</text>
+<text id="7720">Magerold of Lanafir</text>
+<text id="7760">Weaponsmith Ornifex</text>
+<text id="7770">Sweet Shalquoir</text>
+<text id="7830">Titchy Gren</text>
+<text id="7840">Cromwell the Pardoner</text>
+<text id="7850">Blue Sentinel Targray</text>
+<text id="7860">Dyna &amp; Tillo</text>
+<text id="8100">Masterless Glencour</text>
+<text id="8110">Lone Hunter Schmidt</text>
+<text id="8120">Pilgrim Bellclaire</text>
+<text id="8130">Felicia the Brave</text>
+<text id="8140">Melinda the Butcher</text>
+<text id="8200">Vorgel the Sinner</text>
+<text id="8210">Merciless Roenna</text>
+<text id="8220">Peculiar Kindalur</text>
+<text id="8230">Dragonfang Villard</text>
+<text id="8240">Aslatiel of Mirrah</text>
+<text id="8490">Nameless Usurper</text>
+<text id="8491">Jester Thomas</text>
+<text id="8492">Rhoy the Explorer</text>
+<text id="8530">Bowman Guthry</text>
+<text id="8531">Ashen Knight Boyd</text>
+<text id="8600">Rockshield Baldyr</text>
+<text id="8650">Abbess Feeva</text>
+<text id="8660">Ruined Aflis</text>
+<text id="8670">Steelheart Ellie</text>
+<text id="8680">Transcendent Edde</text>
+<text id="8690">Rapacious Andrei</text>
+<text id="8700">Quicksword Rachel</text>
+<text id="8710">Maldron the Assassin</text>
+<text id="8740">Carhillion of the Fold</text>
+<text id="8750">Steel-willed Lorrie</text>
+<text id="8760">Drifter Swordsman Aidel</text>
+<text id="8770">Castaway Witch Donna</text>
+<text id="8780">Hexer Nicholai</text>
+<text id="8790">Holy Knight Aurheim</text>
+<text id="8840">Twiggy Shei</text>
+<text id="8870">Gutter Denizen</text>
+<text id="8910">Sellsword Luet</text>
+<text id="8915">Devotee Scarlett</text>
+<text id="8920">Manhunter O'Harrah</text>
+<text id="8925">Bashful Ray</text>
+<text id="8930">Bradley of the Old Guard</text>
+<text id="8960">Woodland Child Victor</text>
+<text id="8965">Woodland Child Gully</text>
+<text id="8970">Fencer Sharron</text>
+<text id="8975">Armorer Dennis</text>
+<text id="8980">Oliver the Collector</text>
+<text id="8400">Victor's Stone</text>
+<text id="8410">Altar of Sunlight</text>
+<text id="1370">Prowling Magus</text>
+<text id="1540">Skeleton Lords</text>
+<text id="2120">Guardian Dragon</text>
+<text id="2235">Royal Rat Authority</text>
+<text id="2261">Royal Rat Vanguard</text>
+<text id="3033">Flexile Sentry</text>
+<text id="3050">Smelter Demon</text>
+<text id="3096">The Last Giant</text>
+<text id="3097">Giant Lord</text>
+<text id="3180">The Pursuer</text>
+<text id="3240">Belfry Gargoyles</text>
+<text id="3251">Ruin Sentinel Yahim</text>
+<text id="3252">Ruin Sentinel Ricce</text>
+<text id="3253">Ruin Sentinel Alessia</text>
+<text id="3260">The Rotten</text>
+<text id="3320">Throne Defender</text>
+<text id="3330">Velstadt, the Royal Aegis</text>
+<text id="3340">Throne Watcher</text>
+<text id="5000">Covetous Demon</text>
+<text id="5010">Mytha, the Baneful Queen</text>
+<text id="5030">Scorpioness Najka</text>
+<text id="5040">Looking Glass Knight</text>
+<text id="5061">Darklurker</text>
+<text id="5146">Vendrick</text>
+<text id="6000">Ancient Dragon</text>
+<text id="6020">Demon of Song</text>
+<text id="6030">The Duke's Dear Freja</text>
+<text id="6070">Old Iron King</text>
+<text id="6110">Dragonrider</text>
+<text id="6191">Executioner's Chariot</text>
+<text id="6250">Old Dragonslayer</text>
+<text id="6260">The Lost Sinner</text>
+<text id="6270">Nashandra</text>
+<text id="6750">Fume Knight</text>
+<text id="6790">Aava, the King's Pet</text>
+<text id="6791">Zallen, the King's Pet</text>
+<text id="6792">Lud, the King's Pet</text>
+<text id="6800">Sir Alonne</text>
+<text id="6810">Sinh, the Slumbering Dragon</text>
+<text id="6820">Elana, the Squalid Queen</text>
+<text id="6900">Burnt Ivory King</text>
+<text id="6920">Aldia, Scholar of the First Sin</text>
+<text id="9000">Congregation</text>
+<text id="9010">Cerah the Old Explorer</text>
+<text id="9011">Ancient Soldier Varg</text>
+<text id="9012">Afflicted Graverobber</text>
+<text id="8630">##Stewart the Explorer</text>
+<text id="8640">##Courh the Explorer</text>
+<text id="8711">##Teeth-chattering Dan</text>
+<text id="8720">##Evangelist Scion Waslo</text>
+<text id="8730">##Swashbuckling Matelas</text>
+<text id="8800">##Drakeblood Knight Rondor</text>
+<text>#0Gesture</text>
+<text id="63000000">Point</text>
+<text id="63001000">I won't bite</text>
+<text id="63002000">Proper bow</text>
+<text id="63003000">Bow</text>
+<text id="63004000">Welcome</text>
+<text id="63005000">Duel bow</text>
+<text id="63006000">Wave</text>
+<text id="63007000">Pumped up</text>
+<text id="63008000">Joy</text>
+<text id="63009000">Warcry</text>
+<text id="63010000">Warmup</text>
+<text id="63011000">Hurrah!</text>
+<text id="63012000">Righty-ho!</text>
+<text id="63013000">No way</text>
+<text id="63014000">This one's me</text>
+<text id="63015000">Have mercy!</text>
+<text id="63016000">Prostration</text>
+<text id="63017000">Decapitate</text>
+<text id="63018000">Fist pump</text>
+<text id="63019000">Mock</text>
+<text id="63021000">Praise the Sun</text>
+<text>#0Create Character</text>
+<text id="11010001">【Warrior】</text>
+<text id="11090300">Battle-scarred warrior.
+High strength, dexterity.
+Skilled with weapons.</text>
+<text id="11010002">【Knight】</text>
+<text id="11090310">Traveling knight.
+High HP and adaptability.
+Tough to take down.</text>
+<text id="11010004">【Bandit】</text>
+<text id="11090330">A merciless outlaw.
+High dexterity, skilled with bow;
+fights well at various ranges.</text>
+<text id="11010006">【Cleric】</text>
+<text id="11090350">Cleric on pilgrimage.
+High faith and miracles
+guide the way.</text>
+<text id="11010007">【Sorcerer】</text>
+<text id="11090360">Knowledgeable sorcerer.
+Casts sorceries with high
+intelligence and attunement.</text>
+<text id="11010008">【Explorer】</text>
+<text id="11090370">Well-traveled explorer.
+Not terribly powerful,
+but has many items.</text>
+<text id="11010009">【Swordsman】</text>
+<text id="11090380">Finely skilled swordsman.
+Fights gracefully with strong
+weapons in both hands.</text>
+<text id="11010010">【Deprived】</text>
+<text id="11090390">Unclothed, origin unknown.
+Has nothing to fight with,
+except life-affirming flesh.</text>
+<text id="11010500">【Nothing】</text>
+<text id="11090500">Receive no gift.</text>
+<text id="11010510">【Life Ring】</text>
+<text id="11090510">This ring of old
+slightly increases HP.</text>
+<text id="11010520">【Human Effigy】</text>
+<text id="11090520">A familiar looking effigy.
+Returns the hollowed to life.</text>
+<text id="11010530">【Healing Wares】</text>
+<text id="11090530">Various items used to cure poison and restore HP.
+Essential for anyone travelling Drangleic.</text>
+<text id="11010540">【Homeward Bone】</text>
+<text id="11090540">Returns you to the bonfire last rested at.
+Having one may ease your mind,
+but there are no easy journeys.</text>
+<text id="11010550">【Seed of a Tree of Giants】</text>
+<text id="11090550">A seed grown from a Tree of Giants.
+Inedible.</text>
+<text id="11010560">【Bonfire Ascetic】</text>
+<text id="11090560">Toss into a bonfire to raise the strength of nearby foes.
+Only for those who seek greater challenges.</text>
+<text id="11010570">【Petrified Something】</text>
+<text id="11090570">A simple petrified lump.
+It may be of some use, someday.</text>
+<text>#0System</text>
+<text id="2000">Produce the symbol of the King</text>
+<text id="2002">Seek mightier souls</text>
+<text id="2004">The remnants of ancient souls return</text>
+<text id="2011">One cannot reside within memory for long</text>
+<text id="2012">The ashen mist has thinned...</text>
+<text id="2013">The ashen mist fades...</text>
+<text id="2022">A primal bonfire was rekindled</text>
+<text id="2100">The crushed eye stirs...</text>
+<text id="5300">An ancient crown is now yours</text>
+<text id="5310">A faint heat lingers in the ancient crown</text>
+<text id="5400">Forbidden is the path
+to the ancient king's domain</text>
+<text id="5410">The city of the Sunken King sleeps,
+as does the dragon within</text>
+<text id="5420">With water dry, and path amiss,
+woeful temptation is dismissed</text>
+<text id="5430">Trespassers will face
+adversity befitting a monarch</text>
+<text id="5510">In the tower of the Old Iron King
+resides a Child of Dark</text>
+<text id="5610">Eleum Loyce, land of the Ivory King, lies cold as death,
+nary a hint of warmth remaining</text>
+<text id="5700">Nadalia's remnants are fading</text>
+<text id="5710">Nadalia is no more. True Soul of Nadalia acquired.</text>
+<text id="5830">Alsanna's seal is undone, and the winds of Eleum Loyce are ceased</text>
+<text id="5840">A knight of Eleum Loyce seeks the Chaos...</text>
+<text id="5900">Heat radiates from the ancient crowns</text>
+<text id="9100">When light is revealed, the shadows rise...</text>
+<text id="4021">A Golem rests nearby,
+thirsting for souls...</text>
+<text id="4022">Pray at the grave to converse with the dead</text>
+<text id="4023">If only you had a shield...</text>
+<text id="4024">If only you had a torch...</text>
+<text id="4025">Danger lurks ahead</text>
+<text id="4026">Don't make a sound</text>
+<text id="4027">Retreat!</text>
+<text id="4028">Run!</text>
+<text id="4029">Proceed with caution</text>
+<text id="4030">The road ahead is perilous</text>
+<text id="4031">Your true struggle begins now</text>
+<text id="4040">The nature of your being has changed</text>
+<text id="5000">Closed</text>
+<text id="5100">The dragon sleeps</text>
+<text id="5200">The sign written here is being
+channelled from somewhere far away</text>
+</entries>

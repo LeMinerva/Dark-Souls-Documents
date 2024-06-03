@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text>#0地名</text>
+<text id="1810">北方不死院</text>
+<text id="1020">传火祭祀场</text>
+<text id="1602">飞龙之谷</text>
+<text id="1600">小隆德遗迹</text>
+<text id="1601">深渊</text>
+<text id="1010">城外不死镇</text>
+<text id="2001">太阳祭坛</text>
+<text id="1011">城外不死教区</text>
+<text id="1000">底层</text>
+<text id="1400">病村</text>
+<text id="1401">克拉格的住处</text>
+<text id="2006">混沌的女儿</text>
+<text id="1410">恶魔遗迹</text>
+<text id="1411">混沌废都伊札里斯</text>
+<text id="1320">大树洞</text>
+<text id="1321">灰烬湖</text>
+<text id="2008">石身古龙</text>
+<text id="1200">黑森林庭院</text>
+<text id="1201">夹缝森林</text>
+<text id="1210">灵庙内庭</text>
+<text id="1211">乌拉席露灵庙</text>
+<text id="1212">王家御苑</text>
+<text id="1213">乌拉席露市镇</text>
+<text id="2013">乌拉席露市镇：地牢</text>
+<text id="1214">深渊洞穴</text>
+<text id="1215">试炼之战</text>
+<text id="1300">地下墓地</text>
+<text id="1310">巨人墓地</text>
+<text id="2007">墓王祭坛</text>
+<text id="1500">赛恩古城</text>
+<text id="1510">亚诺尔隆德</text>
+<text id="2003">公主的房间</text>
+<text id="2004">暗月灵庙</text>
+<text id="1700">公爵书库</text>
+<text id="1701">结晶洞穴</text>
+<text id="1100">艾雷米雅斯的绘画世界</text>
+<text id="1801">传火祭坛</text>
+<text id="1800">初始之火的火炉</text>
+<text>#0NPC名</text>
+<text id="600">太阳战士索拉尔</text>
+<text id="605">乌拉席露的幽暗</text>
+<text id="651">黑铁的塔尔卡斯</text>
+<text id="652">异端魔女比阿特丽斯</text>
+<text id="653">吃人的米鲁德雷特</text>
+<text id="655">圣骑士里罗伊</text>
+<text id="656">刺针骑士寇克</text>
+<text id="657">黄王杰雷麦亚</text>
+<text id="659">女神的骑士罗特雷克</text>
+<text id="2230">恶魔火焰司祭</text>
+<text id="2231">离群恶魔</text>
+<text id="2232">不死院恶魔</text>
+<text id="2240">山羊头恶魔</text>
+<text id="2250">牛头恶魔</text>
+<text id="2320">钢铁巨偶</text>
+<text id="2360">刽子手斯摩</text>
+<text id="2730">半龙普利希拉</text>
+<text id="3230">月光蝶</text>
+<text id="3320">三人尸术师</text>
+<text id="3471">灵庙圣兽</text>
+<text id="4100">骑士亚尔特留斯</text>
+<text id="4500">深渊之主马努斯</text>
+<text id="4510">黑龙喀拉弥特</text>
+<text id="5200">百足恶魔</text>
+<text id="5210">灰色大狼希夫</text>
+<text id="5220">墓王尼特</text>
+<text id="5250">持续溃烂的生物</text>
+<text id="5260">贪食魔龙</text>
+<text id="5270">猎龙者翁斯坦</text>
+<text id="5280">混沌魔女克拉格</text>
+<text id="5290">白龙希斯</text>
+<text id="5320">黯影太阳葛温德林</text>
+<text id="5350">守钟的石像鬼</text>
+<text id="5370">乌薪王葛温</text>
+<text id="5390">小隆德四王</text>
+<text id="5400">混沌的温床</text>
+<text id="10000">墓王手下</text>
+<text>#0肢体动作</text>
+<text id="127000">招手</text>
+<text id="127001">向前指</text>
+<text id="127002">欢呼</text>
+<text id="127003">道谢</text>
+<text id="127004">喜悦</text>
+<text id="127005">难以置信</text>
+<text id="127006">挥手</text>
+<text id="127007">赞美太阳</text>
+<text id="127008">向上指</text>
+<text id="127009">向下指</text>
+<text id="127010">抬头</text>
+<text id="127011">怎样！</text>
+<text id="127012">下跪</text>
+<text id="127013">郑重道谢</text>
+<text id="127014">祈祷</text>
+<text>#0角色创建</text>
+<text id="132020">【战士】</text>
+<text id="132320">以战斗为业的战士
+力气与敏捷均高
+是运用武器的专家</text>
+<text id="132021">【骑士】</text>
+<text id="132321">下级骑士
+体力高，有坚固铠甲
+十分耐打</text>
+<text id="132022">【流浪者】</text>
+<text id="132322">漂泊而行的流浪者
+使用曲剑当武器
+是敏捷高的剑士</text>
+<text id="132023">【小偷】</text>
+<text id="132323">行动隐密的小偷
+专用致命一击攻击
+拥有万能钥匙</text>
+<text id="132024">【山贼】</text>
+<text id="132324">作风野蛮的山贼
+能靠强大的力气
+挥动沉重战斧</text>
+<text id="132025">【猎人】</text>
+<text id="132325">擅于使弓的猎人
+也能近身战斗
+但是不擅长法术</text>
+<text id="132026">【魔法师】</text>
+<text id="132326">彼海姆龙学院
+其培育的魔法师
+会使用灵魂魔法</text>
+<text id="132027">【咒术师】</text>
+<text id="132327">大沼的咒术师
+会操纵火焰的咒术
+也能将手斧运用自如</text>
+<text id="132028">【圣职】</text>
+<text id="132328">四处旅行的圣职
+能挥舞锤矛应战
+并使用恢复类的奇迹</text>
+<text id="132029">【一无所有】</text>
+<text id="132329">半裸、不知来历的人
+全身上下只有装备
+棍棒和破木板盾</text>
+<text id="132050">【无】</text>
+<text id="132350">身上没带任何礼物</text>
+<text id="132051">【女神的祝福】</text>
+<text id="132351">祝福的圣水
+可让血量完全恢复
+并治愈异常状态</text>
+<text id="132052">【黑火焰壶】</text>
+<text id="132352">丢向敌人后
+引发爆炸的黑火焰壶
+威力比一般的更强</text>
+<text id="132053">【孪生人性】</text>
+<text id="132353">偶尔可以从尸体
+找到的小黑精
+被人们称为人性</text>
+<text id="132054">【望远镜】</text>
+<text id="132354">双筒望远镜
+前方的景观
+看起来会放大</text>
+<text id="132055">【项链】</text>
+<text id="132355">毫无任何效果的物品
+但在艰辛的旅途中
+也要有些宝贵回忆</text>
+<text id="132056">【万能钥匙】</text>
+<text id="132356">能打开简单锁的
+万能钥匙
+是小偷的初期装备</text>
+<text id="132057">【微小生命戒指】</text>
+<text id="132357">自古传承的
+特别戒指
+装备可稍微增加血量</text>
+<text id="132058">【老魔女戒指】</text>
+<text id="132358">魔女赠予的物品
+似乎没有特殊效果
+是只古老的戒指</text>
+<text id="133300">【平民脸型】</text>
+<text id="132400">极为普遍的
+平民脸型</text>
+<text id="133301">【五指河农民脸型】</text>
+<text id="132401">居住在五指河流域的
+农民常有的脸型</text>
+<text id="133302">【亚斯特拉贵族脸型】</text>
+<text id="132402">俊美的贵族脸型
+常见于亚斯特拉</text>
+<text id="133303">【龙学院书生脸型】</text>
+<text id="132403">睿智而纤细的脸型
+不过书生脸一词
+多半是用来揶揄人</text>
+<text id="133304">【索尔隆德圣人脸型】</text>
+<text id="132404">以居民的顽固个性
+闻名的圣职国度──
+索尔隆德的脸型</text>
+<text id="133305">【卡塔利纳开朗脸型】</text>
+<text id="132405">有活力感的脸型
+此为酒与讴歌的国度
+卡塔利纳的形象</text>
+<text id="133306">【卡利姆阴沉脸型】</text>
+<text id="132406">带有阴沉感的脸型
+主要是因卡利姆伯爵
+风评欠佳而有此形容</text>
+<text id="133307">【杰纳古典脸型】</text>
+<text id="132407">在历史悠久的杰纳
+很常见的古典脸型
+有深思熟虑的印象</text>
+<text id="133308">【大沼特异脸型】</text>
+<text id="132408">与众不同特异脸型
+偏见会导致异端产生
+而异端会在大沼聚集</text>
+<text id="133309">【东方国度外地脸型】</text>
+<text id="132409">遥远东方国度脸型
+特征是细长的凤眼
+以及嘴唇较薄</text>
+<text id="1000">【光头】</text>
+<text id="132420">剃得精光的
+光头发型</text>
+<text id="1100">【美人尖】</text>
+<text id="132421">粗犷的战士发型
+有沧桑感</text>
+<text id="1200">【短发】</text>
+<text id="132422">剃得短短的发型
+头发有点卷</text>
+<text id="1300">【后梳】</text>
+<text id="132423">直接把长发
+全部梳到背后的发型</text>
+<text id="1400">【马尾】</text>
+<text id="132424">把长发梳到背后
+并绑在一起的发型</text>
+<text id="1500">【未梳整长发】</text>
+<text id="132425">因为沾汗显得凌乱的
+自然长发</text>
+<text id="1600">【中分】</text>
+<text id="132426">悉心整理过的发型
+年轻人较常采用</text>
+<text id="1700">【中长】</text>
+<text id="132427">悉心整理过的发型
+稍微有点长</text>
+<text id="1800">【卷发】</text>
+<text id="132428">将乱翘的卷发
+剪短后的发型</text>
+<text id="1900">【马桶盖】</text>
+<text id="132429">仔细修剪造型的
+古老贵族发型</text>
+<text id="3000">【光头】</text>
+<text id="132430">剃得精光的
+光头发型</text>
+<text id="3100">【极短发】</text>
+<text id="132431">像男性一般
+剃得短短的发型</text>
+<text id="3200">【波浪卷】</text>
+<text id="132432">将乱翘的卷发
+剪短后的发型</text>
+<text id="3300">【直发A】</text>
+<text id="132433">修剪整齐
+的直发
+留有浏海</text>
+<text id="3400">【直发B】</text>
+<text id="132434">修剪整齐的直发
+浏海分成
+左右两边</text>
+<text id="3500">【马尾A】</text>
+<text id="132435">将长发全部绑到
+后脑杓的发型
+留有浏海</text>
+<text id="3600">【马尾B】</text>
+<text id="132436">包含浏海
+将全部长发绑到
+后脑杓的发型</text>
+<text id="3700">【双马尾】</text>
+<text id="132437">将长发分边绑到
+左右两边的发型</text>
+<text id="3800">【圆发髻】</text>
+<text id="132438">将长发盘成
+圆形发髻的发型</text>
+<text id="3900">【编发】</text>
+<text id="132439">将长发编成发辫的
+古老贵族发型</text>
+<text id="135070">【黑色】</text>
+<text id="132440">黑色的头发与眼睛
+常见的色调</text>
+<text id="135071">【深褐色】</text>
+<text id="132441">深褐色的头发与眼睛
+常见的色调</text>
+<text id="135072">【浅褐色】</text>
+<text id="132442">浅褐色的头发与眼睛
+常见的色调</text>
+<text id="135073">【深红色】</text>
+<text id="132443">深红色的头发与眼睛
+常见的色调</text>
+<text id="135074">【深蓝色】</text>
+<text id="132444">深蓝色的头发与眼睛
+卡利姆的常见色调</text>
+<text id="135075">【灰色】</text>
+<text id="132445">灰色的头发与眼睛
+常见于卡塔利纳北部</text>
+<text id="135076">【金色】</text>
+<text id="132446">金色的头发与眼睛
+是部分贵族
+渴望追求的色调</text>
+<text id="135077">【银色】</text>
+<text id="132447">银色的头发与眼睛
+有古典感
+目前非常少见的色调</text>
+<text id="135078">【深紫色】</text>
+<text id="132448">深紫色的头发与眼睛
+是现今已灭绝的种族
+所有的罕见色调</text>
+<text id="135079">【红色】</text>
+<text id="132449">火红的头发与眼睛
+是很罕见的色调</text>
+<text>#0系统</text>
+<text id="10010630">受大王的力量影响封印中</text>
+<text id="10010640">已解开大王的封印</text>
+<text id="10010650">被深渊黑暗吞噬……</text>
+<text id="10010670">牺牲戒指已经损坏</text>
+<text id="10010680">宝贵牺牲戒指已经损坏</text>
+<text id="10010690">漆黑眼眸宝珠正在颤动</text>
+<text id="1000">建议滑下去</text>
+<text id="1001">弱点在头部</text>
+<text id="1002">似乎有捷径……</text>
+<text id="1003">我想放弃了……</text>
+<text id="1100">感觉有飞龙……</text>
+<text id="1101">前有囚徒</text>
+<text id="1103">前有铁匠</text>
+<text id="1104">前方可以往下跳</text>
+<text id="1200">前面有路</text>
+<text id="1201">在这里！</text>
+<text id="1202">似乎有商人……</text>
+<text id="2000">循着发光的花走</text>
+<text id="2001">树在动？</text>
+<text id="2002">前有余烬</text>
+<text id="2120">光耀大地……</text>
+<text id="2121">龙在天空，人类无胜算</text>
+<text id="2122">如果有鹰眼在的话……</text>
+<text id="3000">宝物</text>
+<text id="3001">建议用神圣属性</text>
+<text id="3002">前有铁匠</text>
+<text id="3003">骗子</text>
+<text id="3004">上方</text>
+<text id="3100">前有小路</text>
+<text id="4000">前有幻影墙壁</text>
+<text id="4001">前面有路</text>
+<text id="4002">虫？</text>
+<text id="4100">前有安全地带</text>
+<text id="5000">前有囚徒</text>
+<text id="5100">建议用远程攻击</text>
+<text id="5101">前有通路</text>
+<text id="6000">要被诅咒</text>
+<text id="6001">要有契约</text>
+<text id="6002">似乎要往下跳……</text>
+<text id="6003">前有戒指</text>
+<text id="7000">建议放弃</text>
+<text id="7001">前面有路</text>
+<text id="7002">似乎会掉下去……</text>
+<text id="8100">快逃！</text>
+<text id="8101">如果有盾的话……</text>
+<text id="8103">做得好，直走吧</text>
+</entries>

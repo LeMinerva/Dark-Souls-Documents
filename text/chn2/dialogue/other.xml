@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text>#0地名</text>
+<text id="10020000">一线天森林</text>
+<text id="2650">防火女的住处</text>
+<text id="10040000">如蜜</text>
+<text id="4650">极地营火</text>
+<text id="10100000">巨人陨落之森</text>
+<text id="10670">灰心者的逃避处</text>
+<text id="10655">主塔</text>
+<text id="10660">兵马避难所</text>
+<text id="10675">不为人知之地</text>
+<text id="20100000">巨人汪姆德的回忆</text>
+<text id="20100001">巨人洛的回忆</text>
+<text id="20100002">巨人奥捷的回忆</text>
+<text id="10300000">海德巨火塔</text>
+<text id="31655">海德废墟</text>
+<text id="31650">巨火塔</text>
+<text id="10310001">青教圣堂</text>
+<text id="10180000">密港</text>
+<text id="18650">海德密道</text>
+<text id="10160000">遗忘囚笼</text>
+<text id="16655">流刑犯监狱</text>
+<text id="16670">麦道夫的工房</text>
+<text id="16675">随从房间</text>
+<text id="16650">史垂德牢笼</text>
+<text id="16660">离塔</text>
+<text id="10160001">罪人塔</text>
+<text id="16685">盐塔</text>
+<text id="10160002">月亮钟楼</text>
+<text id="16665">城墙之顶</text>
+<text id="10230000">狩猎森林</text>
+<text id="23650">不死人藏身处</text>
+<text id="23655">桥边</text>
+<text id="23660">不死牢</text>
+<text id="10230001">不死人刑场</text>
+<text id="10170000">流油谷</text>
+<text id="17665">毒池</text>
+<text id="17650">采掘场</text>
+<text id="10170001">堆土塔</text>
+<text id="17655">堆土塔‧下层</text>
+<text id="17670">堆土塔‧中层</text>
+<text id="17675">堆土塔‧上层</text>
+<text id="10190000">熔铁城</text>
+<text id="19655">玄关桥</text>
+<text id="19650">铁炉屋</text>
+<text id="19660">艾吉尔铁像</text>
+<text id="10190001">太阳钟楼</text>
+<text id="19665">太阳钟楼前</text>
+<text id="50360000">黑雾之塔</text>
+<text id="36650">王座之阶</text>
+<text id="36660">上层</text>
+<text id="36655">中心部</text>
+<text id="36670">底层</text>
+<text id="36675">熔铁王座</text>
+<text id="50360002">铁之古王的记忆</text>
+<text id="50360001">铁之回廊</text>
+<text id="36665">铁之回廊‧入口</text>
+<text id="10320000">虚影森林</text>
+<text id="29650">魔女居处</text>
+<text id="32655">歧路遗迹</text>
+<text id="32660">茫然遗迹</text>
+<text id="10330000">法洛斯门径</text>
+<text id="33655">盖鲁姆休息处</text>
+<text id="33660">试炼休息处</text>
+<text id="10140000">辉石镇盖多勒</text>
+<text id="14655">王国军野营地</text>
+<text id="14660">礼拜堂前</text>
+<text id="14650">辉石镇‧下层</text>
+<text id="10140001">盖多勒公爵的隐藏房间</text>
+<text id="20260000">古龙的记忆</text>
+<text id="10320001">冬之庙</text>
+<text id="50370000">冰冻的埃斯‧洛耶斯</text>
+<text id="37650">圣壁之末</text>
+<text id="37660">废弃空屋</text>
+<text id="37685">城墙內部</text>
+<text id="37665">旧骑士街‧下层</text>
+<text id="37675">流放房间</text>
+<text id="50370001">主圣堂</text>
+<text id="50370005">远古混沌</text>
+<text id="50370004">壁外雪原</text>
+<text id="10340000">圣人墓地</text>
+<text id="34655">圣职阿卡巴绝命之处</text>
+<text id="34650">墓地入口</text>
+<text id="10250000">废渊</text>
+<text id="25665">废渊‧上层</text>
+<text id="25655">废渊‧中层</text>
+<text id="10250001">黑溪谷</text>
+<text id="25650">黑溪谷‧入口</text>
+<text id="25660">隐藏房间</text>
+<text id="50350000">圣壁之都 萨尔瓦</text>
+<text id="35650">通往圣壁之路</text>
+<text id="35685">祈祷塔</text>
+<text id="35655">巫女的房间</text>
+<text id="50350004">死者之洞</text>
+<text id="50350001">龙之圣壁</text>
+<text id="35670">圣壁的隐藏房间</text>
+<text id="35675">未成者的居处</text>
+<text id="35680">圣壁内部</text>
+<text id="50350002">沉眠之龙的睡塌</text>
+<text id="35665">圣壁底层</text>
+<text id="20210000">王都多兰古雷格</text>
+<text id="21650">国王门前</text>
+<text id="21660">遗忘之间</text>
+<text id="21665">王城‧地下</text>
+<text id="21655">王城‧中层</text>
+<text id="20210001">王之回廊</text>
+<text id="20110000">阿马那祭坛</text>
+<text id="11650">祈祷塔</text>
+<text id="11655">崩塌遗迹</text>
+<text id="11660">搜索者罗伊绝命之处</text>
+<text id="11670">死者之塔</text>
+<text id="20240000">不死灵庙</text>
+<text id="24655">不死灵庙‧入口</text>
+<text id="24650">死者弃置处</text>
+<text id="50380000">王的记忆</text>
+<text id="10150000">安第尔之馆</text>
+<text id="15650">前庭</text>
+<text id="15655">秘仪殿</text>
+<text id="10270000">卫龙巢穴</text>
+<text id="10270001">龙祭坛</text>
+<text id="27655">祭坛‧入口</text>
+<text id="20210002">渴望王座</text>
+<text id="40030000">远古暗穴</text>
+<text id="19670">##艾吉尔祭坛</text>
+<text id="25670">##受蔑者们的圣域</text>
+<text id="30650">##流浪骑士亚瓦绝命之处</text>
+<text id="37655">##旧骑士街‧入口</text>
+<text id="37680">##旧骑士街‧地下</text>
+<text id="10280000">##传火玉座</text>
+<text>#0NPC名</text>
+<text id="3070">温格之首</text>
+<text id="5020">蝎人塔克</text>
+<text id="5060">守墓人亚格德蓝</text>
+<text id="5140">汎克拉德</text>
+<text id="6940">丧失者</text>
+<text id="7000">朝圣绿衣人</text>
+<text id="7020">杜娜湘卓</text>
+<text id="7040">架梯子的吉里甘</text>
+<text id="7050">斯特洛安</text>
+<text id="7051">格莉安特</text>
+<text id="7053">摩儿</text>
+<text id="7210">宰相灵魂贝拉格</text>
+<text id="7230">米利贝丝</text>
+<text id="7240">王国队长多拉蒙德</text>
+<text id="7250">潜身黑暗的格蓝达尔</text>
+<text id="7260">孤独的葛瓦蓝</text>
+<text id="7410">失去心的索丹</text>
+<text id="7420">放浪的克雷顿</text>
+<text id="7430">乌格的凡荷特</text>
+<text id="7440">亲切的培特</text>
+<text id="7510">画地图的凯尔</text>
+<text id="7520">米勒的鲁卡提耶</text>
+<text id="7530">钟卫</text>
+<text id="7540">行商梅伦提拉</text>
+<text id="7560">鼠王</text>
+<text id="7570">煤炭新娘娜德拉</text>
+<text id="7580">沉默巫女亚尔舒娜</text>
+<text id="7590">污秽女王艾雷娜</text>
+<text id="7600">米勒法妮特</text>
+<text id="7602">遭囚的米勒法妮特</text>
+<text id="7610">卖防具的玛夫穆蓝</text>
+<text id="7620">卖矿石的克洛亚娜</text>
+<text id="7630">梅维亚的罗莎贝娜</text>
+<text id="7640">打铁的雷尼加兹</text>
+<text id="7643">熟练的麦道夫</text>
+<text id="7660">晦冥的卡里昂</text>
+<text id="7680">#1奥斯特罗#3#2奥拉斐斯#3的史垂德</text>
+<text id="7690">林德的莉絮</text>
+<text id="7700">逐出门牆的菲尔金</text>
+<text id="7710">宫廷魔法师那瓦蓝</text>
+<text id="7720">拉‧卡纳尔的马格赫拉德</text>
+<text id="7760">卖武器的欧尼斐克斯</text>
+<text id="7770">可爱的夏拉格儿</text>
+<text id="7830">矮小的格雷年</text>
+<text id="7840">教戒师克隆威尔</text>
+<text id="7850">青骑士格拉因德克</text>
+<text id="7860">德妮与提洛</text>
+<text id="8100">放浪骑士古连柯尔</text>
+<text id="8110">孤独猎人修密特</text>
+<text id="8120">朝圣者贝儿克蕾雅</text>
+<text id="8130">勇猛的菲丽西亚</text>
+<text id="8140">切肉的玛丽妲</text>
+<text id="8200">罪人佛葛</text>
+<text id="8210">无情的柳士</text>
+<text id="8220">奇异的金多罗</text>
+<text id="8230">龙牙威亚德</text>
+<text id="8240">米勒的阿兹拉提耶</text>
+<text id="8490">无名的篡夺者</text>
+<text id="8491">小丑汤马士</text>
+<text id="8492">探索者罗伊</text>
+<text id="8530">射手的盖拉姆</text>
+<text id="8531">灰之骑士博依德</text>
+<text id="8600">铁壁的巴鲁德</text>
+<text id="8650">修行者菲娃</text>
+<text id="8660">落魄的阿布里斯</text>
+<text id="8670">钢之艾莉</text>
+<text id="8680">超越者艾迪剌</text>
+<text id="8690">贪婪的安德雷</text>
+<text id="8700">剑士瑞秋</text>
+<text id="8710">暗杀者马雷达</text>
+<text id="8740">晦冥的卡里昂</text>
+<text id="8750">不屈的洛丽</text>
+<text id="8760">流浪剑士艾多尔</text>
+<text id="8770">放逐术士多奈</text>
+<text id="8780">暗术师尼古拉</text>
+<text id="8790">神圣骑士欧尔海姆</text>
+<text id="8840">瘦身的谢伊</text>
+<text id="8870">废渊居民</text>
+<text id="8910">佣兵鲁特</text>
+<text id="8915">献身的史佳丽</text>
+<text id="8920">猎人头的奥赫菈</text>
+<text id="8925">怕生的雷</text>
+<text id="8930">老兵布拉德雷</text>
+<text id="8960">森林之子维克塔</text>
+<text id="8965">森林之子葛力</text>
+<text id="8970">剑斗士雪伦</text>
+<text id="8975">卖武器的丹尼斯</text>
+<text id="8980">收集家奥利佛</text>
+<text id="8400">霸者石碑</text>
+<text id="8410">太阳祭坛</text>
+<text id="1370">徘徊的术士</text>
+<text id="1540">骷髅王</text>
+<text id="2120">看守龙</text>
+<text id="2235">鼠王的试炼</text>
+<text id="2261">鼠王先锋</text>
+<text id="3033">放逐罪执行者</text>
+<text id="3050">熔铁恶魔</text>
+<text id="3096">最后的巨人</text>
+<text id="3097">巨人王</text>
+<text id="3180">咒缚者</text>
+<text id="3240">守钟的石像鬼</text>
+<text id="3251">茫然卫兵　雷基姆</text>
+<text id="3252">茫然卫兵　路卡</text>
+<text id="3253">茫然卫兵　亚历山卓</text>
+<text id="3260">「腐败物」</text>
+<text id="3320">王座守护者</text>
+<text id="3330">「王盾」韦施塔德</text>
+<text id="3340">王座监视者</text>
+<text id="5000">贪婪恶魔</text>
+<text id="5010">毒妃米妲</text>
+<text id="5030">蝎子纳吉卡</text>
+<text id="5040">镜之战士</text>
+<text id="5061">黑暗潜伏者</text>
+<text id="5146">汎克拉德</text>
+<text id="6000">古龙</text>
+<text id="6020">歌唱恶魔</text>
+<text id="6030">公爵的夫雷迪亚</text>
+<text id="6070">铁之古王</text>
+<text id="6110">龙骑兵</text>
+<text id="6191">刑吏查略特</text>
+<text id="6250">古龙猎人</text>
+<text id="6260">遗忘的罪人</text>
+<text id="6270">杜娜湘卓</text>
+<text id="6750">烟之骑士</text>
+<text id="6790">王宠厄娃</text>
+<text id="6791">王宠札连</text>
+<text id="6792">王宠拉铎</text>
+<text id="6800">骑士亚伦</text>
+<text id="6810">沉睡之龙　#1罪龙#3#2希恩#3</text>
+<text id="6820">“污秽”艾雷娜</text>
+<text id="6900">焦灼的白王</text>
+<text id="6920">原罪探求者 安第尔</text>
+<text id="9000">笃信教众</text>
+<text id="9010">远古探索者瑟拉</text>
+<text id="9011">远古战士沃格</text>
+<text id="9012">罹疾的盗墓人</text>
+<text id="8630">##探索者史都华</text>
+<text id="8640">##探索者蔻</text>
+<text id="8711">##胆小的丹</text>
+<text id="8720">##传道者后裔瓦茲洛</text>
+<text id="8730">##冒险者马谛亚斯</text>
+<text id="8800">##龙血骑士隆达</text>
+<text>#0肢体动作</text>
+<text id="63000000">用手指人</text>
+<text id="63001000">过来啊！</text>
+<text id="63002000">郑重敬礼</text>
+<text id="63003000">道谢</text>
+<text id="63004000">欢迎</text>
+<text id="63005000">开战礼节</text>
+<text id="63006000">挥手</text>
+<text id="63007000">兴奋激动</text>
+<text id="63008000">喜悦</text>
+<text id="63009000">怒吼</text>
+<text id="63010000">活动肩膀</text>
+<text id="63011000">欢呼</text>
+<text id="63012000">知道</text>
+<text id="63013000">否定</text>
+<text id="63014000">我来！</text>
+<text id="63015000">求饶</text>
+<text id="63016000">下跪</text>
+<text id="63017000">枭首</text>
+<text id="63018000">握拳高举</text>
+<text id="63019000">看不起人</text>
+<text id="63021000">赞美太阳</text>
+<text>#0角色创建</text>
+<text id="11010001">【战士】</text>
+<text id="11090300">为战斗而生的战士。
+力气、敏捷较高，
+擅长武器使用。</text>
+<text id="11010002">【骑士】</text>
+<text id="11090310">旅行的骑士。
+生命力或适应力较高，
+耐得住攻击。</text>
+<text id="11010004">【盗匪】</text>
+<text id="11090330">冷血的盗匪。
+擅长敏捷，能够开弓。
+远距近战均可应付。</text>
+<text id="11010006">【圣职】</text>
+<text id="11090350">朝圣中的圣职。
+以高度信仰造就的奇蹟
+开创前途。</text>
+<text id="11010007">【魔法师】</text>
+<text id="11090360">长于智慧的魔法师。
+以高智力与记忆力
+操使魔法。</text>
+<text id="11010008">【探索者】</text>
+<text id="11090370">巡回各地的探索者。
+虽无特长实力，
+却能多带道具。</text>
+<text id="11010009">【剑士】</text>
+<text id="11090380">磨练招式的剑士。
+双手拿起强化武器，
+华丽的战斗。</text>
+<text id="11010010">【一无所有】</text>
+<text id="11090390">出身不明、一丝不挂。
+手上不拿家伙就战斗。
+身体就是活着的证明。</text>
+<text id="11010500">【无】</text>
+<text id="11090500">身上没带任何礼物。</text>
+<text id="11010510">【生命戒指】</text>
+<text id="11090510">年代久远的戒指，
+微幅增加ＨＰ。</text>
+<text id="11010520">【人像】</text>
+<text id="11090520">看起来很像某样物品，
+可从游魂复生为活人。</text>
+<text id="11010530">【各种治愈物品】</text>
+<text id="11090530">恢复或解毒用的各种物品，
+此地旅行之人必备。</text>
+<text id="11010540">【返回骨片】</text>
+<text id="11090540">返回最后休息的营火处。
+虽说有拿有庇佑，
+但旅行没有百分百的安全。</text>
+<text id="11010550">【巨人果实种子】</text>
+<text id="11090550">来自巨人之树结果而成，
+不可食用。</text>
+<text id="11010560">【营火的探究者】</text>
+<text id="11090560">投入营火可使周围敌人变强。
+非追求更高境界者不需此物。</text>
+<text id="11010570">【某种化石】</text>
+<text id="11090570">只是个石块，
+或许没半点用处。</text>
+<text>#0系统</text>
+<text id="2000">展现王者证明吧！</text>
+<text id="2002">寻求强大灵魂吧！</text>
+<text id="2004">感受到远古灵魂的残渣。</text>
+<text id="2011">记忆的世界，无法久待</text>
+<text id="2012">灰雾变淡了……</text>
+<text id="2013">灰雾正逐渐消失……</text>
+<text id="2022">始源营火再度拥有了火</text>
+<text id="2100">无神的瞳孔在蠢动。</text>
+<text id="5300">获得了古王冠冕</text>
+<text id="5310">古王冠冕带着一丝微温</text>
+<text id="5400">此去乃是禁区
+通往古王之地的路径</text>
+<text id="5410">深渊之王
+其都城与龙同眠</text>
+<text id="5420">水已竭、路已绝
+邪之诱惑已消灭</text>
+<text id="5430">凡犯禁区者
+必受为王者的苦难</text>
+<text id="5510">铁之古王　其建造之塔
+现为暗之堕子占据。</text>
+<text id="5610">白王之地　埃斯‧洛耶斯
+无一丝热气，只有冰封万里。</text>
+<text id="5700">娜德拉的残渣渐渐的消逝……</text>
+<text id="5710">娜德拉的残渣已逝，获得了真正的娜德拉灵魂。</text>
+<text id="5830">亚尔舒娜的封印已解，埃斯‧洛耶斯的风停了</text>
+<text id="5840">洛耶斯众骑士，往混沌进发……</text>
+<text id="5900">诸王的冠冕，仍有微温</text>
+<text id="9100">若光已现，暗亦不远……</text>
+<text id="4021">巨偶渴望着灵魂。
+就在附近……</text>
+<text id="4022">对着坟墓祈祷并奉献灵魂，可与死者对话。</text>
+<text id="4023">如果有盾的话……</text>
+<text id="4024">如果光亮的话……</text>
+<text id="4025">前方危险。</text>
+<text id="4026">别发出声响。</text>
+<text id="4027">快逃！</text>
+<text id="4028">快跑！</text>
+<text id="4029">小心前进。</text>
+<text id="4030">前方道路险峻。</text>
+<text id="4031">现在起才是真正的战斗。</text>
+<text id="4040">已转换成不同性别。</text>
+<text id="5000">被关住了。</text>
+<text id="5100">龙沉眠着。</text>
+<text id="5200">书写于此处的记号
+可将人传送至远方某处。</text>
+</entries>

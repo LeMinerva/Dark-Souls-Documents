@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<text>#0Place Name</text>
+<text id="1810">Northern Undead Asylum</text>
+<text id="1020">Firelink Shrine</text>
+<text id="1602">Valley of Drakes</text>
+<text id="1600">New Londo Ruins</text>
+<text id="1601">The Abyss</text>
+<text id="1010">Undead Burg</text>
+<text id="2001">Sunlight Altar</text>
+<text id="1011">Undead Parish</text>
+<text id="1000">Depths</text>
+<text id="1400">Blighttown</text>
+<text id="1401">Quelaag's Domain</text>
+<text id="2006">Daughter of Chaos</text>
+<text id="1410">Demon Ruins</text>
+<text id="1411">Lost Izalith</text>
+<text id="1320">The Great Hollow</text>
+<text id="1321">Ash Lake</text>
+<text id="2008">Stone Dragon</text>
+<text id="1200">Darkroot Garden</text>
+<text id="1201">Darkroot Basin</text>
+<text id="1210">Sanctuary Garden</text>
+<text id="1211">Oolacile Sanctuary</text>
+<text id="1212">Royal Wood</text>
+<text id="1213">Oolacile Township</text>
+<text id="1214">Chasm of the Abyss</text>
+<text id="2013">Oolacile Township Dungeon</text>
+<text id="1215">Battle of Stoicism</text>
+<text id="1300">The Catacombs</text>
+<text id="1310">Tomb of the Giants</text>
+<text id="2007">Altar of the Gravelord</text>
+<text id="1500">Sen's Fortress</text>
+<text id="1510">Anor Londo</text>
+<text id="2003">Chamber of the Princess</text>
+<text id="2004">Darkmoon Tomb</text>
+<text id="1700">The Duke's Archives</text>
+<text id="1701">Crystal Cave</text>
+<text id="1100">Painted World of Ariamis</text>
+<text id="1801">Firelink Altar</text>
+<text id="1800">Kiln of the First Flame</text>
+<text>#0NPC Name</text>
+<text id="600">Knight Solaire</text>
+<text id="605">Dusk of Oolacile</text>
+<text id="651">Iron Tarkus</text>
+<text id="652">Witch Beatrice</text>
+<text id="653">Maneater Mildred</text>
+<text id="655">Paladin Leeroy</text>
+<text id="656">Knight Kirk</text>
+<text id="657">King Jeremiah</text>
+<text id="659">Knight Lautrec</text>
+<text id="2230">Demon Firesage</text>
+<text id="2231">Stray Demon</text>
+<text id="2232">Asylum Demon</text>
+<text id="2240">Capra Demon</text>
+<text id="2250">Taurus Demon</text>
+<text id="2320">Iron Golem</text>
+<text id="2360">Executioner Smough</text>
+<text id="2730">Crossbreed Priscilla</text>
+<text id="3230">Moonlight Butterfly</text>
+<text id="3320">Pinwheel</text>
+<text id="3471">Sanctuary Guardian</text>
+<text id="4100">Knight Artorias</text>
+<text id="4500">Manus, Father of the Abyss</text>
+<text id="4510">Black Dragon Kalameet</text>
+<text id="5200">Centipede Demon</text>
+<text id="5210">Great Grey Wolf Sif</text>
+<text id="5220">Gravelord Nito</text>
+<text id="5250">Ceaseless Discharge</text>
+<text id="5260">Gaping Dragon</text>
+<text id="5270">Dragon Slayer Ornstein</text>
+<text id="5280">Chaos Witch Quelaag</text>
+<text id="5290">Seath the Scaleless</text>
+<text id="5320">Dark Sun Gwyndolin</text>
+<text id="5350">Bell Gargoyle</text>
+<text id="5370">Gwyn, Lord of Cinder</text>
+<text id="5390">Four Kings</text>
+<text id="5400">Bed of Chaos</text>
+<text id="10000">Gravelord Servant</text>
+<text>#0Gesture</text>
+<text id="127000">Beckon</text>
+<text id="127001">Point forward</text>
+<text id="127002">Hurrah!</text>
+<text id="127003">Bow</text>
+<text id="127004">Joy</text>
+<text id="127005">Shrug</text>
+<text id="127006">Wave</text>
+<text id="127007">Praise the Sun</text>
+<text id="127008">Point up</text>
+<text id="127009">Point down</text>
+<text id="127010">Look skyward</text>
+<text id="127011">Well! What is it!</text>
+<text id="127012">Prostration</text>
+<text id="127013">Proper bow</text>
+<text id="127014">Prayer</text>
+<text>#0Create Character</text>
+<text id="132020">【Warrior】</text>
+<text id="132320">Fearless warrior.
+Weapon expert. High
+strength, dexterity.</text>
+<text id="132021">【Knight】</text>
+<text id="132321">Low-ranking knight.
+High HP, solid armor.
+Not easily toppled.</text>
+<text id="132022">【Wanderer】</text>
+<text id="132322">Aimless wanderer.
+Wields scimitar.
+High dexterity.</text>
+<text id="132023">【Thief】</text>
+<text id="132323">Guilt-ridden thief.
+High critical hits.
+Has Master Key.</text>
+<text id="132024">【Bandit】</text>
+<text id="132324">Savage bandit.
+High strength. Wields
+heavy battle axe.</text>
+<text id="132025">【Hunter】</text>
+<text id="132325">Bow-wielding hunter.
+OK at close-range
+but weak with magic.</text>
+<text id="132026">【Sorcerer】</text>
+<text id="132326">Sorcerer of Vinheim
+Dragon School.
+Casts soul sorceries.</text>
+<text id="132027">【Pyromancer】</text>
+<text id="132327">Swamp pyromancer.
+Casts fire spells and
+wields a hand axe.</text>
+<text id="132028">【Cleric】</text>
+<text id="132328">Cleric on Pilgrimage
+Wields a mace and
+casts healing miracles.</text>
+<text id="132029">【Deprived】</text>
+<text id="132329">Unclothed enigma.
+Only armed with club
+and old plank shield.</text>
+<text id="132050">【None】</text>
+<text id="132350">No sign of a gift</text>
+<text id="132051">【Goddess's Blessing】</text>
+<text id="132351">Divine holy water.
+Fully restores HP
+and status.</text>
+<text id="132052">【Black Firebomb】</text>
+<text id="132352">Explodes upon impact
+when thrown. More
+deadly than std bomb.</text>
+<text id="132053">【Twin Humanities】</text>
+<text id="132353">Tiny sprite called
+humanity. Sometimes
+found on carcasses.</text>
+<text id="132054">【Binoculars】</text>
+<text id="132354">Binoculars.
+Use to peer at
+faraway sights.</text>
+<text id="132055">【Pendant】</text>
+<text id="132355">Trinket. No effect,
+but fond memories
+comfort travelers.</text>
+<text id="132056">【Master Key】</text>
+<text id="132356">Opens any basic
+lock. Initial equip
+for thief.</text>
+<text id="132057">【Tiny Being's Ring】</text>
+<text id="132357">Special tribal ring.
+Grants small
+increase to HP.</text>
+<text id="132058">【Old Witch's Ring】</text>
+<text id="132358">Gift from a witch.
+Ancient ring with
+no obvious effect.</text>
+<text id="133300">【Commoner】</text>
+<text id="132400">Very average
+commoner face</text>
+<text id="133301">【Delta Farmer】</text>
+<text id="132401">Commonly seen face
+in the Fivefinger Delta</text>
+<text id="133302">【Astora Noble】</text>
+<text id="132402">Handsome face of the refined.
+Common in Astora</text>
+<text id="133303">【Dragon Scholar】</text>
+<text id="132403">Intelligent, sharp
+lines, but scholarly
+looks invite insult</text>
+<text id="133304">【Thorolund Cleric】</text>
+<text id="132404">Look common in
+Thorolund, known for
+its stalwart clerics</text>
+<text id="133305">【Jubilant Catarina】</text>
+<text id="132405">Jovial features of
+Catarina, known for
+festivity and drink</text>
+<text id="133306">【Dubious Carim】</text>
+<text id="132406">Ominous features
+associated with the
+Earl of Carim</text>
+<text id="133307">【Classic Zena】</text>
+<text id="132407">Thoughtful, mature
+face common in
+historical Zena</text>
+<text id="133308">【Eerie Great Swamp】</text>
+<text id="132408">Great Swamp heretics
+face prejudice for
+their atypical looks</text>
+<text id="133309">【Far East Traveler】</text>
+<text id="132409">Face from a distant
+Eastern land of almond
+eyes and thin lips</text>
+<text id="1000">【Shaved】</text>
+<text id="132420">Cleanly shaved
+bald head</text>
+<text id="1100">【Receding】</text>
+<text id="132421">Rough warrior hair.
+Shows age.</text>
+<text id="1200">【Short】</text>
+<text id="132422">Clipped short with
+a slight wave</text>
+<text id="1300">【Swept Back】</text>
+<text id="132423">Long hair pulled
+back</text>
+<text id="1400">【Ponytail】</text>
+<text id="132424">Long hair pulled
+back and bound</text>
+<text id="1500">【Wild】</text>
+<text id="132425">Natural long hair,
+accented by sweat</text>
+<text id="1600">【Parted Center】</text>
+<text id="132426">Neatly kept hair,
+common for youth</text>
+<text id="1700">【Semi-Long】</text>
+<text id="132427">Neatly kept hair,
+slightly long</text>
+<text id="1800">【Curly】</text>
+<text id="132428">Sharply curled hair,
+cut short</text>
+<text id="1900">【Bobbed】</text>
+<text id="132429">Neatly trimmed,
+as the old nobility</text>
+<text id="3000">【Shaved】</text>
+<text id="132430">Cleanly shaved
+bald head</text>
+<text id="3100">【Very Short】</text>
+<text id="132431">Masculine hairstyle.
+Clipped short.</text>
+<text id="3200">【Wave】</text>
+<text id="132432">Wildly curled,
+short hair</text>
+<text id="3300">【Straight A】</text>
+<text id="132433">Squarely chopped
+straight hair,
+with bangs</text>
+<text id="3400">【Straight B】</text>
+<text id="132434">Squarely chopped
+straight hair,
+with bangs parted</text>
+<text id="3500">【Ponytail A】</text>
+<text id="132435">Long hair pulled
+back and bound,
+with bangs</text>
+<text id="3600">【Ponytail B】</text>
+<text id="132436">Long hair and
+bangs pulled back
+and bound</text>
+<text id="3700">【Pigtails】</text>
+<text id="132437">Long hair bound
+on both sides</text>
+<text id="3800">【Bun】</text>
+<text id="132438">Long hair,
+bound loosely</text>
+<text id="3900">【Braided】</text>
+<text id="132439">Long braided hair,
+as the old nobility</text>
+<text id="135070">【Black】</text>
+<text id="132440">Black hair/eyes.
+Basic color.</text>
+<text id="135071">【Dark Brown】</text>
+<text id="132441">Dark brown hair/eyes.
+Basic color.</text>
+<text id="135072">【Light Brown】</text>
+<text id="132442">Light brown hair/eyes.
+Basic color.</text>
+<text id="135073">【Dark Red】</text>
+<text id="132443">Dark red hair/eyes.
+Basic color.</text>
+<text id="135074">【Dark Blue】</text>
+<text id="132444">Dark blue hair/eyes.
+Common in Carim.</text>
+<text id="135075">【Gray】</text>
+<text id="132445">Gray hair/eyes.
+Common in N. Catarina.</text>
+<text id="135076">【Gold】</text>
+<text id="132446">Gold hair/eyes.
+Beloved by certain
+members of nobility.</text>
+<text id="135077">【Silver】</text>
+<text id="132447">Silver hair/eyes.
+Considered antiquated
+in these times.</text>
+<text id="135078">【Dark Purple】</text>
+<text id="132448">Dark purple hair/eyes.
+Rare color of a
+near-extinct race.</text>
+<text id="135079">【Red】</text>
+<text id="132449">Burning red hair/eyes.
+Very rare color.</text>
+<text>#0System</text>
+<text id="10010630">Sealed by the Great Lord's power</text>
+<text id="10010640">Seal of the Great Lord was broken</text>
+<text id="10010650">You were taken by the abyss</text>
+<text id="10010670">Ring of Sacrifice shattered</text>
+<text id="10010680">Rare Ring of Sacrifice shattered</text>
+<text id="10010690">You feel the Black Eye Orb quivering</text>
+<text id="1000">Try sliding down</text>
+<text id="1001">Weakness: Head</text>
+<text id="1002">Imminent shortcut...</text>
+<text id="1003">I can't take this...</text>
+<text id="1100">Imminent drake...</text>
+<text id="1101">Prisoner ahead</text>
+<text id="1103">Blacksmith ahead</text>
+<text id="1104">Jumping off ahead</text>
+<text id="1200">Path ahead</text>
+<text id="1201">Here!</text>
+<text id="1202">Imminent merchant...</text>
+<text id="2000">Follow the shining flowers</text>
+<text id="2001">Are the trees moving?</text>
+<text id="2002">Ember ahead</text>
+<text id="2120">Let there be light...</text>
+<text id="2121">A dragon high above the sky, out of sight of the naked eye.</text>
+<text id="2122">If only Hawkeye were here...</text>
+<text id="3000">Treasure</text>
+<text id="3001">Try divine</text>
+<text id="3002">Blacksmith ahead</text>
+<text id="3003">Liar</text>
+<text id="3004">Up</text>
+<text id="3100">Shortcut ahead</text>
+<text id="4000">Illusory wall ahead</text>
+<text id="4001">Path ahead</text>
+<text id="4002">bug?</text>
+<text id="4100">Safe zone ahead</text>
+<text id="5000">Prisoner ahead</text>
+<text id="5100">Try Projectile</text>
+<text id="5101">Path ahead</text>
+<text id="6000">Need curses</text>
+<text id="6001">Need covenant</text>
+<text id="6002">Imminent jumping off...</text>
+<text id="6003">Ring ahead</text>
+<text id="7000">Try resignation</text>
+<text id="7001">Path ahead</text>
+<text id="7002">Imminent fall...</text>
+<text id="8100">Get away!</text>
+<text id="8101">Get your Shield!</text>
+<text id="8103">Good job. Go straight ahead.</text>
+</entries>
